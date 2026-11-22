@@ -1,0 +1,5 @@
+[   44773ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://www.monami.co.kr/familyShop/images/close.png:0
+[   52028ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://www.monami.co.kr/familyShop/images/close.png:0
+[ 1776432ms] [LOG] %cWebsocket close was unclean: 1006 color: #E8910C @ https://script.hotjar.com/modules.587986bf144d285f5c68.js:1
+[ 1776433ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://gw.channel.io/front/routes/info?channelId=226755&type=socket&subType=clientFront:0
+[27204594ms] [ERROR] WebSocket connection to 'wss://front-ws.channel.io/socket.io/?platform=web&EIO=4&transport=websocket' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED @ https://cdn.channel.io/plugin/ch-plugin-core.5a1c2d7b.vendor.js:153
