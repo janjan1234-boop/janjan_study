@@ -1,0 +1,66 @@
+- generic [ref=f18e2]:
+  - link "본문 바로가기" [ref=f18e3] [cursor=pointer]:
+    - /url: "#content"
+  - main [ref=f18e5]:
+    - banner [ref=f18e6]:
+      - link [ref=f18e9] [cursor=pointer]:
+        - /url: https://www.naver.com
+        - heading "네이버" [level=1] [ref=f18e10]
+    - generic [ref=f18e12]:
+      - generic [ref=f18e13]:
+        - list [ref=f18e14]:
+          - listitem [ref=f18e15]:
+            - generic [ref=f18e16]:
+              - generic: 아이디 또는 전화번호
+              - textbox "아이디 또는 전화번호" [active] [ref=f18e18]:
+                - /placeholder: ""
+          - listitem [ref=f18e20]:
+            - generic [ref=f18e21]:
+              - generic: 비밀번호
+              - textbox "비밀번호" [ref=f18e23]
+        - generic [ref=f18e26]:
+          - generic [ref=f18e27]:
+            - checkbox "로그인 상태 유지" [ref=f18e28] [cursor=pointer]
+            - generic [ref=f18e29] [cursor=pointer]: 로그인 상태 유지
+          - generic [ref=f18e30]:
+            - generic [ref=f18e31]: IP 보안
+            - generic [ref=f18e32]:
+              - switch "IP 보안" [checked]
+              - generic [ref=f18e33] [cursor=pointer]: "ON"
+        - list [ref=f18e36]:
+          - listitem [ref=f18e37]:
+            - button "패스키 로그인" [ref=f18e38] [cursor=pointer]
+          - listitem [ref=f18e40]:
+            - button "로그인" [ref=f18e41] [cursor=pointer]
+        - list [ref=f18e44]:
+          - listitem [ref=f18e45]:
+            - link "QR 코드 로그인" [ref=f18e46] [cursor=pointer]:
+              - /url: "#none"
+          - listitem [ref=f18e48]:
+            - link "일회용 번호 로그인" [ref=f18e49] [cursor=pointer]:
+              - /url: "#none"
+      - list [ref=f18e52]:
+        - listitem [ref=f18e53]:
+          - link "아이디 찾기" [ref=f18e54] [cursor=pointer]:
+            - /url: https://nid.naver.com/user2/api/route?m=routeIdInquiry&lang=ko_KR
+        - listitem [ref=f18e56]:
+          - link "비밀번호 찾기" [ref=f18e57] [cursor=pointer]:
+            - /url: https://nid.naver.com/user2/api/route?m=routePwInquiry&lang=ko_KR
+        - listitem [ref=f18e59]:
+          - link "회원가입" [ref=f18e60] [cursor=pointer]:
+            - /url: https://nid.naver.com/account/signup?lang=ko_KR&realname=N&rurl=https%3A%2F%2Fsmartstore.naver.com%2Fdadodadok%2Fproducts%2F11061822347
+      - iframe [ref=f18e65]:
+        - link [ref=f20e4] [cursor=pointer]:
+          - /url: https://tivan.naver.com/gc/101/nI0uFvEeoWSmW3j_fetj-PekY7xHFbRen5isvJYhLCx0tbOguZoE1v_rRMK97s4ugn4lu-dBOHMNLO0LT44sCQLSKFnI3hERVUhACDn7vZT951ZeP-UNOdVh2Fzo0mqFQtqyu4HI0J5HDzJ3bvC6Jy2wfhLjLAoDO7wOyI_Tf6o5cdMCthbhQ99tJ1b0feF0XEcWjhhrUcaJNpEqcJ7aew2q_G1wXxKUPi25YYtN0hEvD0A13Qo2TaaZKw1YyTNkbOezIvCEqqgoJt7Y3tVTIRgT_cgNC-xLshyw17IzHAkm9M7Gzk1mamzbnw-LPJyAOoita2fRGA7NxYMWrkxWBtckys6SqcuCDZ5YBkGj1xYXhxaaPGvPGmTsPFjPDthkFvUf-zdnz0u1tKMkzBsv_hTk8WMHX4OziQbWaaRH-ULGD0YwIc0ezJGruSCyymSZxfZTT0PeynZrkyqXYeNw-RD_TYfX4oLTGnYcn54ukrA0iXrlX_LeWhMpEI2U7SHugLgynkvBrB6fIksKelaqpUCxv-YZ_XuwYrk6LWR5ihzmM7HhuWV8yPZe71D8Uh3eKbsWrArGV21A1lnE3gOqSbBA1mc_r4y8xzwfD95X79AGvbrzzMtprF5nYm77ciinx6t6MXlvuatagZF8Om2etVUxKfH0a-VZw0T_I1ezBbHKkEVUFD__G3CUSX1p9W-qe6i1j0TS3wGf-SAYiUMO3IbyyAOwYAjRhLQPe69oZocJoKF-I6gcLEzB6NLeekJ42ekIc4_HlMd0tdUh-ZaXoWWaDEmsT2sUtxbBHJt-TZic--VP38VDDr18FOiMla1Bj3O5QiIG8ymE7qIxO3JeQLWsnQ_cSJSwvM28crqVO9BPZS11WMLGBnUnbx5mMwdBmBGTh5Rrbo3PYGpQnbnptrpvf1P4HgT7rtLf4dx5CbV8vXEOsozPiDzfrJ71qhBe0KsfBj3RY_IYEjysIBv8MRSHyYj2gtKOUwaJJzinY6AeovkS-t5OHoqyei2_1cuAidYQaVAVUSFL4_1USKi5QF5qLtlBAup8ZQqvn8vR_9bx-5bT_A2ch4Tzmkimgk6qgxXYiWvedtfZD8R22C0-0bu6xuT79N4CAYrwW5QaBgc/NE
+          - img "KNOCKIT KNOCKDOWN 1년 중 최대 할인" [ref=f20e5]
+    - generic [ref=f18e66]:
+      - contentinfo [ref=f18e67]:
+        - listitem [ref=f18e68]:
+          - link "스마트봇 상담" [ref=f18e69] [cursor=pointer]:
+            - /url: https://nca.naver.com/chat/account/view
+        - listitem [ref=f18e70]:
+          - link "고객센터" [ref=f18e71] [cursor=pointer]:
+            - /url: https://help.naver.com/service/5640/category/bookmark?lang=ko
+        - listitem [ref=f18e72]:
+          - listbox "언어선택" [ref=f18e73] [cursor=pointer]: 한국어
+      - generic [ref=f18e74]: © NAVER Corp.

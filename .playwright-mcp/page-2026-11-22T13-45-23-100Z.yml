@@ -1,0 +1,2065 @@
+- generic [ref=f81e3]:
+  - dialog "리뷰 28" [ref=f81e2419]:
+    - generic [ref=f81e2420]:
+      - generic [ref=f81e2421]:
+        - strong [ref=f81e2424]: 리뷰 28
+        - generic [ref=f81e2427]:
+          - generic [ref=f81e2429]:
+            - strong [ref=f81e2431]:
+              - generic [ref=f81e2434]: 평점
+              - text: "5.0"
+            - list [ref=f81e2435]:
+              - listitem [ref=f81e2436]:
+                - emphasis [ref=f81e2437]: 만족도
+                - generic [ref=f81e2438]:
+                  - generic [ref=f81e2439]: 5점 (최고예요)
+                  - generic [ref=f81e2440]: 28건
+            - button "평점 비율 보기" [ref=f81e2442] [cursor=pointer]
+          - generic [ref=f81e2446]:
+            - generic [ref=f81e2447]:
+              - button "스토어 PICK 16" [ref=f81e2448] [cursor=pointer]
+              - button "도움말" [ref=f81e2450] [cursor=pointer]
+            - generic [ref=f81e2455]:
+              - list [ref=f81e2458]:
+                - listitem [ref=f81e2459]:
+                  - link "프로필_image 5 rsa0*** 24.07.23. 고퀄리티 차총 1개가 가격만 좋은 차총 여러 개 보다 만족도가 높다는 걸 알게 되었습니다! review_image 사진/비디오 수 2" [ref=f81e2460] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2461]:
+                      - img "프로필_image" [ref=f81e2463]
+                      - generic [ref=f81e2464]:
+                        - generic [ref=f81e2465]: "5"
+                        - generic [ref=f81e2468]:
+                          - strong [ref=f81e2469]: rsa0***
+                          - generic [ref=f81e2470]: 24.07.23.
+                    - generic [ref=f81e2471]:
+                      - paragraph [ref=f81e2472]: 고퀄리티 차총 1개가 가격만 좋은 차총 여러 개 보다 만족도가 높다는 걸 알게 되었습니다!
+                      - generic [ref=f81e2473]:
+                        - img "review_image" [ref=f81e2474]
+                        - emphasis [ref=f81e2475]:
+                          - generic [ref=f81e2476]: 사진/비디오 수
+                          - text: "2"
+                - listitem [ref=f81e2477]:
+                  - link "프로필_image 5 한달사용 재구매 cr**** 24.04.20. 귀엽고 아기자기 한달봐도 지겹지 않아요 ㅋㅋ review_image" [ref=f81e2478] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2479]:
+                      - img "프로필_image" [ref=f81e2481]
+                      - generic [ref=f81e2482]:
+                        - generic [ref=f81e2483]:
+                          - text: "5"
+                          - emphasis [ref=f81e2487]: 한달사용
+                          - emphasis [ref=f81e2489]: 재구매
+                        - generic [ref=f81e2490]:
+                          - strong [ref=f81e2491]: cr****
+                          - generic [ref=f81e2492]: 24.04.20.
+                    - generic [ref=f81e2493]:
+                      - paragraph [ref=f81e2494]: 귀엽고 아기자기 한달봐도 지겹지 않아요 ㅋㅋ
+                      - img "review_image" [ref=f81e2496]
+                - listitem [ref=f81e2497]:
+                  - link "프로필_image 5 한달사용 cr**** 24.04.20. 아주 잘쓰고 있습니다 review_image" [ref=f81e2498] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2499]:
+                      - img "프로필_image" [ref=f81e2501]
+                      - generic [ref=f81e2502]:
+                        - generic [ref=f81e2503]:
+                          - text: "5"
+                          - emphasis [ref=f81e2507]: 한달사용
+                        - generic [ref=f81e2508]:
+                          - strong [ref=f81e2509]: cr****
+                          - generic [ref=f81e2510]: 24.04.20.
+                    - generic [ref=f81e2511]:
+                      - paragraph [ref=f81e2512]: 아주 잘쓰고 있습니다
+                      - img "review_image" [ref=f81e2514]
+                - listitem [ref=f81e2515]:
+                  - link "프로필_image 5 qkst***** 24.03.29. 너무 귀여워요. 정교하게 잘 만들어진 차총이라고 생각해요. 만족합니다. review_image" [ref=f81e2516] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2517]:
+                      - img "프로필_image" [ref=f81e2519]
+                      - generic [ref=f81e2520]:
+                        - generic [ref=f81e2521]: "5"
+                        - generic [ref=f81e2524]:
+                          - strong [ref=f81e2525]: qkst*****
+                          - generic [ref=f81e2526]: 24.03.29.
+                    - generic [ref=f81e2527]:
+                      - paragraph [ref=f81e2528]: 너무 귀여워요. 정교하게 잘 만들어진 차총이라고 생각해요. 만족합니다.
+                      - img "review_image" [ref=f81e2530]
+                - listitem [ref=f81e2531]:
+                  - link "프로필_image 5 재구매 cr**** 24.03.21. 외롭다하여 하나더 구입합니다 ㅋㅋ review_image" [ref=f81e2532] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2533]:
+                      - img "프로필_image" [ref=f81e2535]
+                      - generic [ref=f81e2536]:
+                        - generic [ref=f81e2537]:
+                          - text: "5"
+                          - emphasis [ref=f81e2541]: 재구매
+                        - generic [ref=f81e2542]:
+                          - strong [ref=f81e2543]: cr****
+                          - generic [ref=f81e2544]: 24.03.21.
+                    - generic [ref=f81e2545]:
+                      - paragraph [ref=f81e2546]: 외롭다하여 하나더 구입합니다 ㅋㅋ
+                      - img "review_image" [ref=f81e2548]
+                - listitem [ref=f81e2549]:
+                  - link "프로필_image 5 viju**** 24.02.17. 가격 때문에 고민 했었는데 구매한 것중 가장 마음에 듭니다~ 정말 너무너무너무 예뻐요~~ 다른곳 호랑이 차총이랑은 비교불가입니다!! review_image" [ref=f81e2550] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2551]:
+                      - img "프로필_image" [ref=f81e2553]
+                      - generic [ref=f81e2554]:
+                        - generic [ref=f81e2555]: "5"
+                        - generic [ref=f81e2558]:
+                          - strong [ref=f81e2559]: viju****
+                          - generic [ref=f81e2560]: 24.02.17.
+                    - generic [ref=f81e2561]:
+                      - paragraph [ref=f81e2562]: 가격 때문에 고민 했었는데 구매한 것중 가장 마음에 듭니다~ 정말 너무너무너무 예뻐요~~ 다른곳 호랑이 차총이랑은 비교불가입니다!!
+                      - img "review_image" [ref=f81e2564]
+                - listitem [ref=f81e2565]:
+                  - link "프로필_image 5 cr**** 24.03.21. 한마리 입양했습니다 ㅋㅋㅋ review_image" [ref=f81e2566] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2567]:
+                      - img "프로필_image" [ref=f81e2569]
+                      - generic [ref=f81e2570]:
+                        - generic [ref=f81e2571]: "5"
+                        - generic [ref=f81e2574]:
+                          - strong [ref=f81e2575]: cr****
+                          - generic [ref=f81e2576]: 24.03.21.
+                    - generic [ref=f81e2577]:
+                      - paragraph [ref=f81e2578]: 한마리 입양했습니다 ㅋㅋㅋ
+                      - img "review_image" [ref=f81e2580]
+                - listitem [ref=f81e2581]:
+                  - link "프로필_image 5 gjtm***** 22.11.04. 푸짐한 사은품과 다도 입문자의 기다림에 부흥하여 빠른 배송 또한 감사드립니다. 호랑이 차우 너무 귀여워 차마실 때 함께하면 기분이 넘 젛을 것 같아요. 다양한 제품들이 가득하여 자주 드릴겠습니다. review_image" [ref=f81e2582] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2583]:
+                      - img "프로필_image" [ref=f81e2585]
+                      - generic [ref=f81e2586]:
+                        - generic [ref=f81e2587]: "5"
+                        - generic [ref=f81e2590]:
+                          - strong [ref=f81e2591]: gjtm*****
+                          - generic [ref=f81e2592]: 22.11.04.
+                    - generic [ref=f81e2593]:
+                      - paragraph [ref=f81e2594]: 푸짐한 사은품과 다도 입문자의 기다림에 부흥하여 빠른 배송 또한 감사드립니다. 호랑이 차우 너무 귀여워 차마실 때 함께하면 기분이 넘 젛을 것 같아요. 다양한 제품들이 가득하여 자주 드릴겠습니다.
+                      - img "review_image" [ref=f81e2596]
+                - listitem [ref=f81e2597]:
+                  - link "프로필_image 5 jps0***** 22.08.12. 사진처럼 귀엽고 예쁘네요" [ref=f81e2598] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2599]:
+                      - img "프로필_image" [ref=f81e2601]
+                      - generic [ref=f81e2602]:
+                        - generic [ref=f81e2603]: "5"
+                        - generic [ref=f81e2606]:
+                          - strong [ref=f81e2607]: jps0*****
+                          - generic [ref=f81e2608]: 22.08.12.
+                    - paragraph [ref=f81e2610]: 사진처럼 귀엽고 예쁘네요
+                - listitem [ref=f81e2611]:
+                  - link "프로필_image 5 한달사용 재구매 ddan******* 22.04.27. 너무 귀여워요 함께 차 잘 마시고 있어요 ㅎ review_image" [ref=f81e2612] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2613]:
+                      - img "프로필_image" [ref=f81e2615]
+                      - generic [ref=f81e2616]:
+                        - generic [ref=f81e2617]:
+                          - text: "5"
+                          - emphasis [ref=f81e2621]: 한달사용
+                          - emphasis [ref=f81e2623]: 재구매
+                        - generic [ref=f81e2624]:
+                          - strong [ref=f81e2625]: ddan*******
+                          - generic [ref=f81e2626]: 22.04.27.
+                    - generic [ref=f81e2627]:
+                      - paragraph [ref=f81e2628]: 너무 귀여워요 함께 차 잘 마시고 있어요 ㅎ
+                      - img "review_image" [ref=f81e2630]
+                - listitem [ref=f81e2631]:
+                  - link "프로필_image 5 baek******* 22.03.11. 너무 귀엽고 이쁩니다~^^ review_image" [ref=f81e2632] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2633]:
+                      - img "프로필_image" [ref=f81e2635]
+                      - generic [ref=f81e2636]:
+                        - generic [ref=f81e2637]: "5"
+                        - generic [ref=f81e2640]:
+                          - strong [ref=f81e2641]: baek*******
+                          - generic [ref=f81e2642]: 22.03.11.
+                    - generic [ref=f81e2643]:
+                      - paragraph [ref=f81e2644]: 너무 귀엽고 이쁩니다~^^
+                      - img "review_image" [ref=f81e2646]
+                - listitem [ref=f81e2647]:
+                  - link "프로필_image 5 sea5*** 21.11.09. 아주 귀여운 호랑이 차우입니다. 내년도는 임인년으로 호랑아의 해인데.. 차를 마실 때 귀여운 호랑이 차총과 함께하면 차맛이 더욱 좋을 듯 합니다. review_image" [ref=f81e2648] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2649]:
+                      - img "프로필_image" [ref=f81e2651]
+                      - generic [ref=f81e2652]:
+                        - generic [ref=f81e2653]: "5"
+                        - generic [ref=f81e2656]:
+                          - strong [ref=f81e2657]: sea5***
+                          - generic [ref=f81e2658]: 21.11.09.
+                    - generic [ref=f81e2659]:
+                      - paragraph [ref=f81e2660]: 아주 귀여운 호랑이 차우입니다. 내년도는 임인년으로 호랑아의 해인데.. 차를 마실 때 귀여운 호랑이 차총과 함께하면 차맛이 더욱 좋을 듯 합니다.
+                      - img "review_image" [ref=f81e2662]
+                - listitem [ref=f81e2663]:
+                  - link "프로필_image 5 재구매 saja**** 21.11.09. 좋은 제품 잘 받았습니다 review_image" [ref=f81e2664] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2665]:
+                      - img "프로필_image" [ref=f81e2667]
+                      - generic [ref=f81e2668]:
+                        - generic [ref=f81e2669]:
+                          - text: "5"
+                          - emphasis [ref=f81e2673]: 재구매
+                        - generic [ref=f81e2674]:
+                          - strong [ref=f81e2675]: saja****
+                          - generic [ref=f81e2676]: 21.11.09.
+                    - generic [ref=f81e2677]:
+                      - paragraph [ref=f81e2678]: 좋은 제품 잘 받았습니다
+                      - img "review_image" [ref=f81e2680]
+                - listitem [ref=f81e2681]:
+                  - link "프로필_image 5 saja**** 21.11.03. 마음에 쏙 들어요 ~ review_image" [ref=f81e2682] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2683]:
+                      - img "프로필_image" [ref=f81e2685]
+                      - generic [ref=f81e2686]:
+                        - generic [ref=f81e2687]: "5"
+                        - generic [ref=f81e2690]:
+                          - strong [ref=f81e2691]: saja****
+                          - generic [ref=f81e2692]: 21.11.03.
+                    - generic [ref=f81e2693]:
+                      - paragraph [ref=f81e2694]: 마음에 쏙 들어요 ~
+                      - img "review_image" [ref=f81e2696]
+                - listitem [ref=f81e2697]:
+                  - link "프로필_image 5 tigg****** 21.05.18. 이벤트로 김해요 잔이 두 아이나 함께 왔습니다👍🏻 치명적인 뒷 태를 가진 어흥이 🐯 내년의 범띠해라지요🐅 찰떡 궁합입니다!! 선물용으로도 추천 드리고 싶습니다. 깔끔하게 자사호케이스에 넣어주시네요😍 review_image 사진/비디오 수 2" [ref=f81e2698] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2699]:
+                      - img "프로필_image" [ref=f81e2701]
+                      - generic [ref=f81e2702]:
+                        - generic [ref=f81e2703]: "5"
+                        - generic [ref=f81e2706]:
+                          - strong [ref=f81e2707]: tigg******
+                          - generic [ref=f81e2708]: 21.05.18.
+                    - generic [ref=f81e2709]:
+                      - paragraph [ref=f81e2710]: 이벤트로 김해요 잔이 두 아이나 함께 왔습니다👍🏻 치명적인 뒷 태를 가진 어흥이 🐯 내년의 범띠해라지요🐅 찰떡 궁합입니다!! 선물용으로도 추천 드리고 싶습니다. 깔끔하게 자사호케이스에 넣어주시네요😍
+                      - generic [ref=f81e2711]:
+                        - img "review_image" [ref=f81e2712]
+                        - emphasis [ref=f81e2713]:
+                          - generic [ref=f81e2714]: 사진/비디오 수
+                          - text: "2"
+                - listitem [ref=f81e2715]:
+                  - link "프로필_image 5 ya**** 21.02.23. 생각보다 큽니다. 디테일이 섬세하고 귀여워요. 화차님 인스타보고 꼭 구매해야지 했는데 너무 만족합니다^^" [ref=f81e2716] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=f81e2717]:
+                      - img "프로필_image" [ref=f81e2719]
+                      - generic [ref=f81e2720]:
+                        - generic [ref=f81e2721]: "5"
+                        - generic [ref=f81e2724]:
+                          - strong [ref=f81e2725]: ya****
+                          - generic [ref=f81e2726]: 21.02.23.
+                    - paragraph [ref=f81e2728]: 생각보다 큽니다. 디테일이 섬세하고 귀여워요. 화차님 인스타보고 꼭 구매해야지 했는데 너무 만족합니다^^
+              - button "다음" [ref=f81e2729] [cursor=pointer]
+          - generic [ref=f81e2734]:
+            - strong [ref=f81e2736]: 포토&동영상 24
+            - list [ref=f81e2737]:
+              - listitem [ref=f81e2738]:
+                - link "포토/동영상 리뷰 썸네일 이미지 사진/비디오 수 2" [ref=f81e2739] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f81e2740]
+                  - emphasis [ref=f81e2741]:
+                    - generic [ref=f81e2742]: 사진/비디오 수
+                    - text: "2"
+              - listitem [ref=f81e2743]:
+                - link [ref=f81e2744] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f81e2745]
+              - listitem [ref=f81e2746]:
+                - link [ref=f81e2747] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f81e2748]
+              - listitem [ref=f81e2749]:
+                - link [ref=f81e2750] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f81e2751]
+              - listitem [ref=f81e2752]:
+                - link [ref=f81e2753] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f81e2754]
+              - listitem [ref=f81e2755]:
+                - link [ref=f81e2756] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f81e2757]
+              - listitem [ref=f81e2758]:
+                - link [ref=f81e2759] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f81e2760]
+              - listitem [ref=f81e2761]:
+                - link [ref=f81e2762] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f81e2763]
+                  - generic [ref=f81e2764]:
+                    - text: 더보기
+                    - generic [ref=f81e2765]: "17"
+          - generic [ref=f81e2768]:
+            - generic [ref=f81e2769]:
+              - strong [ref=f81e2770]: 리뷰 28
+              - generic [ref=f81e2771]:
+                - button "리뷰 제공 기준" [ref=f81e2772] [cursor=pointer]
+                - button "도움말" [ref=f81e2774] [cursor=pointer]
+            - generic [ref=f81e2782]:
+              - list [ref=f81e2783]:
+                - listitem [ref=f81e2784]:
+                  - button "전체" [ref=f81e2785] [cursor=pointer]
+              - radiogroup "리뷰 정렬 기준 선택" [ref=f81e2788]:
+                - radio "랭킹순 정렬하기" [checked] [ref=f81e2789] [cursor=pointer]:
+                  - text: 랭킹순
+                  - generic [ref=f81e2790]: 정렬하기
+                - button "도움말" [ref=f81e2792] [cursor=pointer]
+                - radio "최신순 정렬하기" [ref=f81e2797] [cursor=pointer]:
+                  - text: 최신순
+                  - generic [ref=f81e2798]: 정렬하기
+                - radio "평점 높은순 정렬하기" [ref=f81e2799] [cursor=pointer]:
+                  - text: 평점 높은순
+                  - generic [ref=f81e2800]: 정렬하기
+                - radio "평점 낮은순 정렬하기" [ref=f81e2801] [cursor=pointer]:
+                  - text: 평점 낮은순
+                  - generic [ref=f81e2802]: 정렬하기
+            - generic [ref=f81e2803]:
+              - button [ref=f81e2805] [cursor=pointer]:
+                - strong [ref=f81e2813]: 리뷰 클렌징 시스템
+                - text: 작동 중입니다.
+              - list [ref=f81e2819]:
+                - listitem [ref=f81e2820]:
+                  - generic [ref=f81e2821]:
+                    - generic [ref=f81e2825]:
+                      - generic [ref=f81e2826]:
+                        - text: "5"
+                        - emphasis [ref=f81e2830]: BEST
+                      - generic [ref=f81e2831]:
+                        - generic [ref=f81e2832]: rsa0***
+                        - generic [ref=f81e2833]: 24.07.23.
+                        - button "신고" [ref=f81e2834] [cursor=pointer]
+                    - generic [ref=f81e2835]:
+                      - generic [ref=f81e2836]:
+                        - paragraph [ref=f81e2837]: 고퀄리티 차총 1개가 가격만 좋은 차총 여러 개 보다 만족도가 높다는 걸 알게 되었습니다!
+                        - link "고퀄리티 차총 1개가 가격만 좋은 차총 여러 개 보다 만족도가 높다는 걸 알게 되었습니다!" [ref=f81e2838] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e2839]: 더보기
+                      - list [ref=f81e2846]:
+                        - listitem [ref=f81e2847]:
+                          - generic [ref=f81e2848]:
+                            - img "9908226C-7F7B-4D2F-A032-24F9312FB20D.jpeg" [ref=f81e2849]
+                            - link "이미지 펼치기" [ref=f81e2850] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e2851]
+                        - listitem [ref=f81e2855]:
+                          - generic [ref=f81e2856]:
+                            - img "7168F430-03E3-4151-949E-074AC08E9CBF.jpeg" [ref=f81e2857]
+                            - link "이미지 펼치기" [ref=f81e2858] [cursor=pointer]:
+                              - /url: "#"
+                    - generic [ref=f81e2860]:
+                      - img "유저프로필" [ref=f81e2862]
+                      - generic [ref=f81e2863]:
+                        - strong [ref=f81e2864]: 판매자
+                        - generic [ref=f81e2865]: 24.07.25.
+                        - button "신고" [ref=f81e2866] [cursor=pointer]
+                      - generic [ref=f81e2867]:
+                        - paragraph [ref=f81e2868]: 화차원과 함께해 주신 소중한 리뷰 감사합니다. 편안한 찻자리 되세요^^
+                        - button "더보기" [ref=f81e2869] [cursor=pointer]
+                    - generic [ref=f81e2874]:
+                      - generic [ref=f81e2875]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e2876] [cursor=pointer]
+                - listitem [ref=f81e2879]:
+                  - generic [ref=f81e2880]:
+                    - generic [ref=f81e2884]:
+                      - generic [ref=f81e2885]:
+                        - text: "5"
+                        - emphasis [ref=f81e2889]: BEST
+                        - emphasis [ref=f81e2891]: 재구매
+                        - emphasis [ref=f81e2893]: 한달사용
+                      - generic [ref=f81e2894]:
+                        - generic [ref=f81e2895]: cr****
+                        - generic [ref=f81e2896]: 24.04.20.
+                        - button "신고" [ref=f81e2897] [cursor=pointer]
+                    - generic [ref=f81e2898]:
+                      - generic [ref=f81e2899]:
+                        - paragraph [ref=f81e2900]: 귀엽고 아기자기 한달봐도 지겹지 않아요 ㅋㅋ
+                        - link "귀엽고 아기자기 한달봐도 지겹지 않아요 ㅋㅋ" [ref=f81e2901] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e2902]: 더보기
+                      - list [ref=f81e2906]:
+                        - listitem [ref=f81e2907]:
+                          - generic [ref=f81e2908]:
+                            - img "review_image" [ref=f81e2909]
+                            - link "이미지 펼치기" [ref=f81e2910] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e2911]
+                    - generic [ref=f81e2915]:
+                      - img "유저프로필" [ref=f81e2917]
+                      - generic [ref=f81e2918]:
+                        - strong [ref=f81e2919]: 판매자
+                        - generic [ref=f81e2920]: 24.05.26.
+                        - button "신고" [ref=f81e2921] [cursor=pointer]
+                      - generic [ref=f81e2922]:
+                        - paragraph [ref=f81e2923]: 화차원과 함께해 주신 소중한 리뷰 감사합니다. 편안한 찻자리 되세요^^
+                        - button "더보기" [ref=f81e2924] [cursor=pointer]
+                    - generic [ref=f81e2929]:
+                      - generic [ref=f81e2930]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e2931] [cursor=pointer]
+                  - button "이 구매자의 처음 리뷰 보기" [ref=f81e2935] [cursor=pointer]
+                - listitem [ref=f81e2938]:
+                  - generic [ref=f81e2939]:
+                    - generic [ref=f81e2943]:
+                      - generic [ref=f81e2944]:
+                        - text: "5"
+                        - emphasis [ref=f81e2948]: BEST
+                        - emphasis [ref=f81e2950]: 한달사용
+                      - generic [ref=f81e2951]:
+                        - generic [ref=f81e2952]: cr****
+                        - generic [ref=f81e2953]: 24.04.20.
+                        - button "신고" [ref=f81e2954] [cursor=pointer]
+                    - generic [ref=f81e2955]:
+                      - generic [ref=f81e2956]:
+                        - paragraph [ref=f81e2957]: 아주 잘쓰고 있습니다
+                        - link "아주 잘쓰고 있습니다" [ref=f81e2958] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e2959]: 더보기
+                      - list [ref=f81e2963]:
+                        - listitem [ref=f81e2964]:
+                          - generic [ref=f81e2965]:
+                            - img "review_image" [ref=f81e2966]
+                            - link "이미지 펼치기" [ref=f81e2967] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e2968]
+                    - generic [ref=f81e2972]:
+                      - img "유저프로필" [ref=f81e2974]
+                      - generic [ref=f81e2975]:
+                        - strong [ref=f81e2976]: 판매자
+                        - generic [ref=f81e2977]: 24.05.26.
+                        - button "신고" [ref=f81e2978] [cursor=pointer]
+                      - generic [ref=f81e2979]:
+                        - paragraph [ref=f81e2980]: 화차원과 함께해 주신 소중한 리뷰 감사합니다. 편안한 찻자리 되세요^^
+                        - button "더보기" [ref=f81e2981] [cursor=pointer]
+                    - generic [ref=f81e2986]:
+                      - generic [ref=f81e2987]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e2988] [cursor=pointer]
+                  - button "이 구매자의 처음 리뷰 보기" [ref=f81e2992] [cursor=pointer]
+                - listitem [ref=f81e2995]:
+                  - generic [ref=f81e2996]:
+                    - generic [ref=f81e3000]:
+                      - generic [ref=f81e3001]:
+                        - text: "5"
+                        - emphasis [ref=f81e3005]: BEST
+                      - generic [ref=f81e3006]:
+                        - generic [ref=f81e3007]: qkst*****
+                        - generic [ref=f81e3008]: 24.03.29.
+                        - button "신고" [ref=f81e3009] [cursor=pointer]
+                    - generic [ref=f81e3010]:
+                      - generic [ref=f81e3011]:
+                        - paragraph [ref=f81e3012]: 너무 귀여워요. 정교하게 잘 만들어진 차총이라고 생각해요. 만족합니다.
+                        - link "너무 귀여워요. 정교하게 잘 만들어진 차총이라고 생각해요. 만족합니다." [ref=f81e3013] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3014]: 더보기
+                      - list [ref=f81e3018]:
+                        - listitem [ref=f81e3019]:
+                          - generic [ref=f81e3020]:
+                            - img "review_image" [ref=f81e3021]
+                            - link "이미지 펼치기" [ref=f81e3022] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3023]
+                    - generic [ref=f81e3027]:
+                      - img "유저프로필" [ref=f81e3029]
+                      - generic [ref=f81e3030]:
+                        - strong [ref=f81e3031]: 판매자
+                        - generic [ref=f81e3032]: 24.05.26.
+                        - button "신고" [ref=f81e3033] [cursor=pointer]
+                      - generic [ref=f81e3034]:
+                        - paragraph [ref=f81e3035]: 화차원과 함께해 주신 소중한 리뷰 감사합니다. 편안한 찻자리 되세요^^
+                        - button "더보기" [ref=f81e3036] [cursor=pointer]
+                    - generic [ref=f81e3041]:
+                      - generic [ref=f81e3042]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3043] [cursor=pointer]
+                - listitem [ref=f81e3046]:
+                  - generic [ref=f81e3047]:
+                    - generic [ref=f81e3051]:
+                      - generic [ref=f81e3052]:
+                        - text: "5"
+                        - emphasis [ref=f81e3056]: BEST
+                        - emphasis [ref=f81e3058]: 재구매
+                      - generic [ref=f81e3059]:
+                        - generic [ref=f81e3060]: cr****
+                        - generic [ref=f81e3061]: 24.03.21.
+                        - button "신고" [ref=f81e3062] [cursor=pointer]
+                    - generic [ref=f81e3063]:
+                      - generic [ref=f81e3064]:
+                        - paragraph [ref=f81e3065]: 외롭다하여 하나더 구입합니다 ㅋㅋ
+                        - link "외롭다하여 하나더 구입합니다 ㅋㅋ" [ref=f81e3066] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3067]: 더보기
+                      - list [ref=f81e3071]:
+                        - listitem [ref=f81e3072]:
+                          - generic [ref=f81e3073]:
+                            - img "review_image" [ref=f81e3074]
+                            - link "이미지 펼치기" [ref=f81e3075] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3076]
+                    - generic [ref=f81e3080]:
+                      - img "유저프로필" [ref=f81e3082]
+                      - generic [ref=f81e3083]:
+                        - strong [ref=f81e3084]: 판매자
+                        - generic [ref=f81e3085]: 24.05.26.
+                        - button "신고" [ref=f81e3086] [cursor=pointer]
+                      - generic [ref=f81e3087]:
+                        - paragraph [ref=f81e3088]: 화차원과 함께해 주신 소중한 리뷰 감사합니다. 편안한 찻자리 되세요^^
+                        - button "더보기" [ref=f81e3089] [cursor=pointer]
+                    - generic [ref=f81e3094]:
+                      - generic [ref=f81e3095]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3096] [cursor=pointer]
+                - listitem [ref=f81e3099]:
+                  - generic [ref=f81e3100]:
+                    - generic [ref=f81e3104]:
+                      - generic [ref=f81e3105]:
+                        - text: "5"
+                        - emphasis [ref=f81e3109]: BEST
+                      - generic [ref=f81e3110]:
+                        - generic [ref=f81e3111]: viju****
+                        - generic [ref=f81e3112]: 24.02.17.
+                        - button "신고" [ref=f81e3113] [cursor=pointer]
+                    - generic [ref=f81e3114]:
+                      - generic [ref=f81e3115]:
+                        - paragraph [ref=f81e3116]: 가격 때문에 고민 했었는데 구매한 것중 가장 마음에 듭니다~ 정말 너무너무너무 예뻐요~~ 다른곳 호랑이 차총이랑은 비교불가입니다!!
+                        - link "가격 때문에 고민 했었는데 구매한 것중 가장 마음에 듭니다~ 정말 너무너무너무 예뻐요~~ 다른곳 호랑이 차총이랑은 비교불가입니다!!" [ref=f81e3117] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3118]: 더보기
+                      - list [ref=f81e3122]:
+                        - listitem [ref=f81e3123]:
+                          - generic [ref=f81e3124]:
+                            - img "review_image" [ref=f81e3125]
+                            - link "이미지 펼치기" [ref=f81e3126] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3127]
+                    - generic [ref=f81e3131]:
+                      - img "유저프로필" [ref=f81e3133]
+                      - generic [ref=f81e3134]:
+                        - strong [ref=f81e3135]: 판매자
+                        - generic [ref=f81e3136]: 24.02.19.
+                        - button "신고" [ref=f81e3137] [cursor=pointer]
+                      - generic [ref=f81e3138]:
+                        - paragraph [ref=f81e3139]: 화차원과 함께한 소중한 리뷰 감사합니다^^ 편안한 찻자리 되세요~
+                        - button "더보기" [ref=f81e3140] [cursor=pointer]
+                    - generic [ref=f81e3145]:
+                      - generic [ref=f81e3146]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3147] [cursor=pointer]
+                - listitem [ref=f81e3150]:
+                  - generic [ref=f81e3151]:
+                    - generic [ref=f81e3155]:
+                      - generic [ref=f81e3156]:
+                        - text: "5"
+                        - emphasis [ref=f81e3160]: BEST
+                      - generic [ref=f81e3161]:
+                        - generic [ref=f81e3162]: cr****
+                        - generic [ref=f81e3163]: 24.03.21.
+                        - button "신고" [ref=f81e3164] [cursor=pointer]
+                    - generic [ref=f81e3165]:
+                      - generic [ref=f81e3166]:
+                        - paragraph [ref=f81e3167]: 한마리 입양했습니다 ㅋㅋㅋ
+                        - link "한마리 입양했습니다 ㅋㅋㅋ" [ref=f81e3168] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3169]: 더보기
+                      - list [ref=f81e3173]:
+                        - listitem [ref=f81e3174]:
+                          - generic [ref=f81e3175]:
+                            - img "review_image" [ref=f81e3176]
+                            - link "이미지 펼치기" [ref=f81e3177] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3178]
+                    - generic [ref=f81e3182]:
+                      - img "유저프로필" [ref=f81e3184]
+                      - generic [ref=f81e3185]:
+                        - strong [ref=f81e3186]: 판매자
+                        - generic [ref=f81e3187]: 24.05.26.
+                        - button "신고" [ref=f81e3188] [cursor=pointer]
+                      - generic [ref=f81e3189]:
+                        - paragraph [ref=f81e3190]: 화차원과 함께해 주신 소중한 리뷰 감사합니다. 편안한 찻자리 되세요^^
+                        - button "더보기" [ref=f81e3191] [cursor=pointer]
+                    - generic [ref=f81e3196]:
+                      - generic [ref=f81e3197]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3198] [cursor=pointer]
+                - listitem [ref=f81e3201]:
+                  - generic [ref=f81e3202]:
+                    - generic [ref=f81e3206]:
+                      - generic [ref=f81e3207]:
+                        - text: "5"
+                        - emphasis [ref=f81e3211]: BEST
+                      - generic [ref=f81e3212]:
+                        - generic [ref=f81e3213]: gjtm*****
+                        - generic [ref=f81e3214]: 22.11.04.
+                        - button "신고" [ref=f81e3215] [cursor=pointer]
+                    - generic [ref=f81e3216]:
+                      - generic [ref=f81e3217]:
+                        - paragraph [ref=f81e3218]: 푸짐한 사은품과 다도 입문자의 기다림에 부흥하여 빠른 배송 또한 감사드립니다. 호랑이 차우 너무 귀여워 차마실 때 함께하면 기분이 넘 젛을 것 같아요. 다양한 제품들이 가득하여 자주 드릴겠습니다.
+                        - link "푸짐한 사은품과 다도 입문자의 기다림에 부흥하여 빠른 배송 또한 감사드립니다. 호랑이 차우 너무 귀여워 차마실 때 함께하면 기분이 넘 젛을 것 같아요. 다양한 제품들이 가득하여 자주 드릴겠습니다." [ref=f81e3219] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3220]: 더보기
+                      - list [ref=f81e3224]:
+                        - listitem [ref=f81e3225]:
+                          - generic [ref=f81e3226]:
+                            - img "review_image" [ref=f81e3227]
+                            - link "이미지 펼치기" [ref=f81e3228] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3229]
+                    - generic [ref=f81e3233]:
+                      - img "유저프로필" [ref=f81e3235]
+                      - generic [ref=f81e3236]:
+                        - strong [ref=f81e3237]: 판매자
+                        - generic [ref=f81e3238]: 23.01.28.
+                        - button "신고" [ref=f81e3239] [cursor=pointer]
+                      - generic [ref=f81e3240]:
+                        - paragraph [ref=f81e3241]: 소중한 리뷰 감사합니다. 화차원과 함께 편안한 차생활 되세요^^
+                        - button "더보기" [ref=f81e3242] [cursor=pointer]
+                    - generic [ref=f81e3247]:
+                      - generic [ref=f81e3248]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3249] [cursor=pointer]
+                - listitem [ref=f81e3252]:
+                  - generic [ref=f81e3253]:
+                    - generic [ref=f81e3257]:
+                      - generic [ref=f81e3258]:
+                        - text: "5"
+                        - emphasis [ref=f81e3262]: BEST
+                      - generic [ref=f81e3263]:
+                        - generic [ref=f81e3264]: jps0*****
+                        - generic [ref=f81e3265]: 22.08.12.
+                        - button "신고" [ref=f81e3266] [cursor=pointer]
+                    - paragraph [ref=f81e3269]: 사진처럼 귀엽고 예쁘네요
+                    - generic [ref=f81e3270]:
+                      - img "유저프로필" [ref=f81e3272]
+                      - generic [ref=f81e3273]:
+                        - strong [ref=f81e3274]: 판매자
+                        - generic [ref=f81e3275]: 22.09.11.
+                        - button "신고" [ref=f81e3276] [cursor=pointer]
+                      - generic [ref=f81e3277]:
+                        - paragraph [ref=f81e3278]: 소중한 리뷰 감사합니다. 화차원과 함께하는 편안한 찻자리 되세요^^
+                        - button "더보기" [ref=f81e3279] [cursor=pointer]
+                    - generic [ref=f81e3284]:
+                      - generic [ref=f81e3285]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3286] [cursor=pointer]
+                - listitem [ref=f81e3289]:
+                  - generic [ref=f81e3290]:
+                    - generic [ref=f81e3294]:
+                      - generic [ref=f81e3295]:
+                        - text: "5"
+                        - emphasis [ref=f81e3299]: 재구매
+                      - generic [ref=f81e3300]:
+                        - generic [ref=f81e3301]: ddan*******
+                        - generic [ref=f81e3302]: 22.03.27.
+                        - button "신고" [ref=f81e3303] [cursor=pointer]
+                    - generic [ref=f81e3304]:
+                      - generic [ref=f81e3305]:
+                        - paragraph [ref=f81e3306]: 왼쪽에 있는 차총이 제일 먼저 주문한 아이예요. 제 찻자리에서 기쁨을 담당하고 있습니다.ㅎ 차마실때 늘 함께해요. 그리고 나머지 두녀석은 제 차벗님들에게 선물했습니다. 최근에 주문했는데, 차총 만드시는분 실력이 갈수록 일취월장하시네요 ㅎ 디테일이 더 살아있어요. 음영도 짙어졌구요 ㅎㅎ 호랑이들이 더 활짝 웃고 있네요 ^^ 받으신 분들도 너무 귀엽다며, 차총 하나로 힐링이 되신다고 하니 선물한 기쁨이 배가 되네요. 찻자리에서 이렇게 귀여운 녀석들 만날수있게 해주셔서 감사합니다! 올해 호랑이해라 더 의미가 있는 것 같습니다♡
+                        - link "왼쪽에 있는 차총이 제일 먼저 주문한 아이예요. 제 찻자리에서 기쁨을 담당하고 있습니다.ㅎ 차마실때 늘 함께해요. 그리고 나머지 두녀석은 제 차벗님들에게 선물했습니다. 최근에 주문했는데, 차총 만드시는분 실력이 갈수록 일취월장하시네요 ㅎ 디테일이 더 살아있어요. 음영도 짙어졌구요 ㅎㅎ 호랑이들이 더 활짝 웃고 있네요 ^^ 받으신 분들도 너무 귀엽다며, 차총 하나로 힐링이 되신다고 하니 선물한 기쁨이 배가 되네요. 찻자리에서 이렇게 귀여운 녀석들 만날수있게 해주셔서 감사합니다! 올해 호랑이해라 더 의미가 있는 것 같습니다♡" [ref=f81e3307] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3308]: 더보기
+                      - list [ref=f81e3315]:
+                        - listitem [ref=f81e3316]:
+                          - generic [ref=f81e3317]:
+                            - img "review-attachment-2127b250-d353-484f-997c-ac798d321c6e.jpeg" [ref=f81e3318]
+                            - link "이미지 펼치기" [ref=f81e3319] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3320]
+                        - listitem [ref=f81e3324]:
+                          - generic [ref=f81e3325]:
+                            - img "review-attachment-5701b819-34ee-4c2c-bb11-6c8ea27f599a.jpeg" [ref=f81e3326]
+                            - link "이미지 펼치기" [ref=f81e3327] [cursor=pointer]:
+                              - /url: "#"
+                        - listitem [ref=f81e3329]:
+                          - generic [ref=f81e3330]:
+                            - img "review-attachment-c2d53df2-d4aa-4361-ac08-6897da712ac4.jpeg" [ref=f81e3331]
+                            - link "이미지 펼치기" [ref=f81e3332] [cursor=pointer]:
+                              - /url: "#"
+                        - listitem [ref=f81e3334]:
+                          - generic [ref=f81e3335]:
+                            - img "review-attachment-e0ce9e5f-ce4f-4660-983f-c4a2fb884898.jpeg" [ref=f81e3336]
+                            - link "이미지 펼치기" [ref=f81e3337] [cursor=pointer]:
+                              - /url: "#"
+                    - generic [ref=f81e3339]:
+                      - img "유저프로필" [ref=f81e3341]
+                      - generic [ref=f81e3342]:
+                        - strong [ref=f81e3343]: 판매자
+                        - generic [ref=f81e3344]: 22.05.06.
+                        - button "신고" [ref=f81e3345] [cursor=pointer]
+                      - generic [ref=f81e3346]:
+                        - paragraph [ref=f81e3347]: 화차원과 함께한 소중한 리뷰 감사합니다. 편안한 찻자리 되세요^^
+                        - button "더보기" [ref=f81e3348] [cursor=pointer]
+                    - generic [ref=f81e3353]:
+                      - generic [ref=f81e3354]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3355] [cursor=pointer]
+                - listitem [ref=f81e3358]:
+                  - generic [ref=f81e3359]:
+                    - generic [ref=f81e3363]:
+                      - generic [ref=f81e3364]:
+                        - text: "5"
+                        - emphasis [ref=f81e3368]: BEST
+                        - emphasis [ref=f81e3370]: 재구매
+                        - emphasis [ref=f81e3372]: 한달사용
+                      - generic [ref=f81e3373]:
+                        - generic [ref=f81e3374]: ddan*******
+                        - generic [ref=f81e3375]: 22.04.27.
+                        - button "신고" [ref=f81e3376] [cursor=pointer]
+                    - generic [ref=f81e3377]:
+                      - generic [ref=f81e3378]:
+                        - paragraph [ref=f81e3379]: 너무 귀여워요 함께 차 잘 마시고 있어요 ㅎ
+                        - link "너무 귀여워요 함께 차 잘 마시고 있어요 ㅎ" [ref=f81e3380] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3381]: 더보기
+                      - list [ref=f81e3385]:
+                        - listitem [ref=f81e3386]:
+                          - generic [ref=f81e3387]:
+                            - img "review_image" [ref=f81e3388]
+                            - link "이미지 펼치기" [ref=f81e3389] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3390]
+                    - generic [ref=f81e3394]:
+                      - img "유저프로필" [ref=f81e3396]
+                      - generic [ref=f81e3397]:
+                        - strong [ref=f81e3398]: 판매자
+                        - generic [ref=f81e3399]: 22.05.06.
+                        - button "신고" [ref=f81e3400] [cursor=pointer]
+                      - generic [ref=f81e3401]:
+                        - paragraph [ref=f81e3402]: 소중한 리뷰 감사합니다. 편안한 찻자리 되세요^^
+                        - button "더보기" [ref=f81e3403] [cursor=pointer]
+                    - generic [ref=f81e3408]:
+                      - generic [ref=f81e3409]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3410] [cursor=pointer]
+                  - button "이 구매자의 처음 리뷰 보기" [ref=f81e3414] [cursor=pointer]
+                - listitem [ref=f81e3417]:
+                  - generic [ref=f81e3418]:
+                    - generic [ref=f81e3422]:
+                      - generic [ref=f81e3423]: "5"
+                      - generic [ref=f81e3426]:
+                        - generic [ref=f81e3427]: ddan*******
+                        - generic [ref=f81e3428]: 22.01.05.
+                        - button "신고" [ref=f81e3429] [cursor=pointer]
+                    - generic [ref=f81e3430]:
+                      - generic [ref=f81e3431]:
+                        - paragraph [ref=f81e3432]: 이리보고 저리봐도 너무 귀엽네요. 디테일이 정말 최고예요👍🏻 1월 1일에 구매했는데, 구매하자마자 품절됐어요. 하나 남았었나봐요. 다시 6개정도 입고 되었다고 들었는데 또 품절됐네요 ㅎ 제가 운이 좋았어요 ^^ 뒷태가 참으로 매력적인데 못찍었네요. 늘 좋은작품 착한 가격에 만날수 있도록 도와주셔서 감사합니다.
+                        - link "이리보고 저리봐도 너무 귀엽네요. 디테일이 정말 최고예요👍🏻 1월 1일에 구매했는데, 구매하자마자 품절됐어요. 하나 남았었나봐요. 다시 6개정도 입고 되었다고 들었는데 또 품절됐네요 ㅎ 제가 운이 좋았어요 ^^ 뒷태가 참으로 매력적인데 못찍었네요. 늘 좋은작품 착한 가격에 만날수 있도록 도와주셔서 감사합니다." [ref=f81e3433] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3434]: 더보기
+                      - list [ref=f81e3441]:
+                        - listitem [ref=f81e3442]:
+                          - generic [ref=f81e3443]:
+                            - img "review-attachment-7e1c52de-9243-40c0-bc0e-41c2ca423f2f.jpeg" [ref=f81e3444]
+                            - link "이미지 펼치기" [ref=f81e3445] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3446]
+                        - listitem [ref=f81e3450]:
+                          - generic [ref=f81e3451]:
+                            - img "review-attachment-7b0e0268-5d3c-4b00-8902-98e61d536533.jpeg" [ref=f81e3452]
+                            - link "이미지 펼치기" [ref=f81e3453] [cursor=pointer]:
+                              - /url: "#"
+                        - listitem [ref=f81e3455]:
+                          - generic [ref=f81e3456]:
+                            - img "review-attachment-d7e22447-b9c4-403b-9c63-58766a27110c.jpeg" [ref=f81e3457]
+                            - link "이미지 펼치기" [ref=f81e3458] [cursor=pointer]:
+                              - /url: "#"
+                        - listitem [ref=f81e3460]:
+                          - generic [ref=f81e3461]:
+                            - img "review-attachment-522f247d-4b07-46c5-86ff-3bf32922f253.jpeg" [ref=f81e3462]
+                            - link "이미지 펼치기" [ref=f81e3463] [cursor=pointer]:
+                              - /url: "#"
+                    - generic [ref=f81e3465]:
+                      - img "유저프로필" [ref=f81e3467]
+                      - generic [ref=f81e3468]:
+                        - strong [ref=f81e3469]: 판매자
+                        - generic [ref=f81e3470]: 22.03.02.
+                        - button "신고" [ref=f81e3471] [cursor=pointer]
+                      - generic [ref=f81e3472]:
+                        - paragraph [ref=f81e3473]: 소중한 리뷰 감사합니다. 편안한 찻자리되세요^^
+                        - button "더보기" [ref=f81e3474] [cursor=pointer]
+                    - generic [ref=f81e3479]:
+                      - generic [ref=f81e3480]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3481] [cursor=pointer]
+                - listitem [ref=f81e3484]:
+                  - generic [ref=f81e3485]:
+                    - generic [ref=f81e3489]:
+                      - generic [ref=f81e3490]:
+                        - text: "5"
+                        - emphasis [ref=f81e3494]: BEST
+                      - generic [ref=f81e3495]:
+                        - generic [ref=f81e3496]: baek*******
+                        - generic [ref=f81e3497]: 22.03.11.
+                        - button "신고" [ref=f81e3498] [cursor=pointer]
+                    - generic [ref=f81e3499]:
+                      - generic [ref=f81e3500]:
+                        - paragraph [ref=f81e3501]: 너무 귀엽고 이쁩니다~^^
+                        - link "너무 귀엽고 이쁩니다~^^" [ref=f81e3502] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3503]: 더보기
+                      - list [ref=f81e3507]:
+                        - listitem [ref=f81e3508]:
+                          - generic [ref=f81e3509]:
+                            - img "review_image" [ref=f81e3510]
+                            - link "이미지 펼치기" [ref=f81e3511] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3512]
+                    - generic [ref=f81e3516]:
+                      - img "유저프로필" [ref=f81e3518]
+                      - generic [ref=f81e3519]:
+                        - strong [ref=f81e3520]: 판매자
+                        - generic [ref=f81e3521]: 22.05.07.
+                        - button "신고" [ref=f81e3522] [cursor=pointer]
+                      - generic [ref=f81e3523]:
+                        - paragraph [ref=f81e3524]: 화차원과 함께한 소중한 리뷰 감사합니다. 편안한 찻자리 되세요^^
+                        - button "더보기" [ref=f81e3525] [cursor=pointer]
+                    - generic [ref=f81e3530]:
+                      - generic [ref=f81e3531]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3532] [cursor=pointer]
+                - listitem [ref=f81e3535]:
+                  - generic [ref=f81e3536]:
+                    - generic [ref=f81e3540]:
+                      - generic [ref=f81e3541]:
+                        - text: "5"
+                        - emphasis [ref=f81e3545]: 한달사용
+                      - generic [ref=f81e3546]:
+                        - generic [ref=f81e3547]: ddan*******
+                        - generic [ref=f81e3548]: 22.02.22.
+                        - button "신고" [ref=f81e3549] [cursor=pointer]
+                    - generic [ref=f81e3550]:
+                      - generic [ref=f81e3551]:
+                        - paragraph [ref=f81e3552]: 너무너무 이뻐요! 차마시며 늘 함께 한답니당 ㅎㅎ
+                        - link "너무너무 이뻐요! 차마시며 늘 함께 한답니당 ㅎㅎ" [ref=f81e3553] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3554]: 더보기
+                      - list [ref=f81e3558]:
+                        - listitem [ref=f81e3559]:
+                          - generic [ref=f81e3560]:
+                            - img "review_image" [ref=f81e3561]
+                            - link "이미지 펼치기" [ref=f81e3562] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3563]
+                    - generic [ref=f81e3567]:
+                      - img "유저프로필" [ref=f81e3569]
+                      - generic [ref=f81e3570]:
+                        - strong [ref=f81e3571]: 판매자
+                        - generic [ref=f81e3572]: 22.03.02.
+                        - button "신고" [ref=f81e3573] [cursor=pointer]
+                      - generic [ref=f81e3574]:
+                        - paragraph [ref=f81e3575]: 소중한 리뷰 감사합니다. 편안한 찻자리되세요^^
+                        - button "더보기" [ref=f81e3576] [cursor=pointer]
+                    - generic [ref=f81e3581]:
+                      - generic [ref=f81e3582]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3583] [cursor=pointer]
+                  - button "이 구매자의 처음 리뷰 보기" [ref=f81e3587] [cursor=pointer]
+                - listitem [ref=f81e3590]:
+                  - generic [ref=f81e3591]:
+                    - generic [ref=f81e3595]:
+                      - generic [ref=f81e3596]:
+                        - text: "5"
+                        - emphasis [ref=f81e3600]: 재구매
+                      - generic [ref=f81e3601]:
+                        - generic [ref=f81e3602]: ruby****
+                        - generic [ref=f81e3603]: 22.01.23.
+                        - button "신고" [ref=f81e3604] [cursor=pointer]
+                    - generic [ref=f81e3605]:
+                      - generic [ref=f81e3606]:
+                        - paragraph [ref=f81e3607]: 선물용으로 재구매했습니다~ 아무리 둘러봐도 가장 완벽한 호랑이 차총입니다 ^^
+                        - link "선물용으로 재구매했습니다~ 아무리 둘러봐도 가장 완벽한 호랑이 차총입니다 ^^" [ref=f81e3608] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3609]: 더보기
+                      - list [ref=f81e3613]:
+                        - listitem [ref=f81e3614]:
+                          - generic [ref=f81e3615]:
+                            - img "review_image" [ref=f81e3616]
+                            - link "이미지 펼치기" [ref=f81e3617] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3618]
+                    - generic [ref=f81e3622]:
+                      - img "유저프로필" [ref=f81e3624]
+                      - generic [ref=f81e3625]:
+                        - strong [ref=f81e3626]: 판매자
+                        - generic [ref=f81e3627]: 22.03.02.
+                        - button "신고" [ref=f81e3628] [cursor=pointer]
+                      - generic [ref=f81e3629]:
+                        - paragraph [ref=f81e3630]: 임인년 호랑이띠에 잘 어울리는 선물이죠~~ 소중한 리뷰 감사합니다. 편안한 찻자리되세요^^
+                        - button "더보기" [ref=f81e3631] [cursor=pointer]
+                    - generic [ref=f81e3636]:
+                      - generic [ref=f81e3637]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3638] [cursor=pointer]
+                - listitem [ref=f81e3641]:
+                  - generic [ref=f81e3642]:
+                    - generic [ref=f81e3646]:
+                      - generic [ref=f81e3647]: "5"
+                      - generic [ref=f81e3650]:
+                        - generic [ref=f81e3651]: mot_***
+                        - generic [ref=f81e3652]: 22.01.23.
+                        - button "신고" [ref=f81e3653] [cursor=pointer]
+                    - generic [ref=f81e3654]:
+                      - generic [ref=f81e3655]:
+                        - paragraph [ref=f81e3656]: 너무 귀여워서 계속 보게 된다며 우리집 아기들이 너무 좋아하네요~
+                        - link "너무 귀여워서 계속 보게 된다며 우리집 아기들이 너무 좋아하네요~" [ref=f81e3657] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3658]: 더보기
+                      - list [ref=f81e3662]:
+                        - listitem [ref=f81e3663]:
+                          - generic [ref=f81e3664]:
+                            - img "review_image" [ref=f81e3665]
+                            - link "이미지 펼치기" [ref=f81e3666] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3667]
+                    - generic [ref=f81e3671]:
+                      - img "유저프로필" [ref=f81e3673]
+                      - generic [ref=f81e3674]:
+                        - strong [ref=f81e3675]: 판매자
+                        - generic [ref=f81e3676]: 22.03.02.
+                        - button "신고" [ref=f81e3677] [cursor=pointer]
+                      - generic [ref=f81e3678]:
+                        - paragraph [ref=f81e3679]: 귀여운 호랑이친구들이죠~~ 소중한 리뷰 감사합니다. 편안한 찻자리되세요^^
+                        - button "더보기" [ref=f81e3680] [cursor=pointer]
+                    - generic [ref=f81e3685]:
+                      - generic [ref=f81e3686]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3687] [cursor=pointer]
+                - listitem [ref=f81e3690]:
+                  - generic [ref=f81e3691]:
+                    - generic [ref=f81e3695]:
+                      - generic [ref=f81e3696]: "5"
+                      - generic [ref=f81e3699]:
+                        - generic [ref=f81e3700]: ruby****
+                        - generic [ref=f81e3701]: 22.01.16.
+                        - button "신고" [ref=f81e3702] [cursor=pointer]
+                    - generic [ref=f81e3703]:
+                      - generic [ref=f81e3704]:
+                        - paragraph [ref=f81e3705]: 호랑이 차총~ 세밀한 털의 느낌. 귀여운 표정. 완벽한 색감! 정말 “호랑이 해(2022)” 딱 맞습니다~^^
+                        - link "호랑이 차총~ 세밀한 털의 느낌. 귀여운 표정. 완벽한 색감! 정말 “호랑이 해(2022)” 딱 맞습니다~^^" [ref=f81e3706] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3707]: 더보기
+                      - list [ref=f81e3711]:
+                        - listitem [ref=f81e3712]:
+                          - generic [ref=f81e3713]:
+                            - img "review_image" [ref=f81e3714]
+                            - link "이미지 펼치기" [ref=f81e3715] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3716]
+                    - generic [ref=f81e3720]:
+                      - img "유저프로필" [ref=f81e3722]
+                      - generic [ref=f81e3723]:
+                        - strong [ref=f81e3724]: 판매자
+                        - generic [ref=f81e3725]: 22.03.02.
+                        - button "신고" [ref=f81e3726] [cursor=pointer]
+                      - generic [ref=f81e3727]:
+                        - paragraph [ref=f81e3728]: 소중한 리뷰 감사합니다. 편안한 찻자리되세요^^
+                        - button "더보기" [ref=f81e3729] [cursor=pointer]
+                    - generic [ref=f81e3734]:
+                      - generic [ref=f81e3735]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3736] [cursor=pointer]
+                - listitem [ref=f81e3739]:
+                  - generic [ref=f81e3740]:
+                    - generic [ref=f81e3744]:
+                      - generic [ref=f81e3745]: "5"
+                      - generic [ref=f81e3748]:
+                        - generic [ref=f81e3749]: hess******
+                        - generic [ref=f81e3750]: 22.01.06.
+                        - button "신고" [ref=f81e3751] [cursor=pointer]
+                    - generic [ref=f81e3752]:
+                      - generic [ref=f81e3753]:
+                        - paragraph [ref=f81e3754]: 귀엽고 섬세합니다! 대만족이에요 :)
+                        - link "귀엽고 섬세합니다! 대만족이에요 :)" [ref=f81e3755] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3756]: 더보기
+                      - list [ref=f81e3760]:
+                        - listitem [ref=f81e3761]:
+                          - generic [ref=f81e3762]:
+                            - img "review_image" [ref=f81e3763]
+                            - link "이미지 펼치기" [ref=f81e3764] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3765]
+                    - generic [ref=f81e3769]:
+                      - img "유저프로필" [ref=f81e3771]
+                      - generic [ref=f81e3772]:
+                        - strong [ref=f81e3773]: 판매자
+                        - generic [ref=f81e3774]: 22.03.02.
+                        - button "신고" [ref=f81e3775] [cursor=pointer]
+                      - generic [ref=f81e3776]:
+                        - paragraph [ref=f81e3777]: 소중한 리뷰 감사합니다. 편안한 찻자리되세요^^
+                        - button "더보기" [ref=f81e3778] [cursor=pointer]
+                    - generic [ref=f81e3783]:
+                      - generic [ref=f81e3784]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f81e3785] [cursor=pointer]
+                - listitem [ref=f81e3788]:
+                  - generic [ref=f81e3789]:
+                    - generic [ref=f81e3793]:
+                      - generic [ref=f81e3794]:
+                        - text: "5"
+                        - emphasis [ref=f81e3798]: BEST
+                      - generic [ref=f81e3799]:
+                        - generic [ref=f81e3800]: sea5***
+                        - generic [ref=f81e3801]: 21.11.09.
+                        - button "신고" [ref=f81e3802] [cursor=pointer]
+                    - generic [ref=f81e3803]:
+                      - generic [ref=f81e3804]:
+                        - paragraph [ref=f81e3805]: 아주 귀여운 호랑이 차우입니다. 내년도는 임인년으로 호랑아의 해인데.. 차를 마실 때 귀여운 호랑이 차총과 함께하면 차맛이 더욱 좋을 듯 합니다.
+                        - link "아주 귀여운 호랑이 차우입니다. 내년도는 임인년으로 호랑아의 해인데.. 차를 마실 때 귀여운 호랑이 차총과 함께하면 차맛이 더욱 좋을 듯 합니다." [ref=f81e3806] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3807]: 더보기
+                      - list [ref=f81e3811]:
+                        - listitem [ref=f81e3812]:
+                          - generic [ref=f81e3813]:
+                            - img "review_image" [ref=f81e3814]
+                            - link "이미지 펼치기" [ref=f81e3815] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3816]
+                    - generic [ref=f81e3820]:
+                      - img "유저프로필" [ref=f81e3822]
+                      - generic [ref=f81e3823]:
+                        - strong [ref=f81e3824]: 판매자
+                        - generic [ref=f81e3825]: 21.11.10.
+                        - button "신고" [ref=f81e3826] [cursor=pointer]
+                      - generic [ref=f81e3827]:
+                        - paragraph [ref=f81e3828]: 화차원과 함께한 소중한 리뷰 감사합니다. 편안한 찻자리 되세요^^
+                        - button "더보기" [ref=f81e3829] [cursor=pointer]
+                    - generic [ref=f81e3834]:
+                      - generic [ref=f81e3835]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3836] [cursor=pointer]
+                - listitem [ref=f81e3839]:
+                  - generic [ref=f81e3840]:
+                    - generic [ref=f81e3844]:
+                      - generic [ref=f81e3845]:
+                        - text: "5"
+                        - emphasis [ref=f81e3849]: BEST
+                        - emphasis [ref=f81e3851]: 재구매
+                      - generic [ref=f81e3852]:
+                        - generic [ref=f81e3853]: saja****
+                        - generic [ref=f81e3854]: 21.11.09.
+                        - button "신고" [ref=f81e3855] [cursor=pointer]
+                    - generic [ref=f81e3856]:
+                      - generic [ref=f81e3857]:
+                        - paragraph [ref=f81e3858]: 좋은 제품 잘 받았습니다
+                        - link "좋은 제품 잘 받았습니다" [ref=f81e3859] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f81e3860]: 더보기
+                      - list [ref=f81e3864]:
+                        - listitem [ref=f81e3865]:
+                          - generic [ref=f81e3866]:
+                            - img "review_image" [ref=f81e3867]
+                            - link "이미지 펼치기" [ref=f81e3868] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f81e3869]
+                    - generic [ref=f81e3873]:
+                      - img "유저프로필" [ref=f81e3875]
+                      - generic [ref=f81e3876]:
+                        - strong [ref=f81e3877]: 판매자
+                        - generic [ref=f81e3878]: 21.11.10.
+                        - button "신고" [ref=f81e3879] [cursor=pointer]
+                      - generic [ref=f81e3880]:
+                        - paragraph [ref=f81e3881]: 화차원과 함께한 소중한 리뷰 감사합니다. 편안한 찻자리 되세요^^
+                        - button "더보기" [ref=f81e3882] [cursor=pointer]
+                    - generic [ref=f81e3887]:
+                      - generic [ref=f81e3888]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f81e3889] [cursor=pointer]
+      - button "닫기" [ref=f81e3892] [cursor=pointer]
+  - link "본문으로 바로가기" [ref=f81e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f81e6]:
+    - generic [ref=f81e7]:
+      - generic [ref=f81e9]:
+        - generic [ref=f81e10]:
+          - generic [ref=f81e11]:
+            - link "네이버" [ref=f81e12] [cursor=pointer]:
+              - /url: https://www.naver.com
+            - link "네이버플러스 스토어 홈" [ref=f81e16] [cursor=pointer]:
+              - /url: https://shopping.naver.com/ns/home?
+          - generic [ref=f81e182]:
+            - strong [ref=f81e183]: 사용자 링크
+            - list [ref=f81e184]:
+              - listitem [ref=f81e185]:
+                - link "로그인" [ref=f81e186] [cursor=pointer]:
+                  - /url: https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsmartstore.naver.com%2Fhwachawon%2Fproducts%2F5380304326
+              - listitem [ref=f81e190]:
+                - link "서비스 더보기" [ref=f81e191] [cursor=pointer]:
+                  - /url: javascript:;
+        - generic [ref=f81e22]:
+          - link [ref=f81e23] [cursor=pointer]:
+            - /url: /hwachawon/profile
+            - paragraph [ref=f81e26]: 화차원이 현지에서 직접 셀렉하고 소개하는 자사호와 이무고수차 끽다생활을 위한 차도구 이야기
+          - generic [ref=f81e27]:
+            - button "관심고객수 3,117" [ref=f81e28] [cursor=pointer]
+            - button "도움말" [ref=f81e30] [cursor=pointer]
+          - button "검색어를 입력해주세요" [ref=f81e35] [cursor=pointer]
+      - generic [ref=f81e38]:
+        - generic [ref=f81e39]:
+          - button "알림받기" [ref=f81e44] [cursor=pointer]
+          - heading [level=1] [ref=f81e50]:
+            - link [ref=f81e54] [cursor=pointer]:
+              - /url: /hwachawon
+              - img "화차원" [ref=f81e55]
+          - generic [ref=f81e62]:
+            - generic [ref=f81e63]: 스토어등급
+            - generic [ref=f81e69]: 빅파워
+            - button "도움말" [ref=f81e71] [cursor=pointer]
+        - generic [ref=f81e79]:
+          - generic [ref=f81e80]:
+            - list [ref=f81e81]:
+              - listitem [ref=f81e82]:
+                - link "전체상품" [ref=f81e83] [cursor=pointer]:
+                  - /url: /hwachawon/category/136bf8ddad534dfc8eb33ac8ff1cc36f?cp=1
+              - listitem [ref=f81e84]:
+                - link "화차원 자사호🫖 하위 메뉴 있음" [ref=f81e85] [cursor=pointer]:
+                  - /url: /hwachawon/category/d3ba54c023934976ae6ccbfba8284c8a?cp=1
+                  - text: 화차원 자사호🫖
+                  - generic [ref=f81e86]: 하위 메뉴 있음
+              - listitem [ref=f81e89]:
+                - link "김해요 도자기 하위 메뉴 있음" [ref=f81e90] [cursor=pointer]:
+                  - /url: /hwachawon/category/1ad0338edc784870ad644d914f756c00?cp=1
+                  - text: 김해요 도자기
+                  - generic [ref=f81e91]: 하위 메뉴 있음
+              - listitem [ref=f81e94]:
+                - link "보이차│오룡차🍵 하위 메뉴 있음" [ref=f81e95] [cursor=pointer]:
+                  - /url: /hwachawon/category/d036a1e3122449dbb0fc95cd94407543?cp=1
+                  - text: 보이차│오룡차🍵
+                  - generic [ref=f81e96]: 하위 메뉴 있음
+              - listitem [ref=f81e99]:
+                - link "중국센터 직배송✈️✈️ 하위 메뉴 있음" [ref=f81e100] [cursor=pointer]:
+                  - /url: /hwachawon/category/558d23d24b40432385dca5b29d555020?cp=1
+                  - text: 중국센터 직배송✈️✈️
+                  - generic [ref=f81e101]: 하위 메뉴 있음
+              - listitem [ref=f81e104]:
+                - link "홈카페│유리다구🍷 하위 메뉴 있음" [ref=f81e105] [cursor=pointer]:
+                  - /url: /hwachawon/category/454e4d2dedf6485cbdaa79b5d93be5ab?cp=1
+                  - text: 홈카페│유리다구🍷
+                  - generic [ref=f81e106]: 하위 메뉴 있음
+              - listitem [ref=f81e109]:
+                - link "차도구│차판│다구소품☕️ 하위 메뉴 있음" [ref=f81e110] [cursor=pointer]:
+                  - /url: /hwachawon/category/87d2abad093e42d4ab11b0760ce01669?cp=1
+                  - text: 차도구│차판│다구소품☕️
+                  - generic [ref=f81e111]: 하위 메뉴 있음
+              - listitem [ref=f81e114]:
+                - link "홈카페│우드🪵 하위 메뉴 있음" [ref=f81e115] [cursor=pointer]:
+                  - /url: /hwachawon/category/5502211fe3e24ce586aacf8da99b082e?cp=2
+                  - text: 홈카페│우드🪵
+                  - generic [ref=f81e116]: 하위 메뉴 있음
+              - listitem [ref=f81e119]:
+                - link "도매구매 및 상담📞📞" [ref=f81e120] [cursor=pointer]:
+                  - /url: /hwachawon/category/ee1c2f57eb4e44deb3e7858d8b564ff0?cp=2
+            - list [ref=f81e121]:
+              - listitem [ref=f81e122]:
+                - link "공지사항" [ref=f81e123] [cursor=pointer]:
+                  - /url: /hwachawon/notice?cp=1
+              - listitem [ref=f81e124]:
+                - link "판매자 정보" [ref=f81e125] [cursor=pointer]:
+                  - /url: /hwachawon/profile?cp=1
+          - button "더보기" [ref=f81e194] [cursor=pointer]
+    - generic [ref=f81e126]:
+      - generic [ref=f81e197]:
+        - generic [ref=f81e198]:
+          - button "네이버플러스 스토어 알림 받고 혜택 받아보세요! 알림받기" [ref=f81e199] [cursor=pointer]:
+            - generic [ref=f81e205]: 네이버플러스 스토어
+            - generic [ref=f81e206]: 알림 받고 혜택 받아보세요!
+            - generic [ref=f81e207]: 알림받기
+          - generic [ref=f81e211]:
+            - generic [ref=f81e213]:
+              - tabpanel [ref=f81e214]:
+                - generic [ref=f81e216]:
+                  - generic [ref=f81e217]:
+                    - generic [ref=f81e218]: 6개 중 1번째
+                    - button "대표이미지 이미지 상세보기" [ref=f81e219] [cursor=pointer]:
+                      - img "대표이미지" [ref=f81e221]
+                      - generic [ref=f81e222]: 이미지 상세보기
+                  - generic [ref=f81e223]:
+                    - generic [ref=f81e224]: 6개 중 2번째
+                    - button "대표이미지 이미지 상세보기" [ref=f81e225] [cursor=pointer]:
+                      - img "대표이미지" [ref=f81e227]
+                      - generic [ref=f81e228]: 이미지 상세보기
+                  - generic [ref=f81e229]:
+                    - generic [ref=f81e230]: 6개 중 3번째
+                    - button "대표이미지 이미지 상세보기" [ref=f81e231] [cursor=pointer]:
+                      - img "대표이미지" [ref=f81e233]
+                      - generic [ref=f81e234]: 이미지 상세보기
+                  - generic [ref=f81e235]:
+                    - generic [ref=f81e236]: 6개 중 4번째
+                    - button "대표이미지 이미지 상세보기" [ref=f81e237] [cursor=pointer]:
+                      - img "대표이미지" [ref=f81e238]
+                      - generic [ref=f81e239]: 이미지 상세보기
+                  - generic [ref=f81e240]:
+                    - generic [ref=f81e241]: 6개 중 5번째
+                    - button "대표이미지 이미지 상세보기" [ref=f81e242] [cursor=pointer]:
+                      - img "대표이미지" [ref=f81e243]
+                      - generic [ref=f81e244]: 이미지 상세보기
+                  - generic [ref=f81e245]:
+                    - generic [ref=f81e246]: 6개 중 6번째
+                    - img "대표이미지" [ref=f81e247]
+                - generic:
+                  - button "이전" [ref=f81e248] [cursor=pointer]
+                  - button "다음" [ref=f81e252] [cursor=pointer]
+                - generic [ref=f81e256]:
+                  - generic [ref=f81e257]:
+                    - generic [ref=f81e258]: 현재
+                    - text: "1"
+                    - generic [ref=f81e259]: 상품 이미지
+                  - generic [ref=f81e260]:
+                    - text: /
+                    - generic [ref=f81e261]: 전체
+                    - text: "6"
+                    - generic [ref=f81e262]: 상품 이미지
+              - generic [ref=f81e263]:
+                - button "이전" [ref=f81e264] [cursor=pointer]
+                - list [ref=f81e269]:
+                  - listitem [ref=f81e270]:
+                    - button [ref=f81e271] [cursor=pointer]:
+                      - img "추가이미지0" [ref=f81e273]
+                  - listitem [ref=f81e274]:
+                    - button [ref=f81e275] [cursor=pointer]:
+                      - img "추가이미지1" [ref=f81e277]
+                  - listitem [ref=f81e278]:
+                    - button [ref=f81e279] [cursor=pointer]:
+                      - img "추가이미지2" [ref=f81e281]
+                  - listitem [ref=f81e282]:
+                    - button [ref=f81e283] [cursor=pointer]:
+                      - img "추가이미지3" [ref=f81e285]
+                  - listitem [ref=f81e286]:
+                    - button [ref=f81e287] [cursor=pointer]:
+                      - img "추가이미지4" [ref=f81e289]
+                  - listitem [ref=f81e290]:
+                    - button "리뷰 추가이미지5" [ref=f81e291] [cursor=pointer]:
+                      - generic [ref=f81e296]: 리뷰
+                      - img "추가이미지5" [ref=f81e297]
+                - button "다음" [ref=f81e298] [cursor=pointer]
+            - generic [ref=f81e303]:
+              - heading "화차원 호랑이 차총 / 범띠 다우 자사차총 티오브제 자사호" [level=3] [ref=f81e305]
+              - generic [ref=f81e307]:
+                - generic [ref=f81e308]:
+                  - generic [ref=f81e311]: 평점
+                  - generic [ref=f81e312]: "5.0"
+                - link "28건 리뷰" [ref=f81e314] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f81e315]:
+                - generic [ref=f81e317]:
+                  - generic [ref=f81e319]:
+                    - generic [ref=f81e320]:
+                      - generic [ref=f81e321]: 상품 가격
+                      - text: 58,000원
+                    - button "도움말" [ref=f81e323] [cursor=pointer]
+                  - generic [ref=f81e329]:
+                    - generic [ref=f81e333]: 배송비
+                    - text: 무료배송
+                - paragraph [ref=f81e336]:
+                  - text: 이 상품은 현재 구매하실 수 없는 상품이며,
+                  - strong [ref=f81e337]: 재입고 시 구매가 가능
+                  - text: 합니다.
+                - generic [ref=f81e338]:
+                  - generic [ref=f81e339]:
+                    - generic [ref=f81e340]: 적립
+                    - generic [ref=f81e341]:
+                      - generic [ref=f81e342]:
+                        - text: 최대 적립 포인트 12,030원
+                        - button "자세히 보기" [ref=f81e343] [cursor=pointer]
+                      - generic [ref=f81e346]:
+                        - link "네이버 플러스 멤버십 최대 5% 추가 적립 도움말 2,320원 멤버십 시작하고 최대 적립 받기" [ref=f81e347] [cursor=pointer]:
+                          - /url: "#"
+                        - generic [ref=f81e348]:
+                          - generic [ref=f81e349]:
+                            - generic [ref=f81e366]: 네이버 플러스 멤버십
+                            - generic [ref=f81e367]:
+                              - button "최대 5% 추가 적립" [ref=f81e368] [cursor=pointer]
+                              - button "도움말" [ref=f81e370] [cursor=pointer]
+                          - generic [ref=f81e375]: 2,320원
+                        - strong [ref=f81e377]: 멤버십 시작하고 최대 적립 받기
+                  - generic [ref=f81e380]:
+                    - generic [ref=f81e381]: 혜택
+                    - generic [ref=f81e382]:
+                      - link "네이버 현대카드 Ed3 결제 시 최대 5,800 포인트 적립" [ref=f81e384] [cursor=pointer]:
+                        - /url: "#"
+                      - link "전월실적 없이 최대 1.3 % 적립 체크카드" [ref=f81e388] [cursor=pointer]:
+                        - /url: https://pay.naver.com/paymoney/bankbook/woori/open?from=wr0056
+                      - button "최대 6개월 무이자 할부" [ref=f81e392] [cursor=pointer]
+                - generic [ref=f81e395]:
+                  - generic [ref=f81e396]: 배송
+                  - generic [ref=f81e397]:
+                    - generic [ref=f81e398]: 11.25.(수) 도착 확률 96%
+                    - generic [ref=f81e400]: 무료배송(50,000원 이상 무료)
+                    - button "자세히 보기" [ref=f81e402] [cursor=pointer]
+                - generic [ref=f81e405]:
+                  - generic [ref=f81e407]:
+                    - generic [ref=f81e409]:
+                      - strong [ref=f81e410]: 수량 선택
+                      - generic [ref=f81e412]:
+                        - button "수량감소" [disabled] [ref=f81e413] [cursor=pointer]
+                        - spinbutton "수량" [ref=f81e414]: "1"
+                        - button "수량증가" [ref=f81e415] [cursor=pointer]
+                    - generic [ref=f81e416]:
+                      - generic [ref=f81e417]:
+                        - text: 총
+                        - generic [ref=f81e418]:
+                          - emphasis [ref=f81e419]: "1"
+                          - text: 개
+                      - generic [ref=f81e420]:
+                        - generic [ref=f81e421]:
+                          - button "총 금액 58,000원" [ref=f81e422] [cursor=pointer]:
+                            - text: 총 금액
+                            - generic [ref=f81e423]: 58,000원
+                          - button "도움말" [ref=f81e425] [cursor=pointer]
+                        - generic [aria-hidden] [ref=f81e430]:
+                          - emphasis [ref=f81e431]: 58,000
+                          - text: 원
+                  - generic [ref=f81e432]:
+                    - generic [ref=f81e433]:
+                      - button "품절되었습니다" [disabled]
+                    - generic [ref=f81e434]:
+                      - button "찜 하기" [ref=f81e435] [cursor=pointer]:
+                        - text: 찜
+                        - generic [ref=f81e438]: 하기
+                      - button "톡톡문의" [ref=f81e439] [cursor=pointer]
+        - generic [ref=f81e443]:
+          - generic [ref=f81e446]:
+            - generic [ref=f81e447]:
+              - button "4점 이상 리뷰가 100%예요" [ref=f81e448] [cursor=pointer]:
+                - text: 4점 이상 리뷰가
+                - generic [ref=f81e449]: 100%
+                - text: 예요
+              - button "도움말" [ref=f81e451] [cursor=pointer]
+            - generic [ref=f81e456]:
+              - generic [ref=f81e457]:
+                - list [ref=f81e460]:
+                  - listitem [ref=f81e461]:
+                    - button "review_image 평점 5 고퀄리티 차총 1개가 가격만 좋은 차총 여러 개 보다 만족도가 높다는 걸 알게 되었습니다!" [ref=f81e462] [cursor=pointer]:
+                      - img "review_image" [ref=f81e464]
+                      - generic [ref=f81e465]:
+                        - generic [ref=f81e467]:
+                          - generic [ref=f81e470]: 평점
+                          - text: "5"
+                        - generic [ref=f81e471]: 고퀄리티 차총 1개가 가격만 좋은 차총 여러 개 보다 만족도가 높다는 걸 알게 되었습니다!
+                  - listitem [ref=f81e472]:
+                    - button "review_image 평점 5 귀엽고 아기자기 한달봐도 지겹지 않아요 ㅋㅋ" [ref=f81e473] [cursor=pointer]:
+                      - img "review_image" [ref=f81e475]
+                      - generic [ref=f81e476]:
+                        - generic [ref=f81e478]:
+                          - generic [ref=f81e481]: 평점
+                          - text: "5"
+                        - generic [ref=f81e482]: 귀엽고 아기자기 한달봐도 지겹지 않아요 ㅋㅋ
+                  - listitem [ref=f81e483]:
+                    - button "review_image 평점 5 아주 잘쓰고 있습니다" [ref=f81e484] [cursor=pointer]:
+                      - img "review_image" [ref=f81e486]
+                      - generic [ref=f81e487]:
+                        - generic [ref=f81e489]:
+                          - generic [ref=f81e492]: 평점
+                          - text: "5"
+                        - generic [ref=f81e493]: 아주 잘쓰고 있습니다
+                  - listitem [ref=f81e494]:
+                    - button "review_image 평점 5 너무 귀여워요. 정교하게 잘 만들어진 차총이라고 생각해요. 만족합니다." [ref=f81e495] [cursor=pointer]:
+                      - img "review_image" [ref=f81e497]
+                      - generic [ref=f81e498]:
+                        - generic [ref=f81e500]:
+                          - generic [ref=f81e503]: 평점
+                          - text: "5"
+                        - generic [ref=f81e504]: 너무 귀여워요. 정교하게 잘 만들어진 차총이라고 생각해요. 만족합니다.
+                  - listitem [ref=f81e505]:
+                    - button "review_image 평점 5 외롭다하여 하나더 구입합니다 ㅋㅋ" [ref=f81e506] [cursor=pointer]:
+                      - img "review_image" [ref=f81e508]
+                      - generic [ref=f81e509]:
+                        - generic [ref=f81e511]:
+                          - generic [ref=f81e514]: 평점
+                          - text: "5"
+                        - generic [ref=f81e515]: 외롭다하여 하나더 구입합니다 ㅋㅋ
+                  - listitem [ref=f81e516]:
+                    - button "review_image 평점 5 가격 때문에 고민 했었는데 구매한 것중 가장 마음에 듭니다~ 정말 너무너무너무 예뻐요~~ 다른곳 호랑이 차총이랑은 비교불가입니다!!" [ref=f81e517] [cursor=pointer]:
+                      - img "review_image" [ref=f81e519]
+                      - generic [ref=f81e520]:
+                        - generic [ref=f81e522]:
+                          - generic [ref=f81e525]: 평점
+                          - text: "5"
+                        - generic [ref=f81e526]: 가격 때문에 고민 했었는데 구매한 것중 가장 마음에 듭니다~ 정말 너무너무너무 예뻐요~~ 다른곳 호랑이 차총이랑은 비교불가입니다!!
+                  - listitem [ref=f81e527]:
+                    - button "review_image 평점 5 한마리 입양했습니다 ㅋㅋㅋ" [ref=f81e528] [cursor=pointer]:
+                      - img "review_image" [ref=f81e530]
+                      - generic [ref=f81e531]:
+                        - generic [ref=f81e533]:
+                          - generic [ref=f81e536]: 평점
+                          - text: "5"
+                        - generic [ref=f81e537]: 한마리 입양했습니다 ㅋㅋㅋ
+                  - listitem [ref=f81e538]:
+                    - button "review_image 평점 5 푸짐한 사은품과 다도 입문자의 기다림에 부흥하여 빠른 배송 또한 감사드립니다. 호랑이 차우 너무 귀여워 차마실 때 함께하면 기분이 넘 젛을 것 같아요. 다양한 제품들이 가득하여 자주 드릴겠습니다." [ref=f81e539] [cursor=pointer]:
+                      - img "review_image" [ref=f81e541]
+                      - generic [ref=f81e542]:
+                        - generic [ref=f81e544]:
+                          - generic [ref=f81e547]: 평점
+                          - text: "5"
+                        - generic [ref=f81e548]: 푸짐한 사은품과 다도 입문자의 기다림에 부흥하여 빠른 배송 또한 감사드립니다. 호랑이 차우 너무 귀여워 차마실 때 함께하면 기분이 넘 젛을 것 같아요. 다양한 제품들이 가득하여 자주 드릴겠습니다.
+                  - listitem [ref=f81e549]:
+                    - button "review_image 평점 5 왼쪽에 있는 차총이 제일 먼저 주문한 아이예요. 제 찻자리에서 기쁨을 담당하고 있습니다.ㅎ 차마실때 늘 함께해요. 그리고 나머지 두녀석은 제 차벗님들에게 선물했습니다. 최근에 주문했는데, 차총 만드시는분 실력이 갈수록 일취월장하시네요 ㅎ 디테일이 더 살아있어요. 음영도 짙어졌구요 ㅎㅎ 호랑이들이 더 활짝 웃고 있네요 ^^ 받으신 분들도 너무 귀엽다며, 차총 하나로 힐링이 되신다고 하니 선물한 기쁨이 배가 되네요. 찻자리에서 이렇게 귀여운 녀석들 만날수있게 해주셔서 감사합니다! 올해 호랑이해라 더 의미가 있는 것 같습니다♡" [ref=f81e550] [cursor=pointer]:
+                      - img "review_image" [ref=f81e552]
+                      - generic [ref=f81e553]:
+                        - generic [ref=f81e555]:
+                          - generic [ref=f81e558]: 평점
+                          - text: "5"
+                        - generic [ref=f81e559]: 왼쪽에 있는 차총이 제일 먼저 주문한 아이예요. 제 찻자리에서 기쁨을 담당하고 있습니다.ㅎ 차마실때 늘 함께해요. 그리고 나머지 두녀석은 제 차벗님들에게 선물했습니다. 최근에 주문했는데, 차총 만드시는분 실력이 갈수록 일취월장하시네요 ㅎ 디테일이 더 살아있어요. 음영도 짙어졌구요 ㅎㅎ 호랑이들이 더 활짝 웃고 있네요 ^^ 받으신 분들도 너무 귀엽다며, 차총 하나로 힐링이 되신다고 하니 선물한 기쁨이 배가 되네요. 찻자리에서 이렇게 귀여운 녀석들 만날수있게 해주셔서 감사합니다! 올해 호랑이해라 더 의미가 있는 것 같습니다♡
+                  - listitem [ref=f81e560]:
+                    - button "review_image 평점 5 너무 귀여워요 함께 차 잘 마시고 있어요 ㅎ" [ref=f81e561] [cursor=pointer]:
+                      - img "review_image" [ref=f81e563]
+                      - generic [ref=f81e564]:
+                        - generic [ref=f81e566]:
+                          - generic [ref=f81e569]: 평점
+                          - text: "5"
+                        - generic [ref=f81e570]: 너무 귀여워요 함께 차 잘 마시고 있어요 ㅎ
+                  - listitem [ref=f81e571]:
+                    - button "review_image 평점 5 이리보고 저리봐도 너무 귀엽네요. 디테일이 정말 최고예요👍🏻 1월 1일에 구매했는데, 구매하자마자 품절됐어요. 하나 남았었나봐요. 다시 6개정도 입고 되었다고 들었는데 또 품절됐네요 ㅎ 제가 운이 좋았어요 ^^ 뒷태가 참으로 매력적인데 못찍었네요. 늘 좋은작품 착한 가격에 만날수 있도록 도와주셔서 감사합니다." [ref=f81e572] [cursor=pointer]:
+                      - img "review_image" [ref=f81e574]
+                      - generic [ref=f81e575]:
+                        - generic [ref=f81e577]:
+                          - generic [ref=f81e580]: 평점
+                          - text: "5"
+                        - generic [ref=f81e581]: 이리보고 저리봐도 너무 귀엽네요. 디테일이 정말 최고예요👍🏻 1월 1일에 구매했는데, 구매하자마자 품절됐어요. 하나 남았었나봐요. 다시 6개정도 입고 되었다고 들었는데 또 품절됐네요 ㅎ 제가 운이 좋았어요 ^^ 뒷태가 참으로 매력적인데 못찍었네요. 늘 좋은작품 착한 가격에 만날수 있도록 도와주셔서 감사합니다.
+                  - listitem [ref=f81e582]:
+                    - button "평점 5 사진처럼 귀엽고 예쁘네요" [ref=f81e583] [cursor=pointer]:
+                      - generic [ref=f81e584]:
+                        - generic [ref=f81e586]:
+                          - generic [ref=f81e589]: 평점
+                          - text: "5"
+                        - generic [ref=f81e590]: 사진처럼 귀엽고 예쁘네요
+                - button "다음" [ref=f81e591] [cursor=pointer]
+              - button "리뷰 전체보기" [ref=f81e595] [cursor=pointer]
+          - list [ref=f81e601]:
+            - listitem [ref=f81e602]:
+              - link [ref=f81e603] [cursor=pointer]:
+                - /url: "#"
+                - img "이번 달 멤버십 시작하면? 올리브영 혜택까지 받아요" [ref=f81e604]
+          - generic [ref=f81e605]:
+            - generic [ref=f81e606]:
+              - list [ref=f81e608]:
+                - button "상세정보" [ref=f81e609] [cursor=pointer]
+                - button "리뷰 28" [ref=f81e610] [cursor=pointer]
+                - button "Q&A 6" [ref=f81e611] [cursor=pointer]
+                - button "판매자정보" [ref=f81e612] [cursor=pointer]
+                - button "추천" [ref=f81e613] [cursor=pointer]
+              - generic [ref=f81e615]:
+                - generic [ref=f81e617]:
+                  - generic [ref=f81e623]:
+                    - text: 판매자가 타 사이트 안내 및 현금 결제, 개인정보 유도 시 결제/입력하지 마시고 즉시
+                    - link "고객센터로 신고" [ref=f81e624] [cursor=pointer]:
+                      - /url: https://help.pay.naver.com/faq/content.help?faqId=14188
+                    - text: 해주세요.
+                  - generic [ref=f81e626]:
+                    - strong [ref=f81e628]: 상품정보
+                    - list [ref=f81e629]:
+                      - listitem [ref=f81e630]:
+                        - generic [ref=f81e631]: 상품번호
+                        - generic [ref=f81e632]:
+                          - text: "5380304326"
+                          - button "상품번호 복사" [ref=f81e633] [cursor=pointer]: 복사
+                      - listitem [ref=f81e637]:
+                        - generic [ref=f81e638]: 브랜드
+                        - generic [ref=f81e639]: 화차원
+                      - listitem [ref=f81e640]:
+                        - generic [ref=f81e641]: 모델명
+                        - generic [ref=f81e642]: 자사호
+                      - listitem [ref=f81e643]:
+                        - generic [ref=f81e644]: 원산지
+                        - generic [ref=f81e645]: 중국산(중국산)
+                    - generic [ref=f81e646]:
+                      - button "신고하기" [ref=f81e647] [cursor=pointer]
+                      - button "상품정보제공고시 보기" [ref=f81e648] [cursor=pointer]
+                  - generic [ref=f81e649]:
+                    - generic [ref=f81e650]:
+                      - generic [ref=f81e656]:
+                        - generic [ref=f81e660]:
+                          - paragraph [ref=f81e661]:
+                            - generic [ref=f81e662]: 화차원에서 소개하는 호랑이 차총이 추가 입고되었습니다.
+                          - paragraph [ref=f81e663]
+                          - paragraph [ref=f81e664]:
+                            - generic [ref=f81e665]: 연말연시 주문량으로 인해 임시 품절되었다가
+                          - paragraph [ref=f81e666]:
+                            - generic [ref=f81e667]: 재입고를 위해 작품 수급을 마쳤습니다
+                        - blockquote [ref=f81e676]:
+                          - generic [ref=f81e677]:
+                            - paragraph [ref=f81e678]:
+                              - generic [ref=f81e679]: "*3월 5일 수정*"
+                            - paragraph [ref=f81e681]
+                            - paragraph [ref=f81e682]:
+                              - generic [ref=f81e683]: "* 민트색 케이스 수급 문제로,"
+                            - paragraph [ref=f81e684]:
+                              - generic [ref=f81e685]: 이번에 수급된 호랑이차총은
+                            - paragraph [ref=f81e686]:
+                              - generic [ref=f81e687]: 네이비색 케이스에 포장되어 발송 예정입니다.
+                            - paragraph [ref=f81e688]
+                        - paragraph [ref=f81e698]
+                        - blockquote [ref=f81e702]:
+                          - paragraph [ref=f81e704]: 선물용으로도 좋은 작품 케이스에 보내드려요💙💙
+                        - separator [ref=f81e714]
+                        - paragraph [ref=f81e719]
+                        - generic [ref=f81e728]:
+                          - paragraph [ref=f81e729]: 아참 시중에 서서히 아류 호랑이들이 보이던데,
+                          - paragraph [ref=f81e730]: 화차원에서 소개하는 호랑이 차총은
+                          - paragraph [ref=f81e731]: 이싱에서 이 호랑이 차총을 처음 만든 곳이기도 합니다.
+                        - paragraph [ref=f81e741]
+                        - separator [ref=f81e764]
+                        - generic [ref=f81e773]:
+                          - paragraph [ref=f81e774]: 제가 누굽니까 ㅎㅎ
+                          - paragraph [ref=f81e775]: 일찌감치 비교해 드렸죠^^
+                          - paragraph [ref=f81e776]
+                          - paragraph [ref=f81e777]:
+                            - link "https://www.instagram.com/tv/CJ8OWuwFILg/?utm_medium=copy_link" [ref=f81e779] [cursor=pointer]:
+                              - /url: https://www.instagram.com/tv/CJ8OWuwFILg/?utm_medium=copy_link
+                          - paragraph [ref=f81e780]
+                          - paragraph [ref=f81e781]: 작년 초에 인스타 라이브를 통해
+                          - paragraph [ref=f81e782]: 시중에 제작 및 유통되는 호랑이를 4마리를
+                          - paragraph [ref=f81e783]: 한번에 비교해 드렸습니다.
+                          - paragraph [ref=f81e784]: (더 허접한 것도 있었지만 패스.)
+                        - generic [ref=f81e796]:
+                          - paragraph [ref=f81e797]: 원작과 아류는
+                          - paragraph [ref=f81e798]: 단순히 호랑이의 표정만 다른게 아니라
+                          - paragraph [ref=f81e799]: 작품의 발색은 물론,
+                          - paragraph [ref=f81e800]: 특히 호랑이의 털 부분 묘사가 상당이 차이납니다.
+                          - paragraph [ref=f81e801]
+                          - paragraph [ref=f81e802]: 털 묘샤를 칼로 긁은 것과(아류)
+                          - paragraph [ref=f81e803]: 꾹꾹 눌러 입체감을 표현한 것은(원작)
+                          - paragraph [ref=f81e804]: 실제로 배이상 금액 차이로,
+                          - paragraph [ref=f81e805]
+                        - generic [ref=f81e814]:
+                          - paragraph [ref=f81e815]
+                          - paragraph [ref=f81e816]: 엄연히 다른 작품입니다.
+                          - paragraph [ref=f81e817]: (선택은 소비자의 몫이겠죠.)
+                          - paragraph [ref=f81e818]
+                        - paragraph [ref=f81e833]:
+                          - generic [ref=f81e834]: "호랑이 차총 #1"
+                        - generic [ref=f81e843]:
+                          - paragraph [ref=f81e844]
+                          - paragraph [ref=f81e845]
+                          - paragraph [ref=f81e846]
+                        - paragraph [ref=f81e856]
+                        - paragraph [ref=f81e861]:
+                          - generic [ref=f81e862]: 작품사진
+                        - paragraph [ref=f81e867]
+                        - paragraph [ref=f81e877]
+                        - paragraph [ref=f81e887]
+                        - paragraph [ref=f81e897]
+                        - paragraph [ref=f81e907]
+                        - paragraph [ref=f81e917]
+                        - paragraph [ref=f81e927]
+                        - paragraph [ref=f81e937]
+                        - paragraph [ref=f81e952]
+                        - paragraph [ref=f81e962]
+                        - paragraph [ref=f81e972]
+                        - paragraph [ref=f81e982]
+                        - paragraph [ref=f81e992]
+                        - paragraph [ref=f81e1002]
+                        - generic [ref=f81e1016]:
+                          - paragraph [ref=f81e1017]
+                          - paragraph [ref=f81e1018]:
+                            - generic [ref=f81e1019]: 화차원에서 소개하는 호랑이 차총이 추가 입고되었습니다.
+                        - paragraph [ref=f81e1029]
+                        - paragraph [ref=f81e1039]
+                        - separator [ref=f81e1062]
+                        - generic [ref=f81e1071]:
+                          - paragraph [ref=f81e1072]: 제가 누굽니까 ㅎㅎ
+                          - paragraph [ref=f81e1073]: 일찌감치 비교해 드렸죠^^
+                          - paragraph [ref=f81e1074]
+                          - paragraph [ref=f81e1075]:
+                            - link "https://www.instagram.com/tv/CJ8OWuwFILg/?utm_medium=copy_link" [ref=f81e1077] [cursor=pointer]:
+                              - /url: https://www.instagram.com/tv/CJ8OWuwFILg/?utm_medium=copy_link
+                          - paragraph [ref=f81e1078]
+                          - paragraph [ref=f81e1079]
+                        - generic [ref=f81e1091]:
+                          - paragraph [ref=f81e1092]: 두 작품은
+                          - paragraph [ref=f81e1093]: 단순히 호랑이의 표정만 다른게 아니라
+                          - paragraph [ref=f81e1094]: 작품의 발색은 물론,
+                          - paragraph [ref=f81e1095]: 특히 호랑이의 털 부분 묘사가 상당이 차이납니다.
+                        - generic [ref=f81e1104]:
+                          - paragraph [ref=f81e1105]
+                          - paragraph [ref=f81e1106]: 엄연히 다른 작품입니다.
+                          - paragraph [ref=f81e1107]: (선택은 소비자의 몫이겠죠.)
+                          - paragraph [ref=f81e1108]
+                        - blockquote [ref=f81e1112]:
+                          - generic [ref=f81e1113]:
+                            - paragraph [ref=f81e1114]: 찻자리의 분위기를 한껏 완성시켜주는
+                            - paragraph [ref=f81e1115]: 고품격 자사차총
+                            - paragraph [ref=f81e1116]
+                            - paragraph [ref=f81e1117]: 좋은 니료와
+                            - paragraph [ref=f81e1118]: 세밀한 묘사로
+                            - paragraph [ref=f81e1119]: 작지만 기운이 느껴지는
+                            - paragraph [ref=f81e1120]: 작품성있는 차총입니다.
+                        - paragraph [ref=f81e1125]
+                        - paragraph [ref=f81e1135]
+                        - paragraph [ref=f81e1140]:
+                          - generic [ref=f81e1141]: 상세정보
+                        - paragraph [ref=f81e1146]
+                        - paragraph [ref=f81e1151]:
+                          - generic [ref=f81e1152]: "호랑이 차총 #1"
+                        - generic [ref=f81e1161]:
+                          - paragraph [ref=f81e1162]
+                          - paragraph [ref=f81e1163]:
+                            - generic [ref=f81e1164]: "상품명 : 호랑이 차총 #1"
+                          - paragraph [ref=f81e1165]:
+                            - generic [ref=f81e1166]: "상품크기 : 8 x 6 cm"
+                          - paragraph [ref=f81e1167]
+                          - paragraph [ref=f81e1168]:
+                            - generic [ref=f81e1169]: 함께 보면 좋은 상품
+                        - link "【화차원】 ’하늘하늘’ 청화 대나무찻잔 / 청화백자 도자기찻잔 다구잔 판매처 화차원 npay_plus_available 가격 10,000원" [ref=f81e1173] [cursor=pointer]:
+                          - /url: https://smartstore.naver.com/main/products/6012481111
+                          - generic [ref=f81e1176]:
+                            - strong [ref=f81e1177]: 【화차원】 ’하늘하늘’ 청화 대나무찻잔 / 청화백자 도자기찻잔 다구잔
+                            - generic [ref=f81e1178]:
+                              - term [ref=f81e1179]: 판매처
+                              - definition [ref=f81e1180]:
+                                - text: 화차원
+                                - emphasis [ref=f81e1181]:
+                                  - generic [ref=f81e1182]: npay_plus_available
+                              - term [ref=f81e1183]: 가격
+                              - definition [ref=f81e1184]: 10,000원
+                        - link "【화차원】 어문, 연꽃문 청화찻잔 / 청화백자 도자기찻잔 다구잔 판매처 화차원 npay_plus_available 가격 10,000원" [ref=f81e1188] [cursor=pointer]:
+                          - /url: https://smartstore.naver.com/main/products/6013428308
+                          - generic [ref=f81e1191]:
+                            - strong [ref=f81e1192]: 【화차원】 어문, 연꽃문 청화찻잔 / 청화백자 도자기찻잔 다구잔
+                            - generic [ref=f81e1193]:
+                              - term [ref=f81e1194]: 판매처
+                              - definition [ref=f81e1195]:
+                                - text: 화차원
+                                - emphasis [ref=f81e1196]:
+                                  - generic [ref=f81e1197]: npay_plus_available
+                              - term [ref=f81e1198]: 가격
+                              - definition [ref=f81e1199]: 10,000원
+                        - link "【화차원】 흑단 차집게 / 찻잔 집게 / 원목집게 차도구 자단 / 카페집게 디저트집게 홈카페 허브집게 판매처 화차원 npay_plus_available 가격 10,200원" [ref=f81e1203] [cursor=pointer]:
+                          - /url: https://smartstore.naver.com/main/products/5685649180
+                          - generic [ref=f81e1206]:
+                            - strong [ref=f81e1207]: 【화차원】 흑단 차집게 / 찻잔 집게 / 원목집게 차도구 자단 / 카페집게 디저트집게 홈카페 허브집게
+                            - generic [ref=f81e1208]:
+                              - term [ref=f81e1209]: 판매처
+                              - definition [ref=f81e1210]:
+                                - text: 화차원
+                                - emphasis [ref=f81e1211]:
+                                  - generic [ref=f81e1212]: npay_plus_available
+                              - term [ref=f81e1213]: 가격
+                              - definition [ref=f81e1214]: 10,200원
+                        - link "【화차원】 보이차 보관 닥종이 편봉투 / 편케이스 / 보이차보관 판매처 화차원 npay_plus_available 가격 2,000원" [ref=f81e1218] [cursor=pointer]:
+                          - /url: https://smartstore.naver.com/main/products/5548541258
+                          - generic [ref=f81e1221]:
+                            - strong [ref=f81e1222]: 【화차원】 보이차 보관 닥종이 편봉투 / 편케이스 / 보이차보관
+                            - generic [ref=f81e1223]:
+                              - term [ref=f81e1224]: 판매처
+                              - definition [ref=f81e1225]:
+                                - text: 화차원
+                                - emphasis [ref=f81e1226]:
+                                  - generic [ref=f81e1227]: npay_plus_available
+                              - term [ref=f81e1228]: 가격
+                              - definition [ref=f81e1229]: 2,000원
+                        - link "【화차원】 린넨 다건 / 흡수력 좋은 빈티지 다건 / 5개구매시 1개 증정 / 5가지 색상 / 고급다건 / 차수건 / 양호다건 / 차수건 / 다포 빈티지 다건 판매처 화차원 npay_plus_available 가격 5,800원" [ref=f81e1233] [cursor=pointer]:
+                          - /url: https://smartstore.naver.com/main/products/5659477332
+                          - generic [ref=f81e1236]:
+                            - strong [ref=f81e1237]: 【화차원】 린넨 다건 / 흡수력 좋은 빈티지 다건 / 5개구매시 1개 증정 / 5가지 색상 / 고급다건 / 차수건 / 양호다건 / 차수건 / 다포 빈티지 다건
+                            - generic [ref=f81e1238]:
+                              - term [ref=f81e1239]: 판매처
+                              - definition [ref=f81e1240]:
+                                - text: 화차원
+                                - emphasis [ref=f81e1241]:
+                                  - generic [ref=f81e1242]: npay_plus_available
+                              - term [ref=f81e1243]: 가격
+                              - definition [ref=f81e1244]: 5,800원
+                        - link "【화차원】 호두나무 저울 / 원목 저울 / 계량 저울 0.1단위 / 카페 저울 / 이쁜 저울 판매처 화차원 npay_plus_available 가격 38,500원" [ref=f81e1248] [cursor=pointer]:
+                          - /url: https://smartstore.naver.com/main/products/5664506117
+                          - generic [ref=f81e1251]:
+                            - strong [ref=f81e1252]: 【화차원】 호두나무 저울 / 원목 저울 / 계량 저울 0.1단위 / 카페 저울 / 이쁜 저울
+                            - generic [ref=f81e1253]:
+                              - term [ref=f81e1254]: 판매처
+                              - definition [ref=f81e1255]:
+                                - text: 화차원
+                                - emphasis [ref=f81e1256]:
+                                  - generic [ref=f81e1257]: npay_plus_available
+                              - term [ref=f81e1258]: 가격
+                              - definition [ref=f81e1259]: 38,500원
+                        - link "【화차원】 성예 유리개완 / 내열유리 도자기개완 160cc 판매처 화차원 npay_plus_available 가격 18,000원" [ref=f81e1263] [cursor=pointer]:
+                          - /url: https://smartstore.naver.com/main/products/6038400548
+                          - generic [ref=f81e1266]:
+                            - strong [ref=f81e1267]: 【화차원】 성예 유리개완 / 내열유리 도자기개완 160cc
+                            - generic [ref=f81e1268]:
+                              - term [ref=f81e1269]: 판매처
+                              - definition [ref=f81e1270]:
+                                - text: 화차원
+                                - emphasis [ref=f81e1271]:
+                                  - generic [ref=f81e1272]: npay_plus_available
+                              - term [ref=f81e1273]: 가격
+                              - definition [ref=f81e1274]: 18,000원
+                        - generic [ref=f81e1283]:
+                          - paragraph [ref=f81e1284]:
+                            - generic [ref=f81e1285]: 이무차창 이태룡
+                          - paragraph [ref=f81e1288]:
+                            - generic [ref=f81e1289]: 이무고수차
+                          - paragraph [ref=f81e1292]:
+                            - generic [ref=f81e1293]: 화차원에서 만나보세요.
+                        - link [ref=f81e1300] [cursor=pointer]:
+                          - /url: "#"
+                        - generic [ref=f81e1304]:
+                          - paragraph [ref=f81e1305]
+                          - paragraph [ref=f81e1306]:
+                            - link "이무차창 이태룡" [ref=f81e1308] [cursor=pointer]:
+                              - /url: https://smartstore.naver.com/hwachawon/category/45eed1b065cd4db9975434d64e1d1ab0?cp=1
+                          - paragraph [ref=f81e1311]:
+                            - link "2021년 차품 바로가기" [ref=f81e1313] [cursor=pointer]:
+                              - /url: https://smartstore.naver.com/hwachawon/category/45eed1b065cd4db9975434d64e1d1ab0?cp=1
+                        - generic [ref=f81e1318]:
+                          - link [ref=f81e1320] [cursor=pointer]:
+                            - /url: "#"
+                          - generic [ref=f81e1321]:
+                            - paragraph [ref=f81e1322]:
+                              - generic [ref=f81e1323]: 사진을 클릭!!! 하시면
+                            - paragraph [ref=f81e1324]:
+                              - generic [ref=f81e1325]: 해당 페이지로 바로 이동합니다.
+                        - generic [ref=f81e1329]:
+                          - paragraph [ref=f81e1330]
+                          - paragraph [ref=f81e1331]:
+                            - link "이무차창 이태룡" [ref=f81e1333] [cursor=pointer]:
+                              - /url: https://smartstore.naver.com/hwachawon/category/32c691089e344ac384b68873728315dc?cp=1
+                          - paragraph [ref=f81e1336]:
+                            - link "2020년 차품 바로가기" [ref=f81e1338] [cursor=pointer]:
+                              - /url: https://smartstore.naver.com/hwachawon/category/32c691089e344ac384b68873728315dc?cp=1
+                        - generic [ref=f81e1343]:
+                          - link [ref=f81e1345] [cursor=pointer]:
+                            - /url: "#"
+                          - generic [ref=f81e1346]:
+                            - paragraph [ref=f81e1347]:
+                              - generic [ref=f81e1348]: 사진을 클릭!!! 하시면
+                            - paragraph [ref=f81e1349]:
+                              - generic [ref=f81e1350]: 해당 페이지로 바로 이동합니다.
+                        - generic [ref=f81e1354]:
+                          - paragraph [ref=f81e1355]
+                          - paragraph [ref=f81e1356]:
+                            - link "이무차창 이태룡" [ref=f81e1358] [cursor=pointer]:
+                              - /url: https://smartstore.naver.com/hwachawon/category/f172ebba9b684c858937b86a29614b93?cp=1
+                          - paragraph [ref=f81e1361]:
+                            - link "2019년 차품 바로가기" [ref=f81e1363] [cursor=pointer]:
+                              - /url: https://smartstore.naver.com/hwachawon/category/f172ebba9b684c858937b86a29614b93?cp=1
+                        - generic [ref=f81e1368]:
+                          - link [ref=f81e1370] [cursor=pointer]:
+                            - /url: "#"
+                          - generic [ref=f81e1371]:
+                            - paragraph [ref=f81e1372]:
+                              - generic [ref=f81e1373]: 사진을 클릭!!! 하시면
+                            - paragraph [ref=f81e1374]:
+                              - generic [ref=f81e1375]: 해당 페이지로 바로 이동합니다.
+                        - generic [ref=f81e1379]:
+                          - paragraph [ref=f81e1380]
+                          - paragraph [ref=f81e1381]
+                        - paragraph [ref=f81e1391]:
+                          - generic [ref=f81e1392]: 화차원 공식 블로그
+                        - generic [ref=f81e1395]:
+                          - link [ref=f81e1397] [cursor=pointer]:
+                            - /url: "#"
+                          - paragraph [ref=f81e1399]: 화차원 블로그 바로가기
+                        - paragraph [ref=f81e1404]:
+                          - generic [ref=f81e1405]: "[화차원] 네이버 블로그로 초대합니다."
+                        - generic [ref=f81e1409] [cursor=pointer]:
+                          - link [ref=f81e1410]:
+                            - /url: https://blog.naver.com/kimwjddnjs1
+                          - link [ref=f81e1411]:
+                            - /url: https://blog.naver.com/kimwjddnjs1
+                            - generic [ref=f81e1412]:
+                              - strong [ref=f81e1413]: "和茶 / With Tea : 네이버 블로그"
+                              - paragraph [ref=f81e1414]: 자사호(紫砂壺)의 고장 - 중국 의흥(宜興)에서 직접 자사호제작을 하며 생활합니다. - 의흥(宜興) 현지의 자사호와 중국의 다양한 차문화를 소개해요 !! - Cafe mal3 / 아들말 - 한국인 자사호작가 / 和茶院 代表 - 和茶(화차) 김정원
+                              - paragraph [ref=f81e1415]: blog.naver.com
+                        - generic [ref=f81e1419]:
+                          - paragraph [ref=f81e1420]:
+                            - generic [ref=f81e1421]: "[화차원] 네이버 카페로 초대합니다."
+                          - paragraph [ref=f81e1422]:
+                            - link "https://cafe.naver.com/huachawon/?viewType=pc" [ref=f81e1424] [cursor=pointer]:
+                              - /url: https://cafe.naver.com/huachawon/?viewType=pc
+                        - link [ref=f81e1429] [cursor=pointer]:
+                          - /url: https://cafe.naver.com/huachawon/?viewType=pc
+                          - generic [ref=f81e1430]:
+                            - strong [ref=f81e1431]: "화차원 - (원광 자사호, 이무차창 ... : 네이버 카페"
+                            - paragraph [ref=f81e1432]: 자사호의 고장 중국 의흥에서 자사호제작을 하며 생활합니다. 의흥 자사호, 중국의 차문화를 소개해요~!
+                            - paragraph [ref=f81e1433]: cafe.naver.com
+                        - generic [ref=f81e1437]:
+                          - paragraph [ref=f81e1438]:
+                            - generic [ref=f81e1439]: 화차원 인스타그램 바로가기
+                          - paragraph [ref=f81e1440]:
+                            - link "https://www.instagram.com/huachawon/" [ref=f81e1442] [cursor=pointer]:
+                              - /url: https://www.instagram.com/huachawon/
+                        - link [ref=f81e1447] [cursor=pointer]:
+                          - /url: https://www.instagram.com/huachawon/
+                          - generic [ref=f81e1448]:
+                            - paragraph [ref=f81e1449]: 팔로워 1,037명, 팔로잉 675명, 게시물 925개 - 和茶 / 김정원(@huachawon)님의 Instagram 사진 및 동영상 보기
+                            - paragraph [ref=f81e1450]: www.instagram.com
+                        - generic [ref=f81e1459]:
+                          - paragraph [ref=f81e1460]:
+                            - generic [ref=f81e1461]: <자사호, 이무차창 이태룡 도소매문의>
+                          - paragraph [ref=f81e1462]
+                        - paragraph [ref=f81e1472]: 매장정보
+                        - generic [ref=f81e1476]:
+                          - paragraph [ref=f81e1477]:
+                            - generic [ref=f81e1478]: 경남 밀양시 화차원
+                          - paragraph [ref=f81e1479]:
+                            - generic [ref=f81e1480]: (In Cafe Mal3)
+                        - generic [ref=f81e1483] [cursor=pointer]:
+                          - generic [ref=f81e1485]:
+                            - generic: 50m
+                            - generic: © NAVER Corp.
+                            - generic [ref=f81e1507]:
+                              - link [ref=f81e1508]:
+                                - /url: "#"
+                                - img "지도 확대" [ref=f81e1509]
+                              - link [ref=f81e1510]:
+                                - /url: "#"
+                                - img "지도 축소" [ref=f81e1511]
+                          - generic [ref=f81e1513]:
+                            - strong [ref=f81e1514]: 화차원
+                            - paragraph [ref=f81e1515]: 경상남도 밀양시 단장면 표충로 176-1
+                        - generic [ref=f81e1519]:
+                          - paragraph [ref=f81e1520]:
+                            - generic [ref=f81e1521]: 화차원 영업시간은 평일 오후 11시부터 오후 10시까지이며
+                          - paragraph [ref=f81e1522]:
+                            - generic [ref=f81e1523]: 매주 월요일은 정기 휴무입니다.
+                          - paragraph [ref=f81e1524]
+                        - paragraph [ref=f81e1534]: 배송정보
+                        - generic [ref=f81e1538]:
+                          - paragraph [ref=f81e1539]:
+                            - generic [ref=f81e1540]: 배송은 입금확인 후 약 1-3일 소요됩니다.
+                          - paragraph [ref=f81e1541]:
+                            - generic [ref=f81e1542]: 재고가 있는 상품의 경우 당일 출고가 가능하지만, 그렇지 않은 경우 상품 준비 기간이 (최대 2주 소요) 필요합니다.
+                          - paragraph [ref=f81e1543]:
+                            - generic [ref=f81e1544]: 배송지연 및 조기 품절 시 고객님께 미리 안내 메시지를 발송해드립니다.
+                          - paragraph [ref=f81e1545]
+                        - paragraph [ref=f81e1555]: 교환 및 환불
+                        - generic [ref=f81e1559]:
+                          - paragraph [ref=f81e1560]:
+                            - generic [ref=f81e1561]: 구매자 단순 변심 사유의 반품/교환 요청은
+                          - paragraph [ref=f81e1562]:
+                            - generic [ref=f81e1563]: 상품 수령일로부터 7일 이내에 반품/교환 표시를 한 주문건에 대하여 가능합니다.
+                          - paragraph [ref=f81e1564]:
+                            - generic [ref=f81e1565]: 표시/광고와 상이, 상품 하자 사유의 반품/교환 요청은
+                          - paragraph [ref=f81e1566]:
+                            - generic [ref=f81e1567]: 상품 수령일로부터 3개월 이내 의사를 표시해야 합니다.
+                        - generic [ref=f81e1576]:
+                          - paragraph [ref=f81e1577]
+                          - paragraph [ref=f81e1578]:
+                            - generic [ref=f81e1579]: 교환 및 반품 신청 접수가 완료된 상품에 한해서 처리가 가능하며, 접수 없이 임의로 반송된 상품은 자동철회 됩니다.
+                          - paragraph [ref=f81e1580]:
+                            - generic [ref=f81e1581]: 단순 변심에 의한 교환 및 환불은 고객님께서 배송료를 지불하셔야 합니다.
+                          - paragraph [ref=f81e1582]:
+                            - generic [ref=f81e1583]: 주문제작, 개봉 후 단순변심, 고의적으로 훼손된 상품의 경우 교환 및 환불이 불가합니다.
+                          - paragraph [ref=f81e1584]
+                      - generic [ref=f81e1586]:
+                        - strong [ref=f81e1588]: 관련 태그
+                        - list [ref=f81e1589]:
+                          - listitem [ref=f81e1590]:
+                            - link "#자사호" [ref=f81e1591] [cursor=pointer]:
+                              - /url: /hwachawon/search?q=%23%EC%9E%90%EC%82%AC%ED%98%B8
+                          - listitem [ref=f81e1592]:
+                            - link "#전수공자사호" [ref=f81e1593] [cursor=pointer]:
+                              - /url: /hwachawon/search?q=%23%EC%A0%84%EC%88%98%EA%B3%B5%EC%9E%90%EC%82%AC%ED%98%B8
+                          - listitem [ref=f81e1594]:
+                            - link "#반수공자사호" [ref=f81e1595] [cursor=pointer]:
+                              - /url: /hwachawon/search?q=%23%EB%B0%98%EC%88%98%EA%B3%B5%EC%9E%90%EC%82%AC%ED%98%B8
+                          - listitem [ref=f81e1596]:
+                            - link "#생활자사호" [ref=f81e1597] [cursor=pointer]:
+                              - /url: /hwachawon/search?q=%23%EC%83%9D%ED%99%9C%EC%9E%90%EC%82%AC%ED%98%B8
+                          - listitem [ref=f81e1598]:
+                            - link "#화차원" [ref=f81e1599] [cursor=pointer]:
+                              - /url: /hwachawon/search?q=%23%ED%99%94%EC%B0%A8%EC%9B%90
+                          - listitem [ref=f81e1600]:
+                            - link "#자사차총" [ref=f81e1601] [cursor=pointer]:
+                              - /url: /hwachawon/search?q=%23%EC%9E%90%EC%82%AC%EC%B0%A8%EC%B4%9D
+                          - listitem [ref=f81e1602]:
+                            - link "#차총" [ref=f81e1603] [cursor=pointer]:
+                              - /url: /hwachawon/search?q=%23%EC%B0%A8%EC%B4%9D
+                          - listitem [ref=f81e1604]:
+                            - link "#다우" [ref=f81e1605] [cursor=pointer]:
+                              - /url: /hwachawon/search?q=%23%EB%8B%A4%EC%9A%B0
+                          - listitem [ref=f81e1606]:
+                            - link "#티오브제" [ref=f81e1607] [cursor=pointer]:
+                              - /url: /hwachawon/search?q=%23%ED%8B%B0%EC%98%A4%EB%B8%8C%EC%A0%9C
+                    - button "상세정보 펼쳐보기" [ref=f81e3896] [cursor=pointer]
+                - generic [ref=f81e1611]:
+                  - strong [ref=f81e1613]: 같이 둘러볼 만한 다양한 스토어 상품
+                  - list [ref=f81e1619]:
+                    - listitem [ref=f81e1620]
+                    - listitem [ref=f81e1637]
+                    - listitem [ref=f81e1654]
+                    - listitem [ref=f81e1671]
+                - generic [ref=f81e1691]:
+                  - strong [ref=f81e1694]: 관련 숏클립
+                  - list [ref=f81e1695]:
+                    - listitem [ref=f81e1696]
+                    - listitem [ref=f81e1702]
+                    - listitem [ref=f81e1708]
+                    - listitem [ref=f81e1714]
+                    - listitem [ref=f81e1720]
+                - generic [ref=f81e1728]:
+                  - generic [ref=f81e1729]:
+                    - strong [ref=f81e1731]: 리뷰
+                    - list [ref=f81e1740]:
+                      - listitem [ref=f81e1741]
+                      - listitem [ref=f81e1743]
+                      - listitem [ref=f81e1745]
+                      - listitem [ref=f81e1747]
+                      - listitem [ref=f81e1749]
+                      - listitem [ref=f81e1751]
+                    - list [ref=f81e1753]:
+                      - listitem [ref=f81e1754]
+                      - listitem [ref=f81e1770]
+                      - listitem [ref=f81e1786]
+                      - listitem [ref=f81e1802]
+                      - listitem [ref=f81e1818]
+                      - listitem [ref=f81e1834]
+                      - listitem [ref=f81e1850]
+                      - listitem [ref=f81e1866]
+                  - button "리뷰 전체보기" [ref=f81e1883] [cursor=pointer]
+                - generic [ref=f81e1889]:
+                  - strong [ref=f81e1891]: Q&A
+                  - list [ref=f81e1894]:
+                    - listitem [ref=f81e1895]
+                    - listitem [ref=f81e1897]
+                    - listitem [ref=f81e1899]
+                    - listitem [ref=f81e1901]
+                  - button "Q&A 전체보기" [ref=f81e1904] [cursor=pointer]
+                - generic [ref=f81e1909]:
+                  - generic [ref=f81e1910]:
+                    - link [ref=f81e1911] [cursor=pointer]:
+                      - /url: /hwachawon
+                      - img "이미지정보" [ref=f81e1912]
+                    - generic [ref=f81e1913]:
+                      - link "화차원" [ref=f81e1915] [cursor=pointer]:
+                        - /url: /hwachawon
+                      - generic [ref=f81e1916]: 오픈 8년된 스토어
+                      - list [ref=f81e1918]:
+                        - listitem [ref=f81e1919]:
+                          - button "빅파워" [ref=f81e1925] [cursor=pointer]
+                          - button "도움말" [ref=f81e1927] [cursor=pointer]
+                        - listitem [ref=f81e1932]:
+                          - button "관심고객수 3,117" [ref=f81e1933] [cursor=pointer]
+                          - button "도움말" [ref=f81e1935] [cursor=pointer]
+                  - list [ref=f81e1940]:
+                    - listitem [ref=f81e1941]:
+                      - button "알림받기" [ref=f81e1942] [cursor=pointer]
+                    - listitem [ref=f81e1946]:
+                      - link "톡톡" [ref=f81e1947] [cursor=pointer]:
+                        - /url: https://talk.naver.com/ct/wcdawj#nafullscreen
+                    - listitem [ref=f81e1951]:
+                      - link "스토어홈" [ref=f81e1952] [cursor=pointer]:
+                        - /url: /hwachawon
+                  - list [ref=f81e1955]:
+                    - listitem [ref=f81e1956]:
+                      - link "블로그" [ref=f81e1957] [cursor=pointer]:
+                        - /url: http://blog.naver.com/kimwjddnjs1
+                    - listitem [ref=f81e1963]:
+                      - link "인스타그램" [ref=f81e1964] [cursor=pointer]:
+                        - /url: http://instagram.com/huachawon
+                - generic [ref=f81e1967]:
+                  - generic [ref=f81e1970]:
+                    - strong [ref=f81e1972]: 함께 찾는 다양한 스토어 상품
+                    - list [ref=f81e1978]:
+                      - listitem [ref=f81e1979]
+                      - listitem [ref=f81e1996]
+                      - listitem [ref=f81e2013]
+                      - listitem [ref=f81e2030]
+                  - generic [ref=f81e2049]:
+                    - strong [ref=f81e2051]: 공예디자인 인기상품
+                    - list [ref=f81e2057]:
+                      - listitem [ref=f81e2058]
+                      - listitem [ref=f81e2075]
+                      - listitem [ref=f81e2092]
+                      - listitem [ref=f81e2109]
+                  - generic [ref=f81e2128]:
+                    - generic [ref=f81e2129]:
+                      - strong [ref=f81e2130]: 화차원 인기상품
+                      - link "전체보기" [ref=f81e2131] [cursor=pointer]:
+                        - /url: /hwachawon/category/ALL
+                    - list [ref=f81e2139]:
+                      - listitem [ref=f81e2140]
+                      - listitem [ref=f81e2157]
+                      - listitem [ref=f81e2174]
+                      - listitem [ref=f81e2191]
+                  - generic [ref=f81e2210]:
+                    - list [ref=f81e2212]:
+                      - listitem [ref=f81e2213]
+                      - listitem [ref=f81e2215]
+                      - listitem [ref=f81e2217]
+                      - listitem [ref=f81e2219]
+                    - tabpanel [ref=f81e2221]:
+                      - list [ref=f81e2226]:
+                        - listitem [ref=f81e2227]
+                        - listitem [ref=f81e2244]
+                        - listitem [ref=f81e2261]
+                        - listitem [ref=f81e2278]
+                - generic [ref=f81e2297]:
+                  - list [ref=f81e2298]:
+                    - listitem [ref=f81e2299]:
+                      - button "구매 추가정보" [ref=f81e2300] [cursor=pointer]
+                    - listitem [ref=f81e2303]:
+                      - button "상품정보 제공고시" [ref=f81e2304] [cursor=pointer]
+                    - listitem [ref=f81e2307]:
+                      - button "반품/교환안내" [ref=f81e2308] [cursor=pointer]
+                    - listitem [ref=f81e2311]:
+                      - button "판매자정보" [ref=f81e2312] [cursor=pointer]
+                    - listitem [ref=f81e2315]:
+                      - button "주의사항" [ref=f81e2316] [cursor=pointer]
+                    - listitem [ref=f81e2319]:
+                      - link "쇼핑 안전거래 TIP" [ref=f81e2320] [cursor=pointer]:
+                        - /url: https://safety.smartstore.naver.com/main/rules/safety/tip
+                    - listitem [ref=f81e2323]:
+                      - button "상품정보 신고" [ref=f81e2324] [cursor=pointer]
+                  - generic [ref=f81e2327]:
+                    - generic [ref=f81e2328]: 네이버파이낸셜
+                    - generic [ref=f81e2329]: "결제대금예치업 등록번호 : 02-006-00056"
+                    - paragraph [ref=f81e2330]: 네이버파이낸셜㈜은 전자금융거래법에 따라 결제대금예치업을 운영할 수 있는 전자금융업자로 금융위원회로 등록되었으며, 본 판매자는 구매금액, 결제수단에 관계없이 모든 거래에 대해 자동적으로 네이버파이낸셜㈜이 제공하는 구매안전서비스를 적용하고 있습니다.
+                    - button "서비스 가입사실 확인" [ref=f81e2331] [cursor=pointer]
+                    - button "도움말" [ref=f81e2333] [cursor=pointer]
+                  - generic [ref=f81e2338]:
+                    - generic [ref=f81e2339]:
+                      - term [ref=f81e2340]: 상호명
+                      - definition [ref=f81e2341]: 화차원 (개인 사업자)
+                    - generic [ref=f81e2342]:
+                      - term [ref=f81e2343]: 대표자
+                      - definition [ref=f81e2344]:
+                        - text: 김정원
+                        - button "판매자 상세정보 확인" [ref=f81e2345] [cursor=pointer]
+            - generic [ref=f81e2349]:
+              - generic [ref=f81e2350]:
+                - button "공유하기" [ref=f81e2357] [cursor=pointer]
+                - button [ref=f81e2360] [cursor=pointer]:
+                  - img "맨위로" [ref=f81e2361]
+              - generic [ref=f81e2363]:
+                - generic [ref=f81e2364]:
+                  - button "품절되었습니다" [disabled]
+                - generic [ref=f81e2365]:
+                  - button "찜 하기" [ref=f81e2366] [cursor=pointer]:
+                    - text: 찜
+                    - generic [ref=f81e2369]: 하기
+                  - button "톡톡문의" [ref=f81e2370] [cursor=pointer]
+      - generic [ref=f81e2378]:
+        - heading "하위영역" [level=2] [ref=f81e2379]
+        - generic [ref=f81e2380]:
+          - link "네이버 이용약관" [ref=f81e2381] [cursor=pointer]:
+            - /url: http://www.naver.com/rules/service.html
+          - link "네이버페이 이용약관" [ref=f81e2382] [cursor=pointer]:
+            - /url: https://new-m.pay.naver.com/member/terms-policy/npay-usage
+          - link [ref=f81e2383] [cursor=pointer]:
+            - /url: http://www.naver.com/rules/privacy.html
+            - strong [ref=f81e2384]: 개인정보처리방침
+          - link "법적고지 및 주의사항" [ref=f81e2385] [cursor=pointer]:
+            - /url: https://shopping.naver.com/help/legal-basis
+          - link "입점안내" [ref=f81e2386] [cursor=pointer]:
+            - /url: http://join.shopping.naver.com/index.nhn
+          - link "쇼핑윈도 노출안내" [ref=f81e2387] [cursor=pointer]:
+            - /url: https://sell.smartstore.naver.com/#/home/about?tipModal=WINDOW_EXPOSURE&tap=smartstore
+          - link "쇼핑파트너센터" [ref=f81e2388] [cursor=pointer]:
+            - /url: https://center.shopping.naver.com/
+          - link "스마트스토어센터" [ref=f81e2389] [cursor=pointer]:
+            - /url: https://sell.storefarm.naver.com/#/home/about
+          - link "안전거래센터" [ref=f81e2390] [cursor=pointer]:
+            - /url: https://safety.shopping.naver.com
+          - link "전자금융거래약관" [ref=f81e2391] [cursor=pointer]:
+            - /url: https://new-m.pay.naver.com/member/terms-policy/finance
+          - link "쇼핑&페이 고객센터" [ref=f81e2392] [cursor=pointer]:
+            - /url: https://help.pay.naver.com/
+        - paragraph [ref=f81e2393]: 네이버㈜는 통신판매중개자이며, 통신판매의 당사자가 아닙니다. 상품, 상품정보, 거래에 관한 의무와 책임은 판매자에게 있습니다.
+        - generic [ref=f81e2394]:
+          - generic [ref=f81e2395]:
+            - generic [ref=f81e2396]: "사업자등록번호 : 220-81-62517"
+            - generic [ref=f81e2397]: "통신판매업신고번호 : 제2006-경기성남-0692호"
+            - generic [ref=f81e2398]: "대표이사 : 최수연"
+            - link "사업자등록정보확인" [ref=f81e2399] [cursor=pointer]:
+              - /url: http://www.ftc.go.kr/bizCommPop.do?wrkr_no=2208162517
+            - generic [ref=f81e2400]:
+              - text: "이메일 :"
+              - link "helpcustomer@naver.com" [ref=f81e2401] [cursor=pointer]:
+                - /url: mailto:helpcustomer@naver.com
+          - generic [ref=f81e2402]:
+            - generic [ref=f81e2403]: "주소 : 경기도 성남시 분당구 정자일로 95, NAVER 1784, 13561"
+            - link [ref=f81e2405] [cursor=pointer]:
+              - /url: https://help.pay.naver.com/mail/form.help
+              - strong [ref=f81e2406]: 1:1 문의 바로가기
+            - generic [ref=f81e2407]: "호스팅 서비스 제공 : NAVER Cloud"
+          - generic [ref=f81e2408]:
+            - generic [ref=f81e2409]: 쇼핑&페이 구매자 고객센터 1588-3819
+            - generic [ref=f81e2410]: 네이버 대표전화 1588-3820
+            - generic [ref=f81e2411]: 네이버플러스 멤버십 전용 고객센터 1599-1399
+        - paragraph [ref=f81e2412]:
+          - link "NAVER" [ref=f81e2413] [cursor=pointer]:
+            - /url: http://www.naver.com
+          - text: Copyright ©
+          - strong [ref=f81e2415]:
+            - link "NAVER Corp." [ref=f81e2416] [cursor=pointer]:
+              - /url: http://www.navercorp.com/ko/index.nhn
+          - text: All Rights Reserved.

@@ -1,0 +1,131 @@
+- generic [ref=f42e3]:
+  - link "본문으로 바로가기" [ref=f42e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f42e6]:
+    - generic [ref=f42e7]:
+      - generic [ref=f42e9]:
+        - generic [ref=f42e11]:
+          - link "네이버" [ref=f42e12] [cursor=pointer]:
+            - /url: https://www.naver.com
+          - link "네이버플러스 스토어 홈" [ref=f42e16] [cursor=pointer]:
+            - /url: https://shopping.naver.com/ns/home?
+        - generic [ref=f42e22]:
+          - link [ref=f42e23] [cursor=pointer]:
+            - /url: /dadodadok/profile
+            - paragraph [ref=f42e26]: 다도전문스토어 다도다독
+          - generic [ref=f42e27]:
+            - button "관심고객수 6,145" [ref=f42e28] [cursor=pointer]
+            - button "도움말" [ref=f42e30] [cursor=pointer]
+          - button "검색어를 입력해주세요" [ref=f42e35] [cursor=pointer]
+      - generic [ref=f42e38]:
+        - generic [ref=f42e39]:
+          - button "알림받기" [ref=f42e44] [cursor=pointer]
+          - heading [level=1] [ref=f42e50]:
+            - link [ref=f42e54] [cursor=pointer]:
+              - /url: /dadodadok
+              - img "다도다독" [ref=f42e55]
+          - generic [ref=f42e60]:
+            - generic [ref=f42e62]:
+              - generic [ref=f42e63]: 스토어등급
+              - generic [ref=f42e69]: 빅파워
+              - button "도움말" [ref=f42e71] [cursor=pointer]
+            - generic [ref=f42e77]:
+              - generic [ref=f42e78]:
+                - text: 오늘
+                - emphasis [ref=f42e79]: "775"
+              - generic [ref=f42e80]:
+                - text: 전체
+                - emphasis [ref=f42e81]: 385,924
+        - generic [ref=f42e85]:
+          - generic [ref=f42e86]:
+            - list [ref=f42e87]:
+              - listitem [ref=f42e88]:
+                - link "쇼핑라이브" [ref=f42e89] [cursor=pointer]:
+                  - /url: /dadodadok/lives?cp=1
+              - listitem [ref=f42e95]:
+                - link "베스트" [ref=f42e96] [cursor=pointer]:
+                  - /url: /dadodadok/best?cp=1
+              - listitem [ref=f42e97]:
+                - link "국내발송 하위 메뉴 있음" [ref=f42e98] [cursor=pointer]:
+                  - /url: /dadodadok/category/78147608017f4690bef8d90e8a8bf52e?cp=1
+                  - text: 국내발송
+                  - generic [ref=f42e99]: 하위 메뉴 있음
+              - listitem [ref=f42e102]:
+                - link "이치헌 도예가" [ref=f42e103] [cursor=pointer]:
+                  - /url: /dadodadok/category/c644431b6d9040379c8d6738a1fda784?cp=1
+              - listitem [ref=f42e104]:
+                - link "시리즈모음 하위 메뉴 있음" [ref=f42e105] [cursor=pointer]:
+                  - /url: /dadodadok/category/3eb839cf5dad44cd97ee2456a2452876?cp=1
+                  - text: 시리즈모음
+                  - generic [ref=f42e106]: 하위 메뉴 있음
+              - listitem [ref=f42e109]:
+                - link "말차 하위 메뉴 있음" [ref=f42e110] [cursor=pointer]:
+                  - /url: /dadodadok/category/55035caa1f6a47019cabc33c40f4a86e?cp=1
+                  - text: 말차
+                  - generic [ref=f42e111]: 하위 메뉴 있음
+              - listitem [ref=f42e114]:
+                - link "차 우림 하위 메뉴 있음" [ref=f42e115] [cursor=pointer]:
+                  - /url: /dadodadok/category/5546a18e9d3942f8b2aa30495010a47b?cp=1
+                  - text: 차 우림
+                  - generic [ref=f42e116]: 하위 메뉴 있음
+              - listitem [ref=f42e119]:
+                - link "차 마심 하위 메뉴 있음" [ref=f42e120] [cursor=pointer]:
+                  - /url: /dadodadok/category/ef9fb17594794c0c943984dafd7c0fda?cp=1
+                  - text: 차 마심
+                  - generic [ref=f42e121]: 하위 메뉴 있음
+              - listitem [ref=f42e124]:
+                - link "차 도구 하위 메뉴 있음" [ref=f42e125] [cursor=pointer]:
+                  - /url: /dadodadok/category/6880d3d3ed8e4e509f40f494fca20c5d?cp=1
+                  - text: 차 도구
+                  - generic [ref=f42e126]: 하위 메뉴 있음
+              - listitem [ref=f42e129]:
+                - link "찻잎 하위 메뉴 있음" [ref=f42e130] [cursor=pointer]:
+                  - /url: /dadodadok/category/de636a10936b4dfca8006a902f6d037c?cp=1
+                  - text: 찻잎
+                  - generic [ref=f42e131]: 하위 메뉴 있음
+              - listitem [ref=f42e134]:
+                - link "세트상품 하위 메뉴 있음" [ref=f42e135] [cursor=pointer]:
+                  - /url: /dadodadok/category/823531a72df4459a98c184a2a9db320e?cp=1
+                  - text: 세트상품
+                  - generic [ref=f42e136]: 하위 메뉴 있음
+              - listitem [ref=f42e139]:
+                - link "차통 │ 다구 보관함 하위 메뉴 있음" [ref=f42e140] [cursor=pointer]:
+                  - /url: /dadodadok/category/9e2b7cfadb6a44308e2c46144dcfb1b8?cp=2
+                  - text: 차통 │ 다구 보관함
+                  - generic [ref=f42e141]: 하위 메뉴 있음
+              - listitem [ref=f42e144]:
+                - link "차소품 하위 메뉴 있음" [ref=f42e145] [cursor=pointer]:
+                  - /url: /dadodadok/category/85270ba70010417cbe4f092af7af5774?cp=2
+                  - text: 차소품
+                  - generic [ref=f42e146]: 하위 메뉴 있음
+              - listitem [ref=f42e149]:
+                - link "자사 제품 하위 메뉴 있음" [ref=f42e150] [cursor=pointer]:
+                  - /url: /dadodadok/category/1d0719ee6d6b4aa784de65bf6674cbe8?cp=2
+                  - text: 자사 제품
+                  - generic [ref=f42e151]: 하위 메뉴 있음
+              - listitem [ref=f42e154]:
+                - link "고객지원센터 하위 메뉴 있음" [ref=f42e155] [cursor=pointer]:
+                  - /url: /dadodadok/category/c8a28830321745959adcfe9a8de0ff15?cp=2
+                  - text: 고객지원센터
+                  - generic [ref=f42e156]: 하위 메뉴 있음
+              - listitem [ref=f42e159]:
+                - link "전체상품" [ref=f42e160] [cursor=pointer]:
+                  - /url: /dadodadok/category/462f27e889b141ccbff398584bf13e06?cp=2
+            - list [ref=f42e161]:
+              - listitem [ref=f42e162]:
+                - link "공지사항" [ref=f42e163] [cursor=pointer]:
+                  - /url: /dadodadok/notice?cp=1
+              - listitem [ref=f42e164]:
+                - link "판매자 정보" [ref=f42e165] [cursor=pointer]:
+                  - /url: /dadodadok/profile?cp=1
+          - button "더보기" [ref=f42e166] [cursor=pointer]
+    - generic [ref=f42e173]:
+      - generic "상품 이미지" [ref=f42e177]: 대표이미지
+      - generic [ref=f42e184]:
+        - heading "자사 차총 뚱땡이 코끼리 FKA13 차친구 수공예" [level=3] [ref=f42e185]
+        - generic [ref=f42e187]:
+          - generic [ref=f42e188]:
+            - generic [ref=f42e191]: 평점
+            - generic [ref=f42e192]: "4.95"
+          - link "20건 리뷰" [ref=f42e194] [cursor=pointer]:
+            - /url: "#"

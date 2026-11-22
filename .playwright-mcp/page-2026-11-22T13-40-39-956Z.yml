@@ -1,0 +1,27 @@
+- generic [ref=f69e4]:
+  - link "본문으로 바로가기" [ref=f69e5] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f69e7]:
+    - generic [ref=f69e13]:
+      - generic [ref=f69e15]:
+        - link "네이버" [ref=f69e16] [cursor=pointer]:
+          - /url: https://www.naver.com
+        - link "네이버플러스 스토어 홈" [ref=f69e20] [cursor=pointer]:
+          - /url: https://shopping.naver.com/ns/home?
+      - generic [ref=f69e26]:
+        - heading [level=1] [ref=f69e27]:
+          - link [ref=f69e28] [cursor=pointer]:
+            - /url: /ohubancha
+            - img "오후반차" [ref=f69e29]
+        - button "알림받기" [ref=f69e33] [cursor=pointer]
+        - button "검색어를 입력해주세요" [ref=f69e38] [cursor=pointer]
+    - generic [ref=f69e47]:
+      - generic "상품 이미지" [ref=f69e51]: 대표이미지
+      - generic [ref=f69e58]:
+        - heading "합장 개구리 귀여운 개구리 차총 차친구 다도구 다도 자사호 찻자리" [level=3] [ref=f69e59]
+        - generic [ref=f69e61]:
+          - generic [ref=f69e62]:
+            - generic [ref=f69e65]: 평점
+            - generic [ref=f69e66]: "4.77"
+          - link "31건 리뷰" [ref=f69e68] [cursor=pointer]:
+            - /url: "#"

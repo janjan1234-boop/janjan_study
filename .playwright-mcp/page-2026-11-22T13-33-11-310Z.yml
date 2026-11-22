@@ -1,0 +1,27 @@
+- generic [ref=f60e4]:
+  - link "본문으로 바로가기" [ref=f60e5] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f60e7]:
+    - generic [ref=f60e13]:
+      - generic [ref=f60e15]:
+        - link "네이버" [ref=f60e16] [cursor=pointer]:
+          - /url: https://www.naver.com
+        - link "네이버플러스 스토어 홈" [ref=f60e20] [cursor=pointer]:
+          - /url: https://shopping.naver.com/ns/home?
+      - generic [ref=f60e26]:
+        - heading [level=1] [ref=f60e27]:
+          - link [ref=f60e28] [cursor=pointer]:
+            - /url: /ohubancha
+            - img "오후반차" [ref=f60e29]
+        - button "알림받기" [ref=f60e33] [cursor=pointer]
+        - button "검색어를 입력해주세요" [ref=f60e38] [cursor=pointer]
+    - generic [ref=f60e47]:
+      - generic "상품 이미지" [ref=f60e51]: 대표이미지
+      - generic [ref=f60e58]:
+        - heading "오후반차 평안한 미니 불상 비로자나불 약사여래불 석가모니 명상 부처님" [level=3] [ref=f60e59]
+        - generic [ref=f60e61]:
+          - generic [ref=f60e62]:
+            - generic [ref=f60e65]: 평점
+            - generic [ref=f60e66]: "4.93"
+          - link "135건 리뷰" [ref=f60e68] [cursor=pointer]:
+            - /url: "#"

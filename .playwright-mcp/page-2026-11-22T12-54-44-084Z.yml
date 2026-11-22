@@ -1,0 +1,27 @@
+- generic [ref=f30e4]:
+  - link "본문으로 바로가기" [ref=f30e5] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f30e7]:
+    - generic [ref=f30e13]:
+      - generic [ref=f30e15]:
+        - link "네이버" [ref=f30e16] [cursor=pointer]:
+          - /url: https://www.naver.com
+        - link "네이버플러스 스토어 홈" [ref=f30e20] [cursor=pointer]:
+          - /url: https://shopping.naver.com/ns/home?
+      - generic [ref=f30e26]:
+        - heading [level=1] [ref=f30e27]:
+          - link [ref=f30e28] [cursor=pointer]:
+            - /url: /ohubancha
+            - img "오후반차" [ref=f30e29]
+        - button "알림받기" [ref=f30e33] [cursor=pointer]
+        - button "검색어를 입력해주세요" [ref=f30e38] [cursor=pointer]
+    - generic [ref=f30e47]:
+      - generic "상품 이미지" [ref=f30e51]: 대표이미지
+      - generic [ref=f30e58]:
+        - heading "오후반차 난초꽃 고양이 차친구 차총 티악세사리" [level=3] [ref=f30e59]
+        - generic [ref=f30e61]:
+          - generic [ref=f30e62]:
+            - generic [ref=f30e65]: 평점
+            - generic [ref=f30e66]: "4.96"
+          - link "307건 리뷰" [ref=f30e68] [cursor=pointer]:
+            - /url: "#"

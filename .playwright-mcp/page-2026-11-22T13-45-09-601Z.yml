@@ -1,0 +1,90 @@
+- generic [ref=f81e3]:
+  - link "본문으로 바로가기" [ref=f81e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f81e6]:
+    - generic [ref=f81e7]:
+      - generic [ref=f81e9]:
+        - generic [ref=f81e11]:
+          - link "네이버" [ref=f81e12] [cursor=pointer]:
+            - /url: https://www.naver.com
+          - link "네이버플러스 스토어 홈" [ref=f81e16] [cursor=pointer]:
+            - /url: https://shopping.naver.com/ns/home?
+        - generic [ref=f81e22]:
+          - link [ref=f81e23] [cursor=pointer]:
+            - /url: /hwachawon/profile
+            - paragraph [ref=f81e26]: 화차원이 현지에서 직접 셀렉하고 소개하는 자사호와 이무고수차 끽다생활을 위한 차도구 이야기
+          - generic [ref=f81e27]:
+            - button "관심고객수 3,117" [ref=f81e28] [cursor=pointer]
+            - button "도움말" [ref=f81e30] [cursor=pointer]
+          - button "검색어를 입력해주세요" [ref=f81e35] [cursor=pointer]
+      - generic [ref=f81e38]:
+        - generic [ref=f81e39]:
+          - button "알림받기" [ref=f81e44] [cursor=pointer]
+          - heading [level=1] [ref=f81e50]:
+            - link [ref=f81e54] [cursor=pointer]:
+              - /url: /hwachawon
+              - img "화차원" [ref=f81e55]
+          - generic [ref=f81e62]:
+            - generic [ref=f81e63]: 스토어등급
+            - generic [ref=f81e69]: 빅파워
+            - button "도움말" [ref=f81e71] [cursor=pointer]
+        - generic [ref=f81e80]:
+          - list [ref=f81e81]:
+            - listitem [ref=f81e82]:
+              - link "전체상품" [ref=f81e83] [cursor=pointer]:
+                - /url: /hwachawon/category/136bf8ddad534dfc8eb33ac8ff1cc36f?cp=1
+            - listitem [ref=f81e84]:
+              - link "화차원 자사호🫖 하위 메뉴 있음" [ref=f81e85] [cursor=pointer]:
+                - /url: /hwachawon/category/d3ba54c023934976ae6ccbfba8284c8a?cp=1
+                - text: 화차원 자사호🫖
+                - generic [ref=f81e86]: 하위 메뉴 있음
+            - listitem [ref=f81e89]:
+              - link "김해요 도자기 하위 메뉴 있음" [ref=f81e90] [cursor=pointer]:
+                - /url: /hwachawon/category/1ad0338edc784870ad644d914f756c00?cp=1
+                - text: 김해요 도자기
+                - generic [ref=f81e91]: 하위 메뉴 있음
+            - listitem [ref=f81e94]:
+              - link "보이차│오룡차🍵 하위 메뉴 있음" [ref=f81e95] [cursor=pointer]:
+                - /url: /hwachawon/category/d036a1e3122449dbb0fc95cd94407543?cp=1
+                - text: 보이차│오룡차🍵
+                - generic [ref=f81e96]: 하위 메뉴 있음
+            - listitem [ref=f81e99]:
+              - link "중국센터 직배송✈️✈️ 하위 메뉴 있음" [ref=f81e100] [cursor=pointer]:
+                - /url: /hwachawon/category/558d23d24b40432385dca5b29d555020?cp=1
+                - text: 중국센터 직배송✈️✈️
+                - generic [ref=f81e101]: 하위 메뉴 있음
+            - listitem [ref=f81e104]:
+              - link "홈카페│유리다구🍷 하위 메뉴 있음" [ref=f81e105] [cursor=pointer]:
+                - /url: /hwachawon/category/454e4d2dedf6485cbdaa79b5d93be5ab?cp=1
+                - text: 홈카페│유리다구🍷
+                - generic [ref=f81e106]: 하위 메뉴 있음
+            - listitem [ref=f81e109]:
+              - link "차도구│차판│다구소품☕️ 하위 메뉴 있음" [ref=f81e110] [cursor=pointer]:
+                - /url: /hwachawon/category/87d2abad093e42d4ab11b0760ce01669?cp=1
+                - text: 차도구│차판│다구소품☕️
+                - generic [ref=f81e111]: 하위 메뉴 있음
+            - listitem [ref=f81e114]:
+              - link "홈카페│우드🪵 하위 메뉴 있음" [ref=f81e115] [cursor=pointer]:
+                - /url: /hwachawon/category/5502211fe3e24ce586aacf8da99b082e?cp=1
+                - text: 홈카페│우드🪵
+                - generic [ref=f81e116]: 하위 메뉴 있음
+            - listitem [ref=f81e119]:
+              - link "도매구매 및 상담📞📞" [ref=f81e120] [cursor=pointer]:
+                - /url: /hwachawon/category/ee1c2f57eb4e44deb3e7858d8b564ff0?cp=1
+          - list [ref=f81e121]:
+            - listitem [ref=f81e122]:
+              - link "공지사항" [ref=f81e123] [cursor=pointer]:
+                - /url: /hwachawon/notice?cp=1
+            - listitem [ref=f81e124]:
+              - link "판매자 정보" [ref=f81e125] [cursor=pointer]:
+                - /url: /hwachawon/profile?cp=1
+    - generic [ref=f81e130]:
+      - generic "상품 이미지" [ref=f81e134]: 대표이미지
+      - generic [ref=f81e141]:
+        - heading "화차원 호랑이 차총 / 범띠 다우 자사차총 티오브제 자사호" [level=3] [ref=f81e142]
+        - generic [ref=f81e144]:
+          - generic [ref=f81e145]:
+            - generic [ref=f81e148]: 평점
+            - generic [ref=f81e149]: "5.0"
+          - link "28건 리뷰" [ref=f81e151] [cursor=pointer]:
+            - /url: "#"

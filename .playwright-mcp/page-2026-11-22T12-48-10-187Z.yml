@@ -1,0 +1,54 @@
+- generic [ref=f21e3]:
+  - link "본문으로 바로가기" [ref=f21e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f21e6]:
+    - generic [ref=f21e7]:
+      - generic [ref=f21e9]:
+        - generic [ref=f21e11]:
+          - link "네이버" [ref=f21e12] [cursor=pointer]:
+            - /url: https://www.naver.com
+          - link "네이버플러스 스토어 홈" [ref=f21e16] [cursor=pointer]:
+            - /url: https://shopping.naver.com/ns/home?
+        - generic [ref=f21e22]:
+          - link [ref=f21e23] [cursor=pointer]:
+            - /url: /dadodadok/profile
+            - paragraph [ref=f21e26]: 다도전문스토어 다도다독
+          - generic [ref=f21e27]:
+            - button "관심고객수 0" [ref=f21e28] [cursor=pointer]
+            - button "도움말" [ref=f21e30] [cursor=pointer]
+          - button "검색어를 입력해주세요" [ref=f21e35] [cursor=pointer]
+      - generic [ref=f21e38]:
+        - generic [ref=f21e39]:
+          - button "알림받기" [ref=f21e44] [cursor=pointer]
+          - heading [level=1] [ref=f21e50]:
+            - link [ref=f21e54] [cursor=pointer]:
+              - /url: /dadodadok
+              - img "다도다독" [ref=f21e55]
+          - generic [ref=f21e60]:
+            - generic [ref=f21e62]:
+              - generic [ref=f21e63]: 스토어등급
+              - generic [ref=f21e69]: 빅파워
+              - button "도움말" [ref=f21e71] [cursor=pointer]
+            - generic [ref=f21e77]:
+              - generic [ref=f21e78]:
+                - text: 오늘
+                - emphasis [ref=f21e79]: "0"
+              - generic [ref=f21e80]:
+                - text: 전체
+                - emphasis [ref=f21e81]: "0"
+        - generic [ref=f21e86]:
+          - list
+          - list [ref=f21e87]:
+            - listitem [ref=f21e88]:
+              - link "판매자 정보" [ref=f21e89] [cursor=pointer]:
+                - /url: /dadodadok/profile?cp=1
+    - generic [ref=f21e94]:
+      - generic "상품 이미지" [ref=f21e98]: 대표이미지
+      - generic [ref=f21e105]:
+        - heading "차총 바라보는 수달 FKA18 차친구 수공예 차도구 도자기 다도" [level=3] [ref=f21e106]
+        - generic [ref=f21e108]:
+          - generic [ref=f21e109]:
+            - generic [ref=f21e112]: 평점
+            - generic [ref=f21e113]: "5.0"
+          - link "33건 리뷰" [ref=f21e115] [cursor=pointer]:
+            - /url: "#"

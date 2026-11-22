@@ -1,0 +1,2257 @@
+- generic [ref=e3]:
+  - dialog "리뷰 42" [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - strong [ref=e11]: 리뷰 42
+        - generic [ref=e14]:
+          - generic [ref=e16]:
+            - generic [ref=e17]:
+              - strong [ref=e18]:
+                - generic [ref=e21]: 평점
+                - text: "4.88"
+              - generic [ref=e22]:
+                - text: (
+                - button "최근 6개월 평점 4.93" [ref=e23] [cursor=pointer]
+                - button "도움말" [ref=e25] [cursor=pointer]
+                - text: )
+            - list [ref=e30]:
+              - listitem [ref=e31]:
+                - emphasis [ref=e32]: 디자인
+                - generic [ref=e33]:
+                  - generic [ref=e34]: 마음에 들어요
+                  - generic [ref=e35]: 95%
+              - listitem [ref=e36]:
+                - emphasis [ref=e37]: 내구성
+                - generic [ref=e38]:
+                  - generic [ref=e39]: 튼튼해요
+                  - generic [ref=e40]: 67%
+              - listitem [ref=e41]:
+                - emphasis [ref=e42]: 크기
+                - generic [ref=e43]:
+                  - generic [ref=e44]: 딱 좋아요
+                  - generic [ref=e45]: 69%
+            - button "평점 비율 보기" [ref=e47] [cursor=pointer]
+          - generic [ref=e51]:
+            - strong [ref=e53]: 포토&동영상 30
+            - list [ref=e54]:
+              - listitem [ref=e55]:
+                - link "포토/동영상 리뷰 썸네일 이미지 사진/비디오 수 3" [ref=e56] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=e57]
+                  - emphasis [ref=e58]:
+                    - generic [ref=e59]: 사진/비디오 수
+                    - text: "3"
+              - listitem [ref=e60]:
+                - link "포토/동영상 리뷰 썸네일 이미지 사진/비디오 수 7" [ref=e61] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=e62]
+                  - emphasis [ref=e63]:
+                    - generic [ref=e64]: 사진/비디오 수
+                    - text: "7"
+              - listitem [ref=e65]:
+                - link [ref=e66] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=e67]
+              - listitem [ref=e68]:
+                - link [ref=e69] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=e70]
+              - listitem [ref=e71]:
+                - link [ref=e72] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=e73]
+              - listitem [ref=e74]:
+                - link [ref=e75] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=e76]
+              - listitem [ref=e77]:
+                - link [ref=e78] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=e79]
+              - listitem [ref=e80]:
+                - link [ref=e81] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=e82]
+                  - generic [ref=e83]:
+                    - text: 더보기
+                    - generic [ref=e84]: "23"
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - strong [ref=e89]: 리뷰 42
+              - generic [ref=e90]:
+                - button "리뷰 제공 기준" [ref=e91] [cursor=pointer]
+                - button "도움말" [ref=e93] [cursor=pointer]
+            - generic [ref=e98]:
+              - generic [ref=e99]:
+                - generic [ref=e100]:
+                  - generic [ref=e106]:
+                    - button "AI 리뷰요약" [ref=e107] [cursor=pointer]
+                    - button "도움말" [ref=e111] [cursor=pointer]
+                  - list [ref=e121]:
+                    - button "귀여워요" [ref=e122] [cursor=pointer]
+                    - button "실물이 예뻐요" [ref=e123] [cursor=pointer]
+                    - button "디자인이 예뻐요" [ref=e124] [cursor=pointer]
+                    - button "만족스러워요" [ref=e125] [cursor=pointer]
+                    - button "색상이 예뻐요" [ref=e126] [cursor=pointer]
+                    - button "사이즈가 작아요" [ref=e127] [cursor=pointer]
+                    - button "투명해요" [ref=e128] [cursor=pointer]
+                    - button "사이즈가 마음에 들어요" [ref=e129] [cursor=pointer]
+                    - button "여자친구가 좋아해요" [ref=e130] [cursor=pointer]
+                    - button "무게감이 좋아요" [ref=e131] [cursor=pointer]
+                    - button "장식용으로 좋아요" [ref=e132] [cursor=pointer]
+                    - button "선물하기 좋아요" [ref=e133] [cursor=pointer]
+                    - button "휴대하기 좋아요" [ref=e134] [cursor=pointer]
+                    - button "포장이 꼼꼼해요" [ref=e135] [cursor=pointer]
+                  - generic [aria-hidden]:
+                    - generic:
+                      - list:
+                        - button: 귀여워요
+                        - button: 실물이 예뻐요
+                        - button: 디자인이 예뻐요
+                        - button: 만족스러워요
+                        - button: 색상이 예뻐요
+                        - button: 사이즈가 작아요
+                        - button: 투명해요
+                        - button: 사이즈가 마음에 들어요
+                        - button: 여자친구가 좋아해요
+                        - button: 무게감이 좋아요
+                        - button: 장식용으로 좋아요
+                        - button: 선물하기 좋아요
+                        - button: 휴대하기 좋아요
+                        - button: 포장이 꼼꼼해요
+                - generic [ref=e137]:
+                  - list [ref=e138]:
+                    - listitem [ref=e139]:
+                      - button "전체" [ref=e140] [cursor=pointer]
+                    - listitem [ref=e143]:
+                      - button "상품옵션" [ref=e144] [cursor=pointer]
+                  - radiogroup "리뷰 정렬 기준 선택" [ref=e147]:
+                    - radio "랭킹순 정렬하기" [checked] [ref=e148] [cursor=pointer]:
+                      - text: 랭킹순
+                      - generic [ref=e149]: 정렬하기
+                    - button "도움말" [ref=e151] [cursor=pointer]
+                    - radio "최신순 정렬하기" [ref=e156] [cursor=pointer]:
+                      - text: 최신순
+                      - generic [ref=e157]: 정렬하기
+                    - radio "평점 높은순 정렬하기" [ref=e158] [cursor=pointer]:
+                      - text: 평점 높은순
+                      - generic [ref=e159]: 정렬하기
+                    - radio "평점 낮은순 정렬하기" [ref=e160] [cursor=pointer]:
+                      - text: 평점 낮은순
+                      - generic [ref=e161]: 정렬하기
+              - generic [ref=e2997]:
+                - generic [ref=e2998]:
+                  - generic [ref=e3000]:
+                    - button "AI 리뷰요약" [ref=e3001] [cursor=pointer]
+                    - button "도움말" [ref=e3005] [cursor=pointer]
+                  - generic [ref=e3011]:
+                    - list [ref=e3017]:
+                      - button "귀여워요" [ref=e3018] [cursor=pointer]
+                      - button "실물이 예뻐요" [ref=e3019] [cursor=pointer]
+                      - button "디자인이 예뻐요" [ref=e3020] [cursor=pointer]
+                      - button "만족스러워요" [ref=e3021] [cursor=pointer]
+                      - button "색상이 예뻐요" [ref=e3022] [cursor=pointer]
+                      - button "사이즈가 작아요" [ref=e3023] [cursor=pointer]
+                      - button "투명해요" [ref=e3024] [cursor=pointer]
+                      - button "사이즈가 마음에 들어요" [ref=e3025] [cursor=pointer]
+                      - button "여자친구가 좋아해요" [ref=e3026] [cursor=pointer]
+                      - button "무게감이 좋아요" [ref=e3027] [cursor=pointer]
+                      - button "장식용으로 좋아요" [ref=e3028] [cursor=pointer]
+                      - button "선물하기 좋아요" [ref=e3029] [cursor=pointer]
+                      - button "휴대하기 좋아요" [ref=e3030] [cursor=pointer]
+                      - button "포장이 꼼꼼해요" [ref=e3031] [cursor=pointer]
+                    - generic [ref=e3036]:
+                      - radiogroup [ref=e3038]:
+                        - list [ref=e3039]:
+                          - button "귀여워요" [ref=e3040] [cursor=pointer]
+                          - button "실물이 예뻐요" [ref=e3041] [cursor=pointer]
+                          - button "디자인이 예뻐요" [ref=e3042] [cursor=pointer]
+                          - button "만족스러워요" [ref=e3043] [cursor=pointer]
+                          - button "색상이 예뻐요" [ref=e3044] [cursor=pointer]
+                          - button "사이즈가 작아요" [ref=e3045] [cursor=pointer]
+                          - button "투명해요" [ref=e3046] [cursor=pointer]
+                          - button "사이즈가 마음에 들어요" [ref=e3047] [cursor=pointer]
+                          - button "여자친구가 좋아해요" [ref=e3048] [cursor=pointer]
+                          - button "무게감이 좋아요" [ref=e3049] [cursor=pointer]
+                          - button "장식용으로 좋아요" [ref=e3050] [cursor=pointer]
+                          - button "선물하기 좋아요" [ref=e3051] [cursor=pointer]
+                          - button "휴대하기 좋아요" [ref=e3052] [cursor=pointer]
+                          - button "포장이 꼼꼼해요" [ref=e3053] [cursor=pointer]
+                      - button "다음" [ref=e3054] [cursor=pointer]
+                - generic [ref=e3059]:
+                  - list [ref=e3060]:
+                    - listitem [ref=e3061]:
+                      - button "전체" [ref=e3062] [cursor=pointer]
+                    - listitem [ref=e3065]:
+                      - button "상품옵션" [ref=e3066] [cursor=pointer]
+                  - radiogroup "리뷰 정렬 기준 선택" [ref=e3069]:
+                    - radio "랭킹순 정렬하기" [checked] [ref=e3070] [cursor=pointer]:
+                      - text: 랭킹순
+                      - generic [ref=e3071]: 정렬하기
+                    - button "도움말" [ref=e3073] [cursor=pointer]
+                    - radio "최신순 정렬하기" [ref=e3078] [cursor=pointer]:
+                      - text: 최신순
+                      - generic [ref=e3079]: 정렬하기
+                    - radio "평점 높은순 정렬하기" [ref=e3080] [cursor=pointer]:
+                      - text: 평점 높은순
+                      - generic [ref=e3081]: 정렬하기
+                    - radio "평점 낮은순 정렬하기" [ref=e3082] [cursor=pointer]:
+                      - text: 평점 낮은순
+                      - generic [ref=e3083]: 정렬하기
+            - generic [ref=e162]:
+              - button [ref=e164] [cursor=pointer]:
+                - strong [ref=e172]: 리뷰 클렌징 시스템
+                - text: 작동 중입니다.
+              - list [ref=e178]:
+                - listitem [ref=e179]:
+                  - generic [ref=e180]:
+                    - generic [ref=e184]:
+                      - generic [ref=e185]: "5"
+                      - generic [ref=e188]:
+                        - generic [ref=e189]: rose******
+                        - generic [ref=e190]: 26.11.13.
+                        - button "신고" [ref=e191] [cursor=pointer]
+                    - generic [ref=e192]:
+                      - generic [ref=e193]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e194] [cursor=pointer]'
+                        - generic [ref=e196]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e198]:
+                        - paragraph [ref=e199]: 잘 포장되서 왔고, 작은 틴상자에 들어있었어요 너무 귀엽고, 힐링되고, 마음이 몽글해지는 것 같습니다♡
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 잘 포장되서 왔고, 작은 틴상자에 들어있었어요 너무 귀엽고, 힐링되고, 마음이 몽글해지는 것 같습니다♡" [ref=e200] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e201]: 더보기
+                      - list [ref=e208]:
+                        - listitem [ref=e209]:
+                          - generic [ref=e210]:
+                            - img "1000062268.jpg" [ref=e211]
+                            - link "이미지 펼치기" [ref=e212] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e213]
+                        - listitem [ref=e217]:
+                          - generic [ref=e218]:
+                            - img "1000062270.jpg" [ref=e219]
+                            - link "이미지 펼치기" [ref=e220] [cursor=pointer]:
+                              - /url: "#"
+                        - listitem [ref=e222]:
+                          - generic [ref=e223]:
+                            - img "1000062269.jpg" [ref=e224]
+                            - link "이미지 펼치기" [ref=e225] [cursor=pointer]:
+                              - /url: "#"
+                    - generic [ref=e228]:
+                      - generic [ref=e229]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e230] [cursor=pointer]
+                - listitem [ref=e233]:
+                  - generic [ref=e234]:
+                    - generic [ref=e238]:
+                      - generic [ref=e239]: "5"
+                      - generic [ref=e242]:
+                        - generic [ref=e243]: swee*****
+                        - generic [ref=e244]: 26.08.05.
+                        - button "신고" [ref=e245] [cursor=pointer]
+                    - generic [ref=e246]:
+                      - generic [ref=e247]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e248] [cursor=pointer]'
+                        - generic [ref=e250]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                      - generic [ref=e252]:
+                        - paragraph [ref=e253]: 차의 세계는 알면 알수록 정말 재미있는 것 같습니다. 차 생활을 시작하면서 하나씩 용품을 모으는 재미도 쏠쏠하네요. 이번에 토끼 모양 차총(차친구)을 구매했는데, 귀여운 디자인이 가장 먼저 마음에 들었습니다. 토끼가 좋은 의미를 담고 있다고 해서 더욱 만족스럽게 사용하고 있어요. 디자인이 예뻐 올려두기만 해도 분위기가 한층 살아나고, 차를 마시는 시간이 더욱 즐거워졌습니다. 보관 케이스도 함께 구성되어 있어 사용하지 않을 때 깔끔하게 보관할 수 있는 점도 만족스러웠습니다. 실용성과 디자인을 모두 갖춘 제품이라 차 생활을 시작하는 분들이나 차를 좋아하는 분들에게 추천하고 싶은 아이템입니다.
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요 차의 세계는 알면 알수록 정말 재미있는 것 같습니다. 차 생활을 시작하면서 하나씩 용품을 모으는 재미도 쏠쏠하네요. 이번에 토끼 모양 차총(차친구)을 구매했는데, 귀여운 디자인이 가장 먼저 마음에 들었습니다. 토끼가 좋은 의미를 담고 있다고 해서 더욱 만족스럽게 사용하고 있어요. 디자인이 예뻐 올려두기만 해도 분위기가 한층 살아나고, 차를 마시는 시간이 더욱 즐거워졌습니다. 보관 케이스도 함께 구성되어 있어 사용하지 않을 때 깔끔하게 보관할 수 있는 점도 만족스러웠습니다. 실용성과 디자인을 모두 갖춘 제품이라 차 생활을 시작하는 분들이나 차를 좋아하는 분들에게 추천하고 싶은 아이템입니다." [ref=e254] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e255]: 더보기
+                      - generic [ref=e259]:
+                        - list [ref=e262]:
+                          - listitem [ref=e263]:
+                            - generic [ref=e264]:
+                              - img "14805.jpg" [ref=e265]
+                              - link "이미지 펼치기" [ref=e266] [cursor=pointer]:
+                                - /url: "#"
+                                - emphasis [ref=e267]
+                          - listitem [ref=e271]:
+                            - generic [ref=e272]:
+                              - img "14802.jpg" [ref=e273]
+                              - link "이미지 펼치기" [ref=e274] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=e276]:
+                            - generic [ref=e277]:
+                              - img "14803.jpg" [ref=e278]
+                              - link "이미지 펼치기" [ref=e279] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=e281]:
+                            - generic [ref=e282]:
+                              - img "14806.jpg" [ref=e283]
+                              - link "이미지 펼치기" [ref=e284] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=e286]:
+                            - generic [ref=e287]:
+                              - img "14804.jpg" [ref=e288]
+                              - link "이미지 펼치기" [ref=e289] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=e291]:
+                            - generic [ref=e292]:
+                              - img "14814.jpg" [ref=e293]
+                              - link "이미지 펼치기" [ref=e294] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=e296]:
+                            - generic [ref=e297]:
+                              - img "14815.jpg" [ref=e298]
+                              - link "이미지 펼치기" [ref=e299] [cursor=pointer]:
+                                - /url: "#"
+                        - button "다음" [ref=e301] [cursor=pointer]
+                    - generic [ref=e306]:
+                      - generic [ref=e307]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e308] [cursor=pointer]
+                - listitem [ref=e311]:
+                  - generic [ref=e312]:
+                    - generic [ref=e316]:
+                      - generic [ref=e317]: "5"
+                      - generic [ref=e320]:
+                        - generic [ref=e321]: lhj0***
+                        - generic [ref=e322]: 26.10.12.
+                        - button "신고" [ref=e323] [cursor=pointer]
+                    - generic [ref=e324]:
+                      - generic [ref=e325]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e326] [cursor=pointer]'
+                        - generic [ref=e328]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e330]:
+                        - paragraph [ref=e331]: 너무 이쁘네요. 책상이나 식탁 오브제로 고급진 느낌입니다.
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 너무 이쁘네요. 책상이나 식탁 오브제로 고급진 느낌입니다." [ref=e332] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e333]: 더보기
+                      - list [ref=e337]:
+                        - listitem [ref=e338]:
+                          - generic [ref=e339]:
+                            - img "review_image" [ref=e340]
+                            - link "이미지 펼치기" [ref=e341] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e342]
+                    - generic [ref=e347]:
+                      - generic [ref=e348]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e349] [cursor=pointer]
+                - listitem [ref=e352]:
+                  - generic [ref=e353]:
+                    - generic [ref=e357]:
+                      - generic [ref=e358]: "5"
+                      - generic [ref=e361]:
+                        - generic [ref=e362]: lhj0***
+                        - generic [ref=e363]: 26.10.12.
+                        - button "신고" [ref=e364] [cursor=pointer]
+                    - generic [ref=e365]:
+                      - generic [ref=e366]:
+                        - 'button "선택: 꽃토끼의 꿈" [disabled] [ref=e367] [cursor=pointer]'
+                        - generic [ref=e369]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e371]:
+                        - paragraph [ref=e372]: 여자친구 선물로 샀는데 너무 좋아하네요!!!
+                        - 'link "선택: 꽃토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 여자친구 선물로 샀는데 너무 좋아하네요!!!" [ref=e373] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e374]: 더보기
+                      - list [ref=e378]:
+                        - listitem [ref=e379]:
+                          - generic [ref=e380]:
+                            - img "review_image" [ref=e381]
+                            - link "이미지 펼치기" [ref=e382] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e383]
+                    - generic [ref=e388]:
+                      - generic [ref=e389]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e390] [cursor=pointer]
+                - listitem [ref=e393]:
+                  - generic [ref=e394]:
+                    - generic [ref=e398]:
+                      - generic [ref=e399]: "5"
+                      - generic [ref=e402]:
+                        - generic [ref=e403]: hyan****
+                        - generic [ref=e404]: 26.08.30.
+                        - button "신고" [ref=e405] [cursor=pointer]
+                    - generic [ref=e406]:
+                      - generic [ref=e407]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e408] [cursor=pointer]'
+                        - generic [ref=e410]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e412]:
+                        - paragraph [ref=e413]: 생각보다 앙증맞은 사이즈인데 그래서 더 좋아요! 토끼도 너무 귀엽고 보고 있으면 기분 좋아집니다🐰😌🫶
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 생각보다 앙증맞은 사이즈인데 그래서 더 좋아요! 토끼도 너무 귀엽고 보고 있으면 기분 좋아집니다🐰😌🫶" [ref=e414] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e415]: 더보기
+                      - list [ref=e419]:
+                        - listitem [ref=e420]:
+                          - generic [ref=e421]:
+                            - img "review_image" [ref=e422]
+                            - link "이미지 펼치기" [ref=e423] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e424]
+                    - generic [ref=e429]:
+                      - generic [ref=e430]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e431] [cursor=pointer]
+                - listitem [ref=e434]:
+                  - generic [ref=e435]:
+                    - generic [ref=e439]:
+                      - generic [ref=e440]: "5"
+                      - generic [ref=e443]:
+                        - generic [ref=e444]: 98****
+                        - generic [ref=e445]: 26.09.19.
+                        - button "신고" [ref=e446] [cursor=pointer]
+                    - generic [ref=e447]:
+                      - generic [ref=e448]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e449] [cursor=pointer]'
+                        - generic [ref=e451]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e453]:
+                        - paragraph [ref=e454]: 개완 뚜껑 올려두기 깔끔하고 귀여워요
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 개완 뚜껑 올려두기 깔끔하고 귀여워요" [ref=e455] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e456]: 더보기
+                      - list [ref=e460]:
+                        - listitem [ref=e461]:
+                          - generic [ref=e462]:
+                            - img "review_image" [ref=e463]
+                            - link "이미지 펼치기" [ref=e464] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e465]
+                    - generic [ref=e470]:
+                      - generic [ref=e471]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e472] [cursor=pointer]
+                - listitem [ref=e475]:
+                  - generic [ref=e476]:
+                    - generic [ref=e480]:
+                      - generic [ref=e481]: "5"
+                      - generic [ref=e484]:
+                        - generic [ref=e485]: swto*****
+                        - generic [ref=e486]: 26.07.23.
+                        - button "신고" [ref=e487] [cursor=pointer]
+                    - generic [ref=e488]:
+                      - generic [ref=e489]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e490] [cursor=pointer]'
+                        - generic [ref=e492]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e494]:
+                        - paragraph [ref=e495]: 귀여워요 이쁘고 차마시면서 옆에두고 다관뚜껑 올려놓을 용도로 구매했는데 한번써보려구요 마침 쎄일을해서 구매했어요
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 귀여워요 이쁘고 차마시면서 옆에두고 다관뚜껑 올려놓을 용도로 구매했는데 한번써보려구요 마침 쎄일을해서 구매했어요" [ref=e496] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e497]: 더보기
+                      - list [ref=e501]:
+                        - listitem [ref=e502]:
+                          - generic [ref=e503]:
+                            - img "review_image" [ref=e504]
+                            - link "이미지 펼치기" [ref=e505] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e506]
+                    - generic [ref=e511]:
+                      - generic [ref=e512]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e513] [cursor=pointer]
+                - listitem [ref=e516]:
+                  - generic [ref=e517]:
+                    - generic [ref=e521]:
+                      - generic [ref=e522]: "5"
+                      - generic [ref=e525]:
+                        - generic [ref=e526]: hiok***
+                        - generic [ref=e527]: 26.08.24.
+                        - button "신고" [ref=e528] [cursor=pointer]
+                    - generic [ref=e529]:
+                      - generic [ref=e530]:
+                        - 'button "선택: 꽃토끼의 꿈" [disabled] [ref=e531] [cursor=pointer]'
+                        - generic [ref=e533]: 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요
+                      - generic [ref=e535]:
+                        - paragraph [ref=e536]: 귀여운 차 친구가 생겼어요
+                        - 'link "선택: 꽃토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요 귀여운 차 친구가 생겼어요" [ref=e537] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e538]: 더보기
+                      - list [ref=e542]:
+                        - listitem [ref=e543]:
+                          - generic [ref=e544]:
+                            - img "review_image" [ref=e545]
+                            - link "이미지 펼치기" [ref=e546] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e547]
+                    - generic [ref=e552]:
+                      - generic [ref=e553]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e554] [cursor=pointer]
+                - listitem [ref=e557]:
+                  - generic [ref=e558]:
+                    - generic [ref=e562]:
+                      - generic [ref=e563]: "5"
+                      - generic [ref=e566]:
+                        - generic [ref=e567]: hiok***
+                        - generic [ref=e568]: 26.08.24.
+                        - button "신고" [ref=e569] [cursor=pointer]
+                    - generic [ref=e570]:
+                      - generic [ref=e571]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e572] [cursor=pointer]'
+                        - generic [ref=e574]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e576]:
+                        - paragraph [ref=e577]: 차 친구가 생겼어요
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 차 친구가 생겼어요" [ref=e578] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e579]: 더보기
+                      - list [ref=e583]:
+                        - listitem [ref=e584]:
+                          - generic [ref=e585]:
+                            - img "review_image" [ref=e586]
+                            - link "이미지 펼치기" [ref=e587] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e588]
+                    - generic [ref=e593]:
+                      - generic [ref=e594]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e595] [cursor=pointer]
+                - listitem [ref=e598]:
+                  - generic [ref=e599]:
+                    - generic [ref=e603]:
+                      - generic [ref=e604]: "5"
+                      - generic [ref=e607]:
+                        - generic [ref=e608]: khek****
+                        - generic [ref=e609]: 26.07.31.
+                        - button "신고" [ref=e610] [cursor=pointer]
+                    - generic [ref=e611]:
+                      - generic [ref=e612]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e613] [cursor=pointer]'
+                        - generic [ref=e615]: 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요
+                      - generic [ref=e617]:
+                        - paragraph [ref=e618]: 귀엽고 예뻐서 마음에 들어요. 차 안 마실 때도 책상에 그냥 두고 있습니다.
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요 귀엽고 예뻐서 마음에 들어요. 차 안 마실 때도 책상에 그냥 두고 있습니다." [ref=e619] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e620]: 더보기
+                      - list [ref=e624]:
+                        - listitem [ref=e625]:
+                          - generic [ref=e626]:
+                            - img "review_image" [ref=e627]
+                            - link "이미지 펼치기" [ref=e628] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e629]
+                    - generic [ref=e634]:
+                      - generic [ref=e635]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e636] [cursor=pointer]
+                - listitem [ref=e639]:
+                  - generic [ref=e640]:
+                    - generic [ref=e644]:
+                      - generic [ref=e645]: "5"
+                      - generic [ref=e648]:
+                        - generic [ref=e649]: khek****
+                        - generic [ref=e650]: 26.07.31.
+                        - button "신고" [ref=e651] [cursor=pointer]
+                    - generic [ref=e652]:
+                      - generic [ref=e653]:
+                        - 'button "선택: 꽃토끼의 꿈" [disabled] [ref=e654] [cursor=pointer]'
+                        - generic [ref=e656]: 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요
+                      - generic [ref=e658]:
+                        - paragraph [ref=e659]: 귀엽고 예뻐서 마음에 들어요. 차 안 마실 때도 책상에 그냥 두고 있습니다.
+                        - 'link "선택: 꽃토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요 귀엽고 예뻐서 마음에 들어요. 차 안 마실 때도 책상에 그냥 두고 있습니다." [ref=e660] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e661]: 더보기
+                      - list [ref=e665]:
+                        - listitem [ref=e666]:
+                          - generic [ref=e667]:
+                            - img "review_image" [ref=e668]
+                            - link "이미지 펼치기" [ref=e669] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e670]
+                    - generic [ref=e675]:
+                      - generic [ref=e676]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e677] [cursor=pointer]
+                - listitem [ref=e680]:
+                  - generic [ref=e681]:
+                    - generic [ref=e685]:
+                      - generic [ref=e686]: "5"
+                      - generic [ref=e689]:
+                        - generic [ref=e690]: bo****
+                        - generic [ref=e691]: 26.08.06.
+                        - button "신고" [ref=e692] [cursor=pointer]
+                    - generic [ref=e693]:
+                      - generic [ref=e694]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e695] [cursor=pointer]'
+                        - generic [ref=e697]: 디자인마음에 들어요 크기작아요 내구성보통이에요
+                      - generic [ref=e699]:
+                        - paragraph [ref=e700]: 실물이 너무 영롱해요. 작고 귀여워요 잘쓰겠습니다
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기작아요 내구성보통이에요 실물이 너무 영롱해요. 작고 귀여워요 잘쓰겠습니다" [ref=e701] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e702]: 더보기
+                      - list [ref=e706]:
+                        - listitem [ref=e707]:
+                          - generic [ref=e708]:
+                            - img "review_image" [ref=e709]
+                            - link "이미지 펼치기" [ref=e710] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e711]
+                    - generic [ref=e716]:
+                      - generic [ref=e717]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e718] [cursor=pointer]
+                - listitem [ref=e721]:
+                  - generic [ref=e722]:
+                    - generic [ref=e726]:
+                      - generic [ref=e727]: "5"
+                      - generic [ref=e730]:
+                        - generic [ref=e731]: zo****
+                        - generic [ref=e732]: 26.08.11.
+                        - button "신고" [ref=e733] [cursor=pointer]
+                    - generic [ref=e734]:
+                      - generic [ref=e735]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e736] [cursor=pointer]'
+                        - generic [ref=e738]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e740]:
+                        - paragraph [ref=e741]: 적당한 무게감도있고 이뻐요
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 적당한 무게감도있고 이뻐요" [ref=e742] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e743]: 더보기
+                      - list [ref=e747]:
+                        - listitem [ref=e748]:
+                          - generic [ref=e749]:
+                            - img "review_image" [ref=e750]
+                            - link "이미지 펼치기" [ref=e751] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e752]
+                    - generic [ref=e757]:
+                      - generic [ref=e758]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e759] [cursor=pointer]
+                - listitem [ref=e762]:
+                  - generic [ref=e763]:
+                    - generic [ref=e767]:
+                      - generic [ref=e768]: "5"
+                      - generic [ref=e771]:
+                        - generic [ref=e772]: srkm****
+                        - generic [ref=e773]: 26.08.09.
+                        - button "신고" [ref=e774] [cursor=pointer]
+                    - generic [ref=e775]:
+                      - generic [ref=e776]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e777] [cursor=pointer]'
+                        - generic [ref=e779]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e781]:
+                        - paragraph [ref=e782]: 빠른배송 감사하고 잘 사용할게요.
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 빠른배송 감사하고 잘 사용할게요." [ref=e783] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e784]: 더보기
+                      - list [ref=e788]:
+                        - listitem [ref=e789]:
+                          - generic [ref=e790]:
+                            - img "review_image" [ref=e791]
+                            - link "이미지 펼치기" [ref=e792] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e793]
+                    - generic [ref=e798]:
+                      - generic [ref=e799]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e800] [cursor=pointer]
+                - listitem [ref=e803]:
+                  - generic [ref=e804]:
+                    - generic [ref=e808]:
+                      - generic [ref=e809]: "5"
+                      - generic [ref=e812]:
+                        - generic [ref=e813]: srkm****
+                        - generic [ref=e814]: 26.08.09.
+                        - button "신고" [ref=e815] [cursor=pointer]
+                    - generic [ref=e816]:
+                      - generic [ref=e817]:
+                        - 'button "선택: 꽃토끼의 꿈" [disabled] [ref=e818] [cursor=pointer]'
+                        - generic [ref=e820]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e822]:
+                        - paragraph [ref=e823]: 빠른배송 감사하고 잘 사용할게요.
+                        - 'link "선택: 꽃토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 빠른배송 감사하고 잘 사용할게요." [ref=e824] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e825]: 더보기
+                      - list [ref=e829]:
+                        - listitem [ref=e830]:
+                          - generic [ref=e831]:
+                            - img "review_image" [ref=e832]
+                            - link "이미지 펼치기" [ref=e833] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e834]
+                    - generic [ref=e839]:
+                      - generic [ref=e840]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e841] [cursor=pointer]
+                - listitem [ref=e844]:
+                  - generic [ref=e845]:
+                    - generic [ref=e849]:
+                      - generic [ref=e850]: "5"
+                      - generic [ref=e853]:
+                        - generic [ref=e854]: free******
+                        - generic [ref=e855]: 26.07.07.
+                        - button "신고" [ref=e856] [cursor=pointer]
+                    - generic [ref=e857]:
+                      - generic [ref=e858]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e859] [cursor=pointer]'
+                        - generic [ref=e861]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e863]:
+                        - paragraph [ref=e864]: 차총으로 쓰인다기보가 의미가 좋아서 친구에게 선물하였어요 귀엽고 의미가 아주 소중해서 좋은 선물이 되었습니다
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 차총으로 쓰인다기보가 의미가 좋아서 친구에게 선물하였어요 귀엽고 의미가 아주 소중해서 좋은 선물이 되었습니다" [ref=e865] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e866]: 더보기
+                      - list [ref=e870]:
+                        - listitem [ref=e871]:
+                          - generic [ref=e872]:
+                            - img "review_image" [ref=e873]
+                            - link "이미지 펼치기" [ref=e874] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e875]
+                    - generic [ref=e880]:
+                      - generic [ref=e881]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e882] [cursor=pointer]
+                - listitem [ref=e885]:
+                  - generic [ref=e886]:
+                    - generic [ref=e890]:
+                      - generic [ref=e891]: "4"
+                      - generic [ref=e894]:
+                        - generic [ref=e895]: hyan****
+                        - generic [ref=e896]: 26.07.21.
+                        - button "신고" [ref=e897] [cursor=pointer]
+                    - generic [ref=e898]:
+                      - generic [ref=e899]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e900] [cursor=pointer]'
+                        - generic [ref=e902]: 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요
+                      - generic [ref=e904]:
+                        - paragraph [ref=e905]: 크랙이 가있지만 품어봐요. 투명하고 너무 이뻐요 제가 토끼띠라 더 애정가는 듯 합니다.
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요 크랙이 가있지만 품어봐요. 투명하고 너무 이뻐요 제가 토끼띠라 더 애정가는 듯 합니다." [ref=e906] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e907]: 더보기
+                      - list [ref=e911]:
+                        - listitem [ref=e912]:
+                          - generic [ref=e913]:
+                            - img "review_image" [ref=e914]
+                            - link "이미지 펼치기" [ref=e915] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e916]
+                    - generic [ref=e921]:
+                      - generic [ref=e922]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e923] [cursor=pointer]
+                - listitem [ref=e926]:
+                  - generic [ref=e927]:
+                    - generic [ref=e931]:
+                      - generic [ref=e932]: "5"
+                      - generic [ref=e935]:
+                        - generic [ref=e936]: ppo0***
+                        - generic [ref=e937]: 26.07.02.
+                        - button "신고" [ref=e938] [cursor=pointer]
+                    - generic [ref=e939]:
+                      - generic [ref=e940]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e941] [cursor=pointer]'
+                        - generic [ref=e943]: 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요
+                      - generic [ref=e945]:
+                        - paragraph [ref=e946]: 매장에서 직접보고 너무 귀여워서 인터넷으로 구매했어요. 꽃토끼도 탐나네요. 소품으로 너무 귀여워요
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요 매장에서 직접보고 너무 귀여워서 인터넷으로 구매했어요. 꽃토끼도 탐나네요. 소품으로 너무 귀여워요" [ref=e947] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e948]: 더보기
+                      - list [ref=e952]:
+                        - listitem [ref=e953]:
+                          - generic [ref=e954]:
+                            - img "review_image" [ref=e955]
+                            - link "이미지 펼치기" [ref=e956] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e957]
+                    - generic [ref=e962]:
+                      - generic [ref=e963]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e964] [cursor=pointer]
+                - listitem [ref=e967]:
+                  - generic [ref=e968]:
+                    - generic [ref=e972]:
+                      - generic [ref=e973]: "5"
+                      - generic [ref=e976]:
+                        - generic [ref=e977]: soci*****
+                        - generic [ref=e978]: 26.07.23.
+                        - button "신고" [ref=e979] [cursor=pointer]
+                    - generic [ref=e980]:
+                      - generic [ref=e981]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e982] [cursor=pointer]'
+                        - generic [ref=e984]: 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요
+                      - paragraph [ref=e987]: 꼼꼼한 포장, 빠른 배송 감사합니다. 귀엽고 예뻐요~^^ 여름철 실내 장식용으로 잘 사용하고 있어요~♡
+                    - generic [ref=e989]:
+                      - generic [ref=e990]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e991] [cursor=pointer]
+                - listitem [ref=e994]:
+                  - generic [ref=e995]:
+                    - generic [ref=e999]:
+                      - generic [ref=e1000]: "5"
+                      - generic [ref=e1003]:
+                        - generic [ref=e1004]: rlaf********
+                        - generic [ref=e1005]: 26.07.23.
+                        - button "신고" [ref=e1006] [cursor=pointer]
+                    - generic [ref=e1007]:
+                      - generic [ref=e1008]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e1009] [cursor=pointer]'
+                        - generic [ref=e1011]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e1013]:
+                        - paragraph [ref=e1014]: 너무 예쁘고 귀엽고 만족스럽습니다!!!
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 너무 예쁘고 귀엽고 만족스럽습니다!!!" [ref=e1015] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e1016]: 더보기
+                      - list [ref=e1020]:
+                        - listitem [ref=e1021]:
+                          - generic [ref=e1022]:
+                            - img "review_image" [ref=e1023]
+                            - link "이미지 펼치기" [ref=e1024] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e1025]
+                    - generic [ref=e1030]:
+                      - generic [ref=e1031]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e1032] [cursor=pointer]
+                - listitem [ref=e3084]:
+                  - generic [ref=e3085]:
+                    - generic [ref=e3089]:
+                      - generic [ref=e3090]: "5"
+                      - generic [ref=e3093]:
+                        - generic [ref=e3094]: winn*****
+                        - generic [ref=e3095]: 26.07.18.
+                        - button "신고" [ref=e3096] [cursor=pointer]
+                    - generic [ref=e3097]:
+                      - generic [ref=e3098]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3099] [cursor=pointer]'
+                        - generic [ref=e3101]: 디자인마음에 들어요 내구성튼튼해요 크기작아요
+                      - generic [ref=e3103]:
+                        - paragraph [ref=e3104]: 생각보다 엄청 작고 귀여운 사이즈에오
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 내구성튼튼해요 크기작아요 생각보다 엄청 작고 귀여운 사이즈에오" [ref=e3105] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e3106]: 더보기
+                      - list [ref=e3110]:
+                        - listitem [ref=e3111]:
+                          - generic [ref=e3112]:
+                            - img "review_image" [ref=e3113]
+                            - link "이미지 펼치기" [ref=e3114] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e3115]
+                    - generic [ref=e3120]:
+                      - generic [ref=e3121]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3122] [cursor=pointer]
+                - listitem [ref=e3125]:
+                  - generic [ref=e3126]:
+                    - generic [ref=e3130]:
+                      - generic [ref=e3131]: "5"
+                      - generic [ref=e3134]:
+                        - generic [ref=e3135]: bomi*****
+                        - generic [ref=e3136]: 26.07.13.
+                        - button "신고" [ref=e3137] [cursor=pointer]
+                    - generic [ref=e3138]:
+                      - generic [ref=e3139]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3140] [cursor=pointer]'
+                        - generic [ref=e3142]: 디자인마음에 들어요 내구성튼튼해요 크기작아요
+                      - generic [ref=e3144]:
+                        - paragraph [ref=e3145]: 쁘띠하고 귀엽습니다 찻자리 마스코트 겸 뚜껑 받이로 좋아요
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 내구성튼튼해요 크기작아요 쁘띠하고 귀엽습니다 찻자리 마스코트 겸 뚜껑 받이로 좋아요" [ref=e3146] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e3147]: 더보기
+                      - list [ref=e3151]:
+                        - listitem [ref=e3152]:
+                          - generic [ref=e3153]:
+                            - img "review_image" [ref=e3154]
+                            - link "이미지 펼치기" [ref=e3155] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e3156]
+                    - generic [ref=e3161]:
+                      - generic [ref=e3162]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3163] [cursor=pointer]
+                - listitem [ref=e3166]:
+                  - generic [ref=e3167]:
+                    - generic [ref=e3171]:
+                      - generic [ref=e3172]: "5"
+                      - generic [ref=e3175]:
+                        - generic [ref=e3176]: bloo******
+                        - generic [ref=e3177]: 26.07.28.
+                        - button "신고" [ref=e3178] [cursor=pointer]
+                    - generic [ref=e3179]:
+                      - generic [ref=e3180]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3181] [cursor=pointer]'
+                        - generic [ref=e3183]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                      - paragraph [ref=e3186]: 히히 차 마시고 예쁜 거 죠아하는 친구에게 딱이에여
+                    - generic [ref=e3188]:
+                      - generic [ref=e3189]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3190] [cursor=pointer]
+                - listitem [ref=e3193]:
+                  - generic [ref=e3194]:
+                    - generic [ref=e3198]:
+                      - generic [ref=e3199]: "5"
+                      - generic [ref=e3202]:
+                        - generic [ref=e3203]: de****
+                        - generic [ref=e3204]: 26.06.05.
+                        - button "신고" [ref=e3205] [cursor=pointer]
+                    - generic [ref=e3206]:
+                      - generic [ref=e3207]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3208] [cursor=pointer]'
+                        - generic [ref=e3210]: 디자인마음에 들어요 크기작아요 내구성보통이에요
+                      - generic [ref=e3212]:
+                        - paragraph [ref=e3213]: 너무 귀엽길래 뿅 반해서 주문했는데 실물도 정말 예뻐요. 기분 좋은 차친구가 생겼습니다.
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기작아요 내구성보통이에요 너무 귀엽길래 뿅 반해서 주문했는데 실물도 정말 예뻐요. 기분 좋은 차친구가 생겼습니다." [ref=e3214] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e3215]: 더보기
+                      - list [ref=e3222]:
+                        - listitem [ref=e3223]:
+                          - generic [ref=e3224]:
+                            - img "KakaoTalk_20260604_124713975_05.jpg" [ref=e3225]
+                            - link "이미지 펼치기" [ref=e3226] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e3227]
+                        - listitem [ref=e3231]:
+                          - generic [ref=e3232]:
+                            - img "KakaoTalk_20260604_124713975_04.jpg" [ref=e3233]
+                            - link "이미지 펼치기" [ref=e3234] [cursor=pointer]:
+                              - /url: "#"
+                    - generic [ref=e3237]:
+                      - generic [ref=e3238]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3239] [cursor=pointer]
+                - listitem [ref=e3242]:
+                  - generic [ref=e3243]:
+                    - generic [ref=e3247]:
+                      - generic [ref=e3248]: "5"
+                      - generic [ref=e3251]:
+                        - generic [ref=e3252]: haib******
+                        - generic [ref=e3253]: 26.06.26.
+                        - button "신고" [ref=e3254] [cursor=pointer]
+                    - generic [ref=e3255]:
+                      - generic [ref=e3256]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3257] [cursor=pointer]'
+                        - generic [ref=e3259]: 디자인마음에 들어요 내구성튼튼해요 크기작아요
+                      - generic [ref=e3261]:
+                        - paragraph [ref=e3262]: 잘받았습니다. 배송이 엄청 빨라요. 귀엽고 깜찍하고 좋아요.
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 내구성튼튼해요 크기작아요 잘받았습니다. 배송이 엄청 빨라요. 귀엽고 깜찍하고 좋아요." [ref=e3263] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e3264]: 더보기
+                      - list [ref=e3268]:
+                        - listitem [ref=e3269]:
+                          - generic [ref=e3270]:
+                            - img "review_image" [ref=e3271]
+                            - link "이미지 펼치기" [ref=e3272] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e3273]
+                    - generic [ref=e3278]:
+                      - generic [ref=e3279]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3280] [cursor=pointer]
+                - listitem [ref=e3283]:
+                  - generic [ref=e3284]:
+                    - generic [ref=e3288]:
+                      - generic [ref=e3289]: "5"
+                      - generic [ref=e3292]:
+                        - generic [ref=e3293]: jara****
+                        - generic [ref=e3294]: 26.06.25.
+                        - button "신고" [ref=e3295] [cursor=pointer]
+                    - generic [ref=e3296]:
+                      - generic [ref=e3297]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3298] [cursor=pointer]'
+                        - generic [ref=e3300]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e3302]:
+                        - paragraph [ref=e3303]: 저는 장식용으로 구입했는데 귀엽고 이뻐요
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 저는 장식용으로 구입했는데 귀엽고 이뻐요" [ref=e3304] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e3305]: 더보기
+                      - list [ref=e3309]:
+                        - listitem [ref=e3310]:
+                          - generic [ref=e3311]:
+                            - img "review_image" [ref=e3312]
+                            - link "이미지 펼치기" [ref=e3313] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e3314]
+                    - generic [ref=e3319]:
+                      - generic [ref=e3320]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3321] [cursor=pointer]
+                - listitem [ref=e3324]:
+                  - generic [ref=e3325]:
+                    - generic [ref=e3329]:
+                      - generic [ref=e3330]: "5"
+                      - generic [ref=e3333]:
+                        - generic [ref=e3334]: jara****
+                        - generic [ref=e3335]: 26.06.25.
+                        - button "신고" [ref=e3336] [cursor=pointer]
+                    - generic [ref=e3337]:
+                      - generic [ref=e3338]:
+                        - 'button "선택: 꽃토끼의 꿈" [disabled] [ref=e3339] [cursor=pointer]'
+                        - generic [ref=e3341]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e3343]:
+                        - paragraph [ref=e3344]: 토끼 도자기 색감도 고급스럽고 예뻐요
+                        - 'link "선택: 꽃토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 토끼 도자기 색감도 고급스럽고 예뻐요" [ref=e3345] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e3346]: 더보기
+                      - list [ref=e3350]:
+                        - listitem [ref=e3351]:
+                          - generic [ref=e3352]:
+                            - img "review_image" [ref=e3353]
+                            - link "이미지 펼치기" [ref=e3354] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e3355]
+                    - generic [ref=e3360]:
+                      - generic [ref=e3361]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3362] [cursor=pointer]
+                - listitem [ref=e3365]:
+                  - generic [ref=e3366]:
+                    - generic [ref=e3370]:
+                      - generic [ref=e3371]: "5"
+                      - generic [ref=e3374]:
+                        - generic [ref=e3375]: yk_h*******
+                        - generic [ref=e3376]: 26.06.04.
+                        - button "신고" [ref=e3377] [cursor=pointer]
+                    - generic [ref=e3378]:
+                      - generic [ref=e3379]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3380] [cursor=pointer]'
+                        - generic [ref=e3382]: 디자인마음에 들어요 내구성튼튼해요 크기작아요
+                      - generic [ref=e3384]:
+                        - paragraph [ref=e3385]: 생각보다 크기는 작은데 귀여워요! 저는 그냥 장식으로 쓰랴고 샀는데 맘에들어요!
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 내구성튼튼해요 크기작아요 생각보다 크기는 작은데 귀여워요! 저는 그냥 장식으로 쓰랴고 샀는데 맘에들어요!" [ref=e3386] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e3387]: 더보기
+                      - list [ref=e3391]:
+                        - listitem [ref=e3392]:
+                          - generic [ref=e3393]:
+                            - img "review_image" [ref=e3394]
+                            - link "이미지 펼치기" [ref=e3395] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e3396]
+                    - generic [ref=e3401]:
+                      - generic [ref=e3402]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3403] [cursor=pointer]
+                - listitem [ref=e3406]:
+                  - generic [ref=e3407]:
+                    - generic [ref=e3411]:
+                      - generic [ref=e3412]: "4"
+                      - generic [ref=e3415]:
+                        - generic [ref=e3416]: soci*****
+                        - generic [ref=e3417]: 26.07.06.
+                        - button "신고" [ref=e3418] [cursor=pointer]
+                    - generic [ref=e3419]:
+                      - generic [ref=e3420]:
+                        - 'button "선택: 꽃토끼의 꿈" [disabled] [ref=e3421] [cursor=pointer]'
+                        - generic [ref=e3423]: 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요
+                      - paragraph [ref=e3426]: 사진보다 실물이 더 귀엽고 예뻐요.
+                    - generic [ref=e3428]:
+                      - generic [ref=e3429]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3430] [cursor=pointer]
+                - listitem [ref=e3433]:
+                  - generic [ref=e3434]:
+                    - generic [ref=e3438]:
+                      - generic [ref=e3439]: "4"
+                      - generic [ref=e3442]:
+                        - generic [ref=e3443]: love****
+                        - generic [ref=e3444]: 26.05.20.
+                        - button "신고" [ref=e3445] [cursor=pointer]
+                    - generic [ref=e3446]:
+                      - generic [ref=e3447]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3448] [cursor=pointer]'
+                        - generic [ref=e3450]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e3452]:
+                        - paragraph [ref=e3453]: 생각보다 작긴하지만 아이가 탐낼정도로 귀여워요
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 생각보다 작긴하지만 아이가 탐낼정도로 귀여워요" [ref=e3454] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e3455]: 더보기
+                      - list [ref=e3459]:
+                        - listitem [ref=e3460]:
+                          - generic [ref=e3461]:
+                            - img "review_image" [ref=e3462]
+                            - link "이미지 펼치기" [ref=e3463] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e3464]
+                    - generic [ref=e3469]:
+                      - generic [ref=e3470]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3471] [cursor=pointer]
+                - listitem [ref=e3474]:
+                  - generic [ref=e3475]:
+                    - generic [ref=e3479]:
+                      - generic [ref=e3480]: "5"
+                      - generic [ref=e3483]:
+                        - generic [ref=e3484]: wmfr********
+                        - generic [ref=e3485]: 26.06.17.
+                        - button "신고" [ref=e3486] [cursor=pointer]
+                    - generic [ref=e3487]:
+                      - generic [ref=e3488]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3489] [cursor=pointer]'
+                        - generic [ref=e3491]: 디자인마음에 들어요 내구성튼튼해요 크기작아요
+                      - paragraph [ref=e3494]: 작아 귀엽고 번거롭지 않아 좋습니다.
+                    - generic [ref=e3496]:
+                      - generic [ref=e3497]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3498] [cursor=pointer]
+                - listitem [ref=e3501]:
+                  - generic [ref=e3502]:
+                    - generic [ref=e3506]:
+                      - generic [ref=e3507]: "5"
+                      - generic [ref=e3510]:
+                        - generic [ref=e3511]: oo****
+                        - generic [ref=e3512]: 26.05.06.
+                        - button "신고" [ref=e3513] [cursor=pointer]
+                    - generic [ref=e3514]:
+                      - generic [ref=e3515]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3516] [cursor=pointer]'
+                        - generic [ref=e3518]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                      - generic [ref=e3520]:
+                        - paragraph [ref=e3521]: 달토끼 너무 귀여워요ㅠ
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요 달토끼 너무 귀여워요ㅠ" [ref=e3522] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e3523]: 더보기
+                      - list [ref=e3527]:
+                        - listitem [ref=e3528]:
+                          - generic [ref=e3529]:
+                            - img "review_image" [ref=e3530]
+                            - link "이미지 펼치기" [ref=e3531] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e3532]
+                    - generic [ref=e3537]:
+                      - generic [ref=e3538]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3539] [cursor=pointer]
+                - listitem [ref=e3542]:
+                  - generic [ref=e3543]:
+                    - generic [ref=e3547]:
+                      - generic [ref=e3548]: "4"
+                      - generic [ref=e3551]:
+                        - generic [ref=e3552]: spea*******
+                        - generic [ref=e3553]: 26.05.05.
+                        - button "신고" [ref=e3554] [cursor=pointer]
+                    - generic [ref=e3555]:
+                      - generic [ref=e3556]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3557] [cursor=pointer]'
+                        - generic [ref=e3559]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                      - paragraph [ref=e3562]: 귀엽고 예뻐요~ 차 마실때 친구하기좋아요
+                    - generic [ref=e3564]:
+                      - generic [ref=e3565]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3566] [cursor=pointer]
+                - listitem [ref=e3569]:
+                  - generic [ref=e3570]:
+                    - generic [ref=e3574]:
+                      - generic [ref=e3575]: "4"
+                      - generic [ref=e3578]:
+                        - generic [ref=e3579]: spea*******
+                        - generic [ref=e3580]: 26.05.05.
+                        - button "신고" [ref=e3581] [cursor=pointer]
+                    - generic [ref=e3582]:
+                      - generic [ref=e3583]:
+                        - 'button "선택: 꽃토끼의 꿈" [disabled] [ref=e3584] [cursor=pointer]'
+                        - generic [ref=e3586]: 디자인마음에 들어요 크기생각보다 커요 내구성보통이에요
+                      - paragraph [ref=e3589]: 귀여워서 차 마실때 친구하기좋아요
+                    - generic [ref=e3591]:
+                      - generic [ref=e3592]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3593] [cursor=pointer]
+                - listitem [ref=e3596]:
+                  - generic [ref=e3597]:
+                    - generic [ref=e3601]:
+                      - generic [ref=e3602]: "5"
+                      - generic [ref=e3605]:
+                        - generic [ref=e3606]: 0109***
+                        - generic [ref=e3607]: 26.04.14.
+                        - button "신고" [ref=e3608] [cursor=pointer]
+                    - generic [ref=e3609]:
+                      - generic [ref=e3610]:
+                        - 'button "선택: 꽃토끼의 꿈" [disabled] [ref=e3611] [cursor=pointer]'
+                        - generic [ref=e3613]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - paragraph [ref=e3616]: 생각보다 사이즈도 마음에 들고 귀엽게 생겼어요 차친구가 생겨서 좋네요
+                    - generic [ref=e3618]:
+                      - generic [ref=e3619]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3620] [cursor=pointer]
+                - listitem [ref=e3623]:
+                  - generic [ref=e3624]:
+                    - generic [ref=e3628]:
+                      - generic [ref=e3629]: "5"
+                      - generic [ref=e3632]:
+                        - generic [ref=e3633]: 0109***
+                        - generic [ref=e3634]: 26.04.14.
+                        - button "신고" [ref=e3635] [cursor=pointer]
+                    - generic [ref=e3636]:
+                      - generic [ref=e3637]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3638] [cursor=pointer]'
+                        - generic [ref=e3640]: 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요
+                      - paragraph [ref=e3643]: 차친구 다양하게 만들어보려고요 생각보다 귀엽고 좋네요
+                    - generic [ref=e3645]:
+                      - generic [ref=e3646]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3647] [cursor=pointer]
+                - listitem [ref=e3650]:
+                  - generic [ref=e3651]:
+                    - generic [ref=e3655]:
+                      - generic [ref=e3656]: "5"
+                      - generic [ref=e3659]:
+                        - generic [ref=e3660]: eu****
+                        - generic [ref=e3661]: 26.02.14.
+                        - button "신고" [ref=e3662] [cursor=pointer]
+                    - generic [ref=e3663]:
+                      - generic [ref=e3664]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3665] [cursor=pointer]'
+                        - generic [ref=e3667]: 디자인마음에 들어요 내구성튼튼해요 크기작아요
+                      - generic [ref=e3669]:
+                        - paragraph [ref=e3670]: 달토끼 너무 귀여워서 샀어요
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 내구성튼튼해요 크기작아요 달토끼 너무 귀여워서 샀어요" [ref=e3671] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e3672]: 더보기
+                      - list [ref=e3676]:
+                        - listitem [ref=e3677]:
+                          - generic [ref=e3678]:
+                            - img "review_image" [ref=e3679]
+                            - link "이미지 펼치기" [ref=e3680] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e3681]
+                    - generic [ref=e3686]:
+                      - generic [ref=e3687]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3688] [cursor=pointer]
+                - listitem [ref=e3691]:
+                  - generic [ref=e3692]:
+                    - generic [ref=e3696]:
+                      - generic [ref=e3697]:
+                        - text: "5"
+                        - emphasis [ref=e3701]: 한달사용
+                      - generic [ref=e3702]:
+                        - generic [ref=e3703]: refl*****
+                        - generic [ref=e3704]: 26.02.16.
+                        - button "신고" [ref=e3705] [cursor=pointer]
+                    - generic [ref=e3706]:
+                      - generic [ref=e3707]:
+                        - 'button "선택: 꽃토끼의 꿈" [disabled] [ref=e3708] [cursor=pointer]'
+                        - generic [ref=e3710]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - paragraph [ref=e3713]: 선물용으로 샀는데 너무 좋아하네요
+                    - generic [ref=e3715]:
+                      - generic [ref=e3716]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3717] [cursor=pointer]
+                  - button "이 구매자의 처음 리뷰 보기" [ref=e3721] [cursor=pointer]
+                - listitem [ref=e3724]:
+                  - generic [ref=e3725]:
+                    - generic [ref=e3729]:
+                      - generic [ref=e3730]: "5"
+                      - generic [ref=e3733]:
+                        - generic [ref=e3734]: yuri******
+                        - generic [ref=e3735]: 25.12.31.
+                        - button "신고" [ref=e3736] [cursor=pointer]
+                    - generic [ref=e3737]:
+                      - generic [ref=e3738]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3739] [cursor=pointer]'
+                        - generic [ref=e3741]: 디자인보통이에요 크기딱 좋아요 내구성보통이에요
+                      - paragraph [ref=e3744]: 배송도 빠르고 만족합니다
+                    - generic [ref=e3746]:
+                      - generic [ref=e3747]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3748] [cursor=pointer]
+                - listitem [ref=e3751]:
+                  - generic [ref=e3752]:
+                    - generic [ref=e3756]:
+                      - generic [ref=e3757]: "5"
+                      - generic [ref=e3760]:
+                        - generic [ref=e3761]: yuri******
+                        - generic [ref=e3762]: 25.12.31.
+                        - button "신고" [ref=e3763] [cursor=pointer]
+                    - generic [ref=e3764]:
+                      - generic [ref=e3765]:
+                        - 'button "선택: 꽃토끼의 꿈" [disabled] [ref=e3766] [cursor=pointer]'
+                        - generic [ref=e3768]: 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요
+                      - paragraph [ref=e3771]: 배송도 빠르고 만족합니다
+                    - generic [ref=e3773]:
+                      - generic [ref=e3774]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3775] [cursor=pointer]
+                - listitem [ref=e3778]:
+                  - generic [ref=e3779]:
+                    - generic [ref=e3783]:
+                      - generic [ref=e3784]: "5"
+                      - generic [ref=e3787]:
+                        - generic [ref=e3788]: refl*****
+                        - generic [ref=e3789]: 25.11.24.
+                        - button "신고" [ref=e3790] [cursor=pointer]
+                    - generic [ref=e3791]:
+                      - generic [ref=e3792]:
+                        - 'button "선택: 꽃토끼의 꿈" [disabled] [ref=e3793] [cursor=pointer]'
+                        - generic [ref=e3795]: 디자인보통이에요 크기딱 좋아요 내구성보통이에요
+                      - paragraph [ref=e3798]: 깜찍하고 이쁘네요 만족했습니다
+                    - generic [ref=e3800]:
+                      - generic [ref=e3801]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3802] [cursor=pointer]
+                - listitem [ref=e3805]:
+                  - generic [ref=e3806]:
+                    - generic [ref=e3810]:
+                      - generic [ref=e3811]: "5"
+                      - generic [ref=e3814]:
+                        - generic [ref=e3815]: nish*********
+                        - generic [ref=e3816]: 25.08.19.
+                        - button "신고" [ref=e3817] [cursor=pointer]
+                    - generic [ref=e3818]:
+                      - generic [ref=e3819]:
+                        - 'button "선택: 달토끼의 꿈" [disabled] [ref=e3820] [cursor=pointer]'
+                        - generic [ref=e3822]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=e3824]:
+                        - paragraph [ref=e3825]: 유리구슬이 영롱하니 예쁩니다. 빛을 비추니 더 예뻤습니다.
+                        - 'link "선택: 달토끼의 꿈 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 유리구슬이 영롱하니 예쁩니다. 빛을 비추니 더 예뻤습니다." [ref=e3826] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=e3827]: 더보기
+                      - list [ref=e3831]:
+                        - listitem [ref=e3832]:
+                          - generic [ref=e3833]:
+                            - img "review_image" [ref=e3834]
+                            - link "이미지 펼치기" [ref=e3835] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=e3836]
+                    - generic [ref=e3841]:
+                      - generic [ref=e3842]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=e3843] [cursor=pointer]
+      - button "닫기" [ref=e1035] [cursor=pointer]
+  - generic [ref=e1039]:
+    - link "본문으로 바로가기" [ref=e1040] [cursor=pointer]:
+      - /url: "#content"
+    - generic [ref=e1042]:
+      - generic [ref=e1047]:
+        - generic [ref=e1048]:
+          - generic [ref=e1049]:
+            - generic [ref=e1050]:
+              - link "네이버" [ref=e1051] [cursor=pointer]:
+                - /url: https://www.naver.com
+              - link "네이버플러스 스토어 홈" [ref=e1055] [cursor=pointer]:
+                - /url: https://shopping.naver.com/ns/home?
+            - generic [ref=e1063]:
+              - strong [ref=e1064]: 사용자 링크
+              - list [ref=e1065]:
+                - listitem [ref=e1066]:
+                  - link "로그인" [ref=e1067] [cursor=pointer]:
+                    - /url: https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fbrand.naver.com%2Fbubuti%2Fproducts%2F12069656320%23channelProductNo%3D12069656320
+                - listitem [ref=e1071]:
+                  - link "서비스 더보기" [ref=e1072] [cursor=pointer]:
+                    - /url: javascript:;
+          - generic [ref=e1075]:
+            - heading [level=1] [ref=e1076]:
+              - link [ref=e1077] [cursor=pointer]:
+                - /url: /bubuti
+                - img "부부티" [ref=e1078]
+            - generic [ref=e1079]:
+              - button "알림받기" [ref=e1082] [cursor=pointer]
+              - generic [ref=e1087]:
+                - button "관심고객수 41,473" [ref=e1088] [cursor=pointer]
+                - button "도움말" [ref=e1090] [cursor=pointer]
+            - button "검색어를 입력해주세요" [ref=e1095] [cursor=pointer]
+        - generic [ref=e1102]:
+          - list [ref=e1103]:
+            - listitem [ref=e1104]:
+              - link "베스트" [ref=e1105] [cursor=pointer]:
+                - /url: /bubuti/best?cp=1
+            - listitem [ref=e1106]:
+              - link "잎차|티백" [ref=e1107] [cursor=pointer]:
+                - /url: /bubuti/category/43d8384a0bb54a1fa40463a21cb456ce?cp=1
+            - listitem [ref=e1108]:
+              - link "연말선물" [ref=e1109] [cursor=pointer]:
+                - /url: /bubuti/category/f8c914685c9144cc83a4b82f50d4949d?cp=1
+            - listitem [ref=e1110]:
+              - link "이 주의 추천" [ref=e1111] [cursor=pointer]:
+                - /url: /bubuti/category/e75ef2bb3fc5400c86c1b255410c6468?cp=1
+            - listitem [ref=e1112]:
+              - link "차도구 하위 메뉴 있음" [ref=e1113] [cursor=pointer]:
+                - /url: /bubuti/category/9c43cb26716b48008045e4c70b55a7fb?cp=1
+                - text: 차도구
+                - generic [ref=e1114]: 하위 메뉴 있음
+            - listitem [ref=e1117]:
+              - link "전체상품" [ref=e1118] [cursor=pointer]:
+                - /url: /bubuti/category/cfc614a57bb642dfa273c2a6e246bad7?cp=1
+          - list [ref=e1119]:
+            - listitem [ref=e1120]:
+              - link "공지사항" [ref=e1121] [cursor=pointer]:
+                - /url: /bubuti/notice?cp=1
+            - listitem [ref=e1122]:
+              - link "묻고 답하기" [ref=e1123] [cursor=pointer]:
+                - /url: /bubuti/qna?cp=1
+            - listitem [ref=e1124]:
+              - link "판매자 정보" [ref=e1125] [cursor=pointer]:
+                - /url: /bubuti/profile?cp=1
+      - generic [ref=e1127]:
+        - generic [ref=e1128]:
+          - button "네이버플러스 스토어 알림 받고 혜택 받아보세요! 알림받기" [ref=e1129] [cursor=pointer]:
+            - generic [ref=e1135]: 네이버플러스 스토어
+            - generic [ref=e1136]: 알림 받고 혜택 받아보세요!
+            - generic [ref=e1137]: 알림받기
+          - generic [ref=e1141]:
+            - generic [ref=e1143]:
+              - tabpanel [ref=e1144]:
+                - generic [ref=e1146]:
+                  - generic [ref=e1147]:
+                    - generic [ref=e1148]: 4개 중 1번째
+                    - button "대표이미지 이미지 상세보기" [ref=e1149] [cursor=pointer]:
+                      - img "대표이미지" [ref=e1151]
+                      - generic [ref=e1152]: 이미지 상세보기
+                  - generic [ref=e1153]:
+                    - generic [ref=e1154]: 4개 중 2번째
+                    - button "대표이미지 이미지 상세보기" [ref=e1155] [cursor=pointer]:
+                      - img "대표이미지" [ref=e1157]
+                      - generic [ref=e1158]: 이미지 상세보기
+                  - generic [ref=e1159]:
+                    - generic [ref=e1160]: 4개 중 3번째
+                    - button "대표이미지 이미지 상세보기" [ref=e1161] [cursor=pointer]:
+                      - img "대표이미지" [ref=e1163]
+                      - generic [ref=e1164]: 이미지 상세보기
+                  - generic [ref=e1165]:
+                    - generic [ref=e1166]: 4개 중 4번째
+                    - button "대표이미지 이미지 상세보기" [ref=e1167] [cursor=pointer]:
+                      - img "대표이미지" [ref=e1168]
+                      - generic [ref=e1169]: 이미지 상세보기
+                - generic:
+                  - button "이전" [ref=e1170] [cursor=pointer]
+                  - button "다음" [ref=e1174] [cursor=pointer]
+                - generic [ref=e1178]:
+                  - generic [ref=e1179]:
+                    - generic [ref=e1180]: 현재
+                    - text: "1"
+                    - generic [ref=e1181]: 상품 이미지
+                  - generic [ref=e1182]:
+                    - text: /
+                    - generic [ref=e1183]: 전체
+                    - text: "4"
+                    - generic [ref=e1184]: 상품 이미지
+              - generic [ref=e1185]:
+                - button "이전" [ref=e1186] [cursor=pointer]
+                - list [ref=e1190]:
+                  - listitem [ref=e1191]:
+                    - button [ref=e1192] [cursor=pointer]:
+                      - img "추가이미지0" [ref=e1194]
+                  - listitem [ref=e1195]:
+                    - button [ref=e1196] [cursor=pointer]:
+                      - img "추가이미지1" [ref=e1198]
+                  - listitem [ref=e1199]:
+                    - button [ref=e1200] [cursor=pointer]:
+                      - img "추가이미지2" [ref=e1202]
+                  - listitem [ref=e1203]:
+                    - button [ref=e1204] [cursor=pointer]:
+                      - img "추가이미지3" [ref=e1206]
+                - button "다음" [ref=e1207] [cursor=pointer]
+            - generic [ref=e1212]:
+              - heading "[차친구] 부부티 차총 토끼의 꿈 - 자사호 다관 개완 뚜껑 받침" [level=3] [ref=e1214]
+              - generic [ref=e1216]:
+                - generic [ref=e1217]:
+                  - generic [ref=e1220]: 평점
+                  - generic [ref=e1221]: "4.88"
+                  - generic [ref=e1222]:
+                    - text: (
+                    - button "최근 6개월 4.93" [ref=e1223] [cursor=pointer]
+                    - button "도움말" [ref=e1225] [cursor=pointer]
+                    - text: )
+                - link "42건 리뷰" [ref=e1231] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=e1232]:
+                - generic [ref=e1234]:
+                  - generic [ref=e1235]:
+                    - generic [ref=e1236]:
+                      - button "할인 전 가격 15,000원" [ref=e1237] [cursor=pointer]:
+                        - generic [ref=e1238]: 할인 전 가격
+                        - text: 15,000원
+                      - button "도움말" [ref=e1240] [cursor=pointer]
+                    - generic [ref=e1245]:
+                      - generic [ref=e1246]:
+                        - text: 20%
+                        - generic [ref=e1247]: 할인
+                      - generic [ref=e1248]:
+                        - generic [ref=e1249]: 상품 가격
+                        - text: 12,000원
+                  - generic [ref=e1251]:
+                    - generic [ref=e1255]: 배송비
+                    - text: 3,000원 (50,000원 이상 무료배송)
+                - generic [ref=e1256]:
+                  - generic [ref=e1257]:
+                    - generic [ref=e1258]: 적립
+                    - generic [ref=e1259]:
+                      - generic [ref=e1260]:
+                        - text: 최대 적립 포인트 2,450원
+                        - button "자세히 보기" [ref=e1261] [cursor=pointer]
+                      - generic [ref=e1264]:
+                        - link "네이버 플러스 멤버십 최대 5% 추가 적립 도움말 480원 멤버십 시작하고 최대 적립 받기" [ref=e1265] [cursor=pointer]:
+                          - /url: "#"
+                        - generic [ref=e1266]:
+                          - generic [ref=e1267]:
+                            - generic [ref=e1284]: 네이버 플러스 멤버십
+                            - generic [ref=e1285]:
+                              - button "최대 5% 추가 적립" [ref=e1286] [cursor=pointer]
+                              - button "도움말" [ref=e1288] [cursor=pointer]
+                          - generic [ref=e1293]: 480원
+                        - strong [ref=e1295]: 멤버십 시작하고 최대 적립 받기
+                  - generic [ref=e1298]:
+                    - generic [ref=e1299]: 혜택
+                    - generic [ref=e1300]:
+                      - link "네이버 현대카드 Ed3 결제 시 최대 15% 포인트 적립" [ref=e1302] [cursor=pointer]:
+                        - /url: "#"
+                      - link "전월실적 없이 최대 1.3 % 적립 체크카드" [ref=e1306] [cursor=pointer]:
+                        - /url: https://pay.naver.com/paymoney/bankbook/woori/open?from=wr0056
+                - generic [ref=e1309]:
+                  - generic [ref=e1310]: 배송
+                  - generic [ref=e1311]:
+                    - generic [ref=e1312]: 11.25.(수) 도착 확률 97%
+                    - generic [ref=e1314]: 배송비 3,000원(50,000원 이상 무료)
+                    - generic [ref=e1316]: 무료교환반품(최초 1회 무료, 도서산간 지역 별도)
+                    - button "자세히 보기" [ref=e1318] [cursor=pointer]
+                - generic [ref=e1321]:
+                  - generic [ref=e1324]:
+                    - generic [ref=e1325]: 옵션 선택 (필수) *
+                    - button "선택" [ref=e1328] [cursor=pointer]
+                  - generic [ref=e1331]:
+                    - generic [ref=e1332]:
+                      - button "선물하기" [ref=e1333] [cursor=pointer]
+                      - button "구매하기" [ref=e1340] [cursor=pointer]
+                    - generic [ref=e1343]:
+                      - button "찜 하기" [ref=e1344] [cursor=pointer]:
+                        - text: 찜
+                        - generic [ref=e1347]: 하기
+                      - button "톡톡문의" [ref=e1348] [cursor=pointer]
+                      - button "장바구니" [ref=e1352] [cursor=pointer]
+        - generic [ref=e1356]:
+          - generic [ref=e1359]:
+            - generic [ref=e1360]:
+              - button "4점 이상 리뷰가 100%예요" [ref=e1361] [cursor=pointer]:
+                - text: 4점 이상 리뷰가
+                - generic [ref=e1362]: 100%
+                - text: 예요
+              - button "도움말" [ref=e1364] [cursor=pointer]
+            - generic [ref=e1369]:
+              - generic [ref=e1370]:
+                - list [ref=e1373]:
+                  - listitem [ref=e1374]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 잘 포장되서 왔고, 작은 틴상자에 들어있었어요 너무 귀엽고, 힐링되고, 마음이 몽글해지는 것 같습니다♡" [ref=e1375] [cursor=pointer]:
+                      - img "review_image" [ref=e1377]
+                      - generic [ref=e1378]:
+                        - generic [ref=e1379]:
+                          - generic [ref=e1380]:
+                            - generic [ref=e1383]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=e1384]: 잘 포장되서 왔고, 작은 틴상자에 들어있었어요 너무 귀엽고, 힐링되고, 마음이 몽글해지는 것 같습니다♡
+                  - listitem [ref=e1385]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 차의 세계는 알면 알수록 정말 재미있는 것 같습니다. 차 생활을 시작하면서 하나씩 용품을 모으는 재미도 쏠쏠하네요. 이번에 토끼 모양 차총(차친구)을 구매했는데, 귀여운 디자인이 가장 먼저 마음에 들었습니다. 토끼가 좋은 의미를 담고 있다고 해서 더욱 만족스럽게 사용하고 있어요. 디자인이 예뻐 올려두기만 해도 분위기가 한층 살아나고, 차를 마시는 시간이 더욱 즐거워졌습니다. 보관 케이스도 함께 구성되어 있어 사용하지 않을 때 깔끔하게 보관할 수 있는 점도 만족스러웠습니다. 실용성과 디자인을 모두 갖춘 제품이라 차 생활을 시작하는 분들이나 차를 좋아하는 분들에게 추천하고 싶은 아이템입니다." [ref=e1386] [cursor=pointer]:
+                      - img "review_image" [ref=e1388]
+                      - generic [ref=e1389]:
+                        - generic [ref=e1390]:
+                          - generic [ref=e1391]:
+                            - generic [ref=e1394]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=e1395]: 차의 세계는 알면 알수록 정말 재미있는 것 같습니다. 차 생활을 시작하면서 하나씩 용품을 모으는 재미도 쏠쏠하네요. 이번에 토끼 모양 차총(차친구)을 구매했는데, 귀여운 디자인이 가장 먼저 마음에 들었습니다. 토끼가 좋은 의미를 담고 있다고 해서 더욱 만족스럽게 사용하고 있어요. 디자인이 예뻐 올려두기만 해도 분위기가 한층 살아나고, 차를 마시는 시간이 더욱 즐거워졌습니다. 보관 케이스도 함께 구성되어 있어 사용하지 않을 때 깔끔하게 보관할 수 있는 점도 만족스러웠습니다. 실용성과 디자인을 모두 갖춘 제품이라 차 생활을 시작하는 분들이나 차를 좋아하는 분들에게 추천하고 싶은 아이템입니다.
+                  - listitem [ref=e1396]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 너무 이쁘네요. 책상이나 식탁 오브제로 고급진 느낌입니다." [ref=e1397] [cursor=pointer]:
+                      - img "review_image" [ref=e1399]
+                      - generic [ref=e1400]:
+                        - generic [ref=e1401]:
+                          - generic [ref=e1402]:
+                            - generic [ref=e1405]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=e1406]: 너무 이쁘네요. 책상이나 식탁 오브제로 고급진 느낌입니다.
+                  - listitem [ref=e1407]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 여자친구 선물로 샀는데 너무 좋아하네요!!!" [ref=e1408] [cursor=pointer]:
+                      - img "review_image" [ref=e1410]
+                      - generic [ref=e1411]:
+                        - generic [ref=e1412]:
+                          - generic [ref=e1413]:
+                            - generic [ref=e1416]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=e1417]: 여자친구 선물로 샀는데 너무 좋아하네요!!!
+                  - listitem [ref=e1418]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 생각보다 앙증맞은 사이즈인데 그래서 더 좋아요! 토끼도 너무 귀엽고 보고 있으면 기분 좋아집니다🐰😌🫶" [ref=e1419] [cursor=pointer]:
+                      - img "review_image" [ref=e1421]
+                      - generic [ref=e1422]:
+                        - generic [ref=e1423]:
+                          - generic [ref=e1424]:
+                            - generic [ref=e1427]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=e1428]: 생각보다 앙증맞은 사이즈인데 그래서 더 좋아요! 토끼도 너무 귀엽고 보고 있으면 기분 좋아집니다🐰😌🫶
+                  - listitem [ref=e1429]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 개완 뚜껑 올려두기 깔끔하고 귀여워요" [ref=e1430] [cursor=pointer]:
+                      - img "review_image" [ref=e1432]
+                      - generic [ref=e1433]:
+                        - generic [ref=e1434]:
+                          - generic [ref=e1435]:
+                            - generic [ref=e1438]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=e1439]: 개완 뚜껑 올려두기 깔끔하고 귀여워요
+                  - listitem [ref=e1440]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 귀여워요 이쁘고 차마시면서 옆에두고 다관뚜껑 올려놓을 용도로 구매했는데 한번써보려구요 마침 쎄일을해서 구매했어요" [ref=e1441] [cursor=pointer]:
+                      - img "review_image" [ref=e1443]
+                      - generic [ref=e1444]:
+                        - generic [ref=e1445]:
+                          - generic [ref=e1446]:
+                            - generic [ref=e1449]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=e1450]: 귀여워요 이쁘고 차마시면서 옆에두고 다관뚜껑 올려놓을 용도로 구매했는데 한번써보려구요 마침 쎄일을해서 구매했어요
+                  - listitem [ref=e1451]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 귀여운 차 친구가 생겼어요" [ref=e1452] [cursor=pointer]:
+                      - img "review_image" [ref=e1454]
+                      - generic [ref=e1455]:
+                        - generic [ref=e1456]:
+                          - generic [ref=e1457]:
+                            - generic [ref=e1460]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=e1461]: 귀여운 차 친구가 생겼어요
+                  - listitem [ref=e1462]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 차 친구가 생겼어요" [ref=e1463] [cursor=pointer]:
+                      - img "review_image" [ref=e1465]
+                      - generic [ref=e1466]:
+                        - generic [ref=e1467]:
+                          - generic [ref=e1468]:
+                            - generic [ref=e1471]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=e1472]: 차 친구가 생겼어요
+                  - listitem [ref=e1473]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 귀엽고 예뻐서 마음에 들어요. 차 안 마실 때도 책상에 그냥 두고 있습니다." [ref=e1474] [cursor=pointer]:
+                      - img "review_image" [ref=e1476]
+                      - generic [ref=e1477]:
+                        - generic [ref=e1478]:
+                          - generic [ref=e1479]:
+                            - generic [ref=e1482]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=e1483]: 귀엽고 예뻐서 마음에 들어요. 차 안 마실 때도 책상에 그냥 두고 있습니다.
+                  - listitem [ref=e1484]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 귀엽고 예뻐서 마음에 들어요. 차 안 마실 때도 책상에 그냥 두고 있습니다." [ref=e1485] [cursor=pointer]:
+                      - img "review_image" [ref=e1487]
+                      - generic [ref=e1488]:
+                        - generic [ref=e1489]:
+                          - generic [ref=e1490]:
+                            - generic [ref=e1493]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=e1494]: 귀엽고 예뻐서 마음에 들어요. 차 안 마실 때도 책상에 그냥 두고 있습니다.
+                  - listitem [ref=e1495]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 실물이 너무 영롱해요. 작고 귀여워요 잘쓰겠습니다" [ref=e1496] [cursor=pointer]:
+                      - img "review_image" [ref=e1498]
+                      - generic [ref=e1499]:
+                        - generic [ref=e1500]:
+                          - generic [ref=e1501]:
+                            - generic [ref=e1504]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=e1505]: 실물이 너무 영롱해요. 작고 귀여워요 잘쓰겠습니다
+                - button "다음" [ref=e1506] [cursor=pointer]
+              - button "리뷰 전체보기" [ref=e1510] [cursor=pointer]
+          - generic [ref=e1516]:
+            - strong [ref=e1518]: 다른 구성 상품 골라 담기
+            - list [ref=e1524]:
+              - listitem [ref=e1525]
+              - listitem [ref=e1542]
+              - listitem [ref=e1559]
+              - listitem [ref=e1576]
+              - listitem [ref=e1593]
+              - listitem [ref=e1610]
+          - list [ref=e1630]:
+            - listitem [ref=e1631]:
+              - link [ref=e1632] [cursor=pointer]:
+                - /url: "#"
+                - img "이번 달 멤버십 시작하면? 올리브영 혜택까지 받아요" [ref=e1633]
+          - generic [ref=e1634]:
+            - generic [ref=e1635]:
+              - list [ref=e1637]:
+                - button "상세정보" [ref=e1638] [cursor=pointer]
+                - button "리뷰 42" [ref=e1639] [cursor=pointer]
+                - button "Q&A 2" [ref=e1640] [cursor=pointer]
+                - button "판매자정보" [ref=e1641] [cursor=pointer]
+                - button "추천" [ref=e1642] [cursor=pointer]
+              - generic [ref=e1644]:
+                - generic [ref=e1646]:
+                  - generic [ref=e1652]:
+                    - text: 판매자가 타 사이트 안내 및 현금 결제, 개인정보 유도 시 결제/입력하지 마시고 즉시
+                    - link "고객센터로 신고" [ref=e1653] [cursor=pointer]:
+                      - /url: https://help.pay.naver.com/faq/content.help?faqId=14188
+                    - text: 해주세요.
+                  - generic [ref=e1655]:
+                    - strong [ref=e1657]: 상품정보
+                    - list [ref=e1658]:
+                      - listitem [ref=e1659]:
+                        - generic [ref=e1660]: 상품번호
+                        - generic [ref=e1661]:
+                          - text: "12069656320"
+                          - button "상품번호 복사" [ref=e1662] [cursor=pointer]: 복사
+                      - listitem [ref=e1666]:
+                        - generic [ref=e1667]: 제조사
+                        - generic [ref=e1668]: 부부티하우스
+                      - listitem [ref=e1669]:
+                        - generic [ref=e1670]: 브랜드
+                        - generic [ref=e1671]: 부부티하우스
+                      - listitem [ref=e1672]:
+                        - generic [ref=e1673]: 원산지
+                        - generic [ref=e1674]: 중국산(중국(이싱))
+                      - listitem [ref=e1675]:
+                        - generic [ref=e1676]: 재질
+                        - generic [ref=e1677]: 유리
+                      - listitem [ref=e1678]:
+                        - generic [ref=e1679]: 구성수량
+                        - generic [ref=e1680]: 1P
+                    - generic [ref=e1681]:
+                      - button "신고하기" [ref=e1682] [cursor=pointer]
+                      - button "상품정보제공고시 보기" [ref=e1683] [cursor=pointer]
+                  - generic [ref=e1684]:
+                    - generic [ref=e1685]:
+                      - generic [ref=e1686]:
+                        - generic [ref=e1687]:
+                          - strong [ref=e1688]: 공지사항
+                          - paragraph [ref=e1703]
+                        - generic [ref=e1708]:
+                          - generic [ref=e1717]:
+                            - paragraph [ref=e1718]: 개완, 자사호, 다관 뚜껑 받침으로 사용하실 수 있어요
+                            - paragraph [ref=e1719]
+                          - paragraph [ref=e1759]
+                      - generic [ref=e1761]:
+                        - strong [ref=e1763]: 관련 태그
+                        - list [ref=e1764]:
+                          - listitem [ref=e1765]:
+                            - link "#차총" [ref=e1766] [cursor=pointer]:
+                              - /url: /bubuti/search?q=%23%EC%B0%A8%EC%B4%9D
+                          - listitem [ref=e1767]:
+                            - link "#예쁜차총" [ref=e1768] [cursor=pointer]:
+                              - /url: /bubuti/search?q=%23%EC%98%88%EC%81%9C%EC%B0%A8%EC%B4%9D
+                          - listitem [ref=e1769]:
+                            - link "#차도구" [ref=e1770] [cursor=pointer]:
+                              - /url: /bubuti/search?q=%23%EC%B0%A8%EB%8F%84%EA%B5%AC
+                          - listitem [ref=e1771]:
+                            - link "#동물차총" [ref=e1772] [cursor=pointer]:
+                              - /url: /bubuti/search?q=%23%EB%8F%99%EB%AC%BC%EC%B0%A8%EC%B4%9D
+                          - listitem [ref=e1773]:
+                            - link "#찻자리" [ref=e1774] [cursor=pointer]:
+                              - /url: /bubuti/search?q=%23%EC%B0%BB%EC%9E%90%EB%A6%AC
+                          - listitem [ref=e1775]:
+                            - link "#티소품" [ref=e1776] [cursor=pointer]:
+                              - /url: /bubuti/search?q=%23%ED%8B%B0%EC%86%8C%ED%92%88
+                          - listitem [ref=e1777]:
+                            - link "#다도" [ref=e1778] [cursor=pointer]:
+                              - /url: /bubuti/search?q=%23%EB%8B%A4%EB%8F%84
+                          - listitem [ref=e1779]:
+                            - link "#다도소품" [ref=e1780] [cursor=pointer]:
+                              - /url: /bubuti/search?q=%23%EB%8B%A4%EB%8F%84%EC%86%8C%ED%92%88
+                          - listitem [ref=e1781]:
+                            - link "#집들이선물" [ref=e1782] [cursor=pointer]:
+                              - /url: /bubuti/search?q=%23%EC%A7%91%EB%93%A4%EC%9D%B4%EC%84%A0%EB%AC%BC
+                    - button "상세정보 펼쳐보기" [ref=e1783] [cursor=pointer]
+                - generic [ref=e1790]:
+                  - strong [ref=e1793]: 관련 숏클립
+                  - list [ref=e1794]:
+                    - listitem [ref=e1795]
+                    - listitem [ref=e1801]
+                    - listitem [ref=e1807]
+                    - listitem [ref=e1813]
+                    - listitem [ref=e1819]
+                - generic [ref=e1827]:
+                  - generic [ref=e1828]:
+                    - strong [ref=e1830]: 리뷰
+                    - list [ref=e1839]:
+                      - listitem [ref=e1840]
+                      - listitem [ref=e1842]
+                      - listitem [ref=e1844]
+                      - listitem [ref=e1846]
+                      - listitem [ref=e1848]
+                      - listitem [ref=e1850]
+                    - list [ref=e1852]:
+                      - listitem [ref=e1853]
+                      - listitem [ref=e1869]
+                      - listitem [ref=e1885]
+                      - listitem [ref=e1901]
+                      - listitem [ref=e1917]
+                      - listitem [ref=e1933]
+                      - listitem [ref=e1949]
+                      - listitem [ref=e1965]
+                  - button "리뷰 전체보기" [ref=e1982] [cursor=pointer]
+                - generic [ref=e1988]:
+                  - strong [ref=e1990]: Q&A
+                  - list [ref=e1993]:
+                    - listitem [ref=e1994]
+                    - listitem [ref=e1996]
+                    - listitem [ref=e1998]
+                    - listitem [ref=e2000]
+                  - button "Q&A 전체보기" [ref=e2003] [cursor=pointer]
+                - generic [ref=e2008]:
+                  - generic [ref=e2009]:
+                    - link [ref=e2010] [cursor=pointer]:
+                      - /url: /bubuti
+                      - img "이미지정보" [ref=e2011]
+                    - generic [ref=e2012]:
+                      - generic [ref=e2013]:
+                        - link "부부티" [ref=e2014] [cursor=pointer]:
+                          - /url: /bubuti
+                        - generic [ref=e2015]: 공식
+                      - list [ref=e2016]:
+                        - listitem [ref=e2017]:
+                          - button "빅파워" [ref=e2023] [cursor=pointer]
+                          - button "도움말" [ref=e2025] [cursor=pointer]
+                        - listitem [ref=e2030]:
+                          - button "관심고객수 41,473" [ref=e2031] [cursor=pointer]
+                          - button "도움말" [ref=e2033] [cursor=pointer]
+                      - link "부부티 등급 혜택 확인" [ref=e2039] [cursor=pointer]:
+                        - /url: /bubuti/gradebenefit
+                        - generic [ref=e2040]: 부부티
+                        - text: 등급 혜택 확인
+                  - list [ref=e2043]:
+                    - listitem [ref=e2044]:
+                      - button "알림받기" [ref=e2045] [cursor=pointer]
+                    - listitem [ref=e2049]:
+                      - link "톡톡" [ref=e2050] [cursor=pointer]:
+                        - /url: https://talk.naver.com/ct/wc390f#nafullscreen
+                    - listitem [ref=e2054]:
+                      - link "스토어홈" [ref=e2055] [cursor=pointer]:
+                        - /url: /bubuti
+                  - list [ref=e2058]:
+                    - listitem [ref=e2059]:
+                      - link "인스타그램" [ref=e2060] [cursor=pointer]:
+                        - /url: http://instagram.com/bubuti_official
+                - generic [ref=e2063]:
+                  - generic [ref=e2065]:
+                    - generic [ref=e2066]:
+                      - strong [ref=e2067]: 함께 구매하기 좋은 상품
+                      - generic [ref=e2068]: 1 / 6
+                    - list [ref=e2074]:
+                      - listitem [ref=e2075]:
+                        - generic [ref=e2076]:
+                          - link "4대 명총의 시작, 정암 철라한 20g 28,000원 배송비 3,000원" [ref=e2077] [cursor=pointer]:
+                            - /url: /bubuti/products/12486399666
+                            - generic [ref=e2078]: 상품 바로가기
+                          - generic [ref=e2079]:
+                            - img "@4대 명총의 시작, 정암 철라한 20g" [ref=e2081]
+                            - button "4대 명총의 시작, 정암 철라한 20g 찜하기" [ref=e2082] [cursor=pointer]
+                          - generic [ref=e2087]:
+                            - paragraph [ref=e2088]: 4대 명총의 시작, 정암 철라한 20g
+                            - generic [ref=e2091]:
+                              - generic [ref=e2092]: 28,000원
+                              - generic [ref=e2093]:
+                                - generic [ref=e2097]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=e2098]:
+                        - generic [ref=e2099]:
+                          - link "한 손에 담긴 휴식, 휴대용 다기 다도세트 68,000원" [ref=e2100] [cursor=pointer]:
+                            - /url: /bubuti/products/4821430393
+                            - generic [ref=e2101]: 상품 바로가기
+                          - generic [ref=e2102]:
+                            - img "@한 손에 담긴 휴식, 휴대용 다기 다도세트" [ref=e2104]
+                            - button "한 손에 담긴 휴식, 휴대용 다기 다도세트 찜하기" [ref=e2105] [cursor=pointer]
+                          - generic [ref=e2110]:
+                            - paragraph [ref=e2111]: 한 손에 담긴 휴식, 휴대용 다기 다도세트
+                            - generic [ref=e2112]: 68,000원
+                      - listitem [ref=e2116]:
+                        - generic [ref=e2117]:
+                          - link "부부티 흡수력이 좋은, 빈티지 다건 다포 다도 차판 5,500원 배송비 3,000원" [ref=e2118] [cursor=pointer]:
+                            - /url: /bubuti/products/5130437876
+                            - generic [ref=e2119]: 상품 바로가기
+                          - generic [ref=e2120]:
+                            - img "@부부티 흡수력이 좋은, 빈티지 다건 다포 다도 차판" [ref=e2122]
+                            - button "부부티 흡수력이 좋은, 빈티지 다건 다포 다도 차판 찜하기" [ref=e2123] [cursor=pointer]
+                          - generic [ref=e2128]:
+                            - paragraph [ref=e2129]: 부부티 흡수력이 좋은, 빈티지 다건 다포 다도 차판
+                            - generic [ref=e2132]:
+                              - generic [ref=e2133]: 5,500원
+                              - generic [ref=e2134]:
+                                - generic [ref=e2138]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=e2139]:
+                        - generic [ref=e2140]:
+                          - link "[찻잔] 금빛 유리찻잔 3종 7,800원 11% 할인 6,900원 배송비 3,000원" [ref=e2141] [cursor=pointer]:
+                            - /url: /bubuti/products/4791988934
+                            - generic [ref=e2142]: 상품 바로가기
+                          - generic [ref=e2143]:
+                            - img "@[찻잔] 금빛 유리찻잔 3종" [ref=e2145]
+                            - button "[찻잔] 금빛 유리찻잔 3종 찜하기" [ref=e2146] [cursor=pointer]
+                          - generic [ref=e2151]:
+                            - paragraph [ref=e2152]: "[찻잔] 금빛 유리찻잔 3종"
+                            - generic [ref=e2154]:
+                              - deletion [ref=e2155]: 7,800원
+                              - generic [ref=e2156]:
+                                - generic [ref=e2157]:
+                                  - generic [ref=e2158]:
+                                    - text: 11%
+                                    - generic [ref=e2159]: 할인
+                                  - generic [ref=e2160]: 6,900원
+                                - generic [ref=e2161]:
+                                  - generic [ref=e2165]: 배송비
+                                  - text: 3,000원
+                      - listitem [ref=e2166]:
+                        - generic [ref=e2167]:
+                          - link "[티코스터] 네모난 찻잔받침 - 컵받침대 컵코스터 4,500원 22% 할인 3,500원 배송비 3,000원" [ref=e2168] [cursor=pointer]:
+                            - /url: /bubuti/products/5889433682
+                            - generic [ref=e2169]: 상품 바로가기
+                          - generic [ref=e2170]:
+                            - img "@[티코스터] 네모난 찻잔받침 - 컵받침대 컵코스터" [ref=e2172]
+                            - button "[티코스터] 네모난 찻잔받침 - 컵받침대 컵코스터 찜하기" [ref=e2173] [cursor=pointer]
+                          - generic [ref=e2178]:
+                            - paragraph [ref=e2179]: "[티코스터] 네모난 찻잔받침 - 컵받침대 컵코스터"
+                            - generic [ref=e2181]:
+                              - deletion [ref=e2182]: 4,500원
+                              - generic [ref=e2183]:
+                                - generic [ref=e2184]:
+                                  - generic [ref=e2185]:
+                                    - text: 22%
+                                    - generic [ref=e2186]: 할인
+                                  - generic [ref=e2187]: 3,500원
+                                - generic [ref=e2188]:
+                                  - generic [ref=e2192]: 배송비
+                                  - text: 3,000원
+                      - listitem [ref=e2193]:
+                        - generic [ref=e2194]:
+                          - link "부부티 우드 티포트 960ml ㅡ 티팟 세트 티메이커 차주전자 44,000원 배송비 3,000원" [ref=e2195] [cursor=pointer]:
+                            - /url: /bubuti/products/4821986103
+                            - generic [ref=e2196]: 상품 바로가기
+                          - generic [ref=e2197]:
+                            - img "@부부티 우드 티포트 960ml ㅡ 티팟 세트 티메이커 차주전자" [ref=e2199]
+                            - button "부부티 우드 티포트 960ml ㅡ 티팟 세트 티메이커 차주전자 찜하기" [ref=e2200] [cursor=pointer]
+                          - generic [ref=e2205]:
+                            - paragraph [ref=e2206]: 부부티 우드 티포트 960ml ㅡ 티팟 세트 티메이커 차주전자
+                            - generic [ref=e2209]:
+                              - generic [ref=e2210]: 44,000원
+                              - generic [ref=e2211]:
+                                - generic [ref=e2215]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=e2216]:
+                        - generic [ref=e2217]:
+                          - link "부부티 미니 라운드 유리다관 150ml - 차우리는도구 티팟세트 23,000원 배송비 3,000원" [ref=e2218] [cursor=pointer]:
+                            - /url: /bubuti/products/5478267171
+                            - generic [ref=e2219]: 상품 바로가기
+                          - generic [ref=e2220]:
+                            - img "@부부티 미니 라운드 유리다관 150ml - 차우리는도구 티팟세트" [ref=e2222]
+                            - button "부부티 미니 라운드 유리다관 150ml - 차우리는도구 티팟세트 찜하기" [ref=e2223] [cursor=pointer]
+                          - generic [ref=e2228]:
+                            - paragraph [ref=e2229]: 부부티 미니 라운드 유리다관 150ml - 차우리는도구 티팟세트
+                            - generic [ref=e2232]:
+                              - generic [ref=e2233]: 23,000원
+                              - generic [ref=e2234]:
+                                - generic [ref=e2238]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=e2239]:
+                        - generic [ref=e2240]:
+                          - link "[SET] 물방울 연잎 내열유리찻잔 2개 46,000원 10% 할인 41,400원 배송비 3,000원" [ref=e2241] [cursor=pointer]:
+                            - /url: /bubuti/products/11619417470
+                            - generic [ref=e2242]: 상품 바로가기
+                          - generic [ref=e2243]:
+                            - img "@[SET] 물방울 연잎 내열유리찻잔 2개" [ref=e2245]
+                            - button "[SET] 물방울 연잎 내열유리찻잔 2개 찜하기" [ref=e2246] [cursor=pointer]
+                          - generic [ref=e2251]:
+                            - paragraph [ref=e2252]: "[SET] 물방울 연잎 내열유리찻잔 2개"
+                            - generic [ref=e2254]:
+                              - deletion [ref=e2255]: 46,000원
+                              - generic [ref=e2256]:
+                                - generic [ref=e2257]:
+                                  - generic [ref=e2258]:
+                                    - text: 10%
+                                    - generic [ref=e2259]: 할인
+                                  - generic [ref=e2260]: 41,400원
+                                - generic [ref=e2261]:
+                                  - generic [ref=e2265]: 배송비
+                                  - text: 3,000원
+                      - listitem [ref=e2266]:
+                        - generic [ref=e2267]:
+                          - link "무이암차 우롱차·보이숙차 티백 7개입 15,000원 배송비 3,000원" [ref=e2268] [cursor=pointer]:
+                            - /url: /bubuti/products/8380316489
+                            - generic [ref=e2269]: 상품 바로가기
+                          - generic [ref=e2270]:
+                            - img "@무이암차 우롱차·보이숙차 티백 7개입" [ref=e2272]
+                            - button "무이암차 우롱차·보이숙차 티백 7개입 찜하기" [ref=e2273] [cursor=pointer]
+                          - generic [ref=e2278]:
+                            - paragraph [ref=e2279]: 무이암차 우롱차·보이숙차 티백 7개입
+                            - generic [ref=e2282]:
+                              - generic [ref=e2283]: 15,000원
+                              - generic [ref=e2284]:
+                                - generic [ref=e2288]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=e2289]:
+                        - generic [ref=e2290]:
+                          - link "작은 불빛에 쉬어가는 밤, 부부티 빈티지 캔들홀더 32,000원 12% 할인 28,000원 배송비 3,000원" [ref=e2291] [cursor=pointer]:
+                            - /url: /bubuti/products/4754187371
+                            - generic [ref=e2292]: 상품 바로가기
+                          - generic [ref=e2293]:
+                            - img "@작은 불빛에 쉬어가는 밤, 부부티 빈티지 캔들홀더" [ref=e2295]
+                            - button "작은 불빛에 쉬어가는 밤, 부부티 빈티지 캔들홀더 찜하기" [ref=e2296] [cursor=pointer]
+                          - generic [ref=e2301]:
+                            - paragraph [ref=e2302]: 작은 불빛에 쉬어가는 밤, 부부티 빈티지 캔들홀더
+                            - generic [ref=e2304]:
+                              - deletion [ref=e2305]: 32,000원
+                              - generic [ref=e2306]:
+                                - generic [ref=e2307]:
+                                  - generic [ref=e2308]:
+                                    - text: 12%
+                                    - generic [ref=e2309]: 할인
+                                  - generic [ref=e2310]: 28,000원
+                                - generic [ref=e2311]:
+                                  - generic [ref=e2315]: 배송비
+                                  - text: 3,000원
+                      - listitem [ref=e2316]:
+                        - generic [ref=e2317]:
+                          - link "한결 나은 하루를 위한, 정암 무이암차 우롱차 3종 - 기란 수선 육계 18,500원 배송비 3,000원" [ref=e2318] [cursor=pointer]:
+                            - /url: /bubuti/products/6911456521
+                            - generic [ref=e2319]: 상품 바로가기
+                          - generic [ref=e2320]:
+                            - img "@한결 나은 하루를 위한, 정암 무이암차 우롱차 3종 - 기란 수선 육계" [ref=e2322]
+                            - button "한결 나은 하루를 위한, 정암 무이암차 우롱차 3종 - 기란 수선 육계 찜하기" [ref=e2323] [cursor=pointer]
+                          - generic [ref=e2328]:
+                            - paragraph [ref=e2329]: 한결 나은 하루를 위한, 정암 무이암차 우롱차 3종 - 기란 수선 육계
+                            - generic [ref=e2332]:
+                              - generic [ref=e2333]: 18,500원
+                              - generic [ref=e2334]:
+                                - generic [ref=e2338]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=e2339]:
+                        - generic [ref=e2340]:
+                          - link "달콤한 휴식, 부부티 크림 도자기 티머그 360ml 38,000원 배송비 3,000원" [ref=e2341] [cursor=pointer]:
+                            - /url: /bubuti/products/11905135527
+                            - generic [ref=e2342]: 상품 바로가기
+                          - generic [ref=e2343]:
+                            - img "@달콤한 휴식, 부부티 크림 도자기 티머그 360ml" [ref=e2345]
+                            - button "달콤한 휴식, 부부티 크림 도자기 티머그 360ml 찜하기" [ref=e2346] [cursor=pointer]
+                          - generic [ref=e2351]:
+                            - paragraph [ref=e2352]: 달콤한 휴식, 부부티 크림 도자기 티머그 360ml
+                            - generic [ref=e2355]:
+                              - generic [ref=e2356]: 38,000원
+                              - generic [ref=e2357]:
+                                - generic [ref=e2361]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=e2362]:
+                        - generic [ref=e2363]:
+                          - link "속이 편안한 찻자리, 17년 숙성 보이숙차 2종 30g 28,000원 배송비 3,000원" [ref=e2364] [cursor=pointer]:
+                            - /url: /bubuti/products/11529004072
+                            - generic [ref=e2365]: 상품 바로가기
+                          - generic [ref=e2366]:
+                            - img "@속이 편안한 찻자리, 17년 숙성 보이숙차 2종 30g" [ref=e2368]
+                            - button "속이 편안한 찻자리, 17년 숙성 보이숙차 2종 30g 찜하기" [ref=e2369] [cursor=pointer]
+                          - generic [ref=e2374]:
+                            - paragraph [ref=e2375]: 속이 편안한 찻자리, 17년 숙성 보이숙차 2종 30g
+                            - generic [ref=e2378]:
+                              - generic [ref=e2379]: 28,000원
+                              - generic [ref=e2380]:
+                                - generic [ref=e2384]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=e2385]:
+                        - generic [ref=e2386]:
+                          - link "맑고 깊은 향, 혜원암수선 20g 34,000원 배송비 3,000원" [ref=e2387] [cursor=pointer]:
+                            - /url: /bubuti/products/12182535656
+                            - generic [ref=e2388]: 상품 바로가기
+                          - generic [ref=e2389]:
+                            - img "@맑고 깊은 향, 혜원암수선 20g" [ref=e2391]
+                            - button "맑고 깊은 향, 혜원암수선 20g 찜하기" [ref=e2392] [cursor=pointer]
+                          - generic [ref=e2397]:
+                            - paragraph [ref=e2398]: 맑고 깊은 향, 혜원암수선 20g
+                            - generic [ref=e2401]:
+                              - generic [ref=e2402]: 34,000원
+                              - generic [ref=e2403]:
+                                - generic [ref=e2407]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=e2408]:
+                        - generic [ref=e2409]:
+                          - link "[티코스터] 부부티 사각사각 찻잔받침 - L사이즈 컵받침대 컵코스터 5,200원 배송비 3,000원" [ref=e2410] [cursor=pointer]:
+                            - /url: /bubuti/products/5869910403
+                            - generic [ref=e2411]: 상품 바로가기
+                          - generic [ref=e2412]:
+                            - img "@[티코스터] 부부티 사각사각 찻잔받침 - L사이즈 컵받침대 컵코스터" [ref=e2414]
+                            - button "[티코스터] 부부티 사각사각 찻잔받침 - L사이즈 컵받침대 컵코스터 찜하기" [ref=e2415] [cursor=pointer]
+                          - generic [ref=e2420]:
+                            - paragraph [ref=e2421]: "[티코스터] 부부티 사각사각 찻잔받침 - L사이즈 컵받침대 컵코스터"
+                            - generic [ref=e2424]:
+                              - generic [ref=e2425]: 5,200원
+                              - generic [ref=e2426]:
+                                - generic [ref=e2430]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=e2431]:
+                        - generic [ref=e2432]:
+                          - link "[재입고] 취향을 찾아주는 최고급 무이암차 우롱차 컬렉션 4종 48g 48,000원" [ref=e2433] [cursor=pointer]:
+                            - /url: /bubuti/products/6234448036
+                            - generic [ref=e2434]: 상품 바로가기
+                          - generic [ref=e2435]:
+                            - img "@[재입고] 취향을 찾아주는 최고급 무이암차 우롱차 컬렉션 4종 48g" [ref=e2437]
+                            - button "[재입고] 취향을 찾아주는 최고급 무이암차 우롱차 컬렉션 4종 48g 찜하기" [ref=e2438] [cursor=pointer]
+                          - generic [ref=e2443]:
+                            - paragraph [ref=e2444]: "[재입고] 취향을 찾아주는 최고급 무이암차 우롱차 컬렉션 4종 48g"
+                            - generic [ref=e2445]: 48,000원
+                      - listitem [ref=e2449]:
+                        - generic [ref=e2450]:
+                          - link "나를 위한 온전한 시간, 티 루틴 세트 (티머그 + 최고급 우롱차 20g) 56,500원" [ref=e2451] [cursor=pointer]:
+                            - /url: /bubuti/products/13208233068
+                            - generic [ref=e2452]: 상품 바로가기
+                          - generic [ref=e2453]:
+                            - img "@나를 위한 온전한 시간, 티 루틴 세트 (티머그 + 최고급 우롱차 20g)" [ref=e2455]
+                            - button "나를 위한 온전한 시간, 티 루틴 세트 (티머그 + 최고급 우롱차 20g) 찜하기" [ref=e2456] [cursor=pointer]
+                          - generic [ref=e2461]:
+                            - paragraph [ref=e2462]: 나를 위한 온전한 시간, 티 루틴 세트 (티머그 + 최고급 우롱차 20g)
+                            - generic [ref=e2463]: 56,500원
+                      - listitem [ref=e2467]:
+                        - generic [ref=e2468]:
+                          - link "[SET] 크림 도자기 티머그 + 17년 숙성 보이숙차 08 66,000원" [ref=e2469] [cursor=pointer]:
+                            - /url: /bubuti/products/12476204840
+                            - generic [ref=e2470]: 상품 바로가기
+                          - generic [ref=e2471]:
+                            - img "@[SET] 크림 도자기 티머그 + 17년 숙성 보이숙차 08" [ref=e2473]
+                            - button "[SET] 크림 도자기 티머그 + 17년 숙성 보이숙차 08 찜하기" [ref=e2474] [cursor=pointer]
+                          - generic [ref=e2479]:
+                            - paragraph [ref=e2480]: "[SET] 크림 도자기 티머그 + 17년 숙성 보이숙차 08"
+                            - generic [ref=e2481]: 66,000원
+                      - listitem [ref=e2485]:
+                        - generic [ref=e2486]:
+                          - link "[찻잔] 물방울 연잎 내열유리찻잔 23,000원 배송비 3,000원" [ref=e2487] [cursor=pointer]:
+                            - /url: /bubuti/products/10543565575
+                            - generic [ref=e2488]: 상품 바로가기
+                          - generic [ref=e2489]:
+                            - img "@[찻잔] 물방울 연잎 내열유리찻잔" [ref=e2491]
+                            - button "[찻잔] 물방울 연잎 내열유리찻잔 찜하기" [ref=e2492] [cursor=pointer]
+                          - generic [ref=e2497]:
+                            - paragraph [ref=e2498]: "[찻잔] 물방울 연잎 내열유리찻잔"
+                            - generic [ref=e2501]:
+                              - generic [ref=e2502]: 23,000원
+                              - generic [ref=e2503]:
+                                - generic [ref=e2507]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=e2508]:
+                        - generic [ref=e2509]:
+                          - link "[SET] 크림 도자기 티머그 + 4대 명총 우롱차 '수금귀' 66,000원" [ref=e2510] [cursor=pointer]:
+                            - /url: /bubuti/products/12219649301
+                            - generic [ref=e2511]: 상품 바로가기
+                          - generic [ref=e2512]:
+                            - img "@[SET] 크림 도자기 티머그 + 4대 명총 우롱차 '수금귀'" [ref=e2514]
+                            - button "[SET] 크림 도자기 티머그 + 4대 명총 우롱차 '수금귀' 찜하기" [ref=e2515] [cursor=pointer]
+                          - generic [ref=e2520]:
+                            - paragraph [ref=e2521]: "[SET] 크림 도자기 티머그 + 4대 명총 우롱차 '수금귀'"
+                            - generic [ref=e2522]: 66,000원
+                      - listitem [ref=e2526]:
+                        - generic [ref=e2527]:
+                          - link "우롱차의 왕(王), 정암 대홍포 20g 38,000원 배송비 3,000원" [ref=e2528] [cursor=pointer]:
+                            - /url: /bubuti/products/11899735154
+                            - generic [ref=e2529]: 상품 바로가기
+                          - generic [ref=e2530]:
+                            - img "@우롱차의 왕(王), 정암 대홍포 20g" [ref=e2532]
+                            - button "우롱차의 왕(王), 정암 대홍포 20g 찜하기" [ref=e2533] [cursor=pointer]
+                          - generic [ref=e2538]:
+                            - paragraph [ref=e2539]: 우롱차의 왕(王), 정암 대홍포 20g
+                            - generic [ref=e2542]:
+                              - generic [ref=e2543]: 38,000원
+                              - generic [ref=e2544]:
+                                - generic [ref=e2548]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=e2549]:
+                        - generic [ref=e2550]:
+                          - link "향과 품격의 절정, 마두암육계 20g 38,000원 배송비 3,000원" [ref=e2551] [cursor=pointer]:
+                            - /url: /bubuti/products/12628025298
+                            - generic [ref=e2552]: 상품 바로가기
+                          - generic [ref=e2553]:
+                            - img "@향과 품격의 절정, 마두암육계 20g" [ref=e2555]
+                            - button "향과 품격의 절정, 마두암육계 20g 찜하기" [ref=e2556] [cursor=pointer]
+                          - generic [ref=e2561]:
+                            - paragraph [ref=e2562]: 향과 품격의 절정, 마두암육계 20g
+                            - generic [ref=e2565]:
+                              - generic [ref=e2566]: 38,000원
+                              - generic [ref=e2567]:
+                                - generic [ref=e2571]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=e2572]:
+                        - generic [ref=e2573]:
+                          - link "4대 명총, 정암 수금귀 20g 28,000원 배송비 3,000원" [ref=e2574] [cursor=pointer]:
+                            - /url: /bubuti/products/12042328203
+                            - generic [ref=e2575]: 상품 바로가기
+                          - generic [ref=e2576]:
+                            - img "@4대 명총, 정암 수금귀 20g" [ref=e2578]
+                            - button "4대 명총, 정암 수금귀 20g 찜하기" [ref=e2579] [cursor=pointer]
+                          - generic [ref=e2584]:
+                            - paragraph [ref=e2585]: 4대 명총, 정암 수금귀 20g
+                            - generic [ref=e2588]:
+                              - generic [ref=e2589]: 28,000원
+                              - generic [ref=e2590]:
+                                - generic [ref=e2594]: 배송비
+                                - text: 3,000원
+                  - generic [ref=e2597]:
+                    - strong [ref=e2599]: 다기/주기 인기상품
+                    - list [ref=e2605]:
+                      - listitem [ref=e2606]
+                      - listitem [ref=e2623]
+                      - listitem [ref=e2640]
+                      - listitem [ref=e2657]
+                  - generic [ref=e2676]:
+                    - generic [ref=e2677]:
+                      - strong [ref=e2678]: 부부티 인기상품
+                      - link "전체보기" [ref=e2679] [cursor=pointer]:
+                        - /url: /bubuti/best
+                    - list [ref=e2687]:
+                      - listitem [ref=e2688]
+                      - listitem [ref=e2705]
+                      - listitem [ref=e2722]
+                      - listitem [ref=e2739]
+                  - generic [ref=e2758]:
+                    - list [ref=e2760]:
+                      - listitem [ref=e2761]
+                      - listitem [ref=e2763]
+                      - listitem [ref=e2765]
+                      - listitem [ref=e2767]
+                    - tabpanel [ref=e2769]:
+                      - list [ref=e2774]:
+                        - listitem [ref=e2775]
+                        - listitem [ref=e2792]
+                        - listitem [ref=e2809]
+                        - listitem [ref=e2826]
+                - generic [ref=e2844]:
+                  - list [ref=e2845]:
+                    - listitem [ref=e2846]:
+                      - button "구매 추가정보" [ref=e2847] [cursor=pointer]
+                    - listitem [ref=e2850]:
+                      - button "상품정보 제공고시" [ref=e2851] [cursor=pointer]
+                    - listitem [ref=e2854]:
+                      - button "반품/교환안내" [ref=e2855] [cursor=pointer]
+                    - listitem [ref=e2858]:
+                      - button "판매자정보" [ref=e2859] [cursor=pointer]
+                    - listitem [ref=e2862]:
+                      - button "주의사항" [ref=e2863] [cursor=pointer]
+                    - listitem [ref=e2866]:
+                      - link "쇼핑 안전거래 TIP" [ref=e2867] [cursor=pointer]:
+                        - /url: https://safety.smartstore.naver.com/main/rules/safety/tip
+                    - listitem [ref=e2870]:
+                      - button "상품정보 신고" [ref=e2871] [cursor=pointer]
+                  - generic [ref=e2874]:
+                    - generic [ref=e2875]: 네이버파이낸셜
+                    - generic [ref=e2876]: "결제대금예치업 등록번호 : 02-006-00056"
+                    - paragraph [ref=e2877]: 네이버파이낸셜㈜은 전자금융거래법에 따라 결제대금예치업을 운영할 수 있는 전자금융업자로 금융위원회로 등록되었으며, 본 판매자는 구매금액, 결제수단에 관계없이 모든 거래에 대해 자동적으로 네이버파이낸셜㈜이 제공하는 구매안전서비스를 적용하고 있습니다.
+                    - button "서비스 가입사실 확인" [ref=e2878] [cursor=pointer]
+                    - button "도움말" [ref=e2880] [cursor=pointer]
+                  - generic [ref=e2885]:
+                    - generic [ref=e2886]:
+                      - term [ref=e2887]: 상호명
+                      - definition [ref=e2888]: 주식회사 부부티하우스 (법인 사업자)
+                    - generic [ref=e2889]:
+                      - term [ref=e2890]: 대표자
+                      - definition [ref=e2891]:
+                        - text: 최형석,박지의
+                        - button "판매자 상세정보 확인" [ref=e2892] [cursor=pointer]
+            - generic [ref=e2896]:
+              - generic [ref=e2897]:
+                - button "공유하기" [ref=e2904] [cursor=pointer]
+                - button [ref=e2907] [cursor=pointer]:
+                  - img "맨위로" [ref=e2908]
+              - generic [ref=e2910]:
+                - generic [ref=e2911]: 상품 구매 옵션
+                - generic [ref=e2912]:
+                  - generic [ref=e2915]:
+                    - generic [ref=e2916]: 옵션 선택 (필수) *
+                    - button "선택" [ref=e2919] [cursor=pointer]
+                  - generic [ref=e2923]:
+                    - strong [ref=e2924]: 배송정보
+                    - generic [ref=e2925]:
+                      - generic [ref=e2926]: 택배
+                      - generic [ref=e2927]: 3,000원 주문 시 결제
+                      - generic [ref=e2928]: 50,000원 이상 구매 시 무료 / 제주,도서지역 추가 3,000원
+              - generic [ref=e2929]:
+                - generic [ref=e2930]:
+                  - button "선물하기" [ref=e2931] [cursor=pointer]
+                  - button "구매하기" [ref=e2938] [cursor=pointer]
+                - generic [ref=e2941]:
+                  - button "찜 하기" [ref=e2942] [cursor=pointer]:
+                    - text: 찜
+                    - generic [ref=e2945]: 하기
+                  - button "톡톡문의" [ref=e2946] [cursor=pointer]
+                  - button "장바구니" [ref=e2950] [cursor=pointer]
+      - generic [ref=e2958]:
+        - heading "하위영역" [level=2] [ref=e2959]
+        - generic [ref=e2960]:
+          - link "네이버 이용약관" [ref=e2961] [cursor=pointer]:
+            - /url: http://www.naver.com/rules/service.html
+          - link "네이버페이 이용약관" [ref=e2962] [cursor=pointer]:
+            - /url: https://new-m.pay.naver.com/member/terms-policy/npay-usage
+          - link [ref=e2963] [cursor=pointer]:
+            - /url: http://www.naver.com/rules/privacy.html
+            - strong [ref=e2964]: 개인정보처리방침
+          - link "법적고지 및 주의사항" [ref=e2965] [cursor=pointer]:
+            - /url: https://shopping.naver.com/help/legal-basis
+          - link "입점안내" [ref=e2966] [cursor=pointer]:
+            - /url: http://join.shopping.naver.com/index.nhn
+          - link "쇼핑윈도 노출안내" [ref=e2967] [cursor=pointer]:
+            - /url: https://sell.smartstore.naver.com/#/home/about?tipModal=WINDOW_EXPOSURE&tap=brandstore
+          - link "쇼핑파트너센터" [ref=e2968] [cursor=pointer]:
+            - /url: https://center.shopping.naver.com/
+          - link "스마트스토어센터" [ref=e2969] [cursor=pointer]:
+            - /url: https://sell.storefarm.naver.com/#/home/about
+          - link "안전거래센터" [ref=e2970] [cursor=pointer]:
+            - /url: https://safety.shopping.naver.com
+          - link "전자금융거래약관" [ref=e2971] [cursor=pointer]:
+            - /url: https://new-m.pay.naver.com/member/terms-policy/finance
+          - link "쇼핑&페이 고객센터" [ref=e2972] [cursor=pointer]:
+            - /url: https://help.pay.naver.com/
+        - paragraph [ref=e2973]: 네이버㈜는 통신판매중개자이며, 통신판매의 당사자가 아닙니다. 상품, 상품정보, 거래에 관한 의무와 책임은 판매자에게 있습니다.
+        - generic [ref=e2974]:
+          - generic [ref=e2975]:
+            - generic [ref=e2976]: "사업자등록번호 : 220-81-62517"
+            - generic [ref=e2977]: "통신판매업신고번호 : 제2006-경기성남-0692호"
+            - generic [ref=e2978]: "대표이사 : 최수연"
+            - link "사업자등록정보확인" [ref=e2979] [cursor=pointer]:
+              - /url: http://www.ftc.go.kr/bizCommPop.do?wrkr_no=2208162517
+            - generic [ref=e2980]:
+              - text: "이메일 :"
+              - link "helpcustomer@naver.com" [ref=e2981] [cursor=pointer]:
+                - /url: mailto:helpcustomer@naver.com
+          - generic [ref=e2982]:
+            - generic [ref=e2983]: "주소 : 경기도 성남시 분당구 정자일로 95, NAVER 1784, 13561"
+            - link [ref=e2985] [cursor=pointer]:
+              - /url: https://help.pay.naver.com/mail/form.help
+              - strong [ref=e2986]: 1:1 문의 바로가기
+            - generic [ref=e2987]: "호스팅 서비스 제공 : NAVER Cloud"
+          - generic [ref=e2988]:
+            - generic [ref=e2989]: 쇼핑&페이 구매자 고객센터 1588-3819
+            - generic [ref=e2990]: 네이버 대표전화 1588-3820
+            - generic [ref=e2991]: 네이버플러스 멤버십 전용 고객센터 1599-1399
+        - paragraph [ref=e2992]:
+          - link "NAVER" [ref=e2993] [cursor=pointer]:
+            - /url: http://www.naver.com
+          - text: Copyright ©
+          - strong [ref=e2995]:
+            - link "NAVER Corp." [ref=e2996] [cursor=pointer]:
+              - /url: http://www.navercorp.com/ko/index.nhn
+          - text: All Rights Reserved.

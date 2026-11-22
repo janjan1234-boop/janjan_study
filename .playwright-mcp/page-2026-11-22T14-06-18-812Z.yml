@@ -1,0 +1,66 @@
+- generic [ref=f117e2]:
+  - link "본문 바로가기" [ref=f117e3] [cursor=pointer]:
+    - /url: "#content"
+  - main [ref=f117e5]:
+    - banner [ref=f117e6]:
+      - link [ref=f117e9] [cursor=pointer]:
+        - /url: https://www.naver.com
+        - heading "네이버" [level=1] [ref=f117e10]
+    - generic [ref=f117e12]:
+      - generic [ref=f117e13]:
+        - list [ref=f117e14]:
+          - listitem [ref=f117e15]:
+            - generic [ref=f117e16]:
+              - generic: 아이디 또는 전화번호
+              - textbox "아이디 또는 전화번호" [active] [ref=f117e18]:
+                - /placeholder: ""
+          - listitem [ref=f117e20]:
+            - generic [ref=f117e21]:
+              - generic: 비밀번호
+              - textbox "비밀번호" [ref=f117e23]
+        - generic [ref=f117e26]:
+          - generic [ref=f117e27]:
+            - checkbox "로그인 상태 유지" [ref=f117e28] [cursor=pointer]
+            - generic [ref=f117e29] [cursor=pointer]: 로그인 상태 유지
+          - generic [ref=f117e30]:
+            - generic [ref=f117e31]: IP 보안
+            - generic [ref=f117e32]:
+              - switch "IP 보안" [checked]
+              - generic [ref=f117e33] [cursor=pointer]: "ON"
+        - list [ref=f117e36]:
+          - listitem [ref=f117e37]:
+            - button "패스키 로그인" [ref=f117e38] [cursor=pointer]
+          - listitem [ref=f117e40]:
+            - button "로그인" [ref=f117e41] [cursor=pointer]
+        - list [ref=f117e44]:
+          - listitem [ref=f117e45]:
+            - link "QR 코드 로그인" [ref=f117e46] [cursor=pointer]:
+              - /url: "#none"
+          - listitem [ref=f117e48]:
+            - link "일회용 번호 로그인" [ref=f117e49] [cursor=pointer]:
+              - /url: "#none"
+      - list [ref=f117e52]:
+        - listitem [ref=f117e53]:
+          - link "아이디 찾기" [ref=f117e54] [cursor=pointer]:
+            - /url: https://nid.naver.com/user2/api/route?m=routeIdInquiry&lang=ko_KR
+        - listitem [ref=f117e56]:
+          - link "비밀번호 찾기" [ref=f117e57] [cursor=pointer]:
+            - /url: https://nid.naver.com/user2/api/route?m=routePwInquiry&lang=ko_KR
+        - listitem [ref=f117e59]:
+          - link "회원가입" [ref=f117e60] [cursor=pointer]:
+            - /url: https://nid.naver.com/account/signup?lang=ko_KR&realname=N&rurl=https%3A%2F%2Fsmartstore.naver.com%2Fthesmallroom1984%2Fproducts%2F5952927499%3Fnl-query%3D%25EC%25B0%25A8%25EC%25B4%259D%26nl-au%3D47c0084f539c43229a4eb25853a19f9c
+      - iframe [ref=f117e65]:
+        - link [ref=f119e4] [cursor=pointer]:
+          - /url: https://tivan.naver.com/gc/101/2cw4vbIU5YU4vRWt3m7cxXrA1WQRuCZWqzjcTrocbLcMEVY5w6wea7eGNxvWF338Xohoj1xCxrCmduobJMrc-IkVgkD_K60-mXvJWIUqsL7eqM7X2F4fIW9y73pWwhH3IV8sLCJt1BtvPDDrapM46eLO7yQY2mG2k-hWed9PHDDrXuH1CMAD5-rsnjLfjeRnSbBqHF7Wq2Tl1pocit5QA0oRgAu4nuxPonld1TP3D59zhO5FH3n2Q15xmc2qDvPEdvD4ZCoDBxuEORLLMjZdc5tTFbAbBXS_1lJ9tO3IhQ5gFJfWqrV8J3B6aRdu95E7Yaxq7iTnbLhqBCm7hLhjMIv07SInQT65Rjn6yrbGGg_mjko15LbnAvXscDtr3pq_6blYWa7VIg3A8hz8s_KtM1LjXU3FRagVOCuwLGKyosNaViPMTXyeVsflHWgoxcu2b2vHVUIZ9z9FANpHH_BCIX6_RCvLBEFL02hsFDiLmFnRB6slxZKiguHpztstco96_oncli6sPcuD6v7RLDAYI6-tFtWenRS8P0Yq6Vk9U0SsWCYVLLt-UOcheY3XbtZ-1015bBygoystOBJQkQ2t2fIEFDORNfizpJKGC3RYIkphft833A7DNjImvyhE-lFiMAVr4fmAMhisTKjfEQCwC1Qy-_r43IlDFsx3GjnoZ5xAeQ-ac7jIMpTbivdmS6cLLl5w5qe8cnBuJXOHUg-1r18iVyrthpl6uloTMa-q8OmN59E4IqKmWT9Y4IbSQ5YVeAoPAVs8Zni3Xn45CspZgGyLG6JqB9gGg5WgpWXVemsvfp2RuWedOCyGjRlp2JkJGZE8R2I0QzavZvA6B1I-mvqL2_Lj5j9RGx2sRe5sCgGFv5JSx2w58wZkCMZnja5TLyzl_IdRVNdFwN-C38abZrL3y9M1o2_lB6PJFs0anrBLyb4fL1C3ZHapKZoRVuMqO8NA5FXoskNGAJRn_bpETRQdUxoWfwrnzk_ANhqj6IpzF33ALRro9IZe3LRqajNCpOIts1Ut0toRqzhpawr3itKIUY6NxCA43C9SQ7ueV1p756GPOC6XsoRxpH8l4j1fGbuiJdWuKyIKR5YSdsJeJf6_Ocu4pn11PQpqkSkpWWEFxRQWSwSy74GSxk0B3P5O9DGQpUm27kiB2p3b-qqP6MTRqgaXc2T7fZqowLSLnvqGIa-Z3H-aauEzYPeY34JZ/NE
+          - img "[N플리마켓 프리미엄 리세일 위크] 마쥬, 산드로, 띠어리, 코스, 마시모두띠, 스튜디오톰보이, 구호, 에스제이에스제이, 미샤, 시슬리, 빈폴, 럭키슈에뜨, 질스튜어트" [ref=f119e5]
+    - generic [ref=f117e66]:
+      - contentinfo [ref=f117e67]:
+        - listitem [ref=f117e68]:
+          - link "스마트봇 상담" [ref=f117e69] [cursor=pointer]:
+            - /url: https://nca.naver.com/chat/account/view
+        - listitem [ref=f117e70]:
+          - link "고객센터" [ref=f117e71] [cursor=pointer]:
+            - /url: https://help.naver.com/service/5640/category/bookmark?lang=ko
+        - listitem [ref=f117e72]:
+          - listbox "언어선택" [ref=f117e73] [cursor=pointer]: 한국어
+      - generic [ref=f117e74]: © NAVER Corp.

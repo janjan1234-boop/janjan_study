@@ -1,0 +1,62 @@
+- generic [ref=f102e3]:
+  - link "본문으로 바로가기" [ref=f102e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f102e6]:
+    - generic [ref=f102e7]:
+      - generic [ref=f102e9]:
+        - generic [ref=f102e11]:
+          - link "네이버" [ref=f102e12] [cursor=pointer]:
+            - /url: https://www.naver.com
+          - link "네이버플러스 스토어 홈" [ref=f102e16] [cursor=pointer]:
+            - /url: https://shopping.naver.com/ns/home?
+        - generic [ref=f102e22]:
+          - link [ref=f102e23] [cursor=pointer]:
+            - /url: /dadokorea/profile
+            - paragraph [ref=f102e26]: 묶음배송! 착한가격! 튼튼한포장! 오늘도 즐거운 쇼핑타임 되시길 바랍니다
+          - generic [ref=f102e27]:
+            - button "관심고객수 7,413" [ref=f102e28] [cursor=pointer]
+            - button "도움말" [ref=f102e30] [cursor=pointer]
+          - button "검색어를 입력해주세요" [ref=f102e35] [cursor=pointer]
+      - generic [ref=f102e38]:
+        - generic [ref=f102e39]:
+          - button "알림받기" [ref=f102e44] [cursor=pointer]
+          - heading [level=1] [ref=f102e50]:
+            - link [ref=f102e54] [cursor=pointer]:
+              - /url: /dadokorea
+              - img "다도코리아" [ref=f102e55]
+          - generic [ref=f102e60]:
+            - generic [ref=f102e62]:
+              - generic [ref=f102e63]: 스토어등급
+              - generic [ref=f102e70]: 파워
+              - button "도움말" [ref=f102e72] [cursor=pointer]
+            - generic [ref=f102e79]:
+              - text: 전체
+              - emphasis [ref=f102e80]: 505,222
+        - generic [ref=f102e85]:
+          - list
+          - list [ref=f102e86]:
+            - listitem [ref=f102e87]:
+              - link "공지사항" [ref=f102e88] [cursor=pointer]:
+                - /url: /dadokorea/notice?cp=1
+            - listitem [ref=f102e89]:
+              - link "쇼핑스토리" [ref=f102e90] [cursor=pointer]:
+                - /url: /dadokorea/shoppingstory/list?cp=1
+            - listitem [ref=f102e91]:
+              - link "리뷰이벤트" [ref=f102e92] [cursor=pointer]:
+                - /url: /dadokorea/review-event/list?cp=1
+            - listitem [ref=f102e93]:
+              - link "묻고 답하기" [ref=f102e94] [cursor=pointer]:
+                - /url: /dadokorea/qna?cp=1
+            - listitem [ref=f102e95]:
+              - link "판매자 정보" [ref=f102e96] [cursor=pointer]:
+                - /url: /dadokorea/profile?cp=1
+    - generic [ref=f102e101]:
+      - generic "상품 이미지" [ref=f102e105]: 대표이미지
+      - generic [ref=f102e112]:
+        - heading "차총 분수개구리 차판 다도장식 다우" [level=3] [ref=f102e113]
+        - generic [ref=f102e115]:
+          - generic [ref=f102e116]:
+            - generic [ref=f102e119]: 평점
+            - generic [ref=f102e120]: "4.86"
+          - link "21건 리뷰" [ref=f102e122] [cursor=pointer]:
+            - /url: "#"

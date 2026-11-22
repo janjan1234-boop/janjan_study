@@ -1,0 +1,2228 @@
+- generic [ref=f120e3]:
+  - dialog "리뷰 34" [ref=f120e3072]:
+    - generic [ref=f120e3073]:
+      - generic [ref=f120e3074]:
+        - strong [ref=f120e3077]: 리뷰 34
+        - generic [ref=f120e3080]:
+          - generic [ref=f120e3082]:
+            - generic [ref=f120e3083]:
+              - strong [ref=f120e3084]:
+                - generic [ref=f120e3087]: 평점
+                - text: "4.91"
+              - generic [ref=f120e3088]:
+                - text: (
+                - button "최근 6개월 평점 5.0" [ref=f120e3089] [cursor=pointer]
+                - button "도움말" [ref=f120e3091] [cursor=pointer]
+                - text: )
+            - list [ref=f120e3096]:
+              - listitem [ref=f120e3097]:
+                - emphasis [ref=f120e3098]: 디자인
+                - generic [ref=f120e3099]:
+                  - generic [ref=f120e3100]: 마음에 들어요
+                  - generic [ref=f120e3101]: 65%
+              - listitem [ref=f120e3102]:
+                - emphasis [ref=f120e3103]: 내구성
+                - generic [ref=f120e3104]:
+                  - generic [ref=f120e3105]: 튼튼해요
+                  - generic [ref=f120e3106]: 59%
+              - listitem [ref=f120e3107]:
+                - emphasis [ref=f120e3108]: 크기
+                - generic [ref=f120e3109]:
+                  - generic [ref=f120e3110]: 딱 좋아요
+                  - generic [ref=f120e3111]: 85%
+            - button "평점 비율 보기" [ref=f120e3113] [cursor=pointer]
+          - generic [ref=f120e3117]:
+            - strong [ref=f120e3119]: 포토&동영상 21
+            - list [ref=f120e3120]:
+              - listitem [ref=f120e3121]:
+                - link [ref=f120e3122] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f120e3123]
+              - listitem [ref=f120e3124]:
+                - link "포토/동영상 리뷰 썸네일 이미지 사진/비디오 수 2" [ref=f120e3125] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f120e3126]
+                  - emphasis [ref=f120e3127]:
+                    - generic [ref=f120e3128]: 사진/비디오 수
+                    - text: "2"
+              - listitem [ref=f120e3129]:
+                - link [ref=f120e3130] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f120e3131]
+              - listitem [ref=f120e3132]:
+                - link [ref=f120e3133] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f120e3134]
+              - listitem [ref=f120e3135]:
+                - link [ref=f120e3136] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f120e3137]
+              - listitem [ref=f120e3138]:
+                - link [ref=f120e3139] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f120e3140]
+              - listitem [ref=f120e3141]:
+                - link [ref=f120e3142] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f120e3143]
+              - listitem [ref=f120e3144]:
+                - link [ref=f120e3145] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f120e3146]
+                  - generic [ref=f120e3147]:
+                    - text: 더보기
+                    - generic [ref=f120e3148]: "14"
+          - generic [ref=f120e3151]:
+            - generic [ref=f120e3152]:
+              - strong [ref=f120e3153]: 리뷰 34
+              - generic [ref=f120e3154]:
+                - button "리뷰 제공 기준" [ref=f120e3155] [cursor=pointer]
+                - button "도움말" [ref=f120e3157] [cursor=pointer]
+            - generic [ref=f120e3163]:
+              - generic [ref=f120e3164]:
+                - generic [ref=f120e3170]:
+                  - button "AI 리뷰요약" [ref=f120e3171] [cursor=pointer]
+                  - button "도움말" [ref=f120e3175] [cursor=pointer]
+                - list [ref=f120e3185]:
+                  - button "장식용으로 좋아요" [ref=f120e3186] [cursor=pointer]
+                  - button "남편이 좋아해요" [ref=f120e3187] [cursor=pointer]
+                  - button "무게감이 좋아요" [ref=f120e3188] [cursor=pointer]
+                  - button "만족스러워요" [ref=f120e3189] [cursor=pointer]
+                  - button "귀여워요" [ref=f120e3190] [cursor=pointer]
+                - generic [aria-hidden]:
+                  - generic:
+                    - list:
+                      - button: 장식용으로 좋아요
+                      - button: 남편이 좋아해요
+                      - button: 무게감이 좋아요
+                      - button: 만족스러워요
+                      - button: 귀여워요
+              - generic [ref=f120e3192]:
+                - list [ref=f120e3193]:
+                  - listitem [ref=f120e3194]:
+                    - button "전체" [ref=f120e3195] [cursor=pointer]
+                  - listitem [ref=f120e3198]:
+                    - button "상품옵션" [ref=f120e3199] [cursor=pointer]
+                - radiogroup "리뷰 정렬 기준 선택" [ref=f120e3202]:
+                  - radio "랭킹순 정렬하기" [checked] [ref=f120e3203] [cursor=pointer]:
+                    - text: 랭킹순
+                    - generic [ref=f120e3204]: 정렬하기
+                  - button "도움말" [ref=f120e3206] [cursor=pointer]
+                  - radio "최신순 정렬하기" [ref=f120e3211] [cursor=pointer]:
+                    - text: 최신순
+                    - generic [ref=f120e3212]: 정렬하기
+                  - radio "평점 높은순 정렬하기" [ref=f120e3213] [cursor=pointer]:
+                    - text: 평점 높은순
+                    - generic [ref=f120e3214]: 정렬하기
+                  - radio "평점 낮은순 정렬하기" [ref=f120e3215] [cursor=pointer]:
+                    - text: 평점 낮은순
+                    - generic [ref=f120e3216]: 정렬하기
+            - generic [ref=f120e3217]:
+              - button [ref=f120e3219] [cursor=pointer]:
+                - strong [ref=f120e3227]: 리뷰 클렌징 시스템
+                - text: 작동 중입니다.
+              - list [ref=f120e3233]:
+                - listitem [ref=f120e3234]:
+                  - generic [ref=f120e3235]:
+                    - generic [ref=f120e3239]:
+                      - generic [ref=f120e3240]:
+                        - text: "5"
+                        - emphasis [ref=f120e3244]: 한달사용
+                      - generic [ref=f120e3245]:
+                        - generic [ref=f120e3246]: jc70***
+                        - generic [ref=f120e3247]: 26.08.01.
+                        - button "신고" [ref=f120e3248] [cursor=pointer]
+                    - generic [ref=f120e3249]:
+                      - generic [ref=f120e3250]:
+                        - 'button "컬러: 블루그레이" [disabled] [ref=f120e3251] [cursor=pointer]'
+                        - generic [ref=f120e3253]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f120e3255]:
+                        - paragraph [ref=f120e3256]: 너무나도 귀여운 차 친구를 갖게 되어 행복합니다 ㅎㅎㅎ 저는 우리는데 사용 안하고 그냥 옆에 두고 보는데, 차 마실때 좀 더 가까이 두고, 평소에는 테이블 여기저기에 두는게 정말 새친구가 있는것 같아 소확행 제대로 느끼네요! 남편도 귀엽다고 좋아합니다 😁
+                        - 'link "컬러: 블루그레이 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 너무나도 귀여운 차 친구를 갖게 되어 행복합니다 ㅎㅎㅎ 저는 우리는데 사용 안하고 그냥 옆에 두고 보는데, 차 마실때 좀 더 가까이 두고, 평소에는 테이블 여기저기에 두는게 정말 새친구가 있는것 같아 소확행 제대로 느끼네요! 남편도 귀엽다고 좋아합니다 😁" [ref=f120e3257] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=f120e3258]: 더보기
+                      - list [ref=f120e3262]:
+                        - listitem [ref=f120e3263]:
+                          - generic [ref=f120e3264]:
+                            - img "review_image" [ref=f120e3265]
+                            - link "이미지 펼치기" [ref=f120e3266] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f120e3267]
+                    - generic [ref=f120e3272]:
+                      - generic [ref=f120e3273]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f120e3274] [cursor=pointer]
+                  - button "이 구매자의 처음 리뷰 보기" [ref=f120e3278] [cursor=pointer]
+                - listitem [ref=f120e3281]:
+                  - generic [ref=f120e3282]:
+                    - generic [ref=f120e3286]:
+                      - generic [ref=f120e3287]: "5"
+                      - generic [ref=f120e3290]:
+                        - generic [ref=f120e3291]: 7otu****
+                        - generic [ref=f120e3292]: 26.10.05.
+                        - button "신고" [ref=f120e3293] [cursor=pointer]
+                    - generic [ref=f120e3294]:
+                      - generic [ref=f120e3295]:
+                        - 'button "컬러: 블루그레이" [disabled] [ref=f120e3296] [cursor=pointer]'
+                        - generic [ref=f120e3298]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - paragraph [ref=f120e3301]: 친구 생일 선물로 주문했는데 무척 좋아하네요!
+                    - generic [ref=f120e3303]:
+                      - generic [ref=f120e3304]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f120e3305] [cursor=pointer]
+                - listitem [ref=f120e3308]:
+                  - generic [ref=f120e3309]:
+                    - generic [ref=f120e3313]:
+                      - generic [ref=f120e3314]: "5"
+                      - generic [ref=f120e3317]:
+                        - generic [ref=f120e3318]: cook********
+                        - generic [ref=f120e3319]: 26.06.11.
+                        - button "신고" [ref=f120e3320] [cursor=pointer]
+                    - generic [ref=f120e3321]:
+                      - generic [ref=f120e3322]:
+                        - 'button "컬러: 블랙" [disabled] [ref=f120e3323] [cursor=pointer]'
+                        - generic [ref=f120e3325]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                      - generic [ref=f120e3327]:
+                        - paragraph [ref=f120e3328]: 옥색 새 탐내고 있다가 품절이라 부랴부랴 검정새 구매했습니다. 묵직하고 귀여워요. 좋은 차친구가 될거 같아요.
+                        - 'link "컬러: 블랙 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요 옥색 새 탐내고 있다가 품절이라 부랴부랴 검정새 구매했습니다. 묵직하고 귀여워요. 좋은 차친구가 될거 같아요." [ref=f120e3329] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=f120e3330]: 더보기
+                      - list [ref=f120e3337]:
+                        - listitem [ref=f120e3338]:
+                          - generic [ref=f120e3339]:
+                            - img "1000040812.jpg" [ref=f120e3340]
+                            - link "이미지 펼치기" [ref=f120e3341] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f120e3342]
+                        - listitem [ref=f120e3346]:
+                          - generic [ref=f120e3347]:
+                            - img "1000040810.jpg" [ref=f120e3348]
+                            - link "이미지 펼치기" [ref=f120e3349] [cursor=pointer]:
+                              - /url: "#"
+                    - generic [ref=f120e3352]:
+                      - generic [ref=f120e3353]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f120e3354] [cursor=pointer]
+                - listitem [ref=f120e3357]:
+                  - generic [ref=f120e3358]:
+                    - generic [ref=f120e3362]:
+                      - generic [ref=f120e3363]: "5"
+                      - generic [ref=f120e3366]:
+                        - generic [ref=f120e3367]: jc70***
+                        - generic [ref=f120e3368]: 26.07.11.
+                        - button "신고" [ref=f120e3369] [cursor=pointer]
+                    - generic [ref=f120e3370]:
+                      - generic [ref=f120e3371]:
+                        - 'button "컬러: 블루그레이" [disabled] [ref=f120e3372] [cursor=pointer]'
+                        - generic [ref=f120e3374]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - paragraph [ref=f120e3377]: 너무 귀엽고 사랑스러워요! 저는 데코용으로 놓으려고 구매했는데, 창가, 테이블, 그 어디에 두어도 예쁜 포인트가 될 것 같아요 ^^
+                    - generic [ref=f120e3379]:
+                      - generic [ref=f120e3380]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f120e3381] [cursor=pointer]
+                - listitem [ref=f120e3384]:
+                  - generic [ref=f120e3385]:
+                    - generic [ref=f120e3389]:
+                      - generic [ref=f120e3390]: "5"
+                      - generic [ref=f120e3393]:
+                        - generic [ref=f120e3394]: kitt*****
+                        - generic [ref=f120e3395]: 26.01.14.
+                        - button "신고" [ref=f120e3396] [cursor=pointer]
+                    - generic [ref=f120e3397]:
+                      - generic [ref=f120e3398]:
+                        - 'button "컬러: 블랙" [disabled] [ref=f120e3399] [cursor=pointer]'
+                        - generic [ref=f120e3401]: 디자인보통이에요 크기딱 좋아요 내구성보통이에요
+                      - paragraph [ref=f120e3404]: 좋아요 진열용으류 잘스거 잇는중
+                    - generic [ref=f120e3406]:
+                      - generic [ref=f120e3407]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f120e3408] [cursor=pointer]
+                - listitem [ref=f120e3411]:
+                  - generic [ref=f120e3412]:
+                    - generic [ref=f120e3416]:
+                      - generic [ref=f120e3417]: "5"
+                      - generic [ref=f120e3420]:
+                        - generic [ref=f120e3421]: inyw***
+                        - generic [ref=f120e3422]: 25.07.04.
+                        - button "신고" [ref=f120e3423] [cursor=pointer]
+                    - generic [ref=f120e3424]:
+                      - generic [ref=f120e3425]:
+                        - 'button "컬러: 블루그레이" [disabled] [ref=f120e3426] [cursor=pointer]'
+                        - generic [ref=f120e3428]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f120e3430]:
+                        - paragraph [ref=f120e3431]: 차 마실때 뿐만 아니라 장식용 오브제로서도 좋은것같습니다.너무 예뻐요ㅠㅠ
+                        - 'link "컬러: 블루그레이 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 차 마실때 뿐만 아니라 장식용 오브제로서도 좋은것같습니다.너무 예뻐요ㅠㅠ" [ref=f120e3432] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=f120e3433]: 더보기
+                      - list [ref=f120e3437]:
+                        - listitem [ref=f120e3438]:
+                          - generic [ref=f120e3439]:
+                            - img "review_image" [ref=f120e3440]
+                            - link "이미지 펼치기" [ref=f120e3441] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f120e3442]
+                    - generic [ref=f120e3446]:
+                      - img "유저프로필" [ref=f120e3448]
+                      - generic [ref=f120e3449]:
+                        - strong [ref=f120e3450]: 판매자
+                        - generic [ref=f120e3451]: 25.07.04.
+                        - button "신고" [ref=f120e3452] [cursor=pointer]
+                      - paragraph [ref=f120e3454]: 안녕하세요? :) 예쁜 코스터 위에 살포시 있으니 더욱 귀욤귀욤한 모습이네요. 예쁜 사진과 함께 소중한 리뷰 남겨주셔서 감사드립니다. 차총과 함께 즐거운 차총 되세요. 감사합니다.
+                    - generic [ref=f120e3456]:
+                      - generic [ref=f120e3457]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f120e3458] [cursor=pointer]
+                - listitem [ref=f120e3461]:
+                  - generic [ref=f120e3462]:
+                    - generic [ref=f120e3466]:
+                      - generic [ref=f120e3467]: "5"
+                      - generic [ref=f120e3470]:
+                        - generic [ref=f120e3471]: jj74****
+                        - generic [ref=f120e3472]: 25.04.13.
+                        - button "신고" [ref=f120e3473] [cursor=pointer]
+                    - generic [ref=f120e3474]:
+                      - generic [ref=f120e3475]:
+                        - 'button "컬러: 블루그레이" [disabled] [ref=f120e3476] [cursor=pointer]'
+                        - generic [ref=f120e3478]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f120e3480]:
+                        - paragraph [ref=f120e3481]: 딱히 필요없는 물건이라 살까말까 고민 했는데 고민한게 무색하게 이쁘네요. 한마리 더사서 쌍으로 두면 더 좋겠어요.
+                        - 'link "컬러: 블루그레이 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 딱히 필요없는 물건이라 살까말까 고민 했는데 고민한게 무색하게 이쁘네요. 한마리 더사서 쌍으로 두면 더 좋겠어요." [ref=f120e3482] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=f120e3483]: 더보기
+                      - list [ref=f120e3487]:
+                        - listitem [ref=f120e3488]:
+                          - generic [ref=f120e3489]:
+                            - img "review_image" [ref=f120e3490]
+                            - link "이미지 펼치기" [ref=f120e3491] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f120e3492]
+                    - generic [ref=f120e3496]:
+                      - img "유저프로필" [ref=f120e3498]
+                      - generic [ref=f120e3499]:
+                        - strong [ref=f120e3500]: 판매자
+                        - generic [ref=f120e3501]: 25.04.13.
+                        - button "신고" [ref=f120e3502] [cursor=pointer]
+                      - generic [ref=f120e3503]:
+                        - paragraph [ref=f120e3504]: 안녕하세요? :) 예쁜 꽃과 차총 친구가 나란히 있으니 넘넘 예뻐요. 곱고 따스한 사진 리뷰 남겨주셔서 감사합니다. ^^ 있어도 그만, 없어도 그만인 사물들이 뜻밖에 기분을 좋게 하고, 하루를 즐겁게 해주는 소소한 가치가 있는 것 같아요. 따스한 봄날 아름다운 풍경과 함께 기분 좋은 계절 되세요. ^^
+                        - button "더보기" [ref=f120e3505] [cursor=pointer]
+                    - generic [ref=f120e3510]:
+                      - generic [ref=f120e3511]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f120e3512] [cursor=pointer]
+                - listitem [ref=f120e3515]:
+                  - generic [ref=f120e3516]:
+                    - generic [ref=f120e3520]:
+                      - generic [ref=f120e3521]: "5"
+                      - generic [ref=f120e3524]:
+                        - generic [ref=f120e3525]: sate****
+                        - generic [ref=f120e3526]: 25.03.19.
+                        - button "신고" [ref=f120e3527] [cursor=pointer]
+                    - generic [ref=f120e3528]:
+                      - generic [ref=f120e3529]:
+                        - 'button "컬러: 블루그레이" [disabled] [ref=f120e3530] [cursor=pointer]'
+                        - generic [ref=f120e3532]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                      - generic [ref=f120e3534]:
+                        - paragraph [ref=f120e3535]: 차마실때 물도 부어주고 색깔변하는 토끼나 작은주전자를 사려고 맘먹고있었는데 이아이를 보는순간 첫눈에 반했더랍니다 ㅎㅎ 너무 흐뭇허니 이뻐요 티타임이 더 깜찍해지겠어요
+                        - 'link "컬러: 블루그레이 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요 차마실때 물도 부어주고 색깔변하는 토끼나 작은주전자를 사려고 맘먹고있었는데 이아이를 보는순간 첫눈에 반했더랍니다 ㅎㅎ 너무 흐뭇허니 이뻐요 티타임이 더 깜찍해지겠어요" [ref=f120e3536] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=f120e3537]: 더보기
+                      - list [ref=f120e3541]:
+                        - listitem [ref=f120e3542]:
+                          - generic [ref=f120e3543]:
+                            - img "review_image" [ref=f120e3544]
+                            - link "이미지 펼치기" [ref=f120e3545] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f120e3546]
+                    - generic [ref=f120e3551]:
+                      - generic [ref=f120e3552]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f120e3553] [cursor=pointer]
+                - listitem [ref=f120e3556]:
+                  - generic [ref=f120e3557]:
+                    - generic [ref=f120e3561]:
+                      - generic [ref=f120e3562]: "5"
+                      - generic [ref=f120e3565]:
+                        - generic [ref=f120e3566]: kitt*****
+                        - generic [ref=f120e3567]: 25.04.29.
+                        - button "신고" [ref=f120e3568] [cursor=pointer]
+                    - generic [ref=f120e3569]:
+                      - generic [ref=f120e3570]:
+                        - 'button "컬러: 블랙" [disabled] [ref=f120e3571] [cursor=pointer]'
+                        - generic [ref=f120e3573]: 디자인보통이에요 크기딱 좋아요 내구성보통이에요
+                      - paragraph [ref=f120e3576]: 감사합니다 고갹님들이 졸아하세요
+                    - generic [ref=f120e3578]:
+                      - generic [ref=f120e3579]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f120e3580] [cursor=pointer]
+                - listitem [ref=f120e3583]:
+                  - generic [ref=f120e3584]:
+                    - generic [ref=f120e3588]:
+                      - generic [ref=f120e3589]: "5"
+                      - generic [ref=f120e3592]:
+                        - generic [ref=f120e3593]: jung******
+                        - generic [ref=f120e3594]: 25.03.30.
+                        - button "신고" [ref=f120e3595] [cursor=pointer]
+                    - generic [ref=f120e3596]:
+                      - generic [ref=f120e3597]:
+                        - 'button "컬러: 블루그레이" [disabled] [ref=f120e3598] [cursor=pointer]'
+                        - generic [ref=f120e3600]: 디자인보통이에요 크기딱 좋아요 내구성보통이에요
+                      - generic [ref=f120e3602]:
+                        - paragraph [ref=f120e3603]: 엄청 귀여워요! 💓💓💓
+                        - 'link "컬러: 블루그레이 디자인보통이에요 크기딱 좋아요 내구성보통이에요 엄청 귀여워요! 💓💓💓" [ref=f120e3604] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=f120e3605]: 더보기
+                      - list [ref=f120e3609]:
+                        - listitem [ref=f120e3610]:
+                          - generic [ref=f120e3611]:
+                            - img "review_image" [ref=f120e3612]
+                            - link "이미지 펼치기" [ref=f120e3613] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f120e3614]
+                    - generic [ref=f120e3619]:
+                      - generic [ref=f120e3620]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f120e3621] [cursor=pointer]
+                - listitem [ref=f120e3624]:
+                  - generic [ref=f120e3625]:
+                    - generic [ref=f120e3629]:
+                      - generic [ref=f120e3630]: "5"
+                      - generic [ref=f120e3633]:
+                        - generic [ref=f120e3634]: lees******
+                        - generic [ref=f120e3635]: 25.03.09.
+                        - button "신고" [ref=f120e3636] [cursor=pointer]
+                    - generic [ref=f120e3637]:
+                      - generic [ref=f120e3638]:
+                        - 'button "컬러: 블루그레이" [disabled] [ref=f120e3639] [cursor=pointer]'
+                        - generic [ref=f120e3641]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                      - generic [ref=f120e3643]:
+                        - paragraph [ref=f120e3644]: 너무 예뻐요ㅎ 엄마선물드렸는데 너무 좋아하세요
+                        - 'link "컬러: 블루그레이 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요 너무 예뻐요ㅎ 엄마선물드렸는데 너무 좋아하세요" [ref=f120e3645] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=f120e3646]: 더보기
+                      - list [ref=f120e3650]:
+                        - listitem [ref=f120e3651]:
+                          - generic [ref=f120e3652]:
+                            - img "review_image" [ref=f120e3653]
+                            - link "이미지 펼치기" [ref=f120e3654] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f120e3655]
+                    - generic [ref=f120e3659]:
+                      - img "유저프로필" [ref=f120e3661]
+                      - generic [ref=f120e3662]:
+                        - strong [ref=f120e3663]: 판매자
+                        - generic [ref=f120e3664]: 25.03.10.
+                        - button "신고" [ref=f120e3665] [cursor=pointer]
+                      - generic [ref=f120e3666]:
+                        - paragraph [ref=f120e3667]: 안녕하세요? :) 어머님께서 좋아하신다 하시나, 저희도 넘넘 기쁘답니다. 찻자리에 살포시 놓인 차총이 본래 가지고 계셨던 차도구들과 어울려서 더욱 예쁘게 보여요. 가족분들 모두 따스하고 향긋한 찻자리로 건강한 하루하루 되시기를 바라겠습니다. 감사합니다. ^^
+                        - button "더보기" [ref=f120e3668] [cursor=pointer]
+                    - generic [ref=f120e3673]:
+                      - generic [ref=f120e3674]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 2" [ref=f120e3675] [cursor=pointer]
+                - listitem [ref=f120e3678]:
+                  - generic [ref=f120e3679]:
+                    - generic [ref=f120e3683]:
+                      - generic [ref=f120e3684]: "5"
+                      - generic [ref=f120e3687]:
+                        - generic [ref=f120e3688]: lees******
+                        - generic [ref=f120e3689]: 25.03.09.
+                        - button "신고" [ref=f120e3690] [cursor=pointer]
+                    - generic [ref=f120e3691]:
+                      - generic [ref=f120e3692]:
+                        - 'button "컬러: 블랙" [disabled] [ref=f120e3693] [cursor=pointer]'
+                        - generic [ref=f120e3695]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                      - generic [ref=f120e3697]:
+                        - paragraph [ref=f120e3698]: 엄마 선물로 드렸는데 너무 좋아하세요ㅎ
+                        - 'link "컬러: 블랙 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요 엄마 선물로 드렸는데 너무 좋아하세요ㅎ" [ref=f120e3699] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=f120e3700]: 더보기
+                      - list [ref=f120e3704]:
+                        - listitem [ref=f120e3705]:
+                          - generic [ref=f120e3706]:
+                            - img "review_image" [ref=f120e3707]
+                            - link "이미지 펼치기" [ref=f120e3708] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f120e3709]
+                    - generic [ref=f120e3714]:
+                      - generic [ref=f120e3715]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f120e3716] [cursor=pointer]
+                - listitem [ref=f120e3719]:
+                  - generic [ref=f120e3720]:
+                    - generic [ref=f120e3724]:
+                      - generic [ref=f120e3725]: "5"
+                      - generic [ref=f120e3728]:
+                        - generic [ref=f120e3729]: keum******
+                        - generic [ref=f120e3730]: 24.11.01.
+                        - button "신고" [ref=f120e3731] [cursor=pointer]
+                    - generic [ref=f120e3732]:
+                      - generic [ref=f120e3733]:
+                        - 'button "컬러: 블루그레이" [disabled] [ref=f120e3734] [cursor=pointer]'
+                        - generic [ref=f120e3736]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - paragraph [ref=f120e3739]: 찾던 다구들이라 더 마음에 듭니다 트레이에 차와 세팅하니 고급스럽움이 물씬 나네요예쁜 물건 많이 올려주셔요 또 애용하겠습니다
+                    - generic [ref=f120e3740]:
+                      - img "유저프로필" [ref=f120e3742]
+                      - generic [ref=f120e3743]:
+                        - strong [ref=f120e3744]: 판매자
+                        - generic [ref=f120e3745]: 24.11.02.
+                        - button "신고" [ref=f120e3746] [cursor=pointer]
+                      - generic [ref=f120e3747]:
+                        - paragraph [ref=f120e3748]: 안녕하세요? :) 찾으시던 다구들을 저희 상점에서 보내드릴 수 있게 되어 기쁩니다. 상품도 마음에 드신 것 같아 더욱 좋네요. 첫인상 만큼이나 실제 차생활에서도 실용적으로 잘 사용되는 다구들이 되었으면 좋겠습니다. 감사합니다. ^^
+                        - button "더보기" [ref=f120e3749] [cursor=pointer]
+                    - generic [ref=f120e3754]:
+                      - generic [ref=f120e3755]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f120e3756] [cursor=pointer]
+                - listitem [ref=f120e3759]:
+                  - generic [ref=f120e3760]:
+                    - generic [ref=f120e3764]:
+                      - generic [ref=f120e3765]:
+                        - text: "5"
+                        - emphasis [ref=f120e3769]: 한달사용
+                      - generic [ref=f120e3770]:
+                        - generic [ref=f120e3771]: hyan****
+                        - generic [ref=f120e3772]: 24.09.06.
+                        - button "신고" [ref=f120e3773] [cursor=pointer]
+                    - generic [ref=f120e3774]:
+                      - generic [ref=f120e3775]:
+                        - 'button "컬러: 블루그레이" [disabled] [ref=f120e3776] [cursor=pointer]'
+                        - generic [ref=f120e3778]: 디자인보통이에요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f120e3780]:
+                        - paragraph [ref=f120e3781]: 차총이 필요했는데 요 아이 한번 본 후로 계속 아른거려서 데려왔습니다ㅎㅎ 색상도 예쁘고 크기도 좋아요! 검정색도 살까 고민중입니다🤍
+                        - 'link "컬러: 블루그레이 디자인보통이에요 크기딱 좋아요 내구성튼튼해요 차총이 필요했는데 요 아이 한번 본 후로 계속 아른거려서 데려왔습니다ㅎㅎ 색상도 예쁘고 크기도 좋아요! 검정색도 살까 고민중입니다🤍" [ref=f120e3782] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=f120e3783]: 더보기
+                      - list [ref=f120e3787]:
+                        - listitem [ref=f120e3788]:
+                          - generic [ref=f120e3789]:
+                            - img "review_image" [ref=f120e3790]
+                            - link "이미지 펼치기" [ref=f120e3791] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f120e3792]
+                    - generic [ref=f120e3796]:
+                      - img "유저프로필" [ref=f120e3798]
+                      - generic [ref=f120e3799]:
+                        - strong [ref=f120e3800]: 판매자
+                        - generic [ref=f120e3801]: 24.09.09.
+                        - button "신고" [ref=f120e3802] [cursor=pointer]
+                      - generic [ref=f120e3803]:
+                        - paragraph [ref=f120e3804]: 안녕하세요? :) 예쁜 수색의 차 옆에 다소곳 앉아있는 차총이 넘 귀엽네요. 가지고 계신 파란 티매트와의 색감도 너무 잘 어울려요. 운치있는 찻자리 모습 공유해 주셔서 감사합니다. 오늘도 기분 좋은 차생활 이어가셔요! 감사합니다. ^^
+                        - button "더보기" [ref=f120e3805] [cursor=pointer]
+                    - generic [ref=f120e3810]:
+                      - generic [ref=f120e3811]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f120e3812] [cursor=pointer]
+                - listitem [ref=f120e3815]:
+                  - generic [ref=f120e3816]:
+                    - generic [ref=f120e3820]:
+                      - generic [ref=f120e3821]: "5"
+                      - generic [ref=f120e3824]:
+                        - generic [ref=f120e3825]: sp****
+                        - generic [ref=f120e3826]: 24.04.20.
+                        - button "신고" [ref=f120e3827] [cursor=pointer]
+                    - generic [ref=f120e3828]:
+                      - generic [ref=f120e3829]:
+                        - 'button "컬러: 블랙" [disabled] [ref=f120e3830] [cursor=pointer]'
+                        - generic [ref=f120e3832]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f120e3834]:
+                        - paragraph [ref=f120e3835]: 일단 포장부터 너무너무 만족해요!! 그리고 귀여워요!!! 다도세트 모으기가 취미인데 잘 사용하겠습니다😆
+                        - 'link "컬러: 블랙 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 일단 포장부터 너무너무 만족해요!! 그리고 귀여워요!!! 다도세트 모으기가 취미인데 잘 사용하겠습니다😆" [ref=f120e3836] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=f120e3837]: 더보기
+                      - list [ref=f120e3844]:
+                        - listitem [ref=f120e3845]:
+                          - generic [ref=f120e3846]:
+                            - img "IMG_9436.jpeg" [ref=f120e3847]
+                            - link "이미지 펼치기" [ref=f120e3848] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f120e3849]
+                        - listitem [ref=f120e3853]:
+                          - generic [ref=f120e3854]:
+                            - img "IMG_9435.jpeg" [ref=f120e3855]
+                            - link "이미지 펼치기" [ref=f120e3856] [cursor=pointer]:
+                              - /url: "#"
+                    - generic [ref=f120e3859]:
+                      - generic [ref=f120e3860]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f120e3861] [cursor=pointer]
+                - listitem [ref=f120e3864]:
+                  - generic [ref=f120e3865]:
+                    - generic [ref=f120e3869]:
+                      - generic [ref=f120e3870]:
+                        - text: "5"
+                        - emphasis [ref=f120e3874]: 한달사용
+                      - generic [ref=f120e3875]:
+                        - generic [ref=f120e3876]: wjsd********
+                        - generic [ref=f120e3877]: 24.02.02.
+                        - button "신고" [ref=f120e3878] [cursor=pointer]
+                    - generic [ref=f120e3879]:
+                      - generic [ref=f120e3880]:
+                        - 'button "컬러: 블랙" [disabled] [ref=f120e3881] [cursor=pointer]'
+                        - generic [ref=f120e3883]: 디자인보통이에요 크기딱 좋아요 내구성보통이에요
+                      - paragraph [ref=f120e3886]: 다우로 선물 드렸는데 맘에 들어해주셔서 기분이 좋았습니다. 차 좋아하시는 분들께 딱 좋은 선물 같아요
+                    - generic [ref=f120e3887]:
+                      - img "유저프로필" [ref=f120e3889]
+                      - generic [ref=f120e3890]:
+                        - strong [ref=f120e3891]: 판매자
+                        - generic [ref=f120e3892]: 24.02.06.
+                        - button "신고" [ref=f120e3893] [cursor=pointer]
+                      - paragraph [ref=f120e3895]: 안녕하세요? :) 선물 받으신 분께서 마음에 들어 하셨다니, 저희도 참 기분 좋네요. 이렇게 선물 후기 남겨주셔서 감사드려요. 다가오는 설 명절 즐겁게 보내시기를 바라겠습니다. 감사합니다. ^^
+                    - generic [ref=f120e3897]:
+                      - generic [ref=f120e3898]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f120e3899] [cursor=pointer]
+                - listitem [ref=f120e3902]:
+                  - generic [ref=f120e3903]:
+                    - generic [ref=f120e3907]:
+                      - generic [ref=f120e3908]: "5"
+                      - generic [ref=f120e3911]:
+                        - generic [ref=f120e3912]: crea*****
+                        - generic [ref=f120e3913]: 23.09.22.
+                        - button "신고" [ref=f120e3914] [cursor=pointer]
+                    - generic [ref=f120e3915]:
+                      - generic [ref=f120e3916]:
+                        - 'button "컬러: 블루그레이" [disabled] [ref=f120e3917] [cursor=pointer]'
+                        - generic [ref=f120e3919]: 디자인마음에 들어요 내구성튼튼해요 크기작아요
+                      - generic [ref=f120e3921]:
+                        - paragraph [ref=f120e3922]: 앙증맞고 예쁩니다..차도구로도 사용하겠지만 그냥 오브제로도 좋아요!!예쁘죠?^^
+                        - 'link "컬러: 블루그레이 디자인마음에 들어요 내구성튼튼해요 크기작아요 앙증맞고 예쁩니다..차도구로도 사용하겠지만 그냥 오브제로도 좋아요!!예쁘죠?^^" [ref=f120e3923] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=f120e3924]: 더보기
+                      - list [ref=f120e3928]:
+                        - listitem [ref=f120e3929]:
+                          - generic [ref=f120e3930]:
+                            - img "review_image" [ref=f120e3931]
+                            - link "이미지 펼치기" [ref=f120e3932] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f120e3933]
+                    - generic [ref=f120e3938]:
+                      - generic [ref=f120e3939]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f120e3940] [cursor=pointer]
+                - listitem [ref=f120e3943]:
+                  - generic [ref=f120e3944]:
+                    - generic [ref=f120e3948]:
+                      - generic [ref=f120e3949]: "5"
+                      - generic [ref=f120e3952]:
+                        - generic [ref=f120e3953]: na****
+                        - generic [ref=f120e3954]: 23.03.07.
+                        - button "신고" [ref=f120e3955] [cursor=pointer]
+                    - generic [ref=f120e3956]:
+                      - generic [ref=f120e3957]:
+                        - 'button "컬러: 블루그레이" [disabled] [ref=f120e3958] [cursor=pointer]'
+                        - generic [ref=f120e3960]: 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요
+                      - generic [ref=f120e3962]:
+                        - paragraph [ref=f120e3963]: 진짜 귀여워요. 금색칠이 부리랑 꼬리에 있어서 디테일이 살아있고 고급스럽네요.
+                        - 'link "컬러: 블루그레이 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요 진짜 귀여워요. 금색칠이 부리랑 꼬리에 있어서 디테일이 살아있고 고급스럽네요." [ref=f120e3964] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=f120e3965]: 더보기
+                      - list [ref=f120e3969]:
+                        - listitem [ref=f120e3970]:
+                          - generic [ref=f120e3971]:
+                            - img "review_image" [ref=f120e3972]
+                            - link "이미지 펼치기" [ref=f120e3973] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f120e3974]
+                    - generic [ref=f120e3979]:
+                      - generic [ref=f120e3980]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f120e3981] [cursor=pointer]
+                - listitem [ref=f120e3984]:
+                  - generic [ref=f120e3985]:
+                    - generic [ref=f120e3989]:
+                      - generic [ref=f120e3990]: "5"
+                      - generic [ref=f120e3993]:
+                        - generic [ref=f120e3994]: blac****
+                        - generic [ref=f120e3995]: 23.02.01.
+                        - button "신고" [ref=f120e3996] [cursor=pointer]
+                    - generic [ref=f120e3997]:
+                      - generic [ref=f120e3998]:
+                        - 'button "컬러: 블랙" [disabled] [ref=f120e3999] [cursor=pointer]'
+                        - generic [ref=f120e4001]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - paragraph [ref=f120e4004]: 두마리 분양하고 다른데 인테리어할려고 한쌍더분양합니다 엄청 귀엽고 예쁘고 힐링되어요 고맙습니다
+                    - generic [ref=f120e4006]:
+                      - generic [ref=f120e4007]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 1" [ref=f120e4008] [cursor=pointer]
+                - listitem [ref=f120e4011]:
+                  - generic [ref=f120e4012]:
+                    - generic [ref=f120e4016]:
+                      - generic [ref=f120e4017]: "5"
+                      - generic [ref=f120e4020]:
+                        - generic [ref=f120e4021]: shin****
+                        - generic [ref=f120e4022]: 23.01.27.
+                        - button "신고" [ref=f120e4023] [cursor=pointer]
+                    - generic [ref=f120e4024]:
+                      - generic [ref=f120e4025]:
+                        - 'button "컬러: 블랙" [disabled] [ref=f120e4026] [cursor=pointer]'
+                        - generic [ref=f120e4028]: 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요
+                      - generic [ref=f120e4030]:
+                        - paragraph [ref=f120e4031]: 물건 배송 안전하게 잘 받았습니다
+                        - 'link "컬러: 블랙 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요 물건 배송 안전하게 잘 받았습니다" [ref=f120e4032] [cursor=pointer]':
+                          - /url: "#"
+                          - generic [ref=f120e4033]: 더보기
+                      - list [ref=f120e4037]:
+                        - listitem [ref=f120e4038]:
+                          - generic [ref=f120e4039]:
+                            - img "review_image" [ref=f120e4040]
+                            - link "이미지 펼치기" [ref=f120e4041] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f120e4042]
+                    - generic [ref=f120e4046]:
+                      - img "유저프로필" [ref=f120e4048]
+                      - generic [ref=f120e4049]:
+                        - strong [ref=f120e4050]: 판매자
+                        - generic [ref=f120e4051]: 23.01.28.
+                        - button "신고" [ref=f120e4052] [cursor=pointer]
+                      - generic [ref=f120e4053]:
+                        - paragraph [ref=f120e4054]: 안녕하세요? :) 차총 뿐 아니라 함께 놓여있는 오브제들이 참 운치있고 예뻐 차총이 더욱 빛나는 것 같습니다. 다양한 상품들 하나하나 멋진 사진과 함께 리뷰 남겨주셔서 감사드립니다. 2023년 새해 복 많이 받으시고, 일상의 소소한 기쁨 가득 누리시는 나날들 되시기를 바라겠습니다. 감사합니다. ^^
+                        - button "더보기" [ref=f120e4055] [cursor=pointer]
+                    - generic [ref=f120e4060]:
+                      - generic [ref=f120e4061]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 3" [ref=f120e4062] [cursor=pointer]
+      - button "닫기" [ref=f120e4065] [cursor=pointer]
+  - link "본문으로 바로가기" [ref=f120e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f120e6]:
+    - generic [ref=f120e7]:
+      - generic [ref=f120e9]:
+        - generic [ref=f120e10]:
+          - generic [ref=f120e11]:
+            - link "네이버" [ref=f120e12] [cursor=pointer]:
+              - /url: https://www.naver.com
+            - link "네이버플러스 스토어 홈" [ref=f120e16] [cursor=pointer]:
+              - /url: https://shopping.naver.com/ns/home?
+          - generic [ref=f120e120]:
+            - strong [ref=f120e121]: 사용자 링크
+            - list [ref=f120e122]:
+              - listitem [ref=f120e123]:
+                - link "로그인" [ref=f120e124] [cursor=pointer]:
+                  - /url: https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsmartstore.naver.com%2Fthesmallroom1984%2Fproducts%2F5952927499
+              - listitem [ref=f120e128]:
+                - link "서비스 더보기" [ref=f120e129] [cursor=pointer]:
+                  - /url: javascript:;
+        - generic [ref=f120e22]:
+          - link [ref=f120e23] [cursor=pointer]:
+            - /url: /thesmallroom1984/profile
+            - paragraph [ref=f120e26]: 日日是好日
+          - generic [ref=f120e27]:
+            - button "관심고객수 3,157" [ref=f120e132] [cursor=pointer]
+            - button "도움말" [ref=f120e30] [cursor=pointer]
+          - button "검색어를 입력해주세요" [ref=f120e35] [cursor=pointer]
+      - generic [ref=f120e38]:
+        - generic [ref=f120e39]:
+          - button "알림받기" [ref=f120e44] [cursor=pointer]
+          - heading [level=1] [ref=f120e50]:
+            - link [ref=f120e54] [cursor=pointer]:
+              - /url: /thesmallroom1984
+              - img "더스몰룸1984" [ref=f120e55]
+        - generic [ref=f120e60]:
+          - list [ref=f120e133]:
+            - listitem [ref=f120e134]:
+              - link "Tea茶 Table 하위 메뉴 있음" [ref=f120e135] [cursor=pointer]:
+                - /url: /thesmallroom1984/category/91d44a157a044ba9936636c4d4caf848?cp=1
+                - text: Tea茶 Table
+                - generic [ref=f120e136]: 하위 메뉴 있음
+            - listitem [ref=f120e139]:
+              - link "Matcha tools 하위 메뉴 있음" [ref=f120e140] [cursor=pointer]:
+                - /url: /thesmallroom1984/category/fe12730724c544f1a88658206c5c676a?cp=1
+                - text: Matcha tools
+                - generic [ref=f120e141]: 하위 메뉴 있음
+            - listitem [ref=f120e144]:
+              - link "Wooden Room" [ref=f120e145] [cursor=pointer]:
+                - /url: /thesmallroom1984/category/fd218468f6da43bbb1a7ea060f4d7c56?cp=1
+            - listitem [ref=f120e146]:
+              - link "Food Pairing 하위 메뉴 있음" [ref=f120e147] [cursor=pointer]:
+                - /url: /thesmallroom1984/category/2f5e7a2a8c12469187f18ced0480f757?cp=1
+                - text: Food Pairing
+                - generic [ref=f120e148]: 하위 메뉴 있음
+            - listitem [ref=f120e151]:
+              - link "All" [ref=f120e152] [cursor=pointer]:
+                - /url: /thesmallroom1984/category/17cba090327c43bebe17492a3b2d3774?cp=1
+          - list [ref=f120e61]:
+            - listitem [ref=f120e153]:
+              - link "공지사항" [ref=f120e154] [cursor=pointer]:
+                - /url: /thesmallroom1984/notice?cp=1
+            - listitem [ref=f120e62]:
+              - link "판매자 정보" [ref=f120e63] [cursor=pointer]:
+                - /url: /thesmallroom1984/profile?cp=1
+    - generic [ref=f120e64]:
+      - generic [ref=f120e155]:
+        - generic [ref=f120e156]:
+          - button "네이버플러스 스토어 알림 받고 혜택 받아보세요! 알림받기" [ref=f120e157] [cursor=pointer]:
+            - generic [ref=f120e163]: 네이버플러스 스토어
+            - generic [ref=f120e164]: 알림 받고 혜택 받아보세요!
+            - generic [ref=f120e165]: 알림받기
+          - generic [ref=f120e169]:
+            - tabpanel [ref=f120e172]:
+              - button "대표이미지 이미지 상세보기" [ref=f120e175] [cursor=pointer]:
+                - img "대표이미지" [ref=f120e177]
+                - generic [ref=f120e178]: 이미지 상세보기
+            - generic [ref=f120e197]:
+              - heading "도자기 버드 차총 다우 찻자리 친구 티타임 벗" [level=3] [ref=f120e199]
+              - generic [ref=f120e201]:
+                - generic [ref=f120e202]:
+                  - generic [ref=f120e205]: 평점
+                  - generic [ref=f120e206]: "4.91"
+                  - generic [ref=f120e207]:
+                    - text: (
+                    - button "최근 6개월 5.0" [ref=f120e208] [cursor=pointer]
+                    - button "도움말" [ref=f120e210] [cursor=pointer]
+                    - text: )
+                - link "34건 리뷰" [ref=f120e216] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f120e217]:
+                - generic [ref=f120e219]:
+                  - generic [ref=f120e220]:
+                    - generic [ref=f120e221]:
+                      - button "할인 전 가격 12,000원" [ref=f120e222] [cursor=pointer]:
+                        - generic [ref=f120e223]: 할인 전 가격
+                        - text: 12,000원
+                      - button "도움말" [ref=f120e225] [cursor=pointer]
+                    - generic [ref=f120e230]:
+                      - generic [ref=f120e231]:
+                        - text: 8%
+                        - generic [ref=f120e232]: 할인
+                      - generic [ref=f120e233]:
+                        - generic [ref=f120e234]: 상품 가격
+                        - text: 11,000원
+                  - generic [ref=f120e236]:
+                    - generic [ref=f120e240]: 배송비
+                    - text: 3,500원 (80,000원 이상 무료배송)
+                - generic [ref=f120e241]:
+                  - generic [ref=f120e242]:
+                    - generic [ref=f120e243]: 적립
+                    - generic [ref=f120e244]:
+                      - generic [ref=f120e245]:
+                        - text: 최대 적립 포인트 1,800원
+                        - button "자세히 보기" [ref=f120e246] [cursor=pointer]
+                      - generic [ref=f120e249]:
+                        - link "네이버 플러스 멤버십 최대 5% 추가 적립 도움말 440원 멤버십 시작하고 최대 적립 받기" [ref=f120e250] [cursor=pointer]:
+                          - /url: "#"
+                        - generic [ref=f120e251]:
+                          - generic [ref=f120e252]:
+                            - generic [ref=f120e269]: 네이버 플러스 멤버십
+                            - generic [ref=f120e270]:
+                              - button "최대 5% 추가 적립" [ref=f120e271] [cursor=pointer]
+                              - button "도움말" [ref=f120e273] [cursor=pointer]
+                          - generic [ref=f120e278]: 440원
+                        - strong [ref=f120e280]: 멤버십 시작하고 최대 적립 받기
+                  - generic [ref=f120e283]:
+                    - generic [ref=f120e284]: 혜택
+                    - generic [ref=f120e285]:
+                      - link "네이버 현대카드 Ed3 결제 시 최대 15% 포인트 적립" [ref=f120e287] [cursor=pointer]:
+                        - /url: "#"
+                      - link "전월실적 없이 최대 1.3 % 적립 체크카드" [ref=f120e291] [cursor=pointer]:
+                        - /url: https://pay.naver.com/paymoney/bankbook/woori/open?from=wr0056
+                - generic [ref=f120e294]:
+                  - generic [ref=f120e295]: 배송
+                  - generic [ref=f120e296]:
+                    - generic [ref=f120e297]: 11.25.(수) 도착 확률 97%
+                    - generic [ref=f120e299]: 배송비 3,500원(80,000원 이상 무료)
+                    - button "자세히 보기" [ref=f120e301] [cursor=pointer]
+                - generic [ref=f120e304]:
+                  - generic [ref=f120e307]:
+                    - generic [ref=f120e308]: 옵션 선택 (필수) *
+                    - button "컬러" [ref=f120e311] [cursor=pointer]
+                  - generic [ref=f120e314]:
+                    - generic [ref=f120e315]:
+                      - button "선물하기" [ref=f120e316] [cursor=pointer]
+                      - button "구매하기" [ref=f120e323] [cursor=pointer]
+                    - generic [ref=f120e326]:
+                      - button "찜 하기" [ref=f120e327] [cursor=pointer]:
+                        - text: 찜
+                        - generic [ref=f120e330]: 하기
+                      - button "톡톡문의" [ref=f120e331] [cursor=pointer]
+                      - button "장바구니" [ref=f120e335] [cursor=pointer]
+        - generic [ref=f120e339]:
+          - generic [ref=f120e342]:
+            - generic [ref=f120e343]:
+              - button "4점 이상 리뷰가 100%예요" [ref=f120e344] [cursor=pointer]:
+                - text: 4점 이상 리뷰가
+                - generic [ref=f120e345]: 100%
+                - text: 예요
+              - button "도움말" [ref=f120e347] [cursor=pointer]
+            - generic [ref=f120e352]:
+              - generic [ref=f120e353]:
+                - list [ref=f120e356]:
+                  - listitem [ref=f120e357]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 너무나도 귀여운 차 친구를 갖게 되어 행복합니다 ㅎㅎㅎ 저는 우리는데 사용 안하고 그냥 옆에 두고 보는데, 차 마실때 좀 더 가까이 두고, 평소에는 테이블 여기저기에 두는게 정말 새친구가 있는것 같아 소확행 제대로 느끼네요! 남편도 귀엽다고 좋아합니다 😁" [ref=f120e358] [cursor=pointer]:
+                      - img "review_image" [ref=f120e360]
+                      - generic [ref=f120e361]:
+                        - generic [ref=f120e362]:
+                          - generic [ref=f120e363]:
+                            - generic [ref=f120e366]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f120e367]: 너무나도 귀여운 차 친구를 갖게 되어 행복합니다 ㅎㅎㅎ 저는 우리는데 사용 안하고 그냥 옆에 두고 보는데, 차 마실때 좀 더 가까이 두고, 평소에는 테이블 여기저기에 두는게 정말 새친구가 있는것 같아 소확행 제대로 느끼네요! 남편도 귀엽다고 좋아합니다 😁
+                  - listitem [ref=f120e368]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 옥색 새 탐내고 있다가 품절이라 부랴부랴 검정새 구매했습니다. 묵직하고 귀여워요. 좋은 차친구가 될거 같아요." [ref=f120e369] [cursor=pointer]:
+                      - img "review_image" [ref=f120e371]
+                      - generic [ref=f120e372]:
+                        - generic [ref=f120e373]:
+                          - generic [ref=f120e374]:
+                            - generic [ref=f120e377]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f120e378]: 옥색 새 탐내고 있다가 품절이라 부랴부랴 검정새 구매했습니다. 묵직하고 귀여워요. 좋은 차친구가 될거 같아요.
+                  - listitem [ref=f120e379]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 차 마실때 뿐만 아니라 장식용 오브제로서도 좋은것같습니다.너무 예뻐요ㅠㅠ" [ref=f120e380] [cursor=pointer]:
+                      - img "review_image" [ref=f120e382]
+                      - generic [ref=f120e383]:
+                        - generic [ref=f120e384]:
+                          - generic [ref=f120e385]:
+                            - generic [ref=f120e388]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f120e389]: 차 마실때 뿐만 아니라 장식용 오브제로서도 좋은것같습니다.너무 예뻐요ㅠㅠ
+                  - listitem [ref=f120e390]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 딱히 필요없는 물건이라 살까말까 고민 했는데 고민한게 무색하게 이쁘네요. 한마리 더사서 쌍으로 두면 더 좋겠어요." [ref=f120e391] [cursor=pointer]:
+                      - img "review_image" [ref=f120e393]
+                      - generic [ref=f120e394]:
+                        - generic [ref=f120e395]:
+                          - generic [ref=f120e396]:
+                            - generic [ref=f120e399]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f120e400]: 딱히 필요없는 물건이라 살까말까 고민 했는데 고민한게 무색하게 이쁘네요. 한마리 더사서 쌍으로 두면 더 좋겠어요.
+                  - listitem [ref=f120e401]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 차마실때 물도 부어주고 색깔변하는 토끼나 작은주전자를 사려고 맘먹고있었는데 이아이를 보는순간 첫눈에 반했더랍니다 ㅎㅎ 너무 흐뭇허니 이뻐요 티타임이 더 깜찍해지겠어요" [ref=f120e402] [cursor=pointer]:
+                      - img "review_image" [ref=f120e404]
+                      - generic [ref=f120e405]:
+                        - generic [ref=f120e406]:
+                          - generic [ref=f120e407]:
+                            - generic [ref=f120e410]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f120e411]: 차마실때 물도 부어주고 색깔변하는 토끼나 작은주전자를 사려고 맘먹고있었는데 이아이를 보는순간 첫눈에 반했더랍니다 ㅎㅎ 너무 흐뭇허니 이뻐요 티타임이 더 깜찍해지겠어요
+                  - listitem [ref=f120e412]:
+                    - button "review_image 평점 5 디자인 보통이에요 엄청 귀여워요! 💓💓💓" [ref=f120e413] [cursor=pointer]:
+                      - img "review_image" [ref=f120e415]
+                      - generic [ref=f120e416]:
+                        - generic [ref=f120e417]:
+                          - generic [ref=f120e418]:
+                            - generic [ref=f120e421]: 평점
+                            - text: "5"
+                          - text: 디자인 보통이에요
+                        - generic [ref=f120e422]: 엄청 귀여워요! 💓💓💓
+                  - listitem [ref=f120e423]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 너무 예뻐요ㅎ 엄마선물드렸는데 너무 좋아하세요" [ref=f120e424] [cursor=pointer]:
+                      - img "review_image" [ref=f120e426]
+                      - generic [ref=f120e427]:
+                        - generic [ref=f120e428]:
+                          - generic [ref=f120e429]:
+                            - generic [ref=f120e432]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f120e433]: 너무 예뻐요ㅎ 엄마선물드렸는데 너무 좋아하세요
+                  - listitem [ref=f120e434]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 엄마 선물로 드렸는데 너무 좋아하세요ㅎ" [ref=f120e435] [cursor=pointer]:
+                      - img "review_image" [ref=f120e437]
+                      - generic [ref=f120e438]:
+                        - generic [ref=f120e439]:
+                          - generic [ref=f120e440]:
+                            - generic [ref=f120e443]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f120e444]: 엄마 선물로 드렸는데 너무 좋아하세요ㅎ
+                  - listitem [ref=f120e445]:
+                    - button "평점 5 디자인 마음에 들어요 친구 생일 선물로 주문했는데 무척 좋아하네요!" [ref=f120e446] [cursor=pointer]:
+                      - generic [ref=f120e447]:
+                        - generic [ref=f120e448]:
+                          - generic [ref=f120e449]:
+                            - generic [ref=f120e452]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f120e453]: 친구 생일 선물로 주문했는데 무척 좋아하네요!
+                  - listitem [ref=f120e454]:
+                    - button "평점 5 디자인 마음에 들어요 너무 귀엽고 사랑스러워요! 저는 데코용으로 놓으려고 구매했는데, 창가, 테이블, 그 어디에 두어도 예쁜 포인트가 될 것 같아요 ^^" [ref=f120e455] [cursor=pointer]:
+                      - generic [ref=f120e456]:
+                        - generic [ref=f120e457]:
+                          - generic [ref=f120e458]:
+                            - generic [ref=f120e461]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f120e462]: 너무 귀엽고 사랑스러워요! 저는 데코용으로 놓으려고 구매했는데, 창가, 테이블, 그 어디에 두어도 예쁜 포인트가 될 것 같아요 ^^
+                  - listitem [ref=f120e463]:
+                    - button "평점 5 디자인 보통이에요 좋아요 진열용으류 잘스거 잇는중" [ref=f120e464] [cursor=pointer]:
+                      - generic [ref=f120e465]:
+                        - generic [ref=f120e466]:
+                          - generic [ref=f120e467]:
+                            - generic [ref=f120e470]: 평점
+                            - text: "5"
+                          - text: 디자인 보통이에요
+                        - generic [ref=f120e471]: 좋아요 진열용으류 잘스거 잇는중
+                  - listitem [ref=f120e472]:
+                    - button "평점 5 디자인 보통이에요 감사합니다 고갹님들이 졸아하세요" [ref=f120e473] [cursor=pointer]:
+                      - generic [ref=f120e474]:
+                        - generic [ref=f120e475]:
+                          - generic [ref=f120e476]:
+                            - generic [ref=f120e479]: 평점
+                            - text: "5"
+                          - text: 디자인 보통이에요
+                        - generic [ref=f120e480]: 감사합니다 고갹님들이 졸아하세요
+                - button "다음" [ref=f120e481] [cursor=pointer]
+              - button "리뷰 전체보기" [ref=f120e485] [cursor=pointer]
+          - generic [ref=f120e491]:
+            - strong [ref=f120e493]: 다른 구성 상품 골라 담기
+            - list [ref=f120e499]:
+              - listitem [ref=f120e500]
+              - listitem [ref=f120e517]
+              - listitem [ref=f120e534]
+              - listitem [ref=f120e551]
+              - listitem [ref=f120e568]
+              - listitem [ref=f120e585]
+          - list [ref=f120e605]:
+            - listitem [ref=f120e606]:
+              - link [ref=f120e607] [cursor=pointer]:
+                - /url: "#"
+                - img "이번 달 멤버십 시작하면? 올리브영 혜택까지 받아요" [ref=f120e608]
+          - generic [ref=f120e609]:
+            - generic [ref=f120e610]:
+              - list [ref=f120e612]:
+                - button "상세정보" [ref=f120e613] [cursor=pointer]
+                - button "리뷰 34" [ref=f120e614] [cursor=pointer]
+                - button "Q&A 3" [ref=f120e615] [cursor=pointer]
+                - button "판매자정보" [ref=f120e616] [cursor=pointer]
+                - button "추천" [ref=f120e617] [cursor=pointer]
+              - generic [ref=f120e619]:
+                - generic [ref=f120e621]:
+                  - generic [ref=f120e627]:
+                    - text: 판매자가 타 사이트 안내 및 현금 결제, 개인정보 유도 시 결제/입력하지 마시고 즉시
+                    - link "고객센터로 신고" [ref=f120e628] [cursor=pointer]:
+                      - /url: https://help.pay.naver.com/faq/content.help?faqId=14188
+                    - text: 해주세요.
+                  - generic [ref=f120e630]:
+                    - strong [ref=f120e632]: 상품정보
+                    - list [ref=f120e633]:
+                      - listitem [ref=f120e634]:
+                        - generic [ref=f120e635]: 상품번호
+                        - generic [ref=f120e636]:
+                          - text: "5952927499"
+                          - button "상품번호 복사" [ref=f120e637] [cursor=pointer]: 복사
+                      - listitem [ref=f120e641]:
+                        - generic [ref=f120e642]: 원산지
+                        - generic [ref=f120e643]: 중국산(협력업체)
+                      - listitem [ref=f120e644]:
+                        - generic [ref=f120e645]: 재질
+                        - generic [ref=f120e646]: 도자기/세라믹
+                      - listitem [ref=f120e647]:
+                        - generic [ref=f120e648]: 구성수량
+                        - generic [ref=f120e649]: 1P
+                    - generic [ref=f120e650]:
+                      - button "신고하기" [ref=f120e651] [cursor=pointer]
+                      - button "상품정보제공고시 보기" [ref=f120e652] [cursor=pointer]
+                  - generic [ref=f120e653]:
+                    - generic [ref=f120e654]:
+                      - generic [ref=f120e655]:
+                        - generic [ref=f120e656]:
+                          - strong [ref=f120e657]: 공지사항
+                          - generic [ref=f120e666]:
+                            - paragraph [ref=f120e667]
+                            - paragraph [ref=f120e668]:
+                              - generic [ref=f120e669]: 평일 오후 2시까지 주문하신 상품 당일 발송 합니다.
+                            - paragraph [ref=f120e670]:
+                              - generic [ref=f120e671]: 감사합니다.
+                            - paragraph [ref=f120e672]
+                            - paragraph [ref=f120e673]
+                        - generic [ref=f120e678]:
+                          - generic [ref=f120e682]:
+                            - paragraph [ref=f120e683]:
+                              - generic [ref=f120e684]: 더스몰룸1984 그레이버드 차총
+                            - paragraph [ref=f120e685]: The Smallroom1984
+                            - paragraph [ref=f120e686]
+                          - paragraph [ref=f120e696]
+                          - generic [ref=f120e709] [cursor=pointer]
+                          - generic [ref=f120e714]:
+                            - paragraph [ref=f120e715]
+                            - paragraph [ref=f120e716]: 혼자만의 찻자리를 즐기시는 분들이 더욱 늘어나고 있지요? '혼'티타임에도 같이 해줄 다우를 초대 했습니다. 물론, 2인 이상의 찻자리에서도 정답게 자리를 빛내줄 친구랍니다.
+                            - paragraph [ref=f120e717]
+                          - generic [ref=f120e722] [cursor=pointer]
+                          - paragraph [ref=f120e728]: 차집게를 걸칠 수 있는 실용성도 겸비하였습니다.
+                          - separator [ref=f120e733]
+                          - blockquote [ref=f120e737]:
+                            - paragraph [ref=f120e739]:
+                              - generic [ref=f120e740]: Product information
+                          - paragraph [ref=f120e745]:
+                            - text: 퇴수 가능한 차판 위에 티타임을 준비하실 경우, 세차한 찻물을 차총 친구에게 부으면서. 시간을 함께 보낼수 있답니다.
+                            - generic [ref=f120e746]: 블루 그레이
+                            - text: 의 경우 매끈한 도자기 재질이 아닌,
+                            - generic [ref=f120e747]: 유광의 크랙
+                            - text: 이 있는 디자인입니다.
+                            - generic [ref=f120e748]: 블랙 차총
+                            - text: 의 경우
+                            - generic [ref=f120e749]: 무광 재질의 크랙이 없는
+                            - text: 디자인입니다.
+                          - generic [ref=f120e758]:
+                            - paragraph [ref=f120e759]
+                            - paragraph [ref=f120e760]:
+                              - generic [ref=f120e761]: "- S i z e-"
+                            - paragraph [ref=f120e762]:
+                              - generic [ref=f120e763]: "꼬리까지 가로 : 7cm * 높이 4.5cm"
+                            - paragraph [ref=f120e764]:
+                              - generic [ref=f120e765]: "색상 : 블루그레이 or 블랙"
+                            - paragraph [ref=f120e766]:
+                              - generic [ref=f120e767]: made in China
+                            - paragraph [ref=f120e768]
+                            - paragraph [ref=f120e769]
+                            - paragraph [ref=f120e770]
+                            - paragraph [ref=f120e771]
+                          - generic [ref=f120e775] [cursor=pointer]:
+                            - link [ref=f120e776]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/11188227303
+                            - link [ref=f120e777]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/11188227303
+                              - generic [ref=f120e778]:
+                                - strong [ref=f120e779]: "청순 도자기 수반 화이트 국내 제작 도자기 한송이 꽃꽂이 다화 : 더스몰룸1984"
+                                - paragraph [ref=f120e780]: "[더스몰룸1984] 日日是好日"
+                                - paragraph [ref=f120e781]: smartstore.naver.com
+                          - generic [ref=f120e785] [cursor=pointer]:
+                            - link [ref=f120e786]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/6823521218
+                            - link [ref=f120e787]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/6823521218
+                              - generic [ref=f120e788]:
+                                - strong [ref=f120e789]: "도자기 수반 이성근 작가 이케바나 꽃꽂이 국내 핸드메이드 : 더스몰룸1984"
+                                - paragraph [ref=f120e790]: "[더스몰룸1984] 日日是好日"
+                                - paragraph [ref=f120e791]: smartstore.naver.com
+                          - generic [ref=f120e795] [cursor=pointer]:
+                            - link [ref=f120e796]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/6823573250
+                            - link [ref=f120e797]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/6823573250
+                              - generic [ref=f120e798]:
+                                - strong [ref=f120e799]: "도자기 꽃 침봉 친환경 이성근 작가 동양 꽃꽂이 이케바나 : 더스몰룸1984"
+                                - paragraph [ref=f120e800]: "[더스몰룸1984] 日日是好日"
+                                - paragraph [ref=f120e801]: smartstore.naver.com
+                          - paragraph [ref=f120e806]
+                          - separator [ref=f120e811]
+                          - blockquote [ref=f120e815]:
+                            - paragraph [ref=f120e817]:
+                              - generic [ref=f120e818]: Product image
+                          - paragraph [ref=f120e823]
+                          - paragraph [ref=f120e833]
+                          - paragraph [ref=f120e843]
+                          - paragraph [ref=f120e853]: 차집게를 걸쳐놓을 수 있어, 더욱 자주 함께 하게 되는 그레이버드 친구입니다. :)
+                          - generic [ref=f120e858] [cursor=pointer]
+                          - paragraph [ref=f120e864]
+                          - paragraph [ref=f120e874]
+                          - paragraph [ref=f120e884]
+                          - paragraph [ref=f120e894]
+                          - paragraph [ref=f120e904]
+                          - generic [ref=f120e909] [cursor=pointer]
+                          - generic [ref=f120e914]:
+                            - paragraph [ref=f120e915]
+                            - paragraph [ref=f120e916]
+                          - paragraph [ref=f120e926]
+                          - paragraph [ref=f120e936]
+                          - paragraph [ref=f120e946]
+                          - paragraph [ref=f120e956]
+                          - paragraph [ref=f120e966]
+                          - generic [ref=f120e971] [cursor=pointer]
+                          - generic [ref=f120e976]:
+                            - paragraph [ref=f120e977]
+                            - paragraph [ref=f120e978]
+                          - generic [ref=f120e983] [cursor=pointer]
+                          - paragraph [ref=f120e989]
+                          - generic [ref=f120e994] [cursor=pointer]
+                          - paragraph [ref=f120e1000]
+                          - generic [ref=f120e1005] [cursor=pointer]
+                          - paragraph [ref=f120e1011]
+                          - paragraph [ref=f120e1021]
+                          - generic [ref=f120e1026] [cursor=pointer]
+                          - paragraph [ref=f120e1032]
+                          - paragraph [ref=f120e1042]
+                          - paragraph [ref=f120e1052]
+                          - paragraph [ref=f120e1062]
+                          - paragraph [ref=f120e1072]
+                          - generic [ref=f120e1081]:
+                            - paragraph [ref=f120e1082]
+                            - paragraph [ref=f120e1083]
+                            - paragraph [ref=f120e1084]
+                            - paragraph [ref=f120e1085]
+                            - paragraph [ref=f120e1086]
+                          - separator [ref=f120e1091]
+                          - generic [ref=f120e1095] [cursor=pointer]:
+                            - link [ref=f120e1096]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/6823521218
+                            - link [ref=f120e1097]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/6823521218
+                              - generic [ref=f120e1098]:
+                                - strong [ref=f120e1099]: "도자기 수반 이성근 작가 이케바나 꽃꽂이 국내 핸드메이드 : 더스몰룸1984"
+                                - paragraph [ref=f120e1100]: "[더스몰룸1984] 日日是好日"
+                                - paragraph [ref=f120e1101]: smartstore.naver.com
+                          - paragraph [ref=f120e1106]
+                          - generic [ref=f120e1110] [cursor=pointer]:
+                            - link [ref=f120e1111]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/6823573250
+                            - link [ref=f120e1112]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/6823573250
+                              - generic [ref=f120e1113]:
+                                - strong [ref=f120e1114]: "도자기 꽃 침봉 친환경 이성근 작가 동양 꽃꽂이 이케바나 : 더스몰룸1984"
+                                - paragraph [ref=f120e1115]: "[더스몰룸1984] 日日是好日"
+                                - paragraph [ref=f120e1116]: smartstore.naver.com
+                          - generic [ref=f120e1120] [cursor=pointer]:
+                            - link [ref=f120e1121]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/5870688524
+                            - link [ref=f120e1122]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/5870688524
+                              - generic [ref=f120e1123]:
+                                - strong [ref=f120e1124]: "매화 찻잔 받침 초미니 원형 티코스터 다도용 금속 다기 : 더스몰룸1984"
+                                - paragraph [ref=f120e1125]: "[더스몰룸1984] 日日是好日"
+                                - paragraph [ref=f120e1126]: smartstore.naver.com
+                          - generic [ref=f120e1130] [cursor=pointer]:
+                            - link [ref=f120e1131]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/5809888454
+                            - link [ref=f120e1132]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/5809888454
+                              - generic [ref=f120e1133]:
+                                - strong [ref=f120e1134]: "대나무 티매트 1인 러너 휴대용 차매트 소규모 다실 일상 다도 : 더스몰룸1984"
+                                - paragraph [ref=f120e1135]: "[더스몰룸1984] 日日是好日"
+                                - paragraph [ref=f120e1136]: smartstore.naver.com
+                          - generic [ref=f120e1140] [cursor=pointer]:
+                            - link [ref=f120e1141]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/5630800049
+                            - link [ref=f120e1142]:
+                              - /url: https://smartstore.naver.com/thesmallroom1984/products/5630800049
+                              - generic [ref=f120e1143]:
+                                - strong [ref=f120e1144]: "향과 맛의 향연 문향배 품명배 세트 찻잔 티웨어 미니 티잔 화이트 홈 티룸 다도 : 더스몰룸1984"
+                                - paragraph [ref=f120e1145]: "[더스몰룸1984] 日日是好日"
+                                - paragraph [ref=f120e1146]: smartstore.naver.com
+                          - separator [ref=f120e1151]
+                          - paragraph [ref=f120e1161]
+                          - generic [ref=f120e1170]:
+                            - paragraph [ref=f120e1171]
+                            - paragraph [ref=f120e1172]: 촬영 시 빛의 상황, 고객 분들의 모니터 컨디션에 따라제품 색상의 차이가 있을 수 있습니다.
+                            - paragraph [ref=f120e1173]: 문의 사항은 네이버 톡톡으로 연락 부탁드립니다. 전화 통화를 희망하실 시 네이버 톡톡에 전화 요청 하시면, 연락 드리겠습니다. 감사합니다!
+                            - paragraph [ref=f120e1174]
+                          - generic [ref=f120e1178] [cursor=pointer]:
+                            - link [ref=f120e1179]:
+                              - /url: https://talk.naver.com/ct/w4icw5
+                            - link [ref=f120e1180]:
+                              - /url: https://talk.naver.com/ct/w4icw5
+                              - generic [ref=f120e1181]:
+                                - strong [ref=f120e1182]: 더스몰룸1984 - 네이버톡톡
+                                - paragraph [ref=f120e1183]: 일상을 느긋하게 가꾸는 소품을 팝니다.
+                                - paragraph [ref=f120e1184]: talk.naver.com
+                          - generic [ref=f120e1188]:
+                            - paragraph [ref=f120e1189]
+                            - paragraph [ref=f120e1190]
+                            - paragraph [ref=f120e1191]
+                            - paragraph [ref=f120e1192]
+                      - generic [ref=f120e1194]:
+                        - strong [ref=f120e1196]: 관련 태그
+                        - list [ref=f120e1197]:
+                          - listitem [ref=f120e1198]:
+                            - link "#행복한주방" [ref=f120e1199] [cursor=pointer]:
+                              - /url: /thesmallroom1984/search?q=%23%ED%96%89%EB%B3%B5%ED%95%9C%EC%A3%BC%EB%B0%A9
+                          - listitem [ref=f120e1200]:
+                            - link "#사계절" [ref=f120e1201] [cursor=pointer]:
+                              - /url: /thesmallroom1984/search?q=%23%EC%82%AC%EA%B3%84%EC%A0%88
+                          - listitem [ref=f120e1202]:
+                            - link "#로맨틱키친" [ref=f120e1203] [cursor=pointer]:
+                              - /url: /thesmallroom1984/search?q=%23%EB%A1%9C%EB%A7%A8%ED%8B%B1%ED%82%A4%EC%B9%9C
+                          - listitem [ref=f120e1204]:
+                            - link "#분위기전환용" [ref=f120e1205] [cursor=pointer]:
+                              - /url: /thesmallroom1984/search?q=%23%EB%B6%84%EC%9C%84%EA%B8%B0%EC%A0%84%ED%99%98%EC%9A%A9
+                          - listitem [ref=f120e1206]:
+                            - link "#디자인이이쁜" [ref=f120e1207] [cursor=pointer]:
+                              - /url: /thesmallroom1984/search?q=%23%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%B4%EC%9D%B4%EC%81%9C
+                          - listitem [ref=f120e1208]:
+                            - link "#20대여성" [ref=f120e1209] [cursor=pointer]:
+                              - /url: /thesmallroom1984/search?q=%2320%EB%8C%80%EC%97%AC%EC%84%B1
+                          - listitem [ref=f120e1210]:
+                            - link "#30대" [ref=f120e1211] [cursor=pointer]:
+                              - /url: /thesmallroom1984/search?q=%2330%EB%8C%80
+                          - listitem [ref=f120e1212]:
+                            - link "#40대" [ref=f120e1213] [cursor=pointer]:
+                              - /url: /thesmallroom1984/search?q=%2340%EB%8C%80
+                    - button "상세정보 펼쳐보기" [ref=f120e1214] [cursor=pointer]
+                - generic [ref=f120e1221]:
+                  - strong [ref=f120e1224]: 관련 숏클립
+                  - list [ref=f120e1225]:
+                    - listitem [ref=f120e1226]
+                    - listitem [ref=f120e1232]
+                    - listitem [ref=f120e1238]
+                    - listitem [ref=f120e1244]
+                    - listitem [ref=f120e1250]
+                - generic [ref=f120e1258]:
+                  - generic [ref=f120e1259]:
+                    - strong [ref=f120e1261]: 리뷰
+                    - list [ref=f120e1270]:
+                      - listitem [ref=f120e1271]
+                      - listitem [ref=f120e1273]
+                      - listitem [ref=f120e1275]
+                      - listitem [ref=f120e1277]
+                      - listitem [ref=f120e1279]
+                      - listitem [ref=f120e1281]
+                    - list [ref=f120e1283]:
+                      - listitem [ref=f120e1284]
+                      - listitem [ref=f120e1300]
+                      - listitem [ref=f120e1316]
+                      - listitem [ref=f120e1332]
+                      - listitem [ref=f120e1348]
+                      - listitem [ref=f120e1364]
+                      - listitem [ref=f120e1380]
+                      - listitem [ref=f120e1396]
+                  - button "리뷰 전체보기" [ref=f120e1413] [cursor=pointer]
+                - generic [ref=f120e1419]:
+                  - strong [ref=f120e1421]: Q&A
+                  - list [ref=f120e1424]:
+                    - listitem [ref=f120e1425]
+                    - listitem [ref=f120e1427]
+                    - listitem [ref=f120e1429]
+                    - listitem [ref=f120e1431]
+                  - button "Q&A 전체보기" [ref=f120e1434] [cursor=pointer]
+                - generic [ref=f120e1439]:
+                  - generic [ref=f120e1440]:
+                    - link [ref=f120e1441] [cursor=pointer]:
+                      - /url: /thesmallroom1984
+                      - img "이미지정보" [ref=f120e1442]
+                    - generic [ref=f120e1443]:
+                      - link "더스몰룸1984" [ref=f120e1445] [cursor=pointer]:
+                        - /url: /thesmallroom1984
+                      - generic [ref=f120e1446]: 오픈 6년된 스토어
+                      - list [ref=f120e1448]:
+                        - listitem [ref=f120e1449]:
+                          - button "파워" [ref=f120e1456] [cursor=pointer]
+                          - button "도움말" [ref=f120e1458] [cursor=pointer]
+                        - listitem [ref=f120e1463]:
+                          - button "관심고객수 3,157" [ref=f120e1464] [cursor=pointer]
+                          - button "도움말" [ref=f120e1466] [cursor=pointer]
+                  - list [ref=f120e1471]:
+                    - listitem [ref=f120e1472]:
+                      - button "알림받기" [ref=f120e1473] [cursor=pointer]
+                    - listitem [ref=f120e1477]:
+                      - link "톡톡" [ref=f120e1478] [cursor=pointer]:
+                        - /url: https://talk.naver.com/ct/w4icw5#nafullscreen
+                    - listitem [ref=f120e1482]:
+                      - link "스토어홈" [ref=f120e1483] [cursor=pointer]:
+                        - /url: /thesmallroom1984
+                - generic [ref=f120e1486]:
+                  - generic [ref=f120e1488]:
+                    - generic [ref=f120e1489]:
+                      - strong [ref=f120e1490]: 이 상품과 비슷한 상품
+                      - generic [ref=f120e1491]: 1 / 5
+                    - list [ref=f120e1497]:
+                      - listitem [ref=f120e1498]:
+                        - generic [ref=f120e1499]:
+                          - link "삼색 미니 찻잔 자사 티잔 다도 입문 작은 잔 대만 도자기 12,000원 배송비 3,500원" [ref=f120e1500] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/13607044894
+                            - generic [ref=f120e1501]: 상품 바로가기
+                          - generic [ref=f120e1502]:
+                            - img "@삼색 미니 찻잔 자사 티잔 다도 입문 작은 잔 대만 도자기" [ref=f120e1504]
+                            - button "삼색 미니 찻잔 자사 티잔 다도 입문 작은 잔 대만 도자기 찜하기" [ref=f120e1505] [cursor=pointer]
+                          - generic [ref=f120e1510]:
+                            - paragraph [ref=f120e1511]: 삼색 미니 찻잔 자사 티잔 다도 입문 작은 잔 대만 도자기
+                            - generic [ref=f120e1514]:
+                              - generic [ref=f120e1515]: 12,000원
+                              - generic [ref=f120e1516]:
+                                - generic [ref=f120e1520]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e1521]:
+                        - generic [ref=f120e1522]:
+                          - link "가벼운 마음으로 첫 개완 입문용 개완배 연습용 18,000원 배송비 3,500원" [ref=f120e1523] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/10213477749
+                            - generic [ref=f120e1524]: 상품 바로가기
+                          - generic [ref=f120e1525]:
+                            - img "@가벼운 마음으로 첫 개완 입문용 개완배 연습용" [ref=f120e1527]
+                            - button "가벼운 마음으로 첫 개완 입문용 개완배 연습용 찜하기" [ref=f120e1528] [cursor=pointer]
+                          - generic [ref=f120e1533]:
+                            - paragraph [ref=f120e1534]: 가벼운 마음으로 첫 개완 입문용 개완배 연습용
+                            - generic [ref=f120e1537]:
+                              - generic [ref=f120e1538]: 18,000원
+                              - generic [ref=f120e1539]:
+                                - generic [ref=f120e1543]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e1544]:
+                        - generic [ref=f120e1545]:
+                          - link "한모금 개완 소형 1인 개완배 다도 입문 미니 다구 다기 화이트 도자기 12,000원 배송비 3,500원" [ref=f120e1546] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/10393783582
+                            - generic [ref=f120e1547]: 상품 바로가기
+                          - generic [ref=f120e1548]:
+                            - img "@한모금 개완 소형 1인 개완배 다도 입문 미니 다구 다기 화이트 도자기" [ref=f120e1550]
+                            - button "한모금 개완 소형 1인 개완배 다도 입문 미니 다구 다기 화이트 도자기 찜하기" [ref=f120e1551] [cursor=pointer]
+                          - generic [ref=f120e1556]:
+                            - paragraph [ref=f120e1557]: 한모금 개완 소형 1인 개완배 다도 입문 미니 다구 다기 화이트 도자기
+                            - generic [ref=f120e1560]:
+                              - generic [ref=f120e1561]: 12,000원
+                              - generic [ref=f120e1562]:
+                                - generic [ref=f120e1566]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e1567]:
+                        - generic [ref=f120e1568]:
+                          - link "이너피스 개완 백자 대만 개완배 화이트 도자기 다도 입문 다구 티클래스 28,000원 배송비 3,500원" [ref=f120e1569] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/9445403292
+                            - generic [ref=f120e1570]: 상품 바로가기
+                          - generic [ref=f120e1571]:
+                            - img "@이너피스 개완 백자 대만 개완배 화이트 도자기 다도 입문 다구 티클래스" [ref=f120e1573]
+                            - button "이너피스 개완 백자 대만 개완배 화이트 도자기 다도 입문 다구 티클래스 찜하기" [ref=f120e1574] [cursor=pointer]
+                          - generic [ref=f120e1579]:
+                            - paragraph [ref=f120e1580]: 이너피스 개완 백자 대만 개완배 화이트 도자기 다도 입문 다구 티클래스
+                            - generic [ref=f120e1583]:
+                              - generic [ref=f120e1584]: 28,000원
+                              - generic [ref=f120e1585]:
+                                - generic [ref=f120e1589]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e1590]:
+                        - generic [ref=f120e1591]:
+                          - link "고즈넉 입문 다완 말차 격불 다도 다기 한국 제작 티클래스 찻집 티카페 24,000원 배송비 3,500원" [ref=f120e1592] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/11438218521
+                            - generic [ref=f120e1593]: 상품 바로가기
+                          - generic [ref=f120e1594]:
+                            - img "@고즈넉 입문 다완 말차 격불 다도 다기 한국 제작 티클래스 찻집 티카페" [ref=f120e1596]
+                            - button "고즈넉 입문 다완 말차 격불 다도 다기 한국 제작 티클래스 찻집 티카페 찜하기" [ref=f120e1597] [cursor=pointer]
+                          - generic [ref=f120e1602]:
+                            - paragraph [ref=f120e1603]: 고즈넉 입문 다완 말차 격불 다도 다기 한국 제작 티클래스 찻집 티카페
+                            - generic [ref=f120e1606]:
+                              - generic [ref=f120e1607]: 24,000원
+                              - generic [ref=f120e1608]:
+                                - generic [ref=f120e1612]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e1613]:
+                        - generic [ref=f120e1614]:
+                          - link "명상 다관 대만 백자 미니 차호 화이트 다기 다구 다도 입문 80,000원" [ref=f120e1615] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/10573225952
+                            - generic [ref=f120e1616]: 상품 바로가기
+                          - generic [ref=f120e1617]:
+                            - img "@명상 다관 대만 백자 미니 차호 화이트 다기 다구 다도 입문" [ref=f120e1619]
+                            - button "명상 다관 대만 백자 미니 차호 화이트 다기 다구 다도 입문 찜하기" [ref=f120e1620] [cursor=pointer]
+                          - generic [ref=f120e1625]:
+                            - paragraph [ref=f120e1626]: 명상 다관 대만 백자 미니 차호 화이트 다기 다구 다도 입문
+                            - generic [ref=f120e1627]: 80,000원
+                      - listitem [ref=f120e1631]:
+                        - generic [ref=f120e1632]:
+                          - link "순백 다관 미니 차호 백자 도자기 다도 입문 60,000원 5% 할인 57,000원 배송비 3,500원" [ref=f120e1633] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/7424144168
+                            - generic [ref=f120e1634]: 상품 바로가기
+                          - generic [ref=f120e1635]:
+                            - img "@순백 다관 미니 차호 백자 도자기 다도 입문" [ref=f120e1637]
+                            - button "순백 다관 미니 차호 백자 도자기 다도 입문 찜하기" [ref=f120e1638] [cursor=pointer]
+                          - generic [ref=f120e1643]:
+                            - paragraph [ref=f120e1644]: 순백 다관 미니 차호 백자 도자기 다도 입문
+                            - generic [ref=f120e1646]:
+                              - deletion [ref=f120e1647]: 60,000원
+                              - generic [ref=f120e1648]:
+                                - generic [ref=f120e1649]:
+                                  - generic [ref=f120e1650]:
+                                    - text: 5%
+                                    - generic [ref=f120e1651]: 할인
+                                  - generic [ref=f120e1652]: 57,000원
+                                - generic [ref=f120e1653]:
+                                  - generic [ref=f120e1657]: 배송비
+                                  - text: 3,500원
+                      - listitem [ref=f120e1658]:
+                        - generic [ref=f120e1659]:
+                          - link "피치 다완 말차 격불 다도 입문 티클래스 다기 한국 제작 말차 다구 40,000원 2% 할인 39,000원 배송비 3,000원" [ref=f120e1660] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/11446234401
+                            - generic [ref=f120e1661]: 상품 바로가기
+                          - generic [ref=f120e1662]:
+                            - img "@피치 다완 말차 격불 다도 입문 티클래스 다기 한국 제작 말차 다구" [ref=f120e1664]
+                            - button "피치 다완 말차 격불 다도 입문 티클래스 다기 한국 제작 말차 다구 찜하기" [ref=f120e1665] [cursor=pointer]
+                          - generic [ref=f120e1670]:
+                            - paragraph [ref=f120e1671]: 피치 다완 말차 격불 다도 입문 티클래스 다기 한국 제작 말차 다구
+                            - generic [ref=f120e1673]:
+                              - deletion [ref=f120e1674]: 40,000원
+                              - generic [ref=f120e1675]:
+                                - generic [ref=f120e1676]:
+                                  - generic [ref=f120e1677]:
+                                    - text: 2%
+                                    - generic [ref=f120e1678]: 할인
+                                  - generic [ref=f120e1679]: 39,000원
+                                - generic [ref=f120e1680]:
+                                  - generic [ref=f120e1684]: 배송비
+                                  - text: 3,000원
+                      - listitem [ref=f120e1685]:
+                        - generic [ref=f120e1686]:
+                          - link "블랙 미니 다완 단품 말차 격불 다도 입문 다기 일본 도자기 18,000원 33% 할인 12,000원 배송비 3,000원" [ref=f120e1687] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/12017703763
+                            - generic [ref=f120e1688]: 상품 바로가기
+                          - generic [ref=f120e1689]:
+                            - img "@블랙 미니 다완 단품 말차 격불 다도 입문 다기 일본 도자기" [ref=f120e1691]
+                            - button "블랙 미니 다완 단품 말차 격불 다도 입문 다기 일본 도자기 찜하기" [ref=f120e1692] [cursor=pointer]
+                          - generic [ref=f120e1697]:
+                            - paragraph [ref=f120e1698]: 블랙 미니 다완 단품 말차 격불 다도 입문 다기 일본 도자기
+                            - generic [ref=f120e1700]:
+                              - deletion [ref=f120e1701]: 18,000원
+                              - generic [ref=f120e1702]:
+                                - generic [ref=f120e1703]:
+                                  - generic [ref=f120e1704]:
+                                    - text: 33%
+                                    - generic [ref=f120e1705]: 할인
+                                  - generic [ref=f120e1706]: 12,000원
+                                - generic [ref=f120e1707]:
+                                  - generic [ref=f120e1711]: 배송비
+                                  - text: 3,000원
+                      - listitem [ref=f120e1712]:
+                        - generic [ref=f120e1713]:
+                          - link "옛터 다하 찻잎 놓아두기 감상하기 다관으로 옮기기 다도 입문 차도구 80,000원" [ref=f120e1714] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/13678850604
+                            - generic [ref=f120e1715]: 상품 바로가기
+                          - generic [ref=f120e1716]:
+                            - img "@옛터 다하 찻잎 놓아두기 감상하기 다관으로 옮기기 다도 입문 차도구" [ref=f120e1718]
+                            - button "옛터 다하 찻잎 놓아두기 감상하기 다관으로 옮기기 다도 입문 차도구 찜하기" [ref=f120e1719] [cursor=pointer]
+                          - generic [ref=f120e1724]:
+                            - paragraph [ref=f120e1725]: 옛터 다하 찻잎 놓아두기 감상하기 다관으로 옮기기 다도 입문 차도구
+                            - generic [ref=f120e1726]: 80,000원
+                      - listitem [ref=f120e1730]:
+                        - generic [ref=f120e1731]:
+                          - link "심플 다완 단품 말차 격불 미니 다도 입문 티클래스 차명상 다구 18,000원 33% 할인 12,000원 배송비 3,000원" [ref=f120e1732] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/12017426469
+                            - generic [ref=f120e1733]: 상품 바로가기
+                          - generic [ref=f120e1734]:
+                            - img "@심플 다완 단품 말차 격불 미니 다도 입문 티클래스 차명상 다구" [ref=f120e1736]
+                            - button "심플 다완 단품 말차 격불 미니 다도 입문 티클래스 차명상 다구 찜하기" [ref=f120e1737] [cursor=pointer]
+                          - generic [ref=f120e1742]:
+                            - paragraph [ref=f120e1743]: 심플 다완 단품 말차 격불 미니 다도 입문 티클래스 차명상 다구
+                            - generic [ref=f120e1745]:
+                              - deletion [ref=f120e1746]: 18,000원
+                              - generic [ref=f120e1747]:
+                                - generic [ref=f120e1748]:
+                                  - generic [ref=f120e1749]:
+                                    - text: 33%
+                                    - generic [ref=f120e1750]: 할인
+                                  - generic [ref=f120e1751]: 12,000원
+                                - generic [ref=f120e1752]:
+                                  - generic [ref=f120e1756]: 배송비
+                                  - text: 3,000원
+                      - listitem [ref=f120e1757]:
+                        - generic [ref=f120e1758]:
+                          - link "심플 다완 100본 차선 차시 구성 말차 격불 입문 키트 다기 다구 48,000원 10% 할인 43,000원" [ref=f120e1759] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/12178239884
+                            - generic [ref=f120e1760]: 상품 바로가기
+                          - generic [ref=f120e1761]:
+                            - img "@심플 다완 100본 차선 차시 구성 말차 격불 입문 키트 다기 다구" [ref=f120e1763]
+                            - button "심플 다완 100본 차선 차시 구성 말차 격불 입문 키트 다기 다구 찜하기" [ref=f120e1764] [cursor=pointer]
+                          - generic [ref=f120e1769]:
+                            - paragraph [ref=f120e1770]: 심플 다완 100본 차선 차시 구성 말차 격불 입문 키트 다기 다구
+                            - generic [ref=f120e1772]:
+                              - deletion [ref=f120e1773]: 48,000원
+                              - generic [ref=f120e1775]:
+                                - generic [ref=f120e1776]:
+                                  - text: 10%
+                                  - generic [ref=f120e1777]: 할인
+                                - generic [ref=f120e1778]: 43,000원
+                      - listitem [ref=f120e1779]:
+                        - generic [ref=f120e1780]:
+                          - link "순백 호승 대만 도자기화이트 백자 다도 입문 찻집 다기 56,000원 배송비 3,500원" [ref=f120e1781] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/9430076244
+                            - generic [ref=f120e1782]: 상품 바로가기
+                          - generic [ref=f120e1783]:
+                            - img "@순백 호승 대만 도자기화이트 백자 다도 입문 찻집 다기" [ref=f120e1785]
+                            - button "순백 호승 대만 도자기화이트 백자 다도 입문 찻집 다기 찜하기" [ref=f120e1786] [cursor=pointer]
+                          - generic [ref=f120e1791]:
+                            - paragraph [ref=f120e1792]: 순백 호승 대만 도자기화이트 백자 다도 입문 찻집 다기
+                            - generic [ref=f120e1795]:
+                              - generic [ref=f120e1796]: 56,000원
+                              - generic [ref=f120e1797]:
+                                - generic [ref=f120e1801]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e1802]:
+                        - generic [ref=f120e1803]:
+                          - link "고운 배빛 다관 대만 도자기 다도 입문 티룸 티카페 60,000원 배송비 3,000원" [ref=f120e1804] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/10244697711
+                            - generic [ref=f120e1805]: 상품 바로가기
+                          - generic [ref=f120e1806]:
+                            - img "@고운 배빛 다관 대만 도자기 다도 입문 티룸 티카페" [ref=f120e1808]
+                            - button "고운 배빛 다관 대만 도자기 다도 입문 티룸 티카페 찜하기" [ref=f120e1809] [cursor=pointer]
+                          - generic [ref=f120e1814]:
+                            - paragraph [ref=f120e1815]: 고운 배빛 다관 대만 도자기 다도 입문 티룸 티카페
+                            - generic [ref=f120e1818]:
+                              - generic [ref=f120e1819]: 60,000원
+                              - generic [ref=f120e1820]:
+                                - generic [ref=f120e1824]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=f120e1825]:
+                        - generic [ref=f120e1826]:
+                          - link "블랙 다완 100본 차선 차시 구성 말차 입문 키트 격불 클래스 다기 48,000원 10% 할인 43,000원" [ref=f120e1827] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/12178428690
+                            - generic [ref=f120e1828]: 상품 바로가기
+                          - generic [ref=f120e1829]:
+                            - img "@블랙 다완 100본 차선 차시 구성 말차 입문 키트 격불 클래스 다기" [ref=f120e1831]
+                            - button "블랙 다완 100본 차선 차시 구성 말차 입문 키트 격불 클래스 다기 찜하기" [ref=f120e1832] [cursor=pointer]
+                          - generic [ref=f120e1837]:
+                            - paragraph [ref=f120e1838]: 블랙 다완 100본 차선 차시 구성 말차 입문 키트 격불 클래스 다기
+                            - generic [ref=f120e1840]:
+                              - deletion [ref=f120e1841]: 48,000원
+                              - generic [ref=f120e1843]:
+                                - generic [ref=f120e1844]:
+                                  - text: 10%
+                                  - generic [ref=f120e1845]: 할인
+                                - generic [ref=f120e1846]: 43,000원
+                      - listitem [ref=f120e1847]:
+                        - generic [ref=f120e1848]:
+                          - link "카라 백자 찻잔 대만 도자기 다기 다도 입문 다구 티룸 티카페 10,000원 배송비 3,500원" [ref=f120e1849] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/9581443715
+                            - generic [ref=f120e1850]: 상품 바로가기
+                          - generic [ref=f120e1851]:
+                            - img "@카라 백자 찻잔 대만 도자기 다기 다도 입문 다구 티룸 티카페" [ref=f120e1853]
+                            - button "카라 백자 찻잔 대만 도자기 다기 다도 입문 다구 티룸 티카페 찜하기" [ref=f120e1854] [cursor=pointer]
+                          - generic [ref=f120e1859]:
+                            - paragraph [ref=f120e1860]: 카라 백자 찻잔 대만 도자기 다기 다도 입문 다구 티룸 티카페
+                            - generic [ref=f120e1863]:
+                              - generic [ref=f120e1864]: 10,000원
+                              - generic [ref=f120e1865]:
+                                - generic [ref=f120e1869]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e1870]:
+                        - generic [ref=f120e1871]:
+                          - link "딥브라운 차선 꽂이 국산 도자기 말차 도구 8,000원 배송비 3,000원" [ref=f120e1872] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/7907124005
+                            - generic [ref=f120e1873]: 상품 바로가기
+                          - generic [ref=f120e1874]:
+                            - img "@딥브라운 차선 꽂이 국산 도자기 말차 도구" [ref=f120e1876]
+                            - button "딥브라운 차선 꽂이 국산 도자기 말차 도구 찜하기" [ref=f120e1877] [cursor=pointer]
+                          - generic [ref=f120e1882]:
+                            - paragraph [ref=f120e1883]: 딥브라운 차선 꽂이 국산 도자기 말차 도구
+                            - generic [ref=f120e1886]:
+                              - generic [ref=f120e1887]: 8,000원
+                              - generic [ref=f120e1888]:
+                                - generic [ref=f120e1892]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=f120e1893]:
+                        - generic [ref=f120e1894]:
+                          - link "수풀로 다완 말차격불 차명상 다도 입문 일본 도자기 다기 다구 22,000원 배송비 3,500원" [ref=f120e1895] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/12815065501
+                            - generic [ref=f120e1896]: 상품 바로가기
+                          - generic [ref=f120e1897]:
+                            - img "@수풀로 다완 말차격불 차명상 다도 입문 일본 도자기 다기 다구" [ref=f120e1899]
+                            - button "수풀로 다완 말차격불 차명상 다도 입문 일본 도자기 다기 다구 찜하기" [ref=f120e1900] [cursor=pointer]
+                          - generic [ref=f120e1905]:
+                            - paragraph [ref=f120e1906]: 수풀로 다완 말차격불 차명상 다도 입문 일본 도자기 다기 다구
+                            - generic [ref=f120e1909]:
+                              - generic [ref=f120e1910]: 22,000원
+                              - generic [ref=f120e1911]:
+                                - generic [ref=f120e1915]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e1916]:
+                        - generic [ref=f120e1917]:
+                          - link "순백 찻잔 품명배 문향배 화이트 미니 티 잔 찻집 티카페 8,000원 배송비 3,000원" [ref=f120e1918] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/5630800049
+                            - generic [ref=f120e1919]: 상품 바로가기
+                          - generic [ref=f120e1920]:
+                            - img "@순백 찻잔 품명배 문향배 화이트 미니 티 잔 찻집 티카페" [ref=f120e1922]
+                            - button "순백 찻잔 품명배 문향배 화이트 미니 티 잔 찻집 티카페 찜하기" [ref=f120e1923] [cursor=pointer]
+                          - generic [ref=f120e1928]:
+                            - paragraph [ref=f120e1929]: 순백 찻잔 품명배 문향배 화이트 미니 티 잔 찻집 티카페
+                            - generic [ref=f120e1932]:
+                              - generic [ref=f120e1933]: 8,000원
+                              - generic [ref=f120e1934]:
+                                - generic [ref=f120e1938]: 배송비
+                                - text: 3,000원
+                  - generic [ref=f120e1940]:
+                    - generic [ref=f120e1941]:
+                      - strong [ref=f120e1942]: 함께 구매하기 좋은 상품
+                      - generic [ref=f120e1943]: 1 / 8
+                    - list [ref=f120e1949]:
+                      - listitem [ref=f120e1950]:
+                        - generic [ref=f120e1951]:
+                          - link "운치 수저세트 숟가락 젓가락 나무 커트러리 혼밥 티푸드 티 오마카세 5,000원 배송비 3,500원" [ref=f120e1952] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/11024261217
+                            - generic [ref=f120e1953]: 상품 바로가기
+                          - generic [ref=f120e1954]:
+                            - img "@운치 수저세트 숟가락 젓가락 나무 커트러리 혼밥 티푸드 티 오마카세" [ref=f120e1956]
+                            - button "운치 수저세트 숟가락 젓가락 나무 커트러리 혼밥 티푸드 티 오마카세 찜하기" [ref=f120e1957] [cursor=pointer]
+                          - generic [ref=f120e1962]:
+                            - paragraph [ref=f120e1963]: 운치 수저세트 숟가락 젓가락 나무 커트러리 혼밥 티푸드 티 오마카세
+                            - generic [ref=f120e1966]:
+                              - generic [ref=f120e1967]: 5,000원
+                              - generic [ref=f120e1968]:
+                                - generic [ref=f120e1972]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e1973]:
+                        - generic [ref=f120e1974]:
+                          - link "다식 포크 요거트 숟가락 아이스크림 스푼 과일 다과 요플레 시리얼 4,000원 15% 할인 3,400원 배송비 3,500원" [ref=f120e1975] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/5408584695
+                            - generic [ref=f120e1976]: 상품 바로가기
+                          - generic [ref=f120e1977]:
+                            - img "@다식 포크 요거트 숟가락 아이스크림 스푼 과일 다과 요플레 시리얼" [ref=f120e1979]
+                            - button "다식 포크 요거트 숟가락 아이스크림 스푼 과일 다과 요플레 시리얼 찜하기" [ref=f120e1980] [cursor=pointer]
+                          - generic [ref=f120e1985]:
+                            - paragraph [ref=f120e1986]: 다식 포크 요거트 숟가락 아이스크림 스푼 과일 다과 요플레 시리얼
+                            - generic [ref=f120e1988]:
+                              - deletion [ref=f120e1989]: 4,000원
+                              - generic [ref=f120e1990]:
+                                - generic [ref=f120e1991]:
+                                  - generic [ref=f120e1992]:
+                                    - text: 15%
+                                    - generic [ref=f120e1993]: 할인
+                                  - generic [ref=f120e1994]: 3,400원
+                                - generic [ref=f120e1995]:
+                                  - generic [ref=f120e1999]: 배송비
+                                  - text: 3,500원
+                      - listitem [ref=f120e2000]:
+                        - generic [ref=f120e2001]:
+                          - link "포슬 유광 종지 초미니 일본도자기 소스 접시 다식 플레이 4,900원 배송비 3,500원" [ref=f120e2002] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/12702033560
+                            - generic [ref=f120e2003]: 상품 바로가기
+                          - generic [ref=f120e2004]:
+                            - img "@포슬 유광 종지 초미니 일본도자기 소스 접시 다식 플레이" [ref=f120e2006]
+                            - button "포슬 유광 종지 초미니 일본도자기 소스 접시 다식 플레이 찜하기" [ref=f120e2007] [cursor=pointer]
+                          - generic [ref=f120e2012]:
+                            - paragraph [ref=f120e2013]: 포슬 유광 종지 초미니 일본도자기 소스 접시 다식 플레이
+                            - generic [ref=f120e2016]:
+                              - generic [ref=f120e2017]: 4,900원
+                              - generic [ref=f120e2018]:
+                                - generic [ref=f120e2022]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2023]:
+                        - generic [ref=f120e2024]:
+                          - link "국내산 대나무 다하 찻잎감상 다구 서버 차칙 다용도 18,000원 5% 할인 17,000원 배송비 3,500원" [ref=f120e2025] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/5870446002
+                            - generic [ref=f120e2026]: 상품 바로가기
+                          - generic [ref=f120e2027]:
+                            - img "@국내산 대나무 다하 찻잎감상 다구 서버 차칙 다용도" [ref=f120e2029]
+                            - button "국내산 대나무 다하 찻잎감상 다구 서버 차칙 다용도 찜하기" [ref=f120e2030] [cursor=pointer]
+                          - generic [ref=f120e2035]:
+                            - paragraph [ref=f120e2036]: 국내산 대나무 다하 찻잎감상 다구 서버 차칙 다용도
+                            - generic [ref=f120e2038]:
+                              - deletion [ref=f120e2039]: 18,000원
+                              - generic [ref=f120e2040]:
+                                - generic [ref=f120e2041]:
+                                  - generic [ref=f120e2042]:
+                                    - text: 5%
+                                    - generic [ref=f120e2043]: 할인
+                                  - generic [ref=f120e2044]: 17,000원
+                                - generic [ref=f120e2045]:
+                                  - generic [ref=f120e2049]: 배송비
+                                  - text: 3,500원
+                      - listitem [ref=f120e2050]:
+                        - generic [ref=f120e2051]:
+                          - link "차분 티매트 다도 러너 혼밥 식사 깔개 브런치 찻집 티카페 차명상 5,000원 배송비 3,500원" [ref=f120e2052] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/11849251477
+                            - generic [ref=f120e2053]: 상품 바로가기
+                          - generic [ref=f120e2054]:
+                            - img "@차분 티매트 다도 러너 혼밥 식사 깔개 브런치 찻집 티카페 차명상" [ref=f120e2056]
+                            - button "차분 티매트 다도 러너 혼밥 식사 깔개 브런치 찻집 티카페 차명상 찜하기" [ref=f120e2057] [cursor=pointer]
+                          - generic [ref=f120e2062]:
+                            - paragraph [ref=f120e2063]: 차분 티매트 다도 러너 혼밥 식사 깔개 브런치 찻집 티카페 차명상
+                            - generic [ref=f120e2066]:
+                              - generic [ref=f120e2067]: 5,000원
+                              - generic [ref=f120e2068]:
+                                - generic [ref=f120e2072]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2073]:
+                        - generic [ref=f120e2074]:
+                          - link "움튼 찻잔 미니 유리 티 잔 다도잔 우롱차 백차 녹차 찻자리 9,500원 배송비 3,500원" [ref=f120e2075] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/12664107112
+                            - generic [ref=f120e2076]: 상품 바로가기
+                          - generic [ref=f120e2077]:
+                            - img "@움튼 찻잔 미니 유리 티 잔 다도잔 우롱차 백차 녹차 찻자리" [ref=f120e2079]
+                            - button "움튼 찻잔 미니 유리 티 잔 다도잔 우롱차 백차 녹차 찻자리 찜하기" [ref=f120e2080] [cursor=pointer]
+                          - generic [ref=f120e2085]:
+                            - paragraph [ref=f120e2086]: 움튼 찻잔 미니 유리 티 잔 다도잔 우롱차 백차 녹차 찻자리
+                            - generic [ref=f120e2089]:
+                              - generic [ref=f120e2090]: 9,500원
+                              - generic [ref=f120e2091]:
+                                - generic [ref=f120e2095]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2096]:
+                        - generic [ref=f120e2097]:
+                          - link "그레이 차선꽂이 국산 도자기 말차 도구 다도 입문 8,000원 배송비 3,000원" [ref=f120e2098] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/8911680479
+                            - generic [ref=f120e2099]: 상품 바로가기
+                          - generic [ref=f120e2100]:
+                            - img "@그레이 차선꽂이 국산 도자기 말차 도구 다도 입문" [ref=f120e2102]
+                            - button "그레이 차선꽂이 국산 도자기 말차 도구 다도 입문 찜하기" [ref=f120e2103] [cursor=pointer]
+                          - generic [ref=f120e2108]:
+                            - paragraph [ref=f120e2109]: 그레이 차선꽂이 국산 도자기 말차 도구 다도 입문
+                            - generic [ref=f120e2112]:
+                              - generic [ref=f120e2113]: 8,000원
+                              - generic [ref=f120e2114]:
+                                - generic [ref=f120e2118]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=f120e2119]:
+                        - generic [ref=f120e2120]:
+                          - link "청포도 유리 다관 1인 2인 소규모 찻자리 캐주얼 다도 입문 티클래스 티룸 26,000원 3% 할인 25,000원 배송비 3,500원" [ref=f120e2121] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/10063210028
+                            - generic [ref=f120e2122]: 상품 바로가기
+                          - generic [ref=f120e2123]:
+                            - img "@청포도 유리 다관 1인 2인 소규모 찻자리 캐주얼 다도 입문 티클래스 티룸" [ref=f120e2125]
+                            - button "청포도 유리 다관 1인 2인 소규모 찻자리 캐주얼 다도 입문 티클래스 티룸 찜하기" [ref=f120e2126] [cursor=pointer]
+                          - generic [ref=f120e2131]:
+                            - paragraph [ref=f120e2132]: 청포도 유리 다관 1인 2인 소규모 찻자리 캐주얼 다도 입문 티클래스 티룸
+                            - generic [ref=f120e2134]:
+                              - deletion [ref=f120e2135]: 26,000원
+                              - generic [ref=f120e2136]:
+                                - generic [ref=f120e2137]:
+                                  - generic [ref=f120e2138]:
+                                    - text: 3%
+                                    - generic [ref=f120e2139]: 할인
+                                  - generic [ref=f120e2140]: 25,000원
+                                - generic [ref=f120e2141]:
+                                  - generic [ref=f120e2145]: 배송비
+                                  - text: 3,500원
+                      - listitem [ref=f120e2146]:
+                        - generic [ref=f120e2147]:
+                          - link "가을로 깊은 종지 일본 도자기 접시 화과자 소스 양갱 떡 간장 그릇 6,000원 배송비 3,500원" [ref=f120e2148] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/12621256665
+                            - generic [ref=f120e2149]: 상품 바로가기
+                          - generic [ref=f120e2150]:
+                            - img "@가을로 깊은 종지 일본 도자기 접시 화과자 소스 양갱 떡 간장 그릇" [ref=f120e2152]
+                            - button "가을로 깊은 종지 일본 도자기 접시 화과자 소스 양갱 떡 간장 그릇 찜하기" [ref=f120e2153] [cursor=pointer]
+                          - generic [ref=f120e2158]:
+                            - paragraph [ref=f120e2159]: 가을로 깊은 종지 일본 도자기 접시 화과자 소스 양갱 떡 간장 그릇
+                            - generic [ref=f120e2162]:
+                              - generic [ref=f120e2163]: 6,000원
+                              - generic [ref=f120e2164]:
+                                - generic [ref=f120e2168]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2169]:
+                        - generic [ref=f120e2170]:
+                          - link "국내산 대나무 다식 및 과일 꽂이 네추럴 다과상 포크 차도구 5,500원 배송비 3,500원" [ref=f120e2171] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/5870510952
+                            - generic [ref=f120e2172]: 상품 바로가기
+                          - generic [ref=f120e2173]:
+                            - img "@국내산 대나무 다식 및 과일 꽂이 네추럴 다과상 포크 차도구" [ref=f120e2175]
+                            - button "국내산 대나무 다식 및 과일 꽂이 네추럴 다과상 포크 차도구 찜하기" [ref=f120e2176] [cursor=pointer]
+                          - generic [ref=f120e2181]:
+                            - paragraph [ref=f120e2182]: 국내산 대나무 다식 및 과일 꽂이 네추럴 다과상 포크 차도구
+                            - generic [ref=f120e2185]:
+                              - generic [ref=f120e2186]: 5,500원
+                              - generic [ref=f120e2187]:
+                                - generic [ref=f120e2191]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2192]:
+                        - generic [ref=f120e2193]:
+                          - link "우드 차시 차침 긁개 다구 차도구 5,000원 배송비 3,500원" [ref=f120e2194] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/6235007932
+                            - generic [ref=f120e2195]: 상품 바로가기
+                          - generic [ref=f120e2196]:
+                            - img "@우드 차시 차침 긁개 다구 차도구" [ref=f120e2198]
+                            - button "우드 차시 차침 긁개 다구 차도구 찜하기" [ref=f120e2199] [cursor=pointer]
+                          - generic [ref=f120e2204]:
+                            - paragraph [ref=f120e2205]: 우드 차시 차침 긁개 다구 차도구
+                            - generic [ref=f120e2208]:
+                              - generic [ref=f120e2209]: 5,000원
+                              - generic [ref=f120e2210]:
+                                - generic [ref=f120e2214]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2215]:
+                        - generic [ref=f120e2216]:
+                          - link "순백 찻잔 품명배 문향배 화이트 미니 티 잔 찻집 티카페 8,000원 배송비 3,000원" [ref=f120e2217] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/5630800049
+                            - generic [ref=f120e2218]: 상품 바로가기
+                          - generic [ref=f120e2219]:
+                            - img "@순백 찻잔 품명배 문향배 화이트 미니 티 잔 찻집 티카페" [ref=f120e2221]
+                            - button "순백 찻잔 품명배 문향배 화이트 미니 티 잔 찻집 티카페 찜하기" [ref=f120e2222] [cursor=pointer]
+                          - generic [ref=f120e2227]:
+                            - paragraph [ref=f120e2228]: 순백 찻잔 품명배 문향배 화이트 미니 티 잔 찻집 티카페
+                            - generic [ref=f120e2231]:
+                              - generic [ref=f120e2232]: 8,000원
+                              - generic [ref=f120e2233]:
+                                - generic [ref=f120e2237]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=f120e2238]:
+                        - generic [ref=f120e2239]:
+                          - link "말차 차시 말차시 차 도구 다도 입문 5,900원 15% 할인 5,000원 배송비 3,000원" [ref=f120e2240] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/7906838025
+                            - generic [ref=f120e2241]: 상품 바로가기
+                          - generic [ref=f120e2242]:
+                            - img "@말차 차시 말차시 차 도구 다도 입문" [ref=f120e2244]
+                            - button "말차 차시 말차시 차 도구 다도 입문 찜하기" [ref=f120e2245] [cursor=pointer]
+                          - generic [ref=f120e2250]:
+                            - paragraph [ref=f120e2251]: 말차 차시 말차시 차 도구 다도 입문
+                            - generic [ref=f120e2253]:
+                              - deletion [ref=f120e2254]: 5,900원
+                              - generic [ref=f120e2255]:
+                                - generic [ref=f120e2256]:
+                                  - generic [ref=f120e2257]:
+                                    - text: 15%
+                                    - generic [ref=f120e2258]: 할인
+                                  - generic [ref=f120e2259]: 5,000원
+                                - generic [ref=f120e2260]:
+                                  - generic [ref=f120e2264]: 배송비
+                                  - text: 3,000원
+                      - listitem [ref=f120e2265]:
+                        - generic [ref=f120e2266]:
+                          - link "대나무 티스트레이너 한국 제작 우드 차거름망 티인퓨저 차 티망 20,000원 15% 할인 17,000원 배송비 3,500원" [ref=f120e2267] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/5298467288
+                            - generic [ref=f120e2268]: 상품 바로가기
+                          - generic [ref=f120e2269]:
+                            - img "@대나무 티스트레이너 한국 제작 우드 차거름망 티인퓨저 차 티망" [ref=f120e2271]
+                            - button "대나무 티스트레이너 한국 제작 우드 차거름망 티인퓨저 차 티망 찜하기" [ref=f120e2272] [cursor=pointer]
+                          - generic [ref=f120e2277]:
+                            - paragraph [ref=f120e2278]: 대나무 티스트레이너 한국 제작 우드 차거름망 티인퓨저 차 티망
+                            - generic [ref=f120e2280]:
+                              - deletion [ref=f120e2281]: 20,000원
+                              - generic [ref=f120e2282]:
+                                - generic [ref=f120e2283]:
+                                  - generic [ref=f120e2284]:
+                                    - text: 15%
+                                    - generic [ref=f120e2285]: 할인
+                                  - generic [ref=f120e2286]: 17,000원
+                                - generic [ref=f120e2287]:
+                                  - generic [ref=f120e2291]: 배송비
+                                  - text: 3,500원
+                      - listitem [ref=f120e2292]:
+                        - generic [ref=f120e2293]:
+                          - link "도자기 수반 이성근 작가 이케바나 꽃꽂이 국내 핸드메이드 20,000원 배송비 3,500원" [ref=f120e2294] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/6823521218
+                            - generic [ref=f120e2295]: 상품 바로가기
+                          - generic [ref=f120e2296]:
+                            - img "@도자기 수반 이성근 작가 이케바나 꽃꽂이 국내 핸드메이드" [ref=f120e2298]
+                            - button "도자기 수반 이성근 작가 이케바나 꽃꽂이 국내 핸드메이드 찜하기" [ref=f120e2299] [cursor=pointer]
+                          - generic [ref=f120e2304]:
+                            - paragraph [ref=f120e2305]: 도자기 수반 이성근 작가 이케바나 꽃꽂이 국내 핸드메이드
+                            - generic [ref=f120e2308]:
+                              - generic [ref=f120e2309]: 20,000원
+                              - generic [ref=f120e2310]:
+                                - generic [ref=f120e2314]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2315]:
+                        - generic [ref=f120e2316]:
+                          - link "밤바다 차선꽂이 국내 제작 도자기 한국 말차 차도구 다기 다구 14,000원 배송비 3,000원" [ref=f120e2317] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/12433646311
+                            - generic [ref=f120e2318]: 상품 바로가기
+                          - generic [ref=f120e2319]:
+                            - img "@밤바다 차선꽂이 국내 제작 도자기 한국 말차 차도구 다기 다구" [ref=f120e2321]
+                            - button "밤바다 차선꽂이 국내 제작 도자기 한국 말차 차도구 다기 다구 찜하기" [ref=f120e2322] [cursor=pointer]
+                          - generic [ref=f120e2327]:
+                            - paragraph [ref=f120e2328]: 밤바다 차선꽂이 국내 제작 도자기 한국 말차 차도구 다기 다구
+                            - generic [ref=f120e2331]:
+                              - generic [ref=f120e2332]: 14,000원
+                              - generic [ref=f120e2333]:
+                                - generic [ref=f120e2337]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=f120e2338]:
+                        - generic [ref=f120e2339]:
+                          - link "들꽃 종지 소스볼 약과 화과자 티푸드 혼밥 식기 일본 도자기 6,500원 배송비 3,500원" [ref=f120e2340] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/11338292287
+                            - generic [ref=f120e2341]: 상품 바로가기
+                          - generic [ref=f120e2342]:
+                            - img "@들꽃 종지 소스볼 약과 화과자 티푸드 혼밥 식기 일본 도자기" [ref=f120e2344]
+                            - button "들꽃 종지 소스볼 약과 화과자 티푸드 혼밥 식기 일본 도자기 찜하기" [ref=f120e2345] [cursor=pointer]
+                          - generic [ref=f120e2350]:
+                            - paragraph [ref=f120e2351]: 들꽃 종지 소스볼 약과 화과자 티푸드 혼밥 식기 일본 도자기
+                            - generic [ref=f120e2354]:
+                              - generic [ref=f120e2355]: 6,500원
+                              - generic [ref=f120e2356]:
+                                - generic [ref=f120e2360]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2361]:
+                        - generic [ref=f120e2362]:
+                          - link "자연그대로 젓가락 대나무 수작업 나무 우드 다식 티테이블 혼밥 일식 8,000원 배송비 3,500원" [ref=f120e2363] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/10175081879
+                            - generic [ref=f120e2364]: 상품 바로가기
+                          - generic [ref=f120e2365]:
+                            - img "@자연그대로 젓가락 대나무 수작업 나무 우드 다식 티테이블 혼밥 일식" [ref=f120e2367]
+                            - button "자연그대로 젓가락 대나무 수작업 나무 우드 다식 티테이블 혼밥 일식 찜하기" [ref=f120e2368] [cursor=pointer]
+                          - generic [ref=f120e2373]:
+                            - paragraph [ref=f120e2374]: 자연그대로 젓가락 대나무 수작업 나무 우드 다식 티테이블 혼밥 일식
+                            - generic [ref=f120e2377]:
+                              - generic [ref=f120e2378]: 8,000원
+                              - generic [ref=f120e2379]:
+                                - generic [ref=f120e2383]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2384]:
+                        - generic [ref=f120e2385]:
+                          - link "도자기 꽃 침봉 친환경 이성근 작가 동양 꽃꽂이 이케바나 10,000원 배송비 3,500원" [ref=f120e2386] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/6823573250
+                            - generic [ref=f120e2387]: 상품 바로가기
+                          - generic [ref=f120e2388]:
+                            - img "@도자기 꽃 침봉 친환경 이성근 작가 동양 꽃꽂이 이케바나" [ref=f120e2390]
+                            - button "도자기 꽃 침봉 친환경 이성근 작가 동양 꽃꽂이 이케바나 찜하기" [ref=f120e2391] [cursor=pointer]
+                          - generic [ref=f120e2396]:
+                            - paragraph [ref=f120e2397]: 도자기 꽃 침봉 친환경 이성근 작가 동양 꽃꽂이 이케바나
+                            - generic [ref=f120e2400]:
+                              - generic [ref=f120e2401]: 10,000원
+                              - generic [ref=f120e2402]:
+                                - generic [ref=f120e2406]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2407]:
+                        - generic [ref=f120e2408]:
+                          - link "국내 우드 차탁 티코스터 찻잔 받침 국산 차도구 다구 8,000원 배송비 3,500원" [ref=f120e2409] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/10568766002
+                            - generic [ref=f120e2410]: 상품 바로가기
+                          - generic [ref=f120e2411]:
+                            - img "@국내 우드 차탁 티코스터 찻잔 받침 국산 차도구 다구" [ref=f120e2413]
+                            - button "국내 우드 차탁 티코스터 찻잔 받침 국산 차도구 다구 찜하기" [ref=f120e2414] [cursor=pointer]
+                          - generic [ref=f120e2419]:
+                            - paragraph [ref=f120e2420]: 국내 우드 차탁 티코스터 찻잔 받침 국산 차도구 다구
+                            - generic [ref=f120e2423]:
+                              - generic [ref=f120e2424]: 8,000원
+                              - generic [ref=f120e2425]:
+                                - generic [ref=f120e2429]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2430]:
+                        - generic [ref=f120e2431]:
+                          - link "티테이블 다붓 양호붓 보이차 자사호 길들이기 홈티룸 14,000원 배송비 3,500원" [ref=f120e2432] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/5664661465
+                            - generic [ref=f120e2433]: 상품 바로가기
+                          - generic [ref=f120e2434]:
+                            - img "@티테이블 다붓 양호붓 보이차 자사호 길들이기 홈티룸" [ref=f120e2436]
+                            - button "티테이블 다붓 양호붓 보이차 자사호 길들이기 홈티룸 찜하기" [ref=f120e2437] [cursor=pointer]
+                          - generic [ref=f120e2442]:
+                            - paragraph [ref=f120e2443]: 티테이블 다붓 양호붓 보이차 자사호 길들이기 홈티룸
+                            - generic [ref=f120e2446]:
+                              - generic [ref=f120e2447]: 14,000원
+                              - generic [ref=f120e2448]:
+                                - generic [ref=f120e2452]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2453]:
+                        - generic [ref=f120e2454]:
+                          - link "에메랄드블루 디저트 볼 미니 종지 그릇 티페어링 다과 플레이팅 9,800원 배송비 3,000원" [ref=f120e2455] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/8849532721
+                            - generic [ref=f120e2456]: 상품 바로가기
+                          - generic [ref=f120e2457]:
+                            - img "@에메랄드블루 디저트 볼 미니 종지 그릇 티페어링 다과 플레이팅" [ref=f120e2459]
+                            - button "에메랄드블루 디저트 볼 미니 종지 그릇 티페어링 다과 플레이팅 찜하기" [ref=f120e2460] [cursor=pointer]
+                          - generic [ref=f120e2465]:
+                            - paragraph [ref=f120e2466]: 에메랄드블루 디저트 볼 미니 종지 그릇 티페어링 다과 플레이팅
+                            - generic [ref=f120e2469]:
+                              - generic [ref=f120e2470]: 9,800원
+                              - generic [ref=f120e2471]:
+                                - generic [ref=f120e2475]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=f120e2476]:
+                        - generic [ref=f120e2477]:
+                          - link "차분 티페어링 접시 일본 도자기 플레이트 5,900원 배송비 3,500원" [ref=f120e2478] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/5363805921
+                            - generic [ref=f120e2479]: 상품 바로가기
+                          - generic [ref=f120e2480]:
+                            - img "@차분 티페어링 접시 일본 도자기 플레이트" [ref=f120e2482]
+                            - button "차분 티페어링 접시 일본 도자기 플레이트 찜하기" [ref=f120e2483] [cursor=pointer]
+                          - generic [ref=f120e2488]:
+                            - paragraph [ref=f120e2489]: 차분 티페어링 접시 일본 도자기 플레이트
+                            - generic [ref=f120e2492]:
+                              - generic [ref=f120e2493]: 5,900원
+                              - generic [ref=f120e2494]:
+                                - generic [ref=f120e2498]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2499]:
+                        - generic [ref=f120e2500]:
+                          - link "쁘띠그린 접시 화과자 떡 플레이팅 납작 종지 소스 티타임 식사 7,900원 배송비 3,500원" [ref=f120e2501] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/10895904019
+                            - generic [ref=f120e2502]: 상품 바로가기
+                          - generic [ref=f120e2503]:
+                            - img "@쁘띠그린 접시 화과자 떡 플레이팅 납작 종지 소스 티타임 식사" [ref=f120e2505]
+                            - button "쁘띠그린 접시 화과자 떡 플레이팅 납작 종지 소스 티타임 식사 찜하기" [ref=f120e2506] [cursor=pointer]
+                          - generic [ref=f120e2511]:
+                            - paragraph [ref=f120e2512]: 쁘띠그린 접시 화과자 떡 플레이팅 납작 종지 소스 티타임 식사
+                            - generic [ref=f120e2515]:
+                              - generic [ref=f120e2516]: 7,900원
+                              - generic [ref=f120e2517]:
+                                - generic [ref=f120e2521]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2522]:
+                        - generic [ref=f120e2523]:
+                          - link "고즈넉 티러너 이중 우드 티매트 티룸 티카페 꾸미기 티테이블 차판 대용 15,000원 20% 할인 12,000원 배송비 3,500원" [ref=f120e2524] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/9552915330
+                            - generic [ref=f120e2525]: 상품 바로가기
+                          - generic [ref=f120e2526]:
+                            - img "@고즈넉 티러너 이중 우드 티매트 티룸 티카페 꾸미기 티테이블 차판 대용" [ref=f120e2528]
+                            - button "고즈넉 티러너 이중 우드 티매트 티룸 티카페 꾸미기 티테이블 차판 대용 찜하기" [ref=f120e2529] [cursor=pointer]
+                          - generic [ref=f120e2534]:
+                            - paragraph [ref=f120e2535]: 고즈넉 티러너 이중 우드 티매트 티룸 티카페 꾸미기 티테이블 차판 대용
+                            - generic [ref=f120e2537]:
+                              - deletion [ref=f120e2538]: 15,000원
+                              - generic [ref=f120e2539]:
+                                - generic [ref=f120e2540]:
+                                  - generic [ref=f120e2541]:
+                                    - text: 20%
+                                    - generic [ref=f120e2542]: 할인
+                                  - generic [ref=f120e2543]: 12,000원
+                                - generic [ref=f120e2544]:
+                                  - generic [ref=f120e2548]: 배송비
+                                  - text: 3,500원
+                      - listitem [ref=f120e2549]:
+                        - generic [ref=f120e2550]:
+                          - link "메리골드 티팟 주전자 꽃차 내열 유리 티포트 홍차 블렌딩티 32,000원 배송비 3,500원" [ref=f120e2551] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/5263674870
+                            - generic [ref=f120e2552]: 상품 바로가기
+                          - generic [ref=f120e2553]:
+                            - img "@메리골드 티팟 주전자 꽃차 내열 유리 티포트 홍차 블렌딩티" [ref=f120e2555]
+                            - button "메리골드 티팟 주전자 꽃차 내열 유리 티포트 홍차 블렌딩티 찜하기" [ref=f120e2556] [cursor=pointer]
+                          - generic [ref=f120e2561]:
+                            - paragraph [ref=f120e2562]: 메리골드 티팟 주전자 꽃차 내열 유리 티포트 홍차 블렌딩티
+                            - generic [ref=f120e2565]:
+                              - generic [ref=f120e2566]: 32,000원
+                              - generic [ref=f120e2567]:
+                                - generic [ref=f120e2571]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2572]:
+                        - generic [ref=f120e2573]:
+                          - link "퓨어샌드 고블렛 디저트 음료 잔 볼 와인 샴페인 브런치 18,000원 배송비 3,000원" [ref=f120e2574] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/9546735677
+                            - generic [ref=f120e2575]: 상품 바로가기
+                          - generic [ref=f120e2576]:
+                            - img "@퓨어샌드 고블렛 디저트 음료 잔 볼 와인 샴페인 브런치" [ref=f120e2578]
+                            - button "퓨어샌드 고블렛 디저트 음료 잔 볼 와인 샴페인 브런치 찜하기" [ref=f120e2579] [cursor=pointer]
+                          - generic [ref=f120e2584]:
+                            - paragraph [ref=f120e2585]: 퓨어샌드 고블렛 디저트 음료 잔 볼 와인 샴페인 브런치
+                            - generic [ref=f120e2588]:
+                              - generic [ref=f120e2589]: 18,000원
+                              - generic [ref=f120e2590]:
+                                - generic [ref=f120e2594]: 배송비
+                                - text: 3,000원
+                      - listitem [ref=f120e2595]:
+                        - generic [ref=f120e2596]:
+                          - link "활짝 핀 유리 찻잔 미니 유리 티 잔 다도 입문 9,000원 배송비 3,500원" [ref=f120e2597] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/7278809155
+                            - generic [ref=f120e2598]: 상품 바로가기
+                          - generic [ref=f120e2599]:
+                            - img "@활짝 핀 유리 찻잔 미니 유리 티 잔 다도 입문" [ref=f120e2601]
+                            - button "활짝 핀 유리 찻잔 미니 유리 티 잔 다도 입문 찜하기" [ref=f120e2602] [cursor=pointer]
+                          - generic [ref=f120e2607]:
+                            - paragraph [ref=f120e2608]: 활짝 핀 유리 찻잔 미니 유리 티 잔 다도 입문
+                            - generic [ref=f120e2611]:
+                              - generic [ref=f120e2612]: 9,000원
+                              - generic [ref=f120e2613]:
+                                - generic [ref=f120e2617]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2618]:
+                        - generic [ref=f120e2619]:
+                          - link "에메랄드블루 계란찜 볼 디저트 볼 한국 제작 도자기 보울 식기 15,000원 배송비 3,500원" [ref=f120e2620] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/12158898851
+                            - generic [ref=f120e2621]: 상품 바로가기
+                          - generic [ref=f120e2622]:
+                            - img "@에메랄드블루 계란찜 볼 디저트 볼 한국 제작 도자기 보울 식기" [ref=f120e2624]
+                            - button "에메랄드블루 계란찜 볼 디저트 볼 한국 제작 도자기 보울 식기 찜하기" [ref=f120e2625] [cursor=pointer]
+                          - generic [ref=f120e2630]:
+                            - paragraph [ref=f120e2631]: 에메랄드블루 계란찜 볼 디저트 볼 한국 제작 도자기 보울 식기
+                            - generic [ref=f120e2634]:
+                              - generic [ref=f120e2635]: 15,000원
+                              - generic [ref=f120e2636]:
+                                - generic [ref=f120e2640]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f120e2641]:
+                        - generic [ref=f120e2642]:
+                          - link "새소리 접시 화과자 티페어링 티 플레이팅 까눌레 반찬 찬기 16,000원 배송비 3,500원" [ref=f120e2643] [cursor=pointer]:
+                            - /url: /thesmallroom1984/products/10634455856
+                            - generic [ref=f120e2644]: 상품 바로가기
+                          - generic [ref=f120e2645]:
+                            - img "@새소리 접시 화과자 티페어링 티 플레이팅 까눌레 반찬 찬기" [ref=f120e2647]
+                            - button "새소리 접시 화과자 티페어링 티 플레이팅 까눌레 반찬 찬기 찜하기" [ref=f120e2648] [cursor=pointer]
+                          - generic [ref=f120e2653]:
+                            - paragraph [ref=f120e2654]: 새소리 접시 화과자 티페어링 티 플레이팅 까눌레 반찬 찬기
+                            - generic [ref=f120e2657]:
+                              - generic [ref=f120e2658]: 16,000원
+                              - generic [ref=f120e2659]:
+                                - generic [ref=f120e2663]: 배송비
+                                - text: 3,500원
+                  - generic [ref=f120e2666]:
+                    - strong [ref=f120e2668]: 다기/주기 인기상품
+                    - list [ref=f120e2674]:
+                      - listitem [ref=f120e2675]
+                      - listitem [ref=f120e2692]
+                      - listitem [ref=f120e2709]
+                      - listitem [ref=f120e2726]
+                  - generic [ref=f120e2745]:
+                    - generic [ref=f120e2746]:
+                      - strong [ref=f120e2747]: 더스몰룸1984 인기상품
+                      - link "전체보기" [ref=f120e2748] [cursor=pointer]:
+                        - /url: /thesmallroom1984/category/ALL
+                    - list [ref=f120e2756]:
+                      - listitem [ref=f120e2757]
+                      - listitem [ref=f120e2774]
+                      - listitem [ref=f120e2791]
+                      - listitem [ref=f120e2808]
+                  - generic [ref=f120e2827]:
+                    - list [ref=f120e2829]:
+                      - listitem [ref=f120e2830]
+                      - listitem [ref=f120e2832]
+                      - listitem [ref=f120e2834]
+                      - listitem [ref=f120e2836]
+                    - tabpanel [ref=f120e2838]:
+                      - list [ref=f120e2843]:
+                        - listitem [ref=f120e2844]
+                        - listitem [ref=f120e2861]
+                        - listitem [ref=f120e2878]
+                        - listitem [ref=f120e2895]
+                - generic [ref=f120e2914]:
+                  - list [ref=f120e2915]:
+                    - listitem [ref=f120e2916]:
+                      - button "구매 추가정보" [ref=f120e2917] [cursor=pointer]
+                    - listitem [ref=f120e2920]:
+                      - button "상품정보 제공고시" [ref=f120e2921] [cursor=pointer]
+                    - listitem [ref=f120e2924]:
+                      - button "반품/교환안내" [ref=f120e2925] [cursor=pointer]
+                    - listitem [ref=f120e2928]:
+                      - button "판매자정보" [ref=f120e2929] [cursor=pointer]
+                    - listitem [ref=f120e2932]:
+                      - button "주의사항" [ref=f120e2933] [cursor=pointer]
+                    - listitem [ref=f120e2936]:
+                      - link "쇼핑 안전거래 TIP" [ref=f120e2937] [cursor=pointer]:
+                        - /url: https://safety.smartstore.naver.com/main/rules/safety/tip
+                    - listitem [ref=f120e2940]:
+                      - button "상품정보 신고" [ref=f120e2941] [cursor=pointer]
+                  - generic [ref=f120e2944]:
+                    - generic [ref=f120e2945]: 네이버파이낸셜
+                    - generic [ref=f120e2946]: "결제대금예치업 등록번호 : 02-006-00056"
+                    - paragraph [ref=f120e2947]: 네이버파이낸셜㈜은 전자금융거래법에 따라 결제대금예치업을 운영할 수 있는 전자금융업자로 금융위원회로 등록되었으며, 본 판매자는 구매금액, 결제수단에 관계없이 모든 거래에 대해 자동적으로 네이버파이낸셜㈜이 제공하는 구매안전서비스를 적용하고 있습니다.
+                    - button "서비스 가입사실 확인" [ref=f120e2948] [cursor=pointer]
+                    - button "도움말" [ref=f120e2950] [cursor=pointer]
+                  - generic [ref=f120e2955]:
+                    - generic [ref=f120e2956]:
+                      - term [ref=f120e2957]: 상호명
+                      - definition [ref=f120e2958]: 더스몰룸1984 (개인 사업자)
+                    - generic [ref=f120e2959]:
+                      - term [ref=f120e2960]: 대표자
+                      - definition [ref=f120e2961]:
+                        - text: 장세아
+                        - button "판매자 상세정보 확인" [ref=f120e2962] [cursor=pointer]
+                        - button "판매자 개인정보 처리방침" [ref=f120e2965] [cursor=pointer]
+            - generic [ref=f120e2969]:
+              - generic [ref=f120e2970]:
+                - button "공유하기" [ref=f120e2977] [cursor=pointer]
+                - button [ref=f120e2980] [cursor=pointer]:
+                  - img "맨위로" [ref=f120e2981]
+              - generic [ref=f120e2983]:
+                - generic [ref=f120e2984]: 상품 구매 옵션
+                - generic [ref=f120e2985]:
+                  - generic [ref=f120e2988]:
+                    - generic [ref=f120e2989]: 옵션 선택 (필수) *
+                    - button "컬러" [ref=f120e2992] [cursor=pointer]
+                  - generic [ref=f120e2996]:
+                    - strong [ref=f120e2997]: 배송정보
+                    - generic [ref=f120e2998]:
+                      - generic [ref=f120e2999]: 택배
+                      - generic [ref=f120e3000]: 3,500원 주문 시 결제
+                      - generic [ref=f120e3001]: 80,000원 이상 구매 시 무료 / 제주 추가 3,000원, 제주 외 도서지역 추가 5,000원
+              - generic [ref=f120e3002]:
+                - generic [ref=f120e3003]:
+                  - button "선물하기" [ref=f120e3004] [cursor=pointer]
+                  - button "구매하기" [ref=f120e3011] [cursor=pointer]
+                - generic [ref=f120e3014]:
+                  - button "찜 하기" [ref=f120e3015] [cursor=pointer]:
+                    - text: 찜
+                    - generic [ref=f120e3018]: 하기
+                  - button "톡톡문의" [ref=f120e3019] [cursor=pointer]
+                  - button "장바구니" [ref=f120e3023] [cursor=pointer]
+      - generic [ref=f120e3031]:
+        - heading "하위영역" [level=2] [ref=f120e3032]
+        - generic [ref=f120e3033]:
+          - link "네이버 이용약관" [ref=f120e3034] [cursor=pointer]:
+            - /url: http://www.naver.com/rules/service.html
+          - link "네이버페이 이용약관" [ref=f120e3035] [cursor=pointer]:
+            - /url: https://new-m.pay.naver.com/member/terms-policy/npay-usage
+          - link [ref=f120e3036] [cursor=pointer]:
+            - /url: http://www.naver.com/rules/privacy.html
+            - strong [ref=f120e3037]: 개인정보처리방침
+          - link "법적고지 및 주의사항" [ref=f120e3038] [cursor=pointer]:
+            - /url: https://shopping.naver.com/help/legal-basis
+          - link "입점안내" [ref=f120e3039] [cursor=pointer]:
+            - /url: http://join.shopping.naver.com/index.nhn
+          - link "쇼핑윈도 노출안내" [ref=f120e3040] [cursor=pointer]:
+            - /url: https://sell.smartstore.naver.com/#/home/about?tipModal=WINDOW_EXPOSURE&tap=smartstore
+          - link "쇼핑파트너센터" [ref=f120e3041] [cursor=pointer]:
+            - /url: https://center.shopping.naver.com/
+          - link "스마트스토어센터" [ref=f120e3042] [cursor=pointer]:
+            - /url: https://sell.storefarm.naver.com/#/home/about
+          - link "안전거래센터" [ref=f120e3043] [cursor=pointer]:
+            - /url: https://safety.shopping.naver.com
+          - link "전자금융거래약관" [ref=f120e3044] [cursor=pointer]:
+            - /url: https://new-m.pay.naver.com/member/terms-policy/finance
+          - link "쇼핑&페이 고객센터" [ref=f120e3045] [cursor=pointer]:
+            - /url: https://help.pay.naver.com/
+        - paragraph [ref=f120e3046]: 네이버㈜는 통신판매중개자이며, 통신판매의 당사자가 아닙니다. 상품, 상품정보, 거래에 관한 의무와 책임은 판매자에게 있습니다.
+        - generic [ref=f120e3047]:
+          - generic [ref=f120e3048]:
+            - generic [ref=f120e3049]: "사업자등록번호 : 220-81-62517"
+            - generic [ref=f120e3050]: "통신판매업신고번호 : 제2006-경기성남-0692호"
+            - generic [ref=f120e3051]: "대표이사 : 최수연"
+            - link "사업자등록정보확인" [ref=f120e3052] [cursor=pointer]:
+              - /url: http://www.ftc.go.kr/bizCommPop.do?wrkr_no=2208162517
+            - generic [ref=f120e3053]:
+              - text: "이메일 :"
+              - link "helpcustomer@naver.com" [ref=f120e3054] [cursor=pointer]:
+                - /url: mailto:helpcustomer@naver.com
+          - generic [ref=f120e3055]:
+            - generic [ref=f120e3056]: "주소 : 경기도 성남시 분당구 정자일로 95, NAVER 1784, 13561"
+            - link [ref=f120e3058] [cursor=pointer]:
+              - /url: https://help.pay.naver.com/mail/form.help
+              - strong [ref=f120e3059]: 1:1 문의 바로가기
+            - generic [ref=f120e3060]: "호스팅 서비스 제공 : NAVER Cloud"
+          - generic [ref=f120e3061]:
+            - generic [ref=f120e3062]: 쇼핑&페이 구매자 고객센터 1588-3819
+            - generic [ref=f120e3063]: 네이버 대표전화 1588-3820
+            - generic [ref=f120e3064]: 네이버플러스 멤버십 전용 고객센터 1599-1399
+        - paragraph [ref=f120e3065]:
+          - link "NAVER" [ref=f120e3066] [cursor=pointer]:
+            - /url: http://www.naver.com
+          - text: Copyright ©
+          - strong [ref=f120e3068]:
+            - link "NAVER Corp." [ref=f120e3069] [cursor=pointer]:
+              - /url: http://www.navercorp.com/ko/index.nhn
+          - text: All Rights Reserved.

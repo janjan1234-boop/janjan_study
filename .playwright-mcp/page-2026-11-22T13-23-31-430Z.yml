@@ -1,0 +1,2682 @@
+- generic [ref=f42e3]:
+  - dialog "리뷰 20" [ref=f42e3326]:
+    - generic [ref=f42e3327]:
+      - generic [ref=f42e3328]:
+        - strong [ref=f42e3331]: 리뷰 20
+        - generic [ref=f42e3334]:
+          - generic [ref=f42e3336]:
+            - generic [ref=f42e3337]:
+              - strong [ref=f42e3338]:
+                - generic [ref=f42e3341]: 평점
+                - text: "4.95"
+              - generic [ref=f42e3342]:
+                - text: (
+                - button "최근 6개월 평점 5.0" [ref=f42e3343] [cursor=pointer]
+                - button "도움말" [ref=f42e3345] [cursor=pointer]
+                - text: )
+            - list [ref=f42e3350]:
+              - listitem [ref=f42e3351]:
+                - emphasis [ref=f42e3352]: 디자인
+                - generic [ref=f42e3353]:
+                  - generic [ref=f42e3354]: 마음에 들어요
+                  - generic [ref=f42e3355]: 85%
+              - listitem [ref=f42e3356]:
+                - emphasis [ref=f42e3357]: 내구성
+                - generic [ref=f42e3358]:
+                  - generic [ref=f42e3359]: 튼튼해요
+                  - generic [ref=f42e3360]: 90%
+              - listitem [ref=f42e3361]:
+                - emphasis [ref=f42e3362]: 크기
+                - generic [ref=f42e3363]:
+                  - generic [ref=f42e3364]: 딱 좋아요
+                  - generic [ref=f42e3365]: 75%
+            - button "평점 비율 보기" [ref=f42e3367] [cursor=pointer]
+          - generic [ref=f42e3371]:
+            - strong [ref=f42e3373]: 포토&동영상 19
+            - list [ref=f42e3374]:
+              - listitem [ref=f42e3375]:
+                - link [ref=f42e3376] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f42e3377]
+              - listitem [ref=f42e3378]:
+                - link [ref=f42e3379] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f42e3380]
+              - listitem [ref=f42e3381]:
+                - link [ref=f42e3382] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f42e3383]
+              - listitem [ref=f42e3384]:
+                - link [ref=f42e3385] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f42e3386]
+              - listitem [ref=f42e3387]:
+                - link [ref=f42e3388] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f42e3389]
+              - listitem [ref=f42e3390]:
+                - link [ref=f42e3391] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f42e3392]
+              - listitem [ref=f42e3393]:
+                - link [ref=f42e3394] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f42e3395]
+              - listitem [ref=f42e3396]:
+                - link [ref=f42e3397] [cursor=pointer]:
+                  - /url: "#"
+                  - img "포토/동영상 리뷰 썸네일 이미지" [ref=f42e3398]
+                  - generic [ref=f42e3399]:
+                    - text: 더보기
+                    - generic [ref=f42e3400]: "12"
+          - generic [ref=f42e3403]:
+            - generic [ref=f42e3404]:
+              - strong [ref=f42e3405]: 리뷰 20
+              - generic [ref=f42e3406]:
+                - button "리뷰 제공 기준" [ref=f42e3407] [cursor=pointer]
+                - button "도움말" [ref=f42e3409] [cursor=pointer]
+            - generic [ref=f42e3415]:
+              - generic [ref=f42e3416]:
+                - generic [ref=f42e3422]:
+                  - button "AI 리뷰요약" [ref=f42e3423] [cursor=pointer]
+                  - button "도움말" [ref=f42e3427] [cursor=pointer]
+                - list [ref=f42e3437]:
+                  - button "귀여워요" [ref=f42e3438] [cursor=pointer]
+                  - button "힐링돼요" [ref=f42e3439] [cursor=pointer]
+                  - button "아이가 좋아해요" [ref=f42e3440] [cursor=pointer]
+                  - button "디테일이 좋아요" [ref=f42e3441] [cursor=pointer]
+                  - button "휴대하기 좋아요" [ref=f42e3442] [cursor=pointer]
+                  - button "최고에요" [ref=f42e3443] [cursor=pointer]
+                  - button "재구매하고 싶어요" [ref=f42e3444] [cursor=pointer]
+                  - button "만족스러워요" [ref=f42e3445] [cursor=pointer]
+                  - button "크기가 적당해요" [ref=f42e3446] [cursor=pointer]
+                  - button "포장이 꼼꼼해요" [ref=f42e3447] [cursor=pointer]
+                - generic [aria-hidden]:
+                  - generic:
+                    - list:
+                      - button: 귀여워요
+                      - button: 힐링돼요
+                      - button: 아이가 좋아해요
+                      - button: 디테일이 좋아요
+                      - button: 휴대하기 좋아요
+                      - button: 최고에요
+                      - button: 재구매하고 싶어요
+                      - button: 만족스러워요
+                      - button: 크기가 적당해요
+                      - button: 포장이 꼼꼼해요
+              - generic [ref=f42e3449]:
+                - list [ref=f42e3450]:
+                  - listitem [ref=f42e3451]:
+                    - button "전체" [ref=f42e3452] [cursor=pointer]
+                - radiogroup "리뷰 정렬 기준 선택" [ref=f42e3455]:
+                  - radio "랭킹순 정렬하기" [checked] [ref=f42e3456] [cursor=pointer]:
+                    - text: 랭킹순
+                    - generic [ref=f42e3457]: 정렬하기
+                  - button "도움말" [ref=f42e3459] [cursor=pointer]
+                  - radio "최신순 정렬하기" [ref=f42e3464] [cursor=pointer]:
+                    - text: 최신순
+                    - generic [ref=f42e3465]: 정렬하기
+                  - radio "평점 높은순 정렬하기" [ref=f42e3466] [cursor=pointer]:
+                    - text: 평점 높은순
+                    - generic [ref=f42e3467]: 정렬하기
+                  - radio "평점 낮은순 정렬하기" [ref=f42e3468] [cursor=pointer]:
+                    - text: 평점 낮은순
+                    - generic [ref=f42e3469]: 정렬하기
+            - generic [ref=f42e3470]:
+              - button [ref=f42e3472] [cursor=pointer]:
+                - strong [ref=f42e3480]: 리뷰 클렌징 시스템
+                - text: 작동 중입니다.
+              - list [ref=f42e3486]:
+                - listitem [ref=f42e3487]:
+                  - generic [ref=f42e3488]:
+                    - generic [ref=f42e3492]:
+                      - generic [ref=f42e3493]: "5"
+                      - generic [ref=f42e3496]:
+                        - generic [ref=f42e3497]: july******
+                        - generic [ref=f42e3498]: 26.11.15.
+                        - button "신고" [ref=f42e3499] [cursor=pointer]
+                    - generic [ref=f42e3500]:
+                      - generic [ref=f42e3501]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f42e3504]:
+                        - paragraph [ref=f42e3505]: 친구에게 선물로 줬는데 마음에 들어해요 ㅎㅎ 아주 귀여운 차친구인 것 같습니다~ 디테일도 좋어요
+                        - link "디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 친구에게 선물로 줬는데 마음에 들어해요 ㅎㅎ 아주 귀여운 차친구인 것 같습니다~ 디테일도 좋어요" [ref=f42e3506] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e3507]: 더보기
+                      - list [ref=f42e3511]:
+                        - listitem [ref=f42e3512]:
+                          - generic [ref=f42e3513]:
+                            - img "review_image" [ref=f42e3514]
+                            - link "이미지 펼치기" [ref=f42e3515] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e3516]
+                    - generic [ref=f42e3521]:
+                      - generic [ref=f42e3522]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e3523] [cursor=pointer]
+                - listitem [ref=f42e3526]:
+                  - generic [ref=f42e3527]:
+                    - generic [ref=f42e3531]:
+                      - generic [ref=f42e3532]:
+                        - text: "5"
+                        - emphasis [ref=f42e3536]: 한달사용
+                      - generic [ref=f42e3537]:
+                        - generic [ref=f42e3538]: babm*****
+                        - generic [ref=f42e3539]: 26.08.18.
+                        - button "신고" [ref=f42e3540] [cursor=pointer]
+                    - generic [ref=f42e3541]:
+                      - generic [ref=f42e3542]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                      - generic [ref=f42e3545]:
+                        - paragraph [ref=f42e3546]: 너무 귀엽고 차시간이 기다려집니다
+                        - link "디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요 너무 귀엽고 차시간이 기다려집니다" [ref=f42e3547] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e3548]: 더보기
+                      - list [ref=f42e3552]:
+                        - listitem [ref=f42e3553]:
+                          - generic [ref=f42e3554]:
+                            - img "review_image" [ref=f42e3555]
+                            - link "이미지 펼치기" [ref=f42e3556] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e3557]
+                    - generic [ref=f42e3562]:
+                      - generic [ref=f42e3563]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e3564] [cursor=pointer]
+                  - button "이 구매자의 처음 리뷰 보기" [ref=f42e3568] [cursor=pointer]
+                - listitem [ref=f42e3571]:
+                  - generic [ref=f42e3572]:
+                    - generic [ref=f42e3576]:
+                      - generic [ref=f42e3577]: "5"
+                      - generic [ref=f42e3580]:
+                        - generic [ref=f42e3581]: wpis***
+                        - generic [ref=f42e3582]: 26.07.07.
+                        - button "신고" [ref=f42e3583] [cursor=pointer]
+                    - generic [ref=f42e3584]:
+                      - generic [ref=f42e3585]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f42e3588]:
+                        - paragraph [ref=f42e3589]: 사이즈도 적당하고 더 즐거운 찻자리가 될것 같습니다
+                        - link "디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 사이즈도 적당하고 더 즐거운 찻자리가 될것 같습니다" [ref=f42e3590] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e3591]: 더보기
+                      - list [ref=f42e3595]:
+                        - listitem [ref=f42e3596]:
+                          - generic [ref=f42e3597]:
+                            - img "review_image" [ref=f42e3598]
+                            - link "이미지 펼치기" [ref=f42e3599] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e3600]
+                    - generic [ref=f42e3605]:
+                      - generic [ref=f42e3606]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e3607] [cursor=pointer]
+                - listitem [ref=f42e3610]:
+                  - generic [ref=f42e3611]:
+                    - generic [ref=f42e3615]:
+                      - generic [ref=f42e3616]: "5"
+                      - generic [ref=f42e3619]:
+                        - generic [ref=f42e3620]: babm*****
+                        - generic [ref=f42e3621]: 26.06.15.
+                        - button "신고" [ref=f42e3622] [cursor=pointer]
+                    - generic [ref=f42e3623]:
+                      - generic [ref=f42e3624]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                      - generic [ref=f42e3627]:
+                        - paragraph [ref=f42e3628]: 귀엽고 귀엽습니다 포장진짜 꼼꼼해요
+                        - link "디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요 귀엽고 귀엽습니다 포장진짜 꼼꼼해요" [ref=f42e3629] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e3630]: 더보기
+                      - list [ref=f42e3634]:
+                        - listitem [ref=f42e3635]:
+                          - generic [ref=f42e3636]:
+                            - img "review_image" [ref=f42e3637]
+                            - link "이미지 펼치기" [ref=f42e3638] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e3639]
+                    - generic [ref=f42e3644]:
+                      - generic [ref=f42e3645]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e3646] [cursor=pointer]
+                - listitem [ref=f42e3649]:
+                  - generic [ref=f42e3650]:
+                    - generic [ref=f42e3654]:
+                      - generic [ref=f42e3655]:
+                        - text: "5"
+                        - emphasis [ref=f42e3659]: 한달사용
+                      - generic [ref=f42e3660]:
+                        - generic [ref=f42e3661]: suyo*******
+                        - generic [ref=f42e3662]: 26.05.20.
+                        - button "신고" [ref=f42e3663] [cursor=pointer]
+                    - generic [ref=f42e3664]:
+                      - generic [ref=f42e3665]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f42e3668]:
+                        - paragraph [ref=f42e3669]: 너무 귀여운 코끼리 차총이에요! 코끼리지만 미니한 사이즈라 더 마음에 들어요!
+                        - link "디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 너무 귀여운 코끼리 차총이에요! 코끼리지만 미니한 사이즈라 더 마음에 들어요!" [ref=f42e3670] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e3671]: 더보기
+                      - list [ref=f42e3675]:
+                        - listitem [ref=f42e3676]:
+                          - generic [ref=f42e3677]:
+                            - img "review_image" [ref=f42e3678]
+                            - link "이미지 펼치기" [ref=f42e3679] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e3680]
+                    - generic [ref=f42e3685]:
+                      - generic [ref=f42e3686]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e3687] [cursor=pointer]
+                  - button "이 구매자의 처음 리뷰 보기" [ref=f42e3691] [cursor=pointer]
+                - listitem [ref=f42e3694]:
+                  - generic [ref=f42e3695]:
+                    - generic [ref=f42e3699]:
+                      - generic [ref=f42e3700]: "5"
+                      - generic [ref=f42e3703]:
+                        - generic [ref=f42e3704]: suyo*******
+                        - generic [ref=f42e3705]: 26.04.19.
+                        - button "신고" [ref=f42e3706] [cursor=pointer]
+                    - generic [ref=f42e3707]:
+                      - generic [ref=f42e3708]: 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요
+                      - generic [ref=f42e3711]:
+                        - paragraph [ref=f42e3712]: 귀여운 아기 코끼리! 사이즈가 작아서 너무 귀여워요. 앉아있는 자세가 포인트에요. 마음에 듭니다! 배송도 빠르고 판매자님이 중간 중간 배송 상황을 알려주셔서 너무 좋았습니다~
+                        - link "디자인마음에 들어요 크기딱 좋아요 내구성보통이에요 귀여운 아기 코끼리! 사이즈가 작아서 너무 귀여워요. 앉아있는 자세가 포인트에요. 마음에 듭니다! 배송도 빠르고 판매자님이 중간 중간 배송 상황을 알려주셔서 너무 좋았습니다~" [ref=f42e3713] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e3714]: 더보기
+                      - list [ref=f42e3718]:
+                        - listitem [ref=f42e3719]:
+                          - generic [ref=f42e3720]:
+                            - img "review_image" [ref=f42e3721]
+                            - link "이미지 펼치기" [ref=f42e3722] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e3723]
+                    - generic [ref=f42e3728]:
+                      - generic [ref=f42e3729]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e3730] [cursor=pointer]
+                - listitem [ref=f42e3733]:
+                  - generic [ref=f42e3734]:
+                    - generic [ref=f42e3738]:
+                      - generic [ref=f42e3739]: "5"
+                      - generic [ref=f42e3742]:
+                        - generic [ref=f42e3743]: rabb********
+                        - generic [ref=f42e3744]: 26.06.05.
+                        - button "신고" [ref=f42e3745] [cursor=pointer]
+                    - generic [ref=f42e3746]:
+                      - generic [ref=f42e3747]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - paragraph [ref=f42e3751]: 앙증맞은 코끼리 차 한 마시며 귀여운 아이들 보며 힐링합니다
+                    - generic [ref=f42e3753]:
+                      - generic [ref=f42e3754]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e3755] [cursor=pointer]
+                - listitem [ref=f42e3758]:
+                  - generic [ref=f42e3759]:
+                    - generic [ref=f42e3763]:
+                      - generic [ref=f42e3764]: "5"
+                      - generic [ref=f42e3767]:
+                        - generic [ref=f42e3768]: macu****
+                        - generic [ref=f42e3769]: 26.04.22.
+                        - button "신고" [ref=f42e3770] [cursor=pointer]
+                    - generic [ref=f42e3771]:
+                      - generic [ref=f42e3772]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f42e3775]:
+                        - paragraph [ref=f42e3776]: 귀엽다고 난리난리~ 차총내칭구~차마실때 소곤소곤댈게요~^^♡
+                        - link "디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 귀엽다고 난리난리~ 차총내칭구~차마실때 소곤소곤댈게요~^^♡" [ref=f42e3777] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e3778]: 더보기
+                      - list [ref=f42e3782]:
+                        - listitem [ref=f42e3783]:
+                          - generic [ref=f42e3784]:
+                            - img "review_image" [ref=f42e3785]
+                            - link "이미지 펼치기" [ref=f42e3786] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e3787]
+                    - generic [ref=f42e3792]:
+                      - generic [ref=f42e3793]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e3794] [cursor=pointer]
+                - listitem [ref=f42e3797]:
+                  - generic [ref=f42e3798]:
+                    - generic [ref=f42e3802]:
+                      - generic [ref=f42e3803]: "5"
+                      - generic [ref=f42e3806]:
+                        - generic [ref=f42e3807]: umme****
+                        - generic [ref=f42e3808]: 26.02.05.
+                        - button "신고" [ref=f42e3809] [cursor=pointer]
+                    - generic [ref=f42e3810]:
+                      - generic [ref=f42e3811]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                      - generic [ref=f42e3814]:
+                        - paragraph [ref=f42e3815]: 너무 귀여워요. 비싸서 망설였지만 진짜 가치가 있고 귀요미. 힐링이에요. 아이가 탐냅니다. 최고에용. 다른 것도 사거싶네요.
+                        - link "디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요 너무 귀여워요. 비싸서 망설였지만 진짜 가치가 있고 귀요미. 힐링이에요. 아이가 탐냅니다. 최고에용. 다른 것도 사거싶네요." [ref=f42e3816] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e3817]: 더보기
+                      - list [ref=f42e3821]:
+                        - listitem [ref=f42e3822]:
+                          - generic [ref=f42e3823]:
+                            - img "review_image" [ref=f42e3824]
+                            - link "이미지 펼치기" [ref=f42e3825] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e3826]
+                    - generic [ref=f42e3831]:
+                      - generic [ref=f42e3832]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e3833] [cursor=pointer]
+                - listitem [ref=f42e3836]:
+                  - generic [ref=f42e3837]:
+                    - generic [ref=f42e3841]:
+                      - generic [ref=f42e3842]: "5"
+                      - generic [ref=f42e3845]:
+                        - generic [ref=f42e3846]: ggae****
+                        - generic [ref=f42e3847]: 26.02.12.
+                        - button "신고" [ref=f42e3848] [cursor=pointer]
+                    - generic [ref=f42e3849]:
+                      - generic [ref=f42e3850]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f42e3853]:
+                        - paragraph [ref=f42e3854]: 너모너모 귀여워여 잘 사용할게요
+                        - link "디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 너모너모 귀여워여 잘 사용할게요" [ref=f42e3855] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e3856]: 더보기
+                      - list [ref=f42e3860]:
+                        - listitem [ref=f42e3861]:
+                          - generic [ref=f42e3862]:
+                            - img "review_image" [ref=f42e3863]
+                            - link "이미지 펼치기" [ref=f42e3864] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e3865]
+                    - generic [ref=f42e3870]:
+                      - generic [ref=f42e3871]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e3872] [cursor=pointer]
+                - listitem [ref=f42e3875]:
+                  - generic [ref=f42e3876]:
+                    - generic [ref=f42e3880]:
+                      - generic [ref=f42e3881]: "5"
+                      - generic [ref=f42e3884]:
+                        - generic [ref=f42e3885]: y7****
+                        - generic [ref=f42e3886]: 25.12.28.
+                        - button "신고" [ref=f42e3887] [cursor=pointer]
+                    - generic [ref=f42e3888]:
+                      - generic [ref=f42e3889]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f42e3892]:
+                        - paragraph [ref=f42e3893]: 너무 귀여워요 차 마실 맛이 납니다 감사합니다 ~^^
+                        - link "디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 너무 귀여워요 차 마실 맛이 납니다 감사합니다 ~^^" [ref=f42e3894] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e3895]: 더보기
+                      - list [ref=f42e3899]:
+                        - listitem [ref=f42e3900]:
+                          - generic [ref=f42e3901]:
+                            - img "review_image" [ref=f42e3902]
+                            - emphasis [ref=f42e3903]:
+                              - generic [ref=f42e3906]: 동영상컨텐츠
+                            - link "이미지 펼치기" [ref=f42e3907] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e3908]
+                    - generic [ref=f42e3913]:
+                      - generic [ref=f42e3914]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e3915] [cursor=pointer]
+                - listitem [ref=f42e3918]:
+                  - generic [ref=f42e3919]:
+                    - generic [ref=f42e3923]:
+                      - generic [ref=f42e3924]: "5"
+                      - generic [ref=f42e3927]:
+                        - generic [ref=f42e3928]: lake****
+                        - generic [ref=f42e3929]: 25.12.23.
+                        - button "신고" [ref=f42e3930] [cursor=pointer]
+                    - generic [ref=f42e3931]:
+                      - generic [ref=f42e3932]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f42e3935]:
+                        - paragraph [ref=f42e3936]: 너무 귀여워요 뚱띠..
+                        - link "디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 너무 귀여워요 뚱띠.." [ref=f42e3937] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e3938]: 더보기
+                      - list [ref=f42e3945]:
+                        - listitem [ref=f42e3946]:
+                          - generic [ref=f42e3947]:
+                            - img "IMG_4160.jpeg" [ref=f42e3948]
+                            - link "이미지 펼치기" [ref=f42e3949] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e3950]
+                        - listitem [ref=f42e3954]:
+                          - generic [ref=f42e3955]:
+                            - img "IMG_4159.jpeg" [ref=f42e3956]
+                            - link "이미지 펼치기" [ref=f42e3957] [cursor=pointer]:
+                              - /url: "#"
+                    - generic [ref=f42e3960]:
+                      - generic [ref=f42e3961]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e3962] [cursor=pointer]
+                - listitem [ref=f42e3965]:
+                  - generic [ref=f42e3966]:
+                    - generic [ref=f42e3970]:
+                      - generic [ref=f42e3971]: "5"
+                      - generic [ref=f42e3974]:
+                        - generic [ref=f42e3975]: nabi****
+                        - generic [ref=f42e3976]: 25.11.22.
+                        - button "신고" [ref=f42e3977] [cursor=pointer]
+                    - generic [ref=f42e3978]:
+                      - generic [ref=f42e3979]: 디자인보통이에요 크기생각보다 커요 내구성튼튼해요
+                      - generic [ref=f42e3982]:
+                        - paragraph [ref=f42e3983]: 차생활을 본격적으로 시작하며 자사호만큼 애정이 가네요. 귀엽고 생각보다 정교합니다.
+                        - link "디자인보통이에요 크기생각보다 커요 내구성튼튼해요 차생활을 본격적으로 시작하며 자사호만큼 애정이 가네요. 귀엽고 생각보다 정교합니다." [ref=f42e3984] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e3985]: 더보기
+                      - list [ref=f42e3989]:
+                        - listitem [ref=f42e3990]:
+                          - generic [ref=f42e3991]:
+                            - img "review_image" [ref=f42e3992]
+                            - link "이미지 펼치기" [ref=f42e3993] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e3994]
+                    - generic [ref=f42e3999]:
+                      - generic [ref=f42e4000]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e4001] [cursor=pointer]
+                - listitem [ref=f42e4004]:
+                  - generic [ref=f42e4005]:
+                    - generic [ref=f42e4009]:
+                      - generic [ref=f42e4010]: "5"
+                      - generic [ref=f42e4013]:
+                        - generic [ref=f42e4014]: kih1*******
+                        - generic [ref=f42e4015]: 25.09.12.
+                        - button "신고" [ref=f42e4016] [cursor=pointer]
+                    - generic [ref=f42e4017]:
+                      - generic [ref=f42e4018]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f42e4021]:
+                        - paragraph [ref=f42e4022]: 보자마자 너무 귀여워서 탄성을 질렀잖아용! 근데 통관까지해야하는거라 배송이 꽤 걸리네요 ㅠㅠ 그래도 중간중간 통관이 언제되었고 연락까지 잘 해주셔서 감사합니다. 기다리길 정말 잘한 제품 짱짱 >_<
+                        - link "디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 보자마자 너무 귀여워서 탄성을 질렀잖아용! 근데 통관까지해야하는거라 배송이 꽤 걸리네요 ㅠㅠ 그래도 중간중간 통관이 언제되었고 연락까지 잘 해주셔서 감사합니다. 기다리길 정말 잘한 제품 짱짱 >_<" [ref=f42e4023] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4024]: 더보기
+                      - list [ref=f42e4031]:
+                        - listitem [ref=f42e4032]:
+                          - generic [ref=f42e4033]:
+                            - img "2.jpg" [ref=f42e4034]
+                            - link "이미지 펼치기" [ref=f42e4035] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e4036]
+                        - listitem [ref=f42e4040]:
+                          - generic [ref=f42e4041]:
+                            - img "1.JPG" [ref=f42e4042]
+                            - link "이미지 펼치기" [ref=f42e4043] [cursor=pointer]:
+                              - /url: "#"
+                    - generic [ref=f42e4046]:
+                      - generic [ref=f42e4047]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e4048] [cursor=pointer]
+                - listitem [ref=f42e4051]:
+                  - generic [ref=f42e4052]:
+                    - generic [ref=f42e4056]:
+                      - generic [ref=f42e4057]:
+                        - text: "5"
+                        - emphasis [ref=f42e4061]: BEST
+                        - emphasis [ref=f42e4063]: 한달사용
+                      - generic [ref=f42e4064]:
+                        - generic [ref=f42e4065]: hyeo********
+                        - generic [ref=f42e4066]: 25.07.14.
+                        - button "신고" [ref=f42e4067] [cursor=pointer]
+                    - generic [ref=f42e4068]:
+                      - generic [ref=f42e4069]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f42e4072]:
+                        - paragraph [ref=f42e4073]: 한달동안 사용했는데! 차총, 즉 차친구로는 최고에요. 🥰 조심히 올려놓아야 하지만, 다관과 개완 등 뚜껑을 올려둘 수 있는 "개반의 역할"도 잘 해주기에 참 대견해요. 🦦🩵 찻자리 가질 때 옆에 두고 남은 차를 부어주며 양호하기도 너무 좋아요. (자사로 만든 코끼리이기 때문에 하루하루 지날 때마다 반질반질 해지는 모습 지켜보는 재미도 나름 쏠쏠해요.) 귀엽고 애정을 듬뿍 담아서 계속 찻자리에 함께 하게 되는 아이입니다. 추천해요 🩷🩷
+                        - link "디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 한달동안 사용했는데! 차총, 즉 차친구로는 최고에요. 🥰 조심히 올려놓아야 하지만, 다관과 개완 등 뚜껑을 올려둘 수 있는 \"개반의 역할\"도 잘 해주기에 참 대견해요. 🦦🩵 찻자리 가질 때 옆에 두고 남은 차를 부어주며 양호하기도 너무 좋아요. (자사로 만든 코끼리이기 때문에 하루하루 지날 때마다 반질반질 해지는 모습 지켜보는 재미도 나름 쏠쏠해요.) 귀엽고 애정을 듬뿍 담아서 계속 찻자리에 함께 하게 되는 아이입니다. 추천해요 🩷🩷" [ref=f42e4074] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4075]: 더보기
+                      - generic [ref=f42e4079]:
+                        - list [ref=f42e4082]:
+                          - listitem [ref=f42e4083]:
+                            - generic [ref=f42e4084]:
+                              - img "20250706_200832.jpg" [ref=f42e4085]
+                              - link "이미지 펼치기" [ref=f42e4086] [cursor=pointer]:
+                                - /url: "#"
+                                - emphasis [ref=f42e4087]
+                          - listitem [ref=f42e4091]:
+                            - generic [ref=f42e4092]:
+                              - img "20250708_214524.jpg" [ref=f42e4093]
+                              - link "이미지 펼치기" [ref=f42e4094] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4096]:
+                            - generic [ref=f42e4097]:
+                              - img "1750740151636.jpg" [ref=f42e4098]
+                              - link "이미지 펼치기" [ref=f42e4099] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4101]:
+                            - generic [ref=f42e4102]:
+                              - img "20250710_121437.jpg" [ref=f42e4103]
+                              - link "이미지 펼치기" [ref=f42e4104] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4106]:
+                            - generic [ref=f42e4107]:
+                              - img "20250709_190343.jpg" [ref=f42e4108]
+                              - link "이미지 펼치기" [ref=f42e4109] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4111]:
+                            - generic [ref=f42e4112]:
+                              - img "20250708_214103.jpg" [ref=f42e4113]
+                              - link "이미지 펼치기" [ref=f42e4114] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4116]:
+                            - generic [ref=f42e4117]:
+                              - img "20250629_125827.jpg" [ref=f42e4118]
+                              - link "이미지 펼치기" [ref=f42e4119] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4121]:
+                            - generic [ref=f42e4122]:
+                              - img "20250714_122639.jpg" [ref=f42e4123]
+                              - link "이미지 펼치기" [ref=f42e4124] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4126]:
+                            - generic [ref=f42e4127]:
+                              - img "20250624_122703.jpg" [ref=f42e4128]
+                              - link "이미지 펼치기" [ref=f42e4129] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4131]:
+                            - generic [ref=f42e4132]:
+                              - img "1750740135385.jpg" [ref=f42e4133]
+                              - link "이미지 펼치기" [ref=f42e4134] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4136]:
+                            - generic [ref=f42e4137]:
+                              - img "20250703_223310.jpg" [ref=f42e4138]
+                              - link "이미지 펼치기" [ref=f42e4139] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4141]:
+                            - generic [ref=f42e4142]:
+                              - img "20250625_190827.jpg" [ref=f42e4143]
+                              - link "이미지 펼치기" [ref=f42e4144] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4146]:
+                            - generic [ref=f42e4147]:
+                              - img "20250706_100015.jpg" [ref=f42e4148]
+                              - link "이미지 펼치기" [ref=f42e4149] [cursor=pointer]:
+                                - /url: "#"
+                        - button "다음" [ref=f42e4151] [cursor=pointer]
+                    - generic [ref=f42e4155]:
+                      - img "유저프로필" [ref=f42e4157]
+                      - generic [ref=f42e4158]:
+                        - strong [ref=f42e4159]: 판매자
+                        - generic [ref=f42e4160]: 25.07.28.
+                        - button "신고" [ref=f42e4161] [cursor=pointer]
+                      - generic [ref=f42e4162]:
+                        - paragraph [ref=f42e4163]: 안녕하세요 고객님! 소중한 후기와 따뜻한 마음 가득 담긴 말씀 진심으로 감사드립니다! 자사로 만든 차총이라 시간이 지날수록 매력까지 느끼실 수 있어 더욱 특별한 제품입니다. 앞으로도 고객님의 찻자리와 함께 오래도록 사랑받길 바랍니다 :) 추천과 애정에 감사드리며, 좋은 하루 되세요🍵
+                        - button "더보기" [ref=f42e4164] [cursor=pointer]
+                    - generic [ref=f42e4169]:
+                      - generic [ref=f42e4170]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e4171] [cursor=pointer]
+                  - button "이 구매자의 처음 리뷰 보기" [ref=f42e4175] [cursor=pointer]
+                - listitem [ref=f42e4178]:
+                  - generic [ref=f42e4179]:
+                    - generic [ref=f42e4183]:
+                      - generic [ref=f42e4184]:
+                        - text: "5"
+                        - emphasis [ref=f42e4188]: 한달사용
+                      - generic [ref=f42e4189]:
+                        - generic [ref=f42e4190]: mins******
+                        - generic [ref=f42e4191]: 25.10.13.
+                        - button "신고" [ref=f42e4192] [cursor=pointer]
+                    - generic [ref=f42e4193]:
+                      - generic [ref=f42e4194]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f42e4197]:
+                        - paragraph [ref=f42e4198]: 귀여워요 잘쓰고있어요
+                        - link "디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 귀여워요 잘쓰고있어요" [ref=f42e4199] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4200]: 더보기
+                      - list [ref=f42e4204]:
+                        - listitem [ref=f42e4205]:
+                          - generic [ref=f42e4206]:
+                            - img "review_image" [ref=f42e4207]
+                            - link "이미지 펼치기" [ref=f42e4208] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e4209]
+                    - generic [ref=f42e4214]:
+                      - generic [ref=f42e4215]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e4216] [cursor=pointer]
+                  - button "이 구매자의 처음 리뷰 보기" [ref=f42e4220] [cursor=pointer]
+                - listitem [ref=f42e4223]:
+                  - generic [ref=f42e4224]:
+                    - generic [ref=f42e4228]:
+                      - generic [ref=f42e4229]:
+                        - text: "4"
+                        - emphasis [ref=f42e4233]: 한달사용
+                      - generic [ref=f42e4234]:
+                        - generic [ref=f42e4235]: kkri*****
+                        - generic [ref=f42e4236]: 25.09.17.
+                        - button "신고" [ref=f42e4237] [cursor=pointer]
+                    - generic [ref=f42e4238]:
+                      - generic [ref=f42e4239]: 디자인보통이에요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f42e4242]:
+                        - paragraph [ref=f42e4243]: 혼자도 외롭지 않게 차담시간을 지켜주네요 만족해요!
+                        - link "디자인보통이에요 크기딱 좋아요 내구성튼튼해요 혼자도 외롭지 않게 차담시간을 지켜주네요 만족해요!" [ref=f42e4244] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4245]: 더보기
+                      - list [ref=f42e4249]:
+                        - listitem [ref=f42e4250]:
+                          - generic [ref=f42e4251]:
+                            - img "review_image" [ref=f42e4252]
+                            - link "이미지 펼치기" [ref=f42e4253] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e4254]
+                    - generic [ref=f42e4259]:
+                      - generic [ref=f42e4260]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e4261] [cursor=pointer]
+                  - button "이 구매자의 처음 리뷰 보기" [ref=f42e4265] [cursor=pointer]
+                - listitem [ref=f42e4268]:
+                  - generic [ref=f42e4269]:
+                    - generic [ref=f42e4273]:
+                      - generic [ref=f42e4274]: "5"
+                      - generic [ref=f42e4277]:
+                        - generic [ref=f42e4278]: mins******
+                        - generic [ref=f42e4279]: 25.09.08.
+                        - button "신고" [ref=f42e4280] [cursor=pointer]
+                    - generic [ref=f42e4281]:
+                      - generic [ref=f42e4282]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                      - generic [ref=f42e4285]:
+                        - paragraph [ref=f42e4286]: 잘받았습니다 감사합니다
+                        - link "디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 잘받았습니다 감사합니다" [ref=f42e4287] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4288]: 더보기
+                      - list [ref=f42e4292]:
+                        - listitem [ref=f42e4293]:
+                          - generic [ref=f42e4294]:
+                            - img "review_image" [ref=f42e4295]
+                            - link "이미지 펼치기" [ref=f42e4296] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e4297]
+                    - generic [ref=f42e4302]:
+                      - generic [ref=f42e4303]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e4304] [cursor=pointer]
+                - listitem [ref=f42e4307]:
+                  - generic [ref=f42e4308]:
+                    - generic [ref=f42e4312]:
+                      - generic [ref=f42e4313]: "5"
+                      - generic [ref=f42e4316]:
+                        - generic [ref=f42e4317]: hyeo********
+                        - generic [ref=f42e4318]: 25.06.13.
+                        - button "신고" [ref=f42e4319] [cursor=pointer]
+                    - generic [ref=f42e4320]:
+                      - generic [ref=f42e4321]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                      - generic [ref=f42e4324]:
+                        - paragraph [ref=f42e4325]: 차총 처음 구입해 보는데, 너무 앙증맞고 귀여워요..ㅎㅎ 배송 중간중간 진행도도 친절하게 알려주셔서 편하게 상품 받아봤네요. 다들 귀여운 차총 들이세요 🩷
+                        - link "디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요 차총 처음 구입해 보는데, 너무 앙증맞고 귀여워요..ㅎㅎ 배송 중간중간 진행도도 친절하게 알려주셔서 편하게 상품 받아봤네요. 다들 귀여운 차총 들이세요 🩷" [ref=f42e4326] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4327]: 더보기
+                      - generic [ref=f42e4331]:
+                        - list [ref=f42e4334]:
+                          - listitem [ref=f42e4335]:
+                            - generic [ref=f42e4336]:
+                              - img "20250629_124603.jpg" [ref=f42e4337]
+                              - link "이미지 펼치기" [ref=f42e4338] [cursor=pointer]:
+                                - /url: "#"
+                                - emphasis [ref=f42e4339]
+                          - listitem [ref=f42e4343]:
+                            - generic [ref=f42e4344]:
+                              - img "20250624_122703.jpg" [ref=f42e4345]
+                              - link "이미지 펼치기" [ref=f42e4346] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4348]:
+                            - generic [ref=f42e4349]:
+                              - img "1750740135385.jpg" [ref=f42e4350]
+                              - link "이미지 펼치기" [ref=f42e4351] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4353]:
+                            - generic [ref=f42e4354]:
+                              - img "20250625_190827.jpg" [ref=f42e4355]
+                              - link "이미지 펼치기" [ref=f42e4356] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4358]:
+                            - generic [ref=f42e4359]:
+                              - img "1750740151636.jpg" [ref=f42e4360]
+                              - link "이미지 펼치기" [ref=f42e4361] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4363]:
+                            - generic [ref=f42e4364]:
+                              - img "20250629_125827.jpg" [ref=f42e4365]
+                              - link "이미지 펼치기" [ref=f42e4366] [cursor=pointer]:
+                                - /url: "#"
+                          - listitem [ref=f42e4368]:
+                            - generic [ref=f42e4369]:
+                              - img "20250624_122458.jpg" [ref=f42e4370]
+                              - link "이미지 펼치기" [ref=f42e4371] [cursor=pointer]:
+                                - /url: "#"
+                        - button "다음" [ref=f42e4373] [cursor=pointer]
+                    - generic [ref=f42e4378]:
+                      - generic [ref=f42e4379]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e4380] [cursor=pointer]
+                - listitem [ref=f42e4383]:
+                  - generic [ref=f42e4384]:
+                    - generic [ref=f42e4388]:
+                      - generic [ref=f42e4389]: "5"
+                      - generic [ref=f42e4392]:
+                        - generic [ref=f42e4393]: kkri*****
+                        - generic [ref=f42e4394]: 25.07.26.
+                        - button "신고" [ref=f42e4395] [cursor=pointer]
+                    - generic [ref=f42e4396]:
+                      - generic [ref=f42e4397]: 디자인보통이에요 크기딱 좋아요 내구성보통이에요
+                      - generic [ref=f42e4400]:
+                        - paragraph [ref=f42e4401]: 너무 만족해요 ㅎㅎ 잘 사용하겠습니다.
+                        - link "디자인보통이에요 크기딱 좋아요 내구성보통이에요 너무 만족해요 ㅎㅎ 잘 사용하겠습니다." [ref=f42e4402] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4403]: 더보기
+                      - list [ref=f42e4407]:
+                        - listitem [ref=f42e4408]:
+                          - generic [ref=f42e4409]:
+                            - img "review_image" [ref=f42e4410]
+                            - link "이미지 펼치기" [ref=f42e4411] [cursor=pointer]:
+                              - /url: "#"
+                              - emphasis [ref=f42e4412]
+                    - generic [ref=f42e4417]:
+                      - generic [ref=f42e4418]: 리뷰가 도움이 되었나요?
+                      - button "도움돼요 0" [ref=f42e4419] [cursor=pointer]
+      - button "닫기" [ref=f42e4422] [cursor=pointer]
+  - link "본문으로 바로가기" [ref=f42e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f42e6]:
+    - generic [ref=f42e7]:
+      - generic [ref=f42e9]:
+        - generic [ref=f42e10]:
+          - generic [ref=f42e11]:
+            - link "네이버" [ref=f42e12] [cursor=pointer]:
+              - /url: https://www.naver.com
+            - link "네이버플러스 스토어 홈" [ref=f42e16] [cursor=pointer]:
+              - /url: https://shopping.naver.com/ns/home?
+          - generic [ref=f42e225]:
+            - strong [ref=f42e226]: 사용자 링크
+            - list [ref=f42e227]:
+              - listitem [ref=f42e228]:
+                - link "로그인" [ref=f42e229] [cursor=pointer]:
+                  - /url: https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsmartstore.naver.com%2Fdadodadok%2Fproducts%2F11061565463
+              - listitem [ref=f42e233]:
+                - link "서비스 더보기" [ref=f42e234] [cursor=pointer]:
+                  - /url: javascript:;
+        - generic [ref=f42e22]:
+          - link [ref=f42e23] [cursor=pointer]:
+            - /url: /dadodadok/profile
+            - paragraph [ref=f42e26]: 다도전문스토어 다도다독
+          - generic [ref=f42e27]:
+            - button "관심고객수 6,145" [ref=f42e28] [cursor=pointer]
+            - button "도움말" [ref=f42e30] [cursor=pointer]
+          - button "검색어를 입력해주세요" [ref=f42e35] [cursor=pointer]
+      - generic [ref=f42e38]:
+        - generic [ref=f42e39]:
+          - button "알림받기" [ref=f42e44] [cursor=pointer]
+          - heading [level=1] [ref=f42e50]:
+            - link [ref=f42e54] [cursor=pointer]:
+              - /url: /dadodadok
+              - img "다도다독" [ref=f42e55]
+          - generic [ref=f42e60]:
+            - generic [ref=f42e62]:
+              - generic [ref=f42e63]: 스토어등급
+              - generic [ref=f42e69]: 빅파워
+              - button "도움말" [ref=f42e71] [cursor=pointer]
+            - generic [ref=f42e77]:
+              - generic [ref=f42e78]:
+                - text: 오늘
+                - emphasis [ref=f42e79]: "775"
+              - generic [ref=f42e80]:
+                - text: 전체
+                - emphasis [ref=f42e81]: 385,924
+        - generic [ref=f42e85]:
+          - generic [ref=f42e86]:
+            - list [ref=f42e87]:
+              - listitem [ref=f42e88]:
+                - link "쇼핑라이브" [ref=f42e89] [cursor=pointer]:
+                  - /url: /dadodadok/lives?cp=1
+              - listitem [ref=f42e95]:
+                - link "베스트" [ref=f42e96] [cursor=pointer]:
+                  - /url: /dadodadok/best?cp=1
+              - listitem [ref=f42e97]:
+                - link "국내발송 하위 메뉴 있음" [ref=f42e98] [cursor=pointer]:
+                  - /url: /dadodadok/category/78147608017f4690bef8d90e8a8bf52e?cp=1
+                  - text: 국내발송
+                  - generic [ref=f42e99]: 하위 메뉴 있음
+              - listitem [ref=f42e102]:
+                - link "이치헌 도예가" [ref=f42e103] [cursor=pointer]:
+                  - /url: /dadodadok/category/c644431b6d9040379c8d6738a1fda784?cp=1
+              - listitem [ref=f42e104]:
+                - link "시리즈모음 하위 메뉴 있음" [ref=f42e105] [cursor=pointer]:
+                  - /url: /dadodadok/category/3eb839cf5dad44cd97ee2456a2452876?cp=1
+                  - text: 시리즈모음
+                  - generic [ref=f42e106]: 하위 메뉴 있음
+              - listitem [ref=f42e109]:
+                - link "말차 하위 메뉴 있음" [ref=f42e110] [cursor=pointer]:
+                  - /url: /dadodadok/category/55035caa1f6a47019cabc33c40f4a86e?cp=1
+                  - text: 말차
+                  - generic [ref=f42e111]: 하위 메뉴 있음
+              - listitem [ref=f42e114]:
+                - link "차 우림 하위 메뉴 있음" [ref=f42e115] [cursor=pointer]:
+                  - /url: /dadodadok/category/5546a18e9d3942f8b2aa30495010a47b?cp=1
+                  - text: 차 우림
+                  - generic [ref=f42e116]: 하위 메뉴 있음
+              - listitem [ref=f42e119]:
+                - link "차 마심 하위 메뉴 있음" [ref=f42e120] [cursor=pointer]:
+                  - /url: /dadodadok/category/ef9fb17594794c0c943984dafd7c0fda?cp=1
+                  - text: 차 마심
+                  - generic [ref=f42e121]: 하위 메뉴 있음
+              - listitem [ref=f42e124]:
+                - link "차 도구 하위 메뉴 있음" [ref=f42e125] [cursor=pointer]:
+                  - /url: /dadodadok/category/6880d3d3ed8e4e509f40f494fca20c5d?cp=1
+                  - text: 차 도구
+                  - generic [ref=f42e126]: 하위 메뉴 있음
+              - listitem [ref=f42e129]:
+                - link "찻잎 하위 메뉴 있음" [ref=f42e130] [cursor=pointer]:
+                  - /url: /dadodadok/category/de636a10936b4dfca8006a902f6d037c?cp=1
+                  - text: 찻잎
+                  - generic [ref=f42e131]: 하위 메뉴 있음
+              - listitem [ref=f42e134]:
+                - link "세트상품 하위 메뉴 있음" [ref=f42e135] [cursor=pointer]:
+                  - /url: /dadodadok/category/823531a72df4459a98c184a2a9db320e?cp=1
+                  - text: 세트상품
+                  - generic [ref=f42e136]: 하위 메뉴 있음
+              - listitem [ref=f42e139]:
+                - link "차통 │ 다구 보관함 하위 메뉴 있음" [ref=f42e140] [cursor=pointer]:
+                  - /url: /dadodadok/category/9e2b7cfadb6a44308e2c46144dcfb1b8?cp=2
+                  - text: 차통 │ 다구 보관함
+                  - generic [ref=f42e141]: 하위 메뉴 있음
+              - listitem [ref=f42e144]:
+                - link "차소품 하위 메뉴 있음" [ref=f42e145] [cursor=pointer]:
+                  - /url: /dadodadok/category/85270ba70010417cbe4f092af7af5774?cp=2
+                  - text: 차소품
+                  - generic [ref=f42e146]: 하위 메뉴 있음
+              - listitem [ref=f42e149]:
+                - link "자사 제품 하위 메뉴 있음" [ref=f42e150] [cursor=pointer]:
+                  - /url: /dadodadok/category/1d0719ee6d6b4aa784de65bf6674cbe8?cp=2
+                  - text: 자사 제품
+                  - generic [ref=f42e151]: 하위 메뉴 있음
+              - listitem [ref=f42e154]:
+                - link "고객지원센터 하위 메뉴 있음" [ref=f42e155] [cursor=pointer]:
+                  - /url: /dadodadok/category/c8a28830321745959adcfe9a8de0ff15?cp=2
+                  - text: 고객지원센터
+                  - generic [ref=f42e156]: 하위 메뉴 있음
+              - listitem [ref=f42e159]:
+                - link "전체상품" [ref=f42e160] [cursor=pointer]:
+                  - /url: /dadodadok/category/462f27e889b141ccbff398584bf13e06?cp=2
+            - list [ref=f42e161]:
+              - listitem [ref=f42e162]:
+                - link "공지사항" [ref=f42e163] [cursor=pointer]:
+                  - /url: /dadodadok/notice?cp=1
+              - listitem [ref=f42e164]:
+                - link "판매자 정보" [ref=f42e165] [cursor=pointer]:
+                  - /url: /dadodadok/profile?cp=1
+          - button "더보기" [ref=f42e166] [cursor=pointer]
+    - generic [ref=f42e169]:
+      - generic [ref=f42e237]:
+        - generic [ref=f42e238]:
+          - button "네이버플러스 스토어 알림 받고 혜택 받아보세요! 알림받기" [ref=f42e239] [cursor=pointer]:
+            - generic [ref=f42e245]: 네이버플러스 스토어
+            - generic [ref=f42e246]: 알림 받고 혜택 받아보세요!
+            - generic [ref=f42e247]: 알림받기
+          - generic [ref=f42e251]:
+            - generic [ref=f42e253]:
+              - tabpanel [ref=f42e254]:
+                - generic [ref=f42e256]:
+                  - generic [ref=f42e257]:
+                    - generic [ref=f42e258]: 6개 중 1번째
+                    - button "대표이미지 이미지 상세보기" [ref=f42e259] [cursor=pointer]:
+                      - img "대표이미지" [ref=f42e261]
+                      - generic [ref=f42e262]: 이미지 상세보기
+                  - generic [ref=f42e263]: 6개 중 2번째
+                  - generic [ref=f42e265]:
+                    - generic [ref=f42e266]: 6개 중 3번째
+                    - button "대표이미지 이미지 상세보기" [ref=f42e267] [cursor=pointer]:
+                      - img "대표이미지" [ref=f42e269]
+                      - generic [ref=f42e270]: 이미지 상세보기
+                  - generic [ref=f42e271]:
+                    - generic [ref=f42e272]: 6개 중 4번째
+                    - button "대표이미지 이미지 상세보기" [ref=f42e273] [cursor=pointer]:
+                      - img "대표이미지" [ref=f42e274]
+                      - generic [ref=f42e275]: 이미지 상세보기
+                  - generic [ref=f42e276]:
+                    - generic [ref=f42e277]: 6개 중 5번째
+                    - button "대표이미지 이미지 상세보기" [ref=f42e278] [cursor=pointer]:
+                      - img "대표이미지" [ref=f42e279]
+                      - generic [ref=f42e280]: 이미지 상세보기
+                  - generic [ref=f42e281]:
+                    - generic [ref=f42e282]: 6개 중 6번째
+                    - button "대표이미지 이미지 상세보기" [ref=f42e283] [cursor=pointer]:
+                      - img "대표이미지" [ref=f42e284]
+                      - generic [ref=f42e285]: 이미지 상세보기
+                - generic:
+                  - button "이전" [ref=f42e286] [cursor=pointer]
+                  - button "다음" [ref=f42e290] [cursor=pointer]
+                - generic [ref=f42e309]:
+                  - generic [ref=f42e310]:
+                    - generic [ref=f42e311]: 현재
+                    - text: "1"
+                    - generic [ref=f42e312]: 상품 이미지
+                  - generic [ref=f42e313]:
+                    - text: /
+                    - generic [ref=f42e314]: 전체
+                    - text: "6"
+                    - generic [ref=f42e315]: 상품 이미지
+              - generic [ref=f42e316]:
+                - button "이전" [ref=f42e317] [cursor=pointer]
+                - list [ref=f42e322]:
+                  - listitem [ref=f42e323]:
+                    - button [ref=f42e324] [cursor=pointer]:
+                      - img "추가이미지0" [ref=f42e326]
+                  - listitem [ref=f42e327]:
+                    - button "숏클립 추가이미지1" [ref=f42e328] [cursor=pointer]:
+                      - generic [ref=f42e332]: 숏클립
+                      - img "추가이미지1" [ref=f42e333]
+                  - listitem [ref=f42e334]:
+                    - button [ref=f42e335] [cursor=pointer]:
+                      - img "추가이미지2" [ref=f42e337]
+                  - listitem [ref=f42e338]:
+                    - button [ref=f42e339] [cursor=pointer]:
+                      - img "추가이미지3" [ref=f42e341]
+                  - listitem [ref=f42e342]:
+                    - button [ref=f42e343] [cursor=pointer]:
+                      - img "추가이미지4" [ref=f42e345]
+                  - listitem [ref=f42e346]:
+                    - button [ref=f42e347] [cursor=pointer]:
+                      - img "추가이미지5" [ref=f42e349]
+                - button "다음" [ref=f42e350] [cursor=pointer]
+            - generic [ref=f42e355]:
+              - heading "자사 차총 뚱땡이 코끼리 FKA13 차친구 수공예" [level=3] [ref=f42e357]
+              - generic [ref=f42e359]:
+                - generic [ref=f42e360]:
+                  - generic [ref=f42e363]: 평점
+                  - generic [ref=f42e364]: "4.95"
+                  - generic [ref=f42e365]:
+                    - text: (
+                    - button "최근 6개월 5.0" [ref=f42e366] [cursor=pointer]
+                    - button "도움말" [ref=f42e368] [cursor=pointer]
+                    - text: )
+                - link "20건 리뷰" [ref=f42e374] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f42e375]:
+                - generic [ref=f42e377]:
+                  - generic [ref=f42e378]:
+                    - generic [ref=f42e379]:
+                      - button "할인 전 가격 17,000원" [ref=f42e380] [cursor=pointer]:
+                        - generic [ref=f42e381]: 할인 전 가격
+                        - text: 17,000원
+                      - button "도움말" [ref=f42e383] [cursor=pointer]
+                    - generic [ref=f42e388]:
+                      - generic [ref=f42e389]:
+                        - text: 11%
+                        - generic [ref=f42e390]: 할인
+                      - generic [ref=f42e391]:
+                        - generic [ref=f42e392]: 상품 가격
+                        - text: 15,000원
+                  - generic [ref=f42e394]:
+                    - generic [ref=f42e398]: 배송비
+                    - text: 3,500원 (50,000원 이상 무료배송)
+                - generic [ref=f42e399]:
+                  - generic [ref=f42e400]:
+                    - generic [ref=f42e401]: 적립
+                    - generic [ref=f42e402]:
+                      - generic [ref=f42e403]:
+                        - text: 최대 적립 포인트 4,400원
+                        - button "자세히 보기" [ref=f42e404] [cursor=pointer]
+                      - generic [ref=f42e407]:
+                        - link "네이버 플러스 멤버십 최대 5% 추가 적립 도움말 600원 멤버십 시작하고 최대 적립 받기" [ref=f42e408] [cursor=pointer]:
+                          - /url: "#"
+                        - generic [ref=f42e409]:
+                          - generic [ref=f42e410]:
+                            - generic [ref=f42e427]: 네이버 플러스 멤버십
+                            - generic [ref=f42e428]:
+                              - button "최대 5% 추가 적립" [ref=f42e429] [cursor=pointer]
+                              - button "도움말" [ref=f42e431] [cursor=pointer]
+                          - generic [ref=f42e436]: 600원
+                        - strong [ref=f42e438]: 멤버십 시작하고 최대 적립 받기
+                  - generic [ref=f42e441]:
+                    - generic [ref=f42e442]: 혜택
+                    - generic [ref=f42e443]:
+                      - link "네이버 현대카드 Ed3 결제 시 최대 15% 포인트 적립" [ref=f42e445] [cursor=pointer]:
+                        - /url: "#"
+                      - link "전월실적 없이 최대 1.3 % 적립 체크카드" [ref=f42e449] [cursor=pointer]:
+                        - /url: https://pay.naver.com/paymoney/bankbook/woori/open?from=wr0056
+                - generic [ref=f42e452]:
+                  - generic [ref=f42e453]: 배송
+                  - generic [ref=f42e454]:
+                    - generic [ref=f42e455]: 배송비 3,500원(50,000원 이상 무료)
+                    - generic [ref=f42e457]: 해외직배송(국내배송과 교환/반품 기준 상이)
+                    - button "자세히 보기" [ref=f42e459] [cursor=pointer]
+                - generic [ref=f42e462]:
+                  - generic [ref=f42e464]:
+                    - generic [ref=f42e466]:
+                      - strong [ref=f42e467]: 수량 선택
+                      - generic [ref=f42e469]:
+                        - button "수량감소" [disabled] [ref=f42e470] [cursor=pointer]
+                        - spinbutton "수량" [ref=f42e471]: "1"
+                        - button "수량증가" [ref=f42e472] [cursor=pointer]
+                    - generic [ref=f42e473]:
+                      - generic [ref=f42e474]:
+                        - text: 총
+                        - generic [ref=f42e475]:
+                          - emphasis [ref=f42e476]: "1"
+                          - text: 개
+                      - generic [ref=f42e477]:
+                        - generic [ref=f42e478]:
+                          - button "총 금액 15,000원" [ref=f42e479] [cursor=pointer]:
+                            - text: 총 금액
+                            - generic [ref=f42e480]: 15,000원
+                          - button "도움말" [ref=f42e482] [cursor=pointer]
+                        - generic [aria-hidden] [ref=f42e487]:
+                          - emphasis [ref=f42e488]: 15,000
+                          - text: 원
+                  - generic [ref=f42e489]:
+                    - button "구매하기" [ref=f42e491] [cursor=pointer]
+                    - generic [ref=f42e494]:
+                      - button "찜 하기" [ref=f42e495] [cursor=pointer]:
+                        - text: 찜
+                        - generic [ref=f42e498]: 하기
+                      - button "톡톡문의" [ref=f42e499] [cursor=pointer]
+                      - button "장바구니" [ref=f42e503] [cursor=pointer]
+        - generic [ref=f42e507]:
+          - generic [ref=f42e510]:
+            - generic [ref=f42e511]:
+              - button "4점 이상 리뷰가 100%예요" [ref=f42e512] [cursor=pointer]:
+                - text: 4점 이상 리뷰가
+                - generic [ref=f42e513]: 100%
+                - text: 예요
+              - button "도움말" [ref=f42e515] [cursor=pointer]
+            - generic [ref=f42e520]:
+              - generic [ref=f42e521]:
+                - list [ref=f42e524]:
+                  - listitem [ref=f42e525]:
+                    - button "review_image 동영상컨텐츠 평점 5 디자인 마음에 들어요 너무 귀여워요 차 마실 맛이 납니다 감사합니다 ~^^" [ref=f42e526] [cursor=pointer]:
+                      - generic [ref=f42e527]:
+                        - img "review_image" [ref=f42e528]
+                        - emphasis [ref=f42e529]:
+                          - generic [ref=f42e535]: 동영상컨텐츠
+                      - generic [ref=f42e536]:
+                        - generic [ref=f42e537]:
+                          - generic [ref=f42e538]:
+                            - generic [ref=f42e541]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f42e542]: 너무 귀여워요 차 마실 맛이 납니다 감사합니다 ~^^
+                  - listitem [ref=f42e543]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 친구에게 선물로 줬는데 마음에 들어해요 ㅎㅎ 아주 귀여운 차친구인 것 같습니다~ 디테일도 좋어요" [ref=f42e544] [cursor=pointer]:
+                      - img "review_image" [ref=f42e546]
+                      - generic [ref=f42e547]:
+                        - generic [ref=f42e548]:
+                          - generic [ref=f42e549]:
+                            - generic [ref=f42e552]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f42e553]: 친구에게 선물로 줬는데 마음에 들어해요 ㅎㅎ 아주 귀여운 차친구인 것 같습니다~ 디테일도 좋어요
+                  - listitem [ref=f42e554]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 너무 귀엽고 차시간이 기다려집니다" [ref=f42e555] [cursor=pointer]:
+                      - img "review_image" [ref=f42e557]
+                      - generic [ref=f42e558]:
+                        - generic [ref=f42e559]:
+                          - generic [ref=f42e560]:
+                            - generic [ref=f42e563]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f42e564]: 너무 귀엽고 차시간이 기다려집니다
+                  - listitem [ref=f42e565]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 사이즈도 적당하고 더 즐거운 찻자리가 될것 같습니다" [ref=f42e566] [cursor=pointer]:
+                      - img "review_image" [ref=f42e568]
+                      - generic [ref=f42e569]:
+                        - generic [ref=f42e570]:
+                          - generic [ref=f42e571]:
+                            - generic [ref=f42e574]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f42e575]: 사이즈도 적당하고 더 즐거운 찻자리가 될것 같습니다
+                  - listitem [ref=f42e576]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 귀엽고 귀엽습니다 포장진짜 꼼꼼해요" [ref=f42e577] [cursor=pointer]:
+                      - img "review_image" [ref=f42e579]
+                      - generic [ref=f42e580]:
+                        - generic [ref=f42e581]:
+                          - generic [ref=f42e582]:
+                            - generic [ref=f42e585]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f42e586]: 귀엽고 귀엽습니다 포장진짜 꼼꼼해요
+                  - listitem [ref=f42e587]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 너무 귀여운 코끼리 차총이에요! 코끼리지만 미니한 사이즈라 더 마음에 들어요!" [ref=f42e588] [cursor=pointer]:
+                      - img "review_image" [ref=f42e590]
+                      - generic [ref=f42e591]:
+                        - generic [ref=f42e592]:
+                          - generic [ref=f42e593]:
+                            - generic [ref=f42e596]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f42e597]: 너무 귀여운 코끼리 차총이에요! 코끼리지만 미니한 사이즈라 더 마음에 들어요!
+                  - listitem [ref=f42e598]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 귀여운 아기 코끼리! 사이즈가 작아서 너무 귀여워요. 앉아있는 자세가 포인트에요. 마음에 듭니다! 배송도 빠르고 판매자님이 중간 중간 배송 상황을 알려주셔서 너무 좋았습니다~" [ref=f42e599] [cursor=pointer]:
+                      - img "review_image" [ref=f42e601]
+                      - generic [ref=f42e602]:
+                        - generic [ref=f42e603]:
+                          - generic [ref=f42e604]:
+                            - generic [ref=f42e607]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f42e608]: 귀여운 아기 코끼리! 사이즈가 작아서 너무 귀여워요. 앉아있는 자세가 포인트에요. 마음에 듭니다! 배송도 빠르고 판매자님이 중간 중간 배송 상황을 알려주셔서 너무 좋았습니다~
+                  - listitem [ref=f42e609]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 귀엽다고 난리난리~ 차총내칭구~차마실때 소곤소곤댈게요~^^♡" [ref=f42e610] [cursor=pointer]:
+                      - img "review_image" [ref=f42e612]
+                      - generic [ref=f42e613]:
+                        - generic [ref=f42e614]:
+                          - generic [ref=f42e615]:
+                            - generic [ref=f42e618]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f42e619]: 귀엽다고 난리난리~ 차총내칭구~차마실때 소곤소곤댈게요~^^♡
+                  - listitem [ref=f42e620]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 너무 귀여워요. 비싸서 망설였지만 진짜 가치가 있고 귀요미. 힐링이에요. 아이가 탐냅니다. 최고에용. 다른 것도 사거싶네요." [ref=f42e621] [cursor=pointer]:
+                      - img "review_image" [ref=f42e623]
+                      - generic [ref=f42e624]:
+                        - generic [ref=f42e625]:
+                          - generic [ref=f42e626]:
+                            - generic [ref=f42e629]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f42e630]: 너무 귀여워요. 비싸서 망설였지만 진짜 가치가 있고 귀요미. 힐링이에요. 아이가 탐냅니다. 최고에용. 다른 것도 사거싶네요.
+                  - listitem [ref=f42e631]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 너모너모 귀여워여 잘 사용할게요" [ref=f42e632] [cursor=pointer]:
+                      - img "review_image" [ref=f42e634]
+                      - generic [ref=f42e635]:
+                        - generic [ref=f42e636]:
+                          - generic [ref=f42e637]:
+                            - generic [ref=f42e640]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f42e641]: 너모너모 귀여워여 잘 사용할게요
+                  - listitem [ref=f42e642]:
+                    - button "review_image 평점 5 디자인 마음에 들어요 너무 귀여워요 뚱띠.." [ref=f42e643] [cursor=pointer]:
+                      - img "review_image" [ref=f42e645]
+                      - generic [ref=f42e646]:
+                        - generic [ref=f42e647]:
+                          - generic [ref=f42e648]:
+                            - generic [ref=f42e651]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f42e652]: 너무 귀여워요 뚱띠..
+                  - listitem [ref=f42e653]:
+                    - button "평점 5 디자인 마음에 들어요 앙증맞은 코끼리 차 한 마시며 귀여운 아이들 보며 힐링합니다" [ref=f42e654] [cursor=pointer]:
+                      - generic [ref=f42e655]:
+                        - generic [ref=f42e656]:
+                          - generic [ref=f42e657]:
+                            - generic [ref=f42e660]: 평점
+                            - text: "5"
+                          - text: 디자인 마음에 들어요
+                        - generic [ref=f42e661]: 앙증맞은 코끼리 차 한 마시며 귀여운 아이들 보며 힐링합니다
+                - button "다음" [ref=f42e662] [cursor=pointer]
+              - button "리뷰 전체보기" [ref=f42e666] [cursor=pointer]
+          - generic [ref=f42e672]:
+            - strong [ref=f42e674]: 다른 구성 상품 골라 담기
+            - list [ref=f42e680]:
+              - listitem [ref=f42e681]
+              - listitem [ref=f42e698]
+              - listitem [ref=f42e715]
+              - listitem [ref=f42e732]
+              - listitem [ref=f42e749]
+              - listitem [ref=f42e766]
+          - list [ref=f42e786]:
+            - listitem [ref=f42e787]:
+              - link [ref=f42e788] [cursor=pointer]:
+                - /url: "#"
+                - img "이번 달 멤버십 시작하면? 올리브영 혜택까지 받아요" [ref=f42e789]
+          - generic [ref=f42e790]:
+            - generic [ref=f42e791]:
+              - list [ref=f42e793]:
+                - button "상세정보" [ref=f42e794] [cursor=pointer]
+                - button "리뷰 20" [ref=f42e795] [cursor=pointer]
+                - button "Q&A" [ref=f42e796] [cursor=pointer]
+                - button "판매자정보" [ref=f42e797] [cursor=pointer]
+                - button "추천" [ref=f42e798] [cursor=pointer]
+              - generic [ref=f42e800]:
+                - generic [ref=f42e802]:
+                  - generic [ref=f42e808]:
+                    - text: 판매자가 타 사이트 안내 및 현금 결제, 개인정보 유도 시 결제/입력하지 마시고 즉시
+                    - link "고객센터로 신고" [ref=f42e809] [cursor=pointer]:
+                      - /url: https://help.pay.naver.com/faq/content.help?faqId=14188
+                    - text: 해주세요.
+                  - generic [ref=f42e811]:
+                    - strong [ref=f42e813]: 상품정보
+                    - list [ref=f42e814]:
+                      - listitem [ref=f42e815]:
+                        - generic [ref=f42e816]: 상품번호
+                        - generic [ref=f42e817]:
+                          - text: "11061565463"
+                          - button "상품번호 복사" [ref=f42e818] [cursor=pointer]: 복사
+                      - listitem [ref=f42e822]:
+                        - generic [ref=f42e823]: 제조사
+                        - generic [ref=f42e824]: 다도다독협력업체
+                      - listitem [ref=f42e825]:
+                        - generic [ref=f42e826]: 모델명
+                        - generic [ref=f42e827]: 상세페이지 참조
+                      - listitem [ref=f42e828]:
+                        - generic [ref=f42e829]: 사은품
+                        - generic [ref=f42e830]: 포토리뷰 작성 시 최대 2,000원 포인트 적립!
+                      - listitem [ref=f42e831]:
+                        - generic [ref=f42e832]: 원산지
+                        - generic [ref=f42e833]: 중국산(다도다독협력사)
+                      - listitem [ref=f42e834]:
+                        - generic [ref=f42e835]: 세트 여부
+                        - generic [ref=f42e836]: 단품
+                      - listitem [ref=f42e837]:
+                        - generic [ref=f42e838]: 재질
+                        - generic [ref=f42e839]: 도자기/세라믹
+                      - listitem [ref=f42e840]:
+                        - generic [ref=f42e841]: 인증정보
+                        - generic [ref=f42e842]:
+                          - paragraph [ref=f42e843]: 이 제품은 구매대행을 통하여 유통되는 제품이며 '전기용품 및 생활용품 안전관리법'에 따른 안전관리대상 제품입니다.
+                          - paragraph [ref=f42e844]: 판매자가 등록한 것으로 등록 정보에 대한 일체 책임은 판매자에게 있습니다.
+                    - generic [ref=f42e845]:
+                      - button "신고하기" [ref=f42e846] [cursor=pointer]
+                      - button "상품정보제공고시 보기" [ref=f42e847] [cursor=pointer]
+                  - generic [ref=f42e848]:
+                    - generic [ref=f42e849]:
+                      - generic [ref=f42e850]:
+                        - generic [ref=f42e851]:
+                          - strong [ref=f42e852]: 공지사항
+                          - generic [ref=f42e857]:
+                            - paragraph [ref=f42e862]
+                            - separator [ref=f42e867]
+                            - generic [ref=f42e871]:
+                              - paragraph [ref=f42e872]
+                              - paragraph [ref=f42e873]
+                              - paragraph [ref=f42e874]:
+                                - generic [ref=f42e875]: 🎁 365일 리뷰 이벤트 🎁
+                              - paragraph [ref=f42e876]:
+                                - generic [ref=f42e877]: 포토 리뷰 작성 시 → 참여자 전원 1,000원 적립
+                              - paragraph [ref=f42e878]:
+                                - generic [ref=f42e879]: (일부제품 제외,
+                                - generic [ref=f42e880]: 최대 적립 포인트를 확인해주세요!
+                                - generic [ref=f42e881]: )
+                            - paragraph [ref=f42e891]:
+                              - generic [ref=f42e892]: 다도전문몰, 다도다독
+                            - separator [ref=f42e907]
+                            - generic [ref=f42e916]:
+                              - paragraph [ref=f42e917]
+                              - paragraph [ref=f42e918]
+                        - generic [ref=f42e923]:
+                          - generic [ref=f42e932]:
+                            - paragraph [ref=f42e933]:
+                              - generic [ref=f42e934]: 차친구 뚱땡이 코끼리 FKA13
+                            - paragraph [ref=f42e935]:
+                              - generic [ref=f42e936]: 차총 차도구 다도 수공예 도자기
+                          - generic [ref=f42e945]:
+                            - paragraph [ref=f42e946]:
+                              - text: 이 상품은
+                              - generic [ref=f42e947]: 이싱 자사
+                              - text: (이싱에서 생산되는 자사)로 만든
+                            - paragraph [ref=f42e948]:
+                              - generic [ref=f42e949]: 코끼리 모양의 차 애완동물 장식품
+                              - text: 으로, 손으로 만든
+                              - generic [ref=f42e950]: 수공예 도자기
+                              - text: 입니다.
+                            - paragraph [ref=f42e951]
+                            - paragraph [ref=f42e952]:
+                              - text: 자사 소재로 만들어져
+                              - generic [ref=f42e953]: 양호
+                              - text: 도 가능하답니다!
+                            - paragraph [ref=f42e954]
+                            - paragraph [ref=f42e955]:
+                              - generic [ref=f42e956]: 차를 마실 때 차총에 차를 부어주면,
+                            - paragraph [ref=f42e957]: 시간이 지나면서 차총의 색상이 짙어지고
+                            - paragraph [ref=f42e958]: 윤기가 더해지며, 자사 차총만의
+                            - paragraph [ref=f42e959]: 독특한 매력을 경험할 수 있습니다.
+                          - separator [ref=f42e964]
+                          - blockquote [ref=f42e968]:
+                            - paragraph [ref=f42e970]: 타 업체의 모방 제품에 주의하세요
+                          - paragraph [ref=f42e980]: 모방제품
+                          - paragraph [ref=f42e990]: 다도다독 제품
+                          - paragraph [ref=f42e995]
+                          - separator [ref=f42e1000]
+                          - paragraph [ref=f42e1025]
+                          - separator [ref=f42e1030]
+                          - paragraph [ref=f42e1035]
+                      - generic [ref=f42e1037]:
+                        - strong [ref=f42e1039]: 관련 태그
+                        - list [ref=f42e1040]:
+                          - listitem [ref=f42e1041]:
+                            - link "#차도구" [ref=f42e1042] [cursor=pointer]:
+                              - /url: /dadodadok/search?q=%23%EC%B0%A8%EB%8F%84%EA%B5%AC
+                          - listitem [ref=f42e1043]:
+                            - link "#다도구" [ref=f42e1044] [cursor=pointer]:
+                              - /url: /dadodadok/search?q=%23%EB%8B%A4%EB%8F%84%EA%B5%AC
+                          - listitem [ref=f42e1045]:
+                            - link "#다도용품" [ref=f42e1046] [cursor=pointer]:
+                              - /url: /dadodadok/search?q=%23%EB%8B%A4%EB%8F%84%EC%9A%A9%ED%92%88
+                          - listitem [ref=f42e1047]:
+                            - link "#다도" [ref=f42e1048] [cursor=pointer]:
+                              - /url: /dadodadok/search?q=%23%EB%8B%A4%EB%8F%84
+                          - listitem [ref=f42e1049]:
+                            - link "#차진구" [ref=f42e1050] [cursor=pointer]:
+                              - /url: /dadodadok/search?q=%23%EC%B0%A8%EC%A7%84%EA%B5%AC
+                          - listitem [ref=f42e1051]:
+                            - link "#차총" [ref=f42e1052] [cursor=pointer]:
+                              - /url: /dadodadok/search?q=%23%EC%B0%A8%EC%B4%9D
+                          - listitem [ref=f42e1053]:
+                            - link "#차판꾸미기" [ref=f42e1054] [cursor=pointer]:
+                              - /url: /dadodadok/search?q=%23%EC%B0%A8%ED%8C%90%EA%BE%B8%EB%AF%B8%EA%B8%B0
+                          - listitem [ref=f42e1055]:
+                            - link "#티악세사리" [ref=f42e1056] [cursor=pointer]:
+                              - /url: /dadodadok/search?q=%23%ED%8B%B0%EC%95%85%EC%84%B8%EC%82%AC%EB%A6%AC
+                          - listitem [ref=f42e1057]:
+                            - link "#차친구" [ref=f42e1058] [cursor=pointer]:
+                              - /url: /dadodadok/search?q=%23%EC%B0%A8%EC%B9%9C%EA%B5%AC
+                          - listitem [ref=f42e1059]:
+                            - link "#미니차총" [ref=f42e1060] [cursor=pointer]:
+                              - /url: /dadodadok/search?q=%23%EB%AF%B8%EB%8B%88%EC%B0%A8%EC%B4%9D
+                    - button "상세정보 펼쳐보기" [ref=f42e1061] [cursor=pointer]
+                - generic [ref=f42e1068]:
+                  - strong [ref=f42e1070]: 같이 둘러볼 만한 다양한 스토어 상품
+                  - list [ref=f42e1076]:
+                    - listitem [ref=f42e1077]
+                    - listitem [ref=f42e1094]
+                    - listitem [ref=f42e1111]
+                    - listitem [ref=f42e1128]
+                - generic [ref=f42e1148]:
+                  - strong [ref=f42e1151]: 관련 숏클립
+                  - list [ref=f42e1152]:
+                    - listitem [ref=f42e1153]
+                    - listitem [ref=f42e1159]
+                    - listitem [ref=f42e1165]
+                    - listitem [ref=f42e1171]
+                    - listitem [ref=f42e1177]
+                - generic [ref=f42e1185]:
+                  - generic [ref=f42e1186]:
+                    - generic [ref=f42e4426]:
+                      - strong [ref=f42e4427]: 리뷰 20
+                      - generic [ref=f42e4428]:
+                        - button "리뷰 제공 기준" [ref=f42e4429] [cursor=pointer]
+                        - button "도움말" [ref=f42e4431] [cursor=pointer]
+                    - generic [ref=f42e4436]:
+                      - strong [ref=f42e4437]:
+                        - generic [ref=f42e4440]: 총 5점 중
+                        - text: "4.95"
+                      - generic [ref=f42e4441]:
+                        - button "최근 6개월 5.0" [ref=f42e4442] [cursor=pointer]
+                        - button "도움말" [ref=f42e4444] [cursor=pointer]
+                    - generic [ref=f42e4449]:
+                      - generic [ref=f42e4450]: "디자인 :"
+                      - text: 마음에 들어요 85%
+                    - generic [ref=f42e4451]:
+                      - generic [ref=f42e4452]:
+                        - generic [ref=f42e4454]:
+                          - button "AI 리뷰요약" [ref=f42e4455] [cursor=pointer]
+                          - button "도움말" [ref=f42e4459] [cursor=pointer]
+                        - paragraph [ref=f42e4464]: 구매하신 분들의 리뷰를 분석했어요!
+                      - list [ref=f42e4469]:
+                        - button "귀여워요" [ref=f42e4470] [cursor=pointer]
+                        - button "힐링돼요" [ref=f42e4471] [cursor=pointer]
+                        - button "아이가 좋아해요" [ref=f42e4472] [cursor=pointer]
+                        - button "디테일이 좋아요" [ref=f42e4473] [cursor=pointer]
+                        - button "휴대하기 좋아요" [ref=f42e4474] [cursor=pointer]
+                        - button "최고에요" [ref=f42e4475] [cursor=pointer]
+                        - button "재구매하고 싶어요" [ref=f42e4476] [cursor=pointer]
+                        - button "만족스러워요" [ref=f42e4477] [cursor=pointer]
+                        - button "크기가 적당해요" [ref=f42e4478] [cursor=pointer]
+                        - button "포장이 꼼꼼해요" [ref=f42e4479] [cursor=pointer]
+                      - generic [aria-hidden]:
+                        - generic:
+                          - list:
+                            - button: 귀여워요
+                            - button: 힐링돼요
+                            - button: 아이가 좋아해요
+                            - button: 디테일이 좋아요
+                            - button: 휴대하기 좋아요
+                            - button: 최고에요
+                            - button: 재구매하고 싶어요
+                            - button: 만족스러워요
+                            - button: 크기가 적당해요
+                            - button: 포장이 꼼꼼해요
+                    - list [ref=f42e4480]:
+                      - listitem [ref=f42e4481]:
+                        - link [ref=f42e4482] [cursor=pointer]:
+                          - /url: "#"
+                          - img "포토리뷰 첨부 파일 대표이미지" [ref=f42e4483]
+                      - listitem [ref=f42e4484]:
+                        - link [ref=f42e4485] [cursor=pointer]:
+                          - /url: "#"
+                          - img "포토리뷰 첨부 파일 대표이미지" [ref=f42e4486]
+                      - listitem [ref=f42e4487]:
+                        - link [ref=f42e4488] [cursor=pointer]:
+                          - /url: "#"
+                          - img "포토리뷰 첨부 파일 대표이미지" [ref=f42e4489]
+                      - listitem [ref=f42e4490]:
+                        - link [ref=f42e4491] [cursor=pointer]:
+                          - /url: "#"
+                          - img "포토리뷰 첨부 파일 대표이미지" [ref=f42e4492]
+                      - listitem [ref=f42e4493]:
+                        - link [ref=f42e4494] [cursor=pointer]:
+                          - /url: "#"
+                          - img "포토리뷰 첨부 파일 대표이미지" [ref=f42e4495]
+                      - listitem [ref=f42e4496]:
+                        - button "포토리뷰 더보기 + 14" [ref=f42e4497] [cursor=pointer]:
+                          - img "포토리뷰 첨부 파일 대표이미지" [ref=f42e4498]
+                          - generic [ref=f42e4499]:
+                            - generic [ref=f42e4500]: 포토리뷰
+                            - text: 더보기
+                            - generic [ref=f42e4501]:
+                              - generic [ref=f42e4504]: +
+                              - text: "14"
+                    - list [ref=f42e4505]:
+                      - listitem [ref=f42e4506]:
+                        - link "평점 5 july****** 26.11.15. 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 친구에게 선물로 줬는데 마음에 들어해요 ㅎㅎ 아주 귀여운 차친구인 것 같습니다~ 디테일도 좋어요 첨부 파일 대표 이미지" [ref=f42e4507] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4508]:
+                            - generic [ref=f42e4511]:
+                              - strong [ref=f42e4512]:
+                                - generic [ref=f42e4515]: 평점
+                                - text: "5"
+                              - generic [ref=f42e4516]:
+                                - generic [ref=f42e4517]: july******
+                                - generic [ref=f42e4518]: 26.11.15.
+                            - generic [ref=f42e4519]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                            - generic [ref=f42e4521]: 친구에게 선물로 줬는데 마음에 들어해요 ㅎㅎ 아주 귀여운 차친구인 것 같습니다~ 디테일도 좋어요
+                          - img "첨부 파일 대표 이미지" [ref=f42e4523]
+                      - listitem [ref=f42e4524]:
+                        - link "평점 5 한달사용 babm***** 26.08.18. 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요 너무 귀엽고 차시간이 기다려집니다 첨부 파일 대표 이미지" [ref=f42e4525] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4526]:
+                            - generic [ref=f42e4529]:
+                              - strong [ref=f42e4530]:
+                                - generic [ref=f42e4533]: 평점
+                                - text: "5"
+                                - emphasis [ref=f42e4535]: 한달사용
+                              - generic [ref=f42e4536]:
+                                - generic [ref=f42e4537]: babm*****
+                                - generic [ref=f42e4538]: 26.08.18.
+                            - generic [ref=f42e4539]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                            - generic [ref=f42e4541]: 너무 귀엽고 차시간이 기다려집니다
+                          - img "첨부 파일 대표 이미지" [ref=f42e4543]
+                      - listitem [ref=f42e4544]:
+                        - link "평점 5 wpis*** 26.07.07. 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 사이즈도 적당하고 더 즐거운 찻자리가 될것 같습니다 첨부 파일 대표 이미지" [ref=f42e4545] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4546]:
+                            - generic [ref=f42e4549]:
+                              - strong [ref=f42e4550]:
+                                - generic [ref=f42e4553]: 평점
+                                - text: "5"
+                              - generic [ref=f42e4554]:
+                                - generic [ref=f42e4555]: wpis***
+                                - generic [ref=f42e4556]: 26.07.07.
+                            - generic [ref=f42e4557]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                            - generic [ref=f42e4559]: 사이즈도 적당하고 더 즐거운 찻자리가 될것 같습니다
+                          - img "첨부 파일 대표 이미지" [ref=f42e4561]
+                      - listitem [ref=f42e4562]:
+                        - link "평점 5 babm***** 26.06.15. 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요 귀엽고 귀엽습니다 포장진짜 꼼꼼해요 첨부 파일 대표 이미지" [ref=f42e4563] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4564]:
+                            - generic [ref=f42e4567]:
+                              - strong [ref=f42e4568]:
+                                - generic [ref=f42e4571]: 평점
+                                - text: "5"
+                              - generic [ref=f42e4572]:
+                                - generic [ref=f42e4573]: babm*****
+                                - generic [ref=f42e4574]: 26.06.15.
+                            - generic [ref=f42e4575]: 디자인마음에 들어요 크기생각보다 커요 내구성튼튼해요
+                            - generic [ref=f42e4577]: 귀엽고 귀엽습니다 포장진짜 꼼꼼해요
+                          - img "첨부 파일 대표 이미지" [ref=f42e4579]
+                      - listitem [ref=f42e4580]:
+                        - link "평점 5 한달사용 suyo******* 26.05.20. 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 너무 귀여운 코끼리 차총이에요! 코끼리지만 미니한 사이즈라 더 마음에 들어요! 첨부 파일 대표 이미지" [ref=f42e4581] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4582]:
+                            - generic [ref=f42e4585]:
+                              - strong [ref=f42e4586]:
+                                - generic [ref=f42e4589]: 평점
+                                - text: "5"
+                                - emphasis [ref=f42e4591]: 한달사용
+                              - generic [ref=f42e4592]:
+                                - generic [ref=f42e4593]: suyo*******
+                                - generic [ref=f42e4594]: 26.05.20.
+                            - generic [ref=f42e4595]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                            - generic [ref=f42e4597]: 너무 귀여운 코끼리 차총이에요! 코끼리지만 미니한 사이즈라 더 마음에 들어요!
+                          - img "첨부 파일 대표 이미지" [ref=f42e4599]
+                      - listitem [ref=f42e4600]:
+                        - link "평점 5 suyo******* 26.04.19. 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요 귀여운 아기 코끼리! 사이즈가 작아서 너무 귀여워요. 앉아있는 자세가 포인트에요. 마음에 듭니다! 배송도 빠르고 판매자님이 중간 중간 배송 상황을 알려주셔서 너무 좋았습니다~ 첨부 파일 대표 이미지" [ref=f42e4601] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4602]:
+                            - generic [ref=f42e4605]:
+                              - strong [ref=f42e4606]:
+                                - generic [ref=f42e4609]: 평점
+                                - text: "5"
+                              - generic [ref=f42e4610]:
+                                - generic [ref=f42e4611]: suyo*******
+                                - generic [ref=f42e4612]: 26.04.19.
+                            - generic [ref=f42e4613]: 디자인마음에 들어요 크기딱 좋아요 내구성보통이에요
+                            - generic [ref=f42e4615]: 귀여운 아기 코끼리! 사이즈가 작아서 너무 귀여워요. 앉아있는 자세가 포인트에요. 마음에 듭니다! 배송도 빠르고 판매자님이 중간 중간 배송 상황을 알려주셔서 너무 좋았습니다~
+                          - img "첨부 파일 대표 이미지" [ref=f42e4617]
+                      - listitem [ref=f42e4618]:
+                        - link "평점 5 rabb******** 26.06.05. 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 앙증맞은 코끼리 차 한 마시며 귀여운 아이들 보며 힐링합니다" [ref=f42e4619] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4620]:
+                            - generic [ref=f42e4623]:
+                              - strong [ref=f42e4624]:
+                                - generic [ref=f42e4627]: 평점
+                                - text: "5"
+                              - generic [ref=f42e4628]:
+                                - generic [ref=f42e4629]: rabb********
+                                - generic [ref=f42e4630]: 26.06.05.
+                            - generic [ref=f42e4631]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                            - generic [ref=f42e4633]: 앙증맞은 코끼리 차 한 마시며 귀여운 아이들 보며 힐링합니다
+                      - listitem [ref=f42e4634]:
+                        - link "평점 5 macu**** 26.04.22. 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요 귀엽다고 난리난리~ 차총내칭구~차마실때 소곤소곤댈게요~^^♡ 첨부 파일 대표 이미지" [ref=f42e4635] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f42e4636]:
+                            - generic [ref=f42e4639]:
+                              - strong [ref=f42e4640]:
+                                - generic [ref=f42e4643]: 평점
+                                - text: "5"
+                              - generic [ref=f42e4644]:
+                                - generic [ref=f42e4645]: macu****
+                                - generic [ref=f42e4646]: 26.04.22.
+                            - generic [ref=f42e4647]: 디자인마음에 들어요 크기딱 좋아요 내구성튼튼해요
+                            - generic [ref=f42e4649]: 귀엽다고 난리난리~ 차총내칭구~차마실때 소곤소곤댈게요~^^♡
+                          - img "첨부 파일 대표 이미지" [ref=f42e4651]
+                  - button "리뷰 전체보기" [ref=f42e1340] [cursor=pointer]
+                - generic [ref=f42e4652]:
+                  - strong [ref=f42e4654]: Q&A
+                  - generic [ref=f42e4655]: 상품에 대해 궁금한게 있으신가요?
+                  - button "Q&A 문의하기" [ref=f42e4663] [cursor=pointer]
+                - generic [ref=f42e1366]:
+                  - generic [ref=f42e1367]:
+                    - link [ref=f42e1368] [cursor=pointer]:
+                      - /url: /dadodadok
+                      - img "이미지정보" [ref=f42e1369]
+                    - generic [ref=f42e1370]:
+                      - link "다도다독" [ref=f42e1372] [cursor=pointer]:
+                        - /url: /dadodadok
+                      - generic [ref=f42e1373]: 오픈 3년된 스토어
+                      - list [ref=f42e1375]:
+                        - listitem [ref=f42e1376]:
+                          - button "빅파워" [ref=f42e1382] [cursor=pointer]
+                          - button "도움말" [ref=f42e1384] [cursor=pointer]
+                        - listitem [ref=f42e1389]:
+                          - button "관심고객수 6,145" [ref=f42e1390] [cursor=pointer]
+                          - button "도움말" [ref=f42e1392] [cursor=pointer]
+                      - link "다도다독 등급 혜택 확인" [ref=f42e1398] [cursor=pointer]:
+                        - /url: /dadodadok/gradebenefit
+                        - generic [ref=f42e1399]: 다도다독
+                        - text: 등급 혜택 확인
+                  - list [ref=f42e1402]:
+                    - listitem [ref=f42e1403]:
+                      - button "알림받기" [ref=f42e1404] [cursor=pointer]
+                    - listitem [ref=f42e1408]:
+                      - link "톡톡" [ref=f42e1409] [cursor=pointer]:
+                        - /url: https://talk.naver.com/ct/w4fy0z#nafullscreen
+                    - listitem [ref=f42e1413]:
+                      - link "스토어홈" [ref=f42e1414] [cursor=pointer]:
+                        - /url: /dadodadok
+                - generic [ref=f42e1417]:
+                  - generic [ref=f42e1498]:
+                    - generic [ref=f42e1499]:
+                      - strong [ref=f42e1500]: 이 상품과 비슷한 상품
+                      - generic [ref=f42e1501]: 1 / 8
+                    - list [ref=f42e1507]:
+                      - listitem [ref=f42e1508]:
+                        - generic [ref=f42e1509]:
+                          - link "금철유 은빛 공도배 175ml 숙우 다도용품 GCA06 22,000원 배송비 3,500원" [ref=f42e1510] [cursor=pointer]:
+                            - /url: /dadodadok/products/11188296622
+                            - generic [ref=f42e1511]: 상품 바로가기
+                          - generic [ref=f42e1512]:
+                            - img "@금철유 은빛 공도배 175ml 숙우 다도용품 GCA06" [ref=f42e1514]
+                            - button "금철유 은빛 공도배 175ml 숙우 다도용품 GCA06 찜하기" [ref=f42e1515] [cursor=pointer]
+                          - generic [ref=f42e1520]:
+                            - paragraph [ref=f42e1521]: 금철유 은빛 공도배 175ml 숙우 다도용품 GCA06
+                            - generic [ref=f42e1524]:
+                              - generic [ref=f42e1525]: 22,000원
+                              - generic [ref=f42e1526]:
+                                - generic [ref=f42e1530]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1531]:
+                        - generic [ref=f42e1532]:
+                          - link "소요 잔결 개완 100ml 블랙 47,000원 배송비 3,500원" [ref=f42e1533] [cursor=pointer]:
+                            - /url: /dadodadok/products/13651275856
+                            - generic [ref=f42e1534]: 상품 바로가기
+                          - generic [ref=f42e1535]:
+                            - img "@소요 잔결 개완 100ml 블랙" [ref=f42e1537]
+                            - button "소요 잔결 개완 100ml 블랙 찜하기" [ref=f42e1538] [cursor=pointer]
+                          - generic [ref=f42e1543]:
+                            - paragraph [ref=f42e1544]: 소요 잔결 개완 100ml 블랙
+                            - generic [ref=f42e1547]:
+                              - generic [ref=f42e1548]: 47,000원
+                              - generic [ref=f42e1549]:
+                                - generic [ref=f42e1553]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1554]:
+                        - generic [ref=f42e1555]:
+                          - link "소요 온각 다관 130ml 화이트 블랙 48,000원 배송비 3,500원" [ref=f42e1556] [cursor=pointer]:
+                            - /url: /dadodadok/products/13651211214
+                            - generic [ref=f42e1557]: 상품 바로가기
+                          - generic [ref=f42e1558]:
+                            - img "@소요 온각 다관 130ml 화이트 블랙" [ref=f42e1560]
+                            - button "소요 온각 다관 130ml 화이트 블랙 찜하기" [ref=f42e1561] [cursor=pointer]
+                          - generic [ref=f42e1566]:
+                            - paragraph [ref=f42e1567]: 소요 온각 다관 130ml 화이트 블랙
+                            - generic [ref=f42e1570]:
+                              - generic [ref=f42e1571]: 48,000원
+                              - generic [ref=f42e1572]:
+                                - generic [ref=f42e1576]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1577]:
+                        - generic [ref=f42e1578]:
+                          - link "소요 미르 빙열 개완 100ml 블랙 29,000원 배송비 3,500원" [ref=f42e1579] [cursor=pointer]:
+                            - /url: /dadodadok/products/13651275778
+                            - generic [ref=f42e1580]: 상품 바로가기
+                          - generic [ref=f42e1581]:
+                            - img "@소요 미르 빙열 개완 100ml 블랙" [ref=f42e1583]
+                            - button "소요 미르 빙열 개완 100ml 블랙 찜하기" [ref=f42e1584] [cursor=pointer]
+                          - generic [ref=f42e1589]:
+                            - paragraph [ref=f42e1590]: 소요 미르 빙열 개완 100ml 블랙
+                            - generic [ref=f42e1593]:
+                              - generic [ref=f42e1594]: 29,000원
+                              - generic [ref=f42e1595]:
+                                - generic [ref=f42e1599]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1600]:
+                        - generic [ref=f42e1601]:
+                          - link "소요 조약 개완세트 100ml 블랙 (개완1 호승1) 35,000원 배송비 3,500원" [ref=f42e1602] [cursor=pointer]:
+                            - /url: /dadodadok/products/13651275419
+                            - generic [ref=f42e1603]: 상품 바로가기
+                          - generic [ref=f42e1604]:
+                            - img "@소요 조약 개완세트 100ml 블랙 (개완1 호승1)" [ref=f42e1606]
+                            - button "소요 조약 개완세트 100ml 블랙 (개완1 호승1) 찜하기" [ref=f42e1607] [cursor=pointer]
+                          - generic [ref=f42e1612]:
+                            - paragraph [ref=f42e1613]: 소요 조약 개완세트 100ml 블랙 (개완1 호승1)
+                            - generic [ref=f42e1616]:
+                              - generic [ref=f42e1617]: 35,000원
+                              - generic [ref=f42e1618]:
+                                - generic [ref=f42e1622]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1623]:
+                        - generic [ref=f42e1624]:
+                          - link "소요 삼월 개완 100ml 브라운 59,000원" [ref=f42e1625] [cursor=pointer]:
+                            - /url: /dadodadok/products/13644926230
+                            - generic [ref=f42e1626]: 상품 바로가기
+                          - generic [ref=f42e1627]:
+                            - img "@소요 삼월 개완 100ml 브라운" [ref=f42e1629]
+                            - button "소요 삼월 개완 100ml 브라운 찜하기" [ref=f42e1630] [cursor=pointer]
+                          - generic [ref=f42e1635]:
+                            - paragraph [ref=f42e1636]: 소요 삼월 개완 100ml 브라운
+                            - generic [ref=f42e1637]: 59,000원
+                      - listitem [ref=f42e1641]:
+                        - generic [ref=f42e1642]:
+                          - link "소요 삼각 찻잔 22ml 브라운 15,000원 배송비 3,500원" [ref=f42e1643] [cursor=pointer]:
+                            - /url: /dadodadok/products/13644939203
+                            - generic [ref=f42e1644]: 상품 바로가기
+                          - generic [ref=f42e1645]:
+                            - img "@소요 삼각 찻잔 22ml 브라운" [ref=f42e1647]
+                            - button "소요 삼각 찻잔 22ml 브라운 찜하기" [ref=f42e1648] [cursor=pointer]
+                          - generic [ref=f42e1653]:
+                            - paragraph [ref=f42e1654]: 소요 삼각 찻잔 22ml 브라운
+                            - generic [ref=f42e1657]:
+                              - generic [ref=f42e1658]: 15,000원
+                              - generic [ref=f42e1659]:
+                                - generic [ref=f42e1663]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1664]:
+                        - generic [ref=f42e1665]:
+                          - link "소요 말굽 개완 100ml 블랙 47,000원 배송비 3,500원" [ref=f42e1666] [cursor=pointer]:
+                            - /url: /dadodadok/products/13651275690
+                            - generic [ref=f42e1667]: 상품 바로가기
+                          - generic [ref=f42e1668]:
+                            - img "@소요 말굽 개완 100ml 블랙" [ref=f42e1670]
+                            - button "소요 말굽 개완 100ml 블랙 찜하기" [ref=f42e1671] [cursor=pointer]
+                          - generic [ref=f42e1676]:
+                            - paragraph [ref=f42e1677]: 소요 말굽 개완 100ml 블랙
+                            - generic [ref=f42e1680]:
+                              - generic [ref=f42e1681]: 47,000원
+                              - generic [ref=f42e1682]:
+                                - generic [ref=f42e1686]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1687]:
+                        - generic [ref=f42e1688]:
+                          - link "소요 비연 공도배 도자기 숙우 125ml 브라운 61,000원" [ref=f42e1689] [cursor=pointer]:
+                            - /url: /dadodadok/products/13644928618
+                            - generic [ref=f42e1690]: 상품 바로가기
+                          - generic [ref=f42e1691]:
+                            - img "@소요 비연 공도배 도자기 숙우 125ml 브라운" [ref=f42e1693]
+                            - button "소요 비연 공도배 도자기 숙우 125ml 브라운 찜하기" [ref=f42e1694] [cursor=pointer]
+                          - generic [ref=f42e1699]:
+                            - paragraph [ref=f42e1700]: 소요 비연 공도배 도자기 숙우 125ml 브라운
+                            - generic [ref=f42e1701]: 61,000원
+                      - listitem [ref=f42e1705]:
+                        - generic [ref=f42e1706]:
+                          - link "소요 도담 공도배 도자기 숙우 180ml 브라운 47,000원 배송비 3,500원" [ref=f42e1707] [cursor=pointer]:
+                            - /url: /dadodadok/products/13644927504
+                            - generic [ref=f42e1708]: 상품 바로가기
+                          - generic [ref=f42e1709]:
+                            - img "@소요 도담 공도배 도자기 숙우 180ml 브라운" [ref=f42e1711]
+                            - button "소요 도담 공도배 도자기 숙우 180ml 브라운 찜하기" [ref=f42e1712] [cursor=pointer]
+                          - generic [ref=f42e1717]:
+                            - paragraph [ref=f42e1718]: 소요 도담 공도배 도자기 숙우 180ml 브라운
+                            - generic [ref=f42e1721]:
+                              - generic [ref=f42e1722]: 47,000원
+                              - generic [ref=f42e1723]:
+                                - generic [ref=f42e1727]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1728]:
+                        - generic [ref=f42e1729]:
+                          - link "소요 거름망 공도배 도자기 숙우 200ml 블랙 37,000원 배송비 3,500원" [ref=f42e1730] [cursor=pointer]:
+                            - /url: /dadodadok/products/13651370850
+                            - generic [ref=f42e1731]: 상품 바로가기
+                          - generic [ref=f42e1732]:
+                            - img "@소요 거름망 공도배 도자기 숙우 200ml 블랙" [ref=f42e1734]
+                            - button "소요 거름망 공도배 도자기 숙우 200ml 블랙 찜하기" [ref=f42e1735] [cursor=pointer]
+                          - generic [ref=f42e1740]:
+                            - paragraph [ref=f42e1741]: 소요 거름망 공도배 도자기 숙우 200ml 블랙
+                            - generic [ref=f42e1744]:
+                              - generic [ref=f42e1745]: 37,000원
+                              - generic [ref=f42e1746]:
+                                - generic [ref=f42e1750]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1751]:
+                        - generic [ref=f42e1752]:
+                          - link "소요 도담 공도배 도자기 숙우 180ml 블랙 40,000원 배송비 3,500원" [ref=f42e1753] [cursor=pointer]:
+                            - /url: /dadodadok/products/13651366110
+                            - generic [ref=f42e1754]: 상품 바로가기
+                          - generic [ref=f42e1755]:
+                            - img "@소요 도담 공도배 도자기 숙우 180ml 블랙" [ref=f42e1757]
+                            - button "소요 도담 공도배 도자기 숙우 180ml 블랙 찜하기" [ref=f42e1758] [cursor=pointer]
+                          - generic [ref=f42e1763]:
+                            - paragraph [ref=f42e1764]: 소요 도담 공도배 도자기 숙우 180ml 블랙
+                            - generic [ref=f42e1767]:
+                              - generic [ref=f42e1768]: 40,000원
+                              - generic [ref=f42e1769]:
+                                - generic [ref=f42e1773]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1774]:
+                        - generic [ref=f42e1775]:
+                          - link "소요 여울 공도배 도자기 숙우 220ml 브라운 43,000원 배송비 3,500원" [ref=f42e1776] [cursor=pointer]:
+                            - /url: /dadodadok/products/13644929257
+                            - generic [ref=f42e1777]: 상품 바로가기
+                          - generic [ref=f42e1778]:
+                            - img "@소요 여울 공도배 도자기 숙우 220ml 브라운" [ref=f42e1780]
+                            - button "소요 여울 공도배 도자기 숙우 220ml 브라운 찜하기" [ref=f42e1781] [cursor=pointer]
+                          - generic [ref=f42e1786]:
+                            - paragraph [ref=f42e1787]: 소요 여울 공도배 도자기 숙우 220ml 브라운
+                            - generic [ref=f42e1790]:
+                              - generic [ref=f42e1791]: 43,000원
+                              - generic [ref=f42e1792]:
+                                - generic [ref=f42e1796]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1797]:
+                        - generic [ref=f42e1798]:
+                          - link "소요 여울 공도배 도자기 숙우 140ml 블랙 38,000원 배송비 3,500원" [ref=f42e1799] [cursor=pointer]:
+                            - /url: /dadodadok/products/13651366197
+                            - generic [ref=f42e1800]: 상품 바로가기
+                          - generic [ref=f42e1801]:
+                            - img "@소요 여울 공도배 도자기 숙우 140ml 블랙" [ref=f42e1803]
+                            - button "소요 여울 공도배 도자기 숙우 140ml 블랙 찜하기" [ref=f42e1804] [cursor=pointer]
+                          - generic [ref=f42e1809]:
+                            - paragraph [ref=f42e1810]: 소요 여울 공도배 도자기 숙우 140ml 블랙
+                            - generic [ref=f42e1813]:
+                              - generic [ref=f42e1814]: 38,000원
+                              - generic [ref=f42e1815]:
+                                - generic [ref=f42e1819]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1820]:
+                        - generic [ref=f42e1821]:
+                          - link "소요 조약 개완세트 100ml 옐로우 (개완1 호승1) 35,000원 배송비 3,500원" [ref=f42e1822] [cursor=pointer]:
+                            - /url: /dadodadok/products/13660978452
+                            - generic [ref=f42e1823]: 상품 바로가기
+                          - generic [ref=f42e1824]:
+                            - img "@소요 조약 개완세트 100ml 옐로우 (개완1 호승1)" [ref=f42e1826]
+                            - button "소요 조약 개완세트 100ml 옐로우 (개완1 호승1) 찜하기" [ref=f42e1827] [cursor=pointer]
+                          - generic [ref=f42e1832]:
+                            - paragraph [ref=f42e1833]: 소요 조약 개완세트 100ml 옐로우 (개완1 호승1)
+                            - generic [ref=f42e1836]:
+                              - generic [ref=f42e1837]: 35,000원
+                              - generic [ref=f42e1838]:
+                                - generic [ref=f42e1842]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1843]:
+                        - generic [ref=f42e1844]:
+                          - link "소요 둥근 개완세트 120ml 블랙 (개완1 호승1) 34,000원 배송비 3,500원" [ref=f42e1845] [cursor=pointer]:
+                            - /url: /dadodadok/products/13651275507
+                            - generic [ref=f42e1846]: 상품 바로가기
+                          - generic [ref=f42e1847]:
+                            - img "@소요 둥근 개완세트 120ml 블랙 (개완1 호승1)" [ref=f42e1849]
+                            - button "소요 둥근 개완세트 120ml 블랙 (개완1 호승1) 찜하기" [ref=f42e1850] [cursor=pointer]
+                          - generic [ref=f42e1855]:
+                            - paragraph [ref=f42e1856]: 소요 둥근 개완세트 120ml 블랙 (개완1 호승1)
+                            - generic [ref=f42e1859]:
+                              - generic [ref=f42e1860]: 34,000원
+                              - generic [ref=f42e1861]:
+                                - generic [ref=f42e1865]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1866]:
+                        - generic [ref=f42e1867]:
+                          - link "소요 둥근 공도배 도자기 숙우 2종 150ml 230ml 블랙 34,000원 배송비 3,500원" [ref=f42e1868] [cursor=pointer]:
+                            - /url: /dadodadok/products/13651370936
+                            - generic [ref=f42e1869]: 상품 바로가기
+                          - generic [ref=f42e1870]:
+                            - img "@소요 둥근 공도배 도자기 숙우 2종 150ml 230ml 블랙" [ref=f42e1872]
+                            - button "소요 둥근 공도배 도자기 숙우 2종 150ml 230ml 블랙 찜하기" [ref=f42e1873] [cursor=pointer]
+                          - generic [ref=f42e1878]:
+                            - paragraph [ref=f42e1879]: 소요 둥근 공도배 도자기 숙우 2종 150ml 230ml 블랙
+                            - generic [ref=f42e1882]:
+                              - generic [ref=f42e1883]: 34,000원
+                              - generic [ref=f42e1884]:
+                                - generic [ref=f42e1888]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1889]:
+                        - generic [ref=f42e1890]:
+                          - link "소요 종 찻잔 50ml 블랙 15,000원 배송비 3,500원" [ref=f42e1891] [cursor=pointer]:
+                            - /url: /dadodadok/products/13651390648
+                            - generic [ref=f42e1892]: 상품 바로가기
+                          - generic [ref=f42e1893]:
+                            - img "@소요 종 찻잔 50ml 블랙" [ref=f42e1895]
+                            - button "소요 종 찻잔 50ml 블랙 찜하기" [ref=f42e1896] [cursor=pointer]
+                          - generic [ref=f42e1901]:
+                            - paragraph [ref=f42e1902]: 소요 종 찻잔 50ml 블랙
+                            - generic [ref=f42e1905]:
+                              - generic [ref=f42e1906]: 15,000원
+                              - generic [ref=f42e1907]:
+                                - generic [ref=f42e1911]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1912]:
+                        - generic [ref=f42e1913]:
+                          - link "소요 종 찻잔 도자기 찻잔 50ml 화이트 15,000원 배송비 3,500원" [ref=f42e1914] [cursor=pointer]:
+                            - /url: /dadodadok/products/13643896686
+                            - generic [ref=f42e1915]: 상품 바로가기
+                          - generic [ref=f42e1916]:
+                            - img "@소요 종 찻잔 도자기 찻잔 50ml 화이트" [ref=f42e1918]
+                            - button "소요 종 찻잔 도자기 찻잔 50ml 화이트 찜하기" [ref=f42e1919] [cursor=pointer]
+                          - generic [ref=f42e1924]:
+                            - paragraph [ref=f42e1925]: 소요 종 찻잔 도자기 찻잔 50ml 화이트
+                            - generic [ref=f42e1928]:
+                              - generic [ref=f42e1929]: 15,000원
+                              - generic [ref=f42e1930]:
+                                - generic [ref=f42e1934]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1935]:
+                        - generic [ref=f42e1936]:
+                          - link "소요 둥근 찻잔 60ml 브라운 15,000원 배송비 3,500원" [ref=f42e1937] [cursor=pointer]:
+                            - /url: /dadodadok/products/13644939886
+                            - generic [ref=f42e1938]: 상품 바로가기
+                          - generic [ref=f42e1939]:
+                            - img "@소요 둥근 찻잔 60ml 브라운" [ref=f42e1941]
+                            - button "소요 둥근 찻잔 60ml 브라운 찜하기" [ref=f42e1942] [cursor=pointer]
+                          - generic [ref=f42e1947]:
+                            - paragraph [ref=f42e1948]: 소요 둥근 찻잔 60ml 브라운
+                            - generic [ref=f42e1951]:
+                              - generic [ref=f42e1952]: 15,000원
+                              - generic [ref=f42e1953]:
+                                - generic [ref=f42e1957]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1958]:
+                        - generic [ref=f42e1959]:
+                          - link "지노 고양이 도자기 개완 130ML 중국다기 차다관 차우리기 29,000원 배송비 3,500원" [ref=f42e1960] [cursor=pointer]:
+                            - /url: /dadodadok/products/11554704509
+                            - generic [ref=f42e1961]: 상품 바로가기
+                          - generic [ref=f42e1962]:
+                            - img "@지노 고양이 도자기 개완 130ML 중국다기 차다관 차우리기" [ref=f42e1964]
+                            - button "지노 고양이 도자기 개완 130ML 중국다기 차다관 차우리기 찜하기" [ref=f42e1965] [cursor=pointer]
+                          - generic [ref=f42e1970]:
+                            - paragraph [ref=f42e1971]: 지노 고양이 도자기 개완 130ML 중국다기 차다관 차우리기
+                            - generic [ref=f42e1974]:
+                              - generic [ref=f42e1975]: 29,000원
+                              - generic [ref=f42e1976]:
+                                - generic [ref=f42e1980]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e1981]:
+                        - generic [ref=f42e1982]:
+                          - link "차친구 의기양양 고양이 FKA07 차총 수공예 도자기 차도구 다도 16,000원 배송비 3,500원" [ref=f42e1983] [cursor=pointer]:
+                            - /url: /dadodadok/products/11061563824
+                            - generic [ref=f42e1984]: 상품 바로가기
+                          - generic [ref=f42e1985]:
+                            - img "@차친구 의기양양 고양이 FKA07 차총 수공예 도자기 차도구 다도" [ref=f42e1987]
+                            - button "차친구 의기양양 고양이 FKA07 차총 수공예 도자기 차도구 다도 찜하기" [ref=f42e1988] [cursor=pointer]
+                          - generic [ref=f42e1993]:
+                            - paragraph [ref=f42e1994]: 차친구 의기양양 고양이 FKA07 차총 수공예 도자기 차도구 다도
+                            - generic [ref=f42e1997]:
+                              - generic [ref=f42e1998]: 16,000원
+                              - generic [ref=f42e1999]:
+                                - generic [ref=f42e2003]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2004]:
+                        - generic [ref=f42e2005]:
+                          - link "세이안 말차세트 격불세트 다도세트 다완 차선 말차격불세트 46,000원 4% 할인 44,000원 배송비 3,500원" [ref=f42e2006] [cursor=pointer]:
+                            - /url: /dadodadok/products/11859682021
+                            - generic [ref=f42e2007]: 상품 바로가기
+                          - generic [ref=f42e2008]:
+                            - img "@세이안 말차세트 격불세트 다도세트 다완 차선 말차격불세트" [ref=f42e2010]
+                            - button "세이안 말차세트 격불세트 다도세트 다완 차선 말차격불세트 찜하기" [ref=f42e2011] [cursor=pointer]
+                          - generic [ref=f42e2016]:
+                            - paragraph [ref=f42e2017]: 세이안 말차세트 격불세트 다도세트 다완 차선 말차격불세트
+                            - generic [ref=f42e2019]:
+                              - deletion [ref=f42e2020]: 46,000원
+                              - generic [ref=f42e2021]:
+                                - generic [ref=f42e2022]:
+                                  - generic [ref=f42e2023]:
+                                    - text: 4%
+                                    - generic [ref=f42e2024]: 할인
+                                  - generic [ref=f42e2025]: 44,000원
+                                - generic [ref=f42e2026]:
+                                  - generic [ref=f42e2030]: 배송비
+                                  - text: 3,500원
+                      - listitem [ref=f42e2031]:
+                        - generic [ref=f42e2032]:
+                          - link "차친구 포옹곰 FKA03 차총 다도 차도구 도자기 수공예 16,000원 배송비 3,500원" [ref=f42e2033] [cursor=pointer]:
+                            - /url: /dadodadok/products/11061562857
+                            - generic [ref=f42e2034]: 상품 바로가기
+                          - generic [ref=f42e2035]:
+                            - img "@차친구 포옹곰 FKA03 차총 다도 차도구 도자기 수공예" [ref=f42e2037]
+                            - button "차친구 포옹곰 FKA03 차총 다도 차도구 도자기 수공예 찜하기" [ref=f42e2038] [cursor=pointer]
+                          - generic [ref=f42e2043]:
+                            - paragraph [ref=f42e2044]: 차친구 포옹곰 FKA03 차총 다도 차도구 도자기 수공예
+                            - generic [ref=f42e2047]:
+                              - generic [ref=f42e2048]: 16,000원
+                              - generic [ref=f42e2049]:
+                                - generic [ref=f42e2053]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2054]:
+                        - generic [ref=f42e2055]:
+                          - link "거위 차총 개치 차도구 다기 차판 티악세사리 다도용품 장식품 오리 변색 차친구 23,000원 21% 할인 18,000원 배송비 3,500원" [ref=f42e2056] [cursor=pointer]:
+                            - /url: /dadodadok/products/11441841342
+                            - generic [ref=f42e2057]: 상품 바로가기
+                          - generic [ref=f42e2058]:
+                            - img "@거위 차총 개치 차도구 다기 차판 티악세사리 다도용품 장식품 오리 변색 차친구" [ref=f42e2060]
+                            - button "거위 차총 개치 차도구 다기 차판 티악세사리 다도용품 장식품 오리 변색 차친구 찜하기" [ref=f42e2061] [cursor=pointer]
+                          - generic [ref=f42e2066]:
+                            - paragraph [ref=f42e2067]: 거위 차총 개치 차도구 다기 차판 티악세사리 다도용품 장식품 오리 변색 차친구
+                            - generic [ref=f42e2069]:
+                              - deletion [ref=f42e2070]: 23,000원
+                              - generic [ref=f42e2071]:
+                                - generic [ref=f42e2072]:
+                                  - generic [ref=f42e2073]:
+                                    - text: 21%
+                                    - generic [ref=f42e2074]: 할인
+                                  - generic [ref=f42e2075]: 18,000원
+                                - generic [ref=f42e2076]:
+                                  - generic [ref=f42e2080]: 배송비
+                                  - text: 3,500원
+                      - listitem [ref=f42e2081]:
+                        - generic [ref=f42e2082]:
+                          - link "차친구 얼룩 강아지 FKA12 차총 차도구 도자기 수공예 다도 14,000원 배송비 3,500원" [ref=f42e2083] [cursor=pointer]:
+                            - /url: /dadodadok/products/11061565219
+                            - generic [ref=f42e2084]: 상품 바로가기
+                          - generic [ref=f42e2085]:
+                            - img "@차친구 얼룩 강아지 FKA12 차총 차도구 도자기 수공예 다도" [ref=f42e2087]
+                            - button "차친구 얼룩 강아지 FKA12 차총 차도구 도자기 수공예 다도 찜하기" [ref=f42e2088] [cursor=pointer]
+                          - generic [ref=f42e2093]:
+                            - paragraph [ref=f42e2094]: 차친구 얼룩 강아지 FKA12 차총 차도구 도자기 수공예 다도
+                            - generic [ref=f42e2097]:
+                              - generic [ref=f42e2098]: 14,000원
+                              - generic [ref=f42e2099]:
+                                - generic [ref=f42e2103]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2104]:
+                        - generic [ref=f42e2105]:
+                          - link "도자기차완 말차도구세트 말차다구 차선 격불세트 차완 다완 A 34,000원 배송비 3,500원" [ref=f42e2106] [cursor=pointer]:
+                            - /url: /dadodadok/products/12093907354
+                            - generic [ref=f42e2107]: 상품 바로가기
+                          - generic [ref=f42e2108]:
+                            - img "@도자기차완 말차도구세트 말차다구 차선 격불세트 차완 다완 A" [ref=f42e2110]
+                            - button "도자기차완 말차도구세트 말차다구 차선 격불세트 차완 다완 A 찜하기" [ref=f42e2111] [cursor=pointer]
+                          - generic [ref=f42e2116]:
+                            - paragraph [ref=f42e2117]: 도자기차완 말차도구세트 말차다구 차선 격불세트 차완 다완 A
+                            - generic [ref=f42e2120]:
+                              - generic [ref=f42e2121]: 34,000원
+                              - generic [ref=f42e2122]:
+                                - generic [ref=f42e2126]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2127]:
+                        - generic [ref=f42e2128]:
+                          - link "코히키 꽃잎 도자기 말굽 개완 130ml 28,000원 배송비 3,500원" [ref=f42e2129] [cursor=pointer]:
+                            - /url: /dadodadok/products/11236407811
+                            - generic [ref=f42e2130]: 상품 바로가기
+                          - generic [ref=f42e2131]:
+                            - img "@코히키 꽃잎 도자기 말굽 개완 130ml" [ref=f42e2133]
+                            - button "코히키 꽃잎 도자기 말굽 개완 130ml 찜하기" [ref=f42e2134] [cursor=pointer]
+                          - generic [ref=f42e2139]:
+                            - paragraph [ref=f42e2140]: 코히키 꽃잎 도자기 말굽 개완 130ml
+                            - generic [ref=f42e2143]:
+                              - generic [ref=f42e2144]: 28,000원
+                              - generic [ref=f42e2145]:
+                                - generic [ref=f42e2149]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2150]:
+                        - generic [ref=f42e2151]:
+                          - link "코히키 운암 배불뚝이 도자기 다관 130ml 34,000원 배송비 3,500원" [ref=f42e2152] [cursor=pointer]:
+                            - /url: /dadodadok/products/11236764951
+                            - generic [ref=f42e2153]: 상품 바로가기
+                          - generic [ref=f42e2154]:
+                            - img "@코히키 운암 배불뚝이 도자기 다관 130ml" [ref=f42e2156]
+                            - button "코히키 운암 배불뚝이 도자기 다관 130ml 찜하기" [ref=f42e2157] [cursor=pointer]
+                          - generic [ref=f42e2162]:
+                            - paragraph [ref=f42e2163]: 코히키 운암 배불뚝이 도자기 다관 130ml
+                            - generic [ref=f42e2166]:
+                              - generic [ref=f42e2167]: 34,000원
+                              - generic [ref=f42e2168]:
+                                - generic [ref=f42e2172]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2173]:
+                        - generic [ref=f42e2174]:
+                          - link "차총 공손한 오리 FKA15 차친구 차도구 수공예 도자기 다도 17,000원 배송비 3,500원" [ref=f42e2175] [cursor=pointer]:
+                            - /url: /dadodadok/products/11061810360
+                            - generic [ref=f42e2176]: 상품 바로가기
+                          - generic [ref=f42e2177]:
+                            - img "@차총 공손한 오리 FKA15 차친구 차도구 수공예 도자기 다도" [ref=f42e2179]
+                            - button "차총 공손한 오리 FKA15 차친구 차도구 수공예 도자기 다도 찜하기" [ref=f42e2180] [cursor=pointer]
+                          - generic [ref=f42e2185]:
+                            - paragraph [ref=f42e2186]: 차총 공손한 오리 FKA15 차친구 차도구 수공예 도자기 다도
+                            - generic [ref=f42e2189]:
+                              - generic [ref=f42e2190]: 17,000원
+                              - generic [ref=f42e2191]:
+                                - generic [ref=f42e2195]: 배송비
+                                - text: 3,500원
+                  - generic [ref=f42e2197]:
+                    - generic [ref=f42e2198]:
+                      - strong [ref=f42e2199]: 함께 구매하기 좋은 상품
+                      - generic [ref=f42e2200]: 1 / 8
+                    - list [ref=f42e2206]:
+                      - listitem [ref=f42e2207]:
+                        - generic [ref=f42e2208]:
+                          - link "보이차 해괴 쪼개기 차칼 보이차칼 부수기 304스텐 JWA07 12,000원 배송비 3,500원" [ref=f42e2209] [cursor=pointer]:
+                            - /url: /dadodadok/products/11054580486
+                            - generic [ref=f42e2210]: 상품 바로가기
+                          - generic [ref=f42e2211]:
+                            - img "@보이차 해괴 쪼개기 차칼 보이차칼 부수기 304스텐 JWA07" [ref=f42e2213]
+                            - button "보이차 해괴 쪼개기 차칼 보이차칼 부수기 304스텐 JWA07 찜하기" [ref=f42e2214] [cursor=pointer]
+                          - generic [ref=f42e2219]:
+                            - paragraph [ref=f42e2220]: 보이차 해괴 쪼개기 차칼 보이차칼 부수기 304스텐 JWA07
+                            - generic [ref=f42e2223]:
+                              - generic [ref=f42e2224]: 12,000원
+                              - generic [ref=f42e2225]:
+                                - generic [ref=f42e2229]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2230]:
+                        - generic [ref=f42e2231]:
+                          - link "차총 바라보는 수달 FKA18 차친구 수공예 차도구 도자기 다도 16,000원 배송비 3,500원" [ref=f42e2232] [cursor=pointer]:
+                            - /url: /dadodadok/products/11061822347
+                            - generic [ref=f42e2233]: 상품 바로가기
+                          - generic [ref=f42e2234]:
+                            - img "@차총 바라보는 수달 FKA18 차친구 수공예 차도구 도자기 다도" [ref=f42e2236]
+                            - button "차총 바라보는 수달 FKA18 차친구 수공예 차도구 도자기 다도 찜하기" [ref=f42e2237] [cursor=pointer]
+                          - generic [ref=f42e2242]:
+                            - paragraph [ref=f42e2243]: 차총 바라보는 수달 FKA18 차친구 수공예 차도구 도자기 다도
+                            - generic [ref=f42e2246]:
+                              - generic [ref=f42e2247]: 16,000원
+                              - generic [ref=f42e2248]:
+                                - generic [ref=f42e2252]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2253]:
+                        - generic [ref=f42e2254]:
+                          - link "차친구 뚱땡이 악어 FKA06 차총 다도 도자기 차도구 수공예 15,000원 배송비 3,500원" [ref=f42e2255] [cursor=pointer]:
+                            - /url: /dadodadok/products/11061563610
+                            - generic [ref=f42e2256]: 상품 바로가기
+                          - generic [ref=f42e2257]:
+                            - img "@차친구 뚱땡이 악어 FKA06 차총 다도 도자기 차도구 수공예" [ref=f42e2259]
+                            - button "차친구 뚱땡이 악어 FKA06 차총 다도 도자기 차도구 수공예 찜하기" [ref=f42e2260] [cursor=pointer]
+                          - generic [ref=f42e2265]:
+                            - paragraph [ref=f42e2266]: 차친구 뚱땡이 악어 FKA06 차총 다도 도자기 차도구 수공예
+                            - generic [ref=f42e2269]:
+                              - generic [ref=f42e2270]: 15,000원
+                              - generic [ref=f42e2271]:
+                                - generic [ref=f42e2275]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2276]:
+                        - generic [ref=f42e2277]:
+                          - link "차친구 귀여운 돼지 FKA04 차총 차도구 다도 도자기 수공예 13,000원 배송비 3,500원" [ref=f42e2278] [cursor=pointer]:
+                            - /url: /dadodadok/products/11061563130
+                            - generic [ref=f42e2279]: 상품 바로가기
+                          - generic [ref=f42e2280]:
+                            - img "@차친구 귀여운 돼지 FKA04 차총 차도구 다도 도자기 수공예" [ref=f42e2282]
+                            - button "차친구 귀여운 돼지 FKA04 차총 차도구 다도 도자기 수공예 찜하기" [ref=f42e2283] [cursor=pointer]
+                          - generic [ref=f42e2288]:
+                            - paragraph [ref=f42e2289]: 차친구 귀여운 돼지 FKA04 차총 차도구 다도 도자기 수공예
+                            - generic [ref=f42e2292]:
+                              - generic [ref=f42e2293]: 13,000원
+                              - generic [ref=f42e2294]:
+                                - generic [ref=f42e2298]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2299]:
+                        - generic [ref=f42e2300]:
+                          - link "슬라이드 원터치 티포트 표일배 티메이커 내열유리 티팟 600ML 86,000원 36% 할인 54,900원" [ref=f42e2301] [cursor=pointer]:
+                            - /url: /dadodadok/products/11793657598
+                            - generic [ref=f42e2302]: 상품 바로가기
+                          - generic [ref=f42e2303]:
+                            - img "@슬라이드 원터치 티포트 표일배 티메이커 내열유리 티팟 600ML" [ref=f42e2305]
+                            - button "슬라이드 원터치 티포트 표일배 티메이커 내열유리 티팟 600ML 찜하기" [ref=f42e2306] [cursor=pointer]
+                          - generic [ref=f42e2311]:
+                            - paragraph [ref=f42e2312]: 슬라이드 원터치 티포트 표일배 티메이커 내열유리 티팟 600ML
+                            - generic [ref=f42e2314]:
+                              - deletion [ref=f42e2315]: 86,000원
+                              - generic [ref=f42e2317]:
+                                - generic [ref=f42e2318]:
+                                  - text: 36%
+                                  - generic [ref=f42e2319]: 할인
+                                - generic [ref=f42e2320]: 54,900원
+                      - listitem [ref=f42e2321]:
+                        - generic [ref=f42e2322]:
+                          - link "보이차 보관 케이스 세트 OCL01 보이차보관함 틴케이스 5개입 37,500원 배송비 3,500원" [ref=f42e2323] [cursor=pointer]:
+                            - /url: /dadodadok/products/11054493668
+                            - generic [ref=f42e2324]: 상품 바로가기
+                          - generic [ref=f42e2325]:
+                            - img "@보이차 보관 케이스 세트 OCL01 보이차보관함 틴케이스 5개입" [ref=f42e2327]
+                            - button "보이차 보관 케이스 세트 OCL01 보이차보관함 틴케이스 5개입 찜하기" [ref=f42e2328] [cursor=pointer]
+                          - generic [ref=f42e2333]:
+                            - paragraph [ref=f42e2334]: 보이차 보관 케이스 세트 OCL01 보이차보관함 틴케이스 5개입
+                            - generic [ref=f42e2337]:
+                              - generic [ref=f42e2338]: 37,500원
+                              - generic [ref=f42e2339]:
+                                - generic [ref=f42e2343]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2344]:
+                        - generic [ref=f42e2345]:
+                          - link "비도 꽃봉오리 찻잔 45ml 다기잔 전통찻잔 보이차잔 14,000원 배송비 3,500원" [ref=f42e2346] [cursor=pointer]:
+                            - /url: /dadodadok/products/13642918676
+                            - generic [ref=f42e2347]: 상품 바로가기
+                          - generic [ref=f42e2348]:
+                            - img "@비도 꽃봉오리 찻잔 45ml 다기잔 전통찻잔 보이차잔" [ref=f42e2350]
+                            - button "비도 꽃봉오리 찻잔 45ml 다기잔 전통찻잔 보이차잔 찜하기" [ref=f42e2351] [cursor=pointer]
+                          - generic [ref=f42e2356]:
+                            - paragraph [ref=f42e2357]: 비도 꽃봉오리 찻잔 45ml 다기잔 전통찻잔 보이차잔
+                            - generic [ref=f42e2360]:
+                              - generic [ref=f42e2361]: 14,000원
+                              - generic [ref=f42e2362]:
+                                - generic [ref=f42e2366]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2367]:
+                        - generic [ref=f42e2368]:
+                          - link "거위 차총 개치 차도구 다기 차판 티악세사리 다도용품 장식품 오리 변색 차친구 23,000원 21% 할인 18,000원 배송비 3,500원" [ref=f42e2369] [cursor=pointer]:
+                            - /url: /dadodadok/products/11441841342
+                            - generic [ref=f42e2370]: 상품 바로가기
+                          - generic [ref=f42e2371]:
+                            - img "@거위 차총 개치 차도구 다기 차판 티악세사리 다도용품 장식품 오리 변색 차친구" [ref=f42e2373]
+                            - button "거위 차총 개치 차도구 다기 차판 티악세사리 다도용품 장식품 오리 변색 차친구 찜하기" [ref=f42e2374] [cursor=pointer]
+                          - generic [ref=f42e2379]:
+                            - paragraph [ref=f42e2380]: 거위 차총 개치 차도구 다기 차판 티악세사리 다도용품 장식품 오리 변색 차친구
+                            - generic [ref=f42e2382]:
+                              - deletion [ref=f42e2383]: 23,000원
+                              - generic [ref=f42e2384]:
+                                - generic [ref=f42e2385]:
+                                  - generic [ref=f42e2386]:
+                                    - text: 21%
+                                    - generic [ref=f42e2387]: 할인
+                                  - generic [ref=f42e2388]: 18,000원
+                                - generic [ref=f42e2389]:
+                                  - generic [ref=f42e2393]: 배송비
+                                  - text: 3,500원
+                      - listitem [ref=f42e2394]:
+                        - generic [ref=f42e2395]:
+                          - link "스톤 해질녘 차판 PUW41 퇴수기 차트레이 다도 32,000원 배송비 3,500원" [ref=f42e2396] [cursor=pointer]:
+                            - /url: /dadodadok/products/11106236285
+                            - generic [ref=f42e2397]: 상품 바로가기
+                          - generic [ref=f42e2398]:
+                            - img "@스톤 해질녘 차판 PUW41 퇴수기 차트레이 다도" [ref=f42e2400]
+                            - button "스톤 해질녘 차판 PUW41 퇴수기 차트레이 다도 찜하기" [ref=f42e2401] [cursor=pointer]
+                          - generic [ref=f42e2406]:
+                            - paragraph [ref=f42e2407]: 스톤 해질녘 차판 PUW41 퇴수기 차트레이 다도
+                            - generic [ref=f42e2410]:
+                              - generic [ref=f42e2411]: 32,000원
+                              - generic [ref=f42e2412]:
+                                - generic [ref=f42e2416]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2417]:
+                        - generic [ref=f42e2418]:
+                          - link "세이안 말차세트 격불세트 다도세트 다완 차선 말차격불세트 46,000원 4% 할인 44,000원 배송비 3,500원" [ref=f42e2419] [cursor=pointer]:
+                            - /url: /dadodadok/products/11859682021
+                            - generic [ref=f42e2420]: 상품 바로가기
+                          - generic [ref=f42e2421]:
+                            - img "@세이안 말차세트 격불세트 다도세트 다완 차선 말차격불세트" [ref=f42e2423]
+                            - button "세이안 말차세트 격불세트 다도세트 다완 차선 말차격불세트 찜하기" [ref=f42e2424] [cursor=pointer]
+                          - generic [ref=f42e2429]:
+                            - paragraph [ref=f42e2430]: 세이안 말차세트 격불세트 다도세트 다완 차선 말차격불세트
+                            - generic [ref=f42e2432]:
+                              - deletion [ref=f42e2433]: 46,000원
+                              - generic [ref=f42e2434]:
+                                - generic [ref=f42e2435]:
+                                  - generic [ref=f42e2436]:
+                                    - text: 4%
+                                    - generic [ref=f42e2437]: 할인
+                                  - generic [ref=f42e2438]: 44,000원
+                                - generic [ref=f42e2439]:
+                                  - generic [ref=f42e2443]: 배송비
+                                  - text: 3,500원
+                      - listitem [ref=f42e2444]:
+                        - generic [ref=f42e2445]:
+                          - link "월토끼 둥근 뚜껑 받침 개완뚜껑 자사호 다관 받침대 13,000원 15% 할인 11,000원 배송비 3,500원" [ref=f42e2446] [cursor=pointer]:
+                            - /url: /dadodadok/products/11672961218
+                            - generic [ref=f42e2447]: 상품 바로가기
+                          - generic [ref=f42e2448]:
+                            - img "@월토끼 둥근 뚜껑 받침 개완뚜껑 자사호 다관 받침대" [ref=f42e2450]
+                            - button "월토끼 둥근 뚜껑 받침 개완뚜껑 자사호 다관 받침대 찜하기" [ref=f42e2451] [cursor=pointer]
+                          - generic [ref=f42e2456]:
+                            - paragraph [ref=f42e2457]: 월토끼 둥근 뚜껑 받침 개완뚜껑 자사호 다관 받침대
+                            - generic [ref=f42e2459]:
+                              - deletion [ref=f42e2460]: 13,000원
+                              - generic [ref=f42e2461]:
+                                - generic [ref=f42e2462]:
+                                  - generic [ref=f42e2463]:
+                                    - text: 15%
+                                    - generic [ref=f42e2464]: 할인
+                                  - generic [ref=f42e2465]: 11,000원
+                                - generic [ref=f42e2466]:
+                                  - generic [ref=f42e2470]: 배송비
+                                  - text: 3,500원
+                      - listitem [ref=f42e2471]:
+                        - generic [ref=f42e2472]:
+                          - link "용 티타월 다건 차수건 차건 다도용품 12,000원 배송비 3,500원" [ref=f42e2473] [cursor=pointer]:
+                            - /url: /dadodadok/products/11231633607
+                            - generic [ref=f42e2474]: 상품 바로가기
+                          - generic [ref=f42e2475]:
+                            - img "@용 티타월 다건 차수건 차건 다도용품" [ref=f42e2477]
+                            - button "용 티타월 다건 차수건 차건 다도용품 찜하기" [ref=f42e2478] [cursor=pointer]
+                          - generic [ref=f42e2483]:
+                            - paragraph [ref=f42e2484]: 용 티타월 다건 차수건 차건 다도용품
+                            - generic [ref=f42e2487]:
+                              - generic [ref=f42e2488]: 12,000원
+                              - generic [ref=f42e2489]:
+                                - generic [ref=f42e2493]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2494]:
+                        - generic [ref=f42e2495]:
+                          - link "꽃잎 동 찻잔받침 빈티지 잔받침 티코스터 11,000원 배송비 3,500원" [ref=f42e2496] [cursor=pointer]:
+                            - /url: /dadodadok/products/11928296009
+                            - generic [ref=f42e2497]: 상품 바로가기
+                          - generic [ref=f42e2498]:
+                            - img "@꽃잎 동 찻잔받침 빈티지 잔받침 티코스터" [ref=f42e2500]
+                            - button "꽃잎 동 찻잔받침 빈티지 잔받침 티코스터 찜하기" [ref=f42e2501] [cursor=pointer]
+                          - generic [ref=f42e2506]:
+                            - paragraph [ref=f42e2507]: 꽃잎 동 찻잔받침 빈티지 잔받침 티코스터
+                            - generic [ref=f42e2510]:
+                              - generic [ref=f42e2511]: 11,000원
+                              - generic [ref=f42e2512]:
+                                - generic [ref=f42e2516]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2517]:
+                        - generic [ref=f42e2518]:
+                          - link "차친구 포옹곰 FKA03 차총 다도 차도구 도자기 수공예 16,000원 배송비 3,500원" [ref=f42e2519] [cursor=pointer]:
+                            - /url: /dadodadok/products/11061562857
+                            - generic [ref=f42e2520]: 상품 바로가기
+                          - generic [ref=f42e2521]:
+                            - img "@차친구 포옹곰 FKA03 차총 다도 차도구 도자기 수공예" [ref=f42e2523]
+                            - button "차친구 포옹곰 FKA03 차총 다도 차도구 도자기 수공예 찜하기" [ref=f42e2524] [cursor=pointer]
+                          - generic [ref=f42e2529]:
+                            - paragraph [ref=f42e2530]: 차친구 포옹곰 FKA03 차총 다도 차도구 도자기 수공예
+                            - generic [ref=f42e2533]:
+                              - generic [ref=f42e2534]: 16,000원
+                              - generic [ref=f42e2535]:
+                                - generic [ref=f42e2539]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2540]:
+                        - generic [ref=f42e2541]:
+                          - link "테이블 매트 방수 티코스터 방수 고풍 다도 티매트 33x33cm TMB02 13,000원 배송비 3,500원" [ref=f42e2542] [cursor=pointer]:
+                            - /url: /dadodadok/products/10997118722
+                            - generic [ref=f42e2543]: 상품 바로가기
+                          - generic [ref=f42e2544]:
+                            - img "@테이블 매트 방수 티코스터 방수 고풍 다도 티매트 33x33cm TMB02" [ref=f42e2546]
+                            - button "테이블 매트 방수 티코스터 방수 고풍 다도 티매트 33x33cm TMB02 찜하기" [ref=f42e2547] [cursor=pointer]
+                          - generic [ref=f42e2552]:
+                            - paragraph [ref=f42e2553]: 테이블 매트 방수 티코스터 방수 고풍 다도 티매트 33x33cm TMB02
+                            - generic [ref=f42e2556]:
+                              - generic [ref=f42e2557]: 13,000원
+                              - generic [ref=f42e2558]:
+                                - generic [ref=f42e2562]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2563]:
+                        - generic [ref=f42e2564]:
+                          - link "수제패치 티매트 테이블매트 식탁매트 티코스터 29,000원 배송비 3,500원" [ref=f42e2565] [cursor=pointer]:
+                            - /url: /dadodadok/products/11231636277
+                            - generic [ref=f42e2566]: 상품 바로가기
+                          - generic [ref=f42e2567]:
+                            - img "@수제패치 티매트 테이블매트 식탁매트 티코스터" [ref=f42e2569]
+                            - button "수제패치 티매트 테이블매트 식탁매트 티코스터 찜하기" [ref=f42e2570] [cursor=pointer]
+                          - generic [ref=f42e2575]:
+                            - paragraph [ref=f42e2576]: 수제패치 티매트 테이블매트 식탁매트 티코스터
+                            - generic [ref=f42e2579]:
+                              - generic [ref=f42e2580]: 29,000원
+                              - generic [ref=f42e2581]:
+                                - generic [ref=f42e2585]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2586]:
+                        - generic [ref=f42e2587]:
+                          - link "버블 유리 찻잔 50ML 투명 유리잔 투명찻잔 불투명 기포 14,000원 배송비 3,500원" [ref=f42e2588] [cursor=pointer]:
+                            - /url: /dadodadok/products/12101181574
+                            - generic [ref=f42e2589]: 상품 바로가기
+                          - generic [ref=f42e2590]:
+                            - img "@버블 유리 찻잔 50ML 투명 유리잔 투명찻잔 불투명 기포" [ref=f42e2592]
+                            - button "버블 유리 찻잔 50ML 투명 유리잔 투명찻잔 불투명 기포 찜하기" [ref=f42e2593] [cursor=pointer]
+                          - generic [ref=f42e2598]:
+                            - paragraph [ref=f42e2599]: 버블 유리 찻잔 50ML 투명 유리잔 투명찻잔 불투명 기포
+                            - generic [ref=f42e2602]:
+                              - generic [ref=f42e2603]: 14,000원
+                              - generic [ref=f42e2604]:
+                                - generic [ref=f42e2608]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2609]:
+                        - generic [ref=f42e2610]:
+                          - link "티타늄 차거름망 우드 FVA14 거름망 티거름망 다도 찻잎 23,000원 배송비 3,500원" [ref=f42e2611] [cursor=pointer]:
+                            - /url: /dadodadok/products/11066792588
+                            - generic [ref=f42e2612]: 상품 바로가기
+                          - generic [ref=f42e2613]:
+                            - img "@티타늄 차거름망 우드 FVA14 거름망 티거름망 다도 찻잎" [ref=f42e2615]
+                            - button "티타늄 차거름망 우드 FVA14 거름망 티거름망 다도 찻잎 찜하기" [ref=f42e2616] [cursor=pointer]
+                          - generic [ref=f42e2621]:
+                            - paragraph [ref=f42e2622]: 티타늄 차거름망 우드 FVA14 거름망 티거름망 다도 찻잎
+                            - generic [ref=f42e2625]:
+                              - generic [ref=f42e2626]: 23,000원
+                              - generic [ref=f42e2627]:
+                                - generic [ref=f42e2631]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2632]:
+                        - generic [ref=f42e2633]:
+                          - link "흑단나무 원형 찻잔받침 컵받침 찻잔 차실 다도용품 티코스터 9,000원 배송비 3,500원" [ref=f42e2634] [cursor=pointer]:
+                            - /url: /dadodadok/products/11942758223
+                            - generic [ref=f42e2635]: 상품 바로가기
+                          - generic [ref=f42e2636]:
+                            - img "@흑단나무 원형 찻잔받침 컵받침 찻잔 차실 다도용품 티코스터" [ref=f42e2638]
+                            - button "흑단나무 원형 찻잔받침 컵받침 찻잔 차실 다도용품 티코스터 찜하기" [ref=f42e2639] [cursor=pointer]
+                          - generic [ref=f42e2644]:
+                            - paragraph [ref=f42e2645]: 흑단나무 원형 찻잔받침 컵받침 찻잔 차실 다도용품 티코스터
+                            - generic [ref=f42e2648]:
+                              - generic [ref=f42e2649]: 9,000원
+                              - generic [ref=f42e2650]:
+                                - generic [ref=f42e2654]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2655]:
+                        - generic [ref=f42e2656]:
+                          - link "난화서시 도자기 다관 200ml 찻주전자 티팟 GWB02 27,000원 배송비 3,500원" [ref=f42e2657] [cursor=pointer]:
+                            - /url: /dadodadok/products/11138704790
+                            - generic [ref=f42e2658]: 상품 바로가기
+                          - generic [ref=f42e2659]:
+                            - img "@난화서시 도자기 다관 200ml 찻주전자 티팟 GWB02" [ref=f42e2661]
+                            - button "난화서시 도자기 다관 200ml 찻주전자 티팟 GWB02 찜하기" [ref=f42e2662] [cursor=pointer]
+                          - generic [ref=f42e2667]:
+                            - paragraph [ref=f42e2668]: 난화서시 도자기 다관 200ml 찻주전자 티팟 GWB02
+                            - generic [ref=f42e2671]:
+                              - generic [ref=f42e2672]: 27,000원
+                              - generic [ref=f42e2673]:
+                                - generic [ref=f42e2677]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2678]:
+                        - generic [ref=f42e2679]:
+                          - link "보온 머그 워머 HWA07 티팟 차 티 컵 인덕션 온도조절 32,000원 배송비 3,500원" [ref=f42e2680] [cursor=pointer]:
+                            - /url: /dadodadok/products/11083383062
+                            - generic [ref=f42e2681]: 상품 바로가기
+                          - generic [ref=f42e2682]:
+                            - img "@보온 머그 워머 HWA07 티팟 차 티 컵 인덕션 온도조절" [ref=f42e2684]
+                            - button "보온 머그 워머 HWA07 티팟 차 티 컵 인덕션 온도조절 찜하기" [ref=f42e2685] [cursor=pointer]
+                          - generic [ref=f42e2690]:
+                            - paragraph [ref=f42e2691]: 보온 머그 워머 HWA07 티팟 차 티 컵 인덕션 온도조절
+                            - generic [ref=f42e2694]:
+                              - generic [ref=f42e2695]: 32,000원
+                              - generic [ref=f42e2696]:
+                                - generic [ref=f42e2700]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2701]:
+                        - generic [ref=f42e2702]:
+                          - link "토양 테이블 매트 티테이블 식탁매트 티매트 34,000원 배송비 3,500원" [ref=f42e2703] [cursor=pointer]:
+                            - /url: /dadodadok/products/11231633731
+                            - generic [ref=f42e2704]: 상품 바로가기
+                          - generic [ref=f42e2705]:
+                            - img "@토양 테이블 매트 티테이블 식탁매트 티매트" [ref=f42e2707]
+                            - button "토양 테이블 매트 티테이블 식탁매트 티매트 찜하기" [ref=f42e2708] [cursor=pointer]
+                          - generic [ref=f42e2713]:
+                            - paragraph [ref=f42e2714]: 토양 테이블 매트 티테이블 식탁매트 티매트
+                            - generic [ref=f42e2717]:
+                              - generic [ref=f42e2718]: 34,000원
+                              - generic [ref=f42e2719]:
+                                - generic [ref=f42e2723]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2724]:
+                        - generic [ref=f42e2725]:
+                          - link "보이차 보관함 OCW01 원목 티박스 케이스 차통 방습 차보관함 48,000원 배송비 3,500원" [ref=f42e2726] [cursor=pointer]:
+                            - /url: /dadodadok/products/11027857385
+                            - generic [ref=f42e2727]: 상품 바로가기
+                          - generic [ref=f42e2728]:
+                            - img "@보이차 보관함 OCW01 원목 티박스 케이스 차통 방습 차보관함" [ref=f42e2730]
+                            - button "보이차 보관함 OCW01 원목 티박스 케이스 차통 방습 차보관함 찜하기" [ref=f42e2731] [cursor=pointer]
+                          - generic [ref=f42e2736]:
+                            - paragraph [ref=f42e2737]: 보이차 보관함 OCW01 원목 티박스 케이스 차통 방습 차보관함
+                            - generic [ref=f42e2740]:
+                              - generic [ref=f42e2741]: 48,000원
+                              - generic [ref=f42e2742]:
+                                - generic [ref=f42e2746]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2747]:
+                        - generic [ref=f42e2748]:
+                          - link "차보관함 틴케이스 RCB01 중국 차통 찻잎보관 보관용기 13,000원 배송비 3,500원" [ref=f42e2749] [cursor=pointer]:
+                            - /url: /dadodadok/products/11142413013
+                            - generic [ref=f42e2750]: 상품 바로가기
+                          - generic [ref=f42e2751]:
+                            - img "@차보관함 틴케이스 RCB01 중국 차통 찻잎보관 보관용기" [ref=f42e2753]
+                            - button "차보관함 틴케이스 RCB01 중국 차통 찻잎보관 보관용기 찜하기" [ref=f42e2754] [cursor=pointer]
+                          - generic [ref=f42e2759]:
+                            - paragraph [ref=f42e2760]: 차보관함 틴케이스 RCB01 중국 차통 찻잎보관 보관용기
+                            - generic [ref=f42e2763]:
+                              - generic [ref=f42e2764]: 13,000원
+                              - generic [ref=f42e2765]:
+                                - generic [ref=f42e2769]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2770]:
+                        - generic [ref=f42e2771]:
+                          - link "빈티지 엠보 유리찻잔 유리잔 찻잔 70ml 12,000원 배송비 3,500원" [ref=f42e2772] [cursor=pointer]:
+                            - /url: /dadodadok/products/12225793146
+                            - generic [ref=f42e2773]: 상품 바로가기
+                          - generic [ref=f42e2774]:
+                            - img "@빈티지 엠보 유리찻잔 유리잔 찻잔 70ml" [ref=f42e2776]
+                            - button "빈티지 엠보 유리찻잔 유리잔 찻잔 70ml 찜하기" [ref=f42e2777] [cursor=pointer]
+                          - generic [ref=f42e2782]:
+                            - paragraph [ref=f42e2783]: 빈티지 엠보 유리찻잔 유리잔 찻잔 70ml
+                            - generic [ref=f42e2786]:
+                              - generic [ref=f42e2787]: 12,000원
+                              - generic [ref=f42e2788]:
+                                - generic [ref=f42e2792]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2793]:
+                        - generic [ref=f42e2794]:
+                          - link "도자기 차거름망 모던 FVA10 찻잎 다도 티거름망 거름망 9,700원 배송비 3,500원" [ref=f42e2795] [cursor=pointer]:
+                            - /url: /dadodadok/products/11066792030
+                            - generic [ref=f42e2796]: 상품 바로가기
+                          - generic [ref=f42e2797]:
+                            - img "@도자기 차거름망 모던 FVA10 찻잎 다도 티거름망 거름망" [ref=f42e2799]
+                            - button "도자기 차거름망 모던 FVA10 찻잎 다도 티거름망 거름망 찜하기" [ref=f42e2800] [cursor=pointer]
+                          - generic [ref=f42e2805]:
+                            - paragraph [ref=f42e2806]: 도자기 차거름망 모던 FVA10 찻잎 다도 티거름망 거름망
+                            - generic [ref=f42e2809]:
+                              - generic [ref=f42e2810]: 9,700원
+                              - generic [ref=f42e2811]:
+                                - generic [ref=f42e2815]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2816]:
+                        - generic [ref=f42e2817]:
+                          - link "탄화목 블랙 트레이 쟁반 다반 차반 30cm 소품트레이 엔틱트레이 61,000원 8% 할인 56,000원" [ref=f42e2818] [cursor=pointer]:
+                            - /url: /dadodadok/products/11705177278
+                            - generic [ref=f42e2819]: 상품 바로가기
+                          - generic [ref=f42e2820]:
+                            - img "@탄화목 블랙 트레이 쟁반 다반 차반 30cm 소품트레이 엔틱트레이" [ref=f42e2822]
+                            - button "탄화목 블랙 트레이 쟁반 다반 차반 30cm 소품트레이 엔틱트레이 찜하기" [ref=f42e2823] [cursor=pointer]
+                          - generic [ref=f42e2828]:
+                            - paragraph [ref=f42e2829]: 탄화목 블랙 트레이 쟁반 다반 차반 30cm 소품트레이 엔틱트레이
+                            - generic [ref=f42e2831]:
+                              - deletion [ref=f42e2832]: 61,000원
+                              - generic [ref=f42e2834]:
+                                - generic [ref=f42e2835]:
+                                  - text: 8%
+                                  - generic [ref=f42e2836]: 할인
+                                - generic [ref=f42e2837]: 56,000원
+                      - listitem [ref=f42e2838]:
+                        - generic [ref=f42e2839]:
+                          - link "흑유 매화 찻잔받침 빈티지 잔받침 도자기 티코스터 9,000원 배송비 3,500원" [ref=f42e2840] [cursor=pointer]:
+                            - /url: /dadodadok/products/11927830945
+                            - generic [ref=f42e2841]: 상품 바로가기
+                          - generic [ref=f42e2842]:
+                            - img "@흑유 매화 찻잔받침 빈티지 잔받침 도자기 티코스터" [ref=f42e2844]
+                            - button "흑유 매화 찻잔받침 빈티지 잔받침 도자기 티코스터 찜하기" [ref=f42e2845] [cursor=pointer]
+                          - generic [ref=f42e2850]:
+                            - paragraph [ref=f42e2851]: 흑유 매화 찻잔받침 빈티지 잔받침 도자기 티코스터
+                            - generic [ref=f42e2854]:
+                              - generic [ref=f42e2855]: 9,000원
+                              - generic [ref=f42e2856]:
+                                - generic [ref=f42e2860]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2861]:
+                        - generic [ref=f42e2862]:
+                          - link "옥빛 용단호 유리 티팟 150ml 주전자 티포트 내열 다관 GWA24 23,000원 배송비 3,500원" [ref=f42e2863] [cursor=pointer]:
+                            - /url: /dadodadok/products/11127030422
+                            - generic [ref=f42e2864]: 상품 바로가기
+                          - generic [ref=f42e2865]:
+                            - img "@옥빛 용단호 유리 티팟 150ml 주전자 티포트 내열 다관 GWA24" [ref=f42e2867]
+                            - button "옥빛 용단호 유리 티팟 150ml 주전자 티포트 내열 다관 GWA24 찜하기" [ref=f42e2868] [cursor=pointer]
+                          - generic [ref=f42e2873]:
+                            - paragraph [ref=f42e2874]: 옥빛 용단호 유리 티팟 150ml 주전자 티포트 내열 다관 GWA24
+                            - generic [ref=f42e2877]:
+                              - generic [ref=f42e2878]: 23,000원
+                              - generic [ref=f42e2879]:
+                                - generic [ref=f42e2883]: 배송비
+                                - text: 3,500원
+                      - listitem [ref=f42e2884]:
+                        - generic [ref=f42e2885]:
+                          - link "수제패치 구름 티매트 인테리어 매트 티코스터 21,000원 배송비 3,500원" [ref=f42e2886] [cursor=pointer]:
+                            - /url: /dadodadok/products/11231634961
+                            - generic [ref=f42e2887]: 상품 바로가기
+                          - generic [ref=f42e2888]:
+                            - img "@수제패치 구름 티매트 인테리어 매트 티코스터" [ref=f42e2890]
+                            - button "수제패치 구름 티매트 인테리어 매트 티코스터 찜하기" [ref=f42e2891] [cursor=pointer]
+                          - generic [ref=f42e2896]:
+                            - paragraph [ref=f42e2897]: 수제패치 구름 티매트 인테리어 매트 티코스터
+                            - generic [ref=f42e2900]:
+                              - generic [ref=f42e2901]: 21,000원
+                              - generic [ref=f42e2902]:
+                                - generic [ref=f42e2906]: 배송비
+                                - text: 3,500원
+                  - generic [ref=f42e2909]:
+                    - strong [ref=f42e2911]: 다기/주기 인기상품
+                    - list [ref=f42e2917]:
+                      - listitem [ref=f42e2918]
+                      - listitem [ref=f42e2935]
+                      - listitem [ref=f42e2952]
+                      - listitem [ref=f42e2969]
+                  - generic [ref=f42e2988]:
+                    - generic [ref=f42e2989]:
+                      - strong [ref=f42e2990]: 다도다독 인기상품
+                      - link "전체보기" [ref=f42e2991] [cursor=pointer]:
+                        - /url: /dadodadok/best
+                    - list [ref=f42e2999]:
+                      - listitem [ref=f42e3000]
+                      - listitem [ref=f42e3017]
+                      - listitem [ref=f42e3034]
+                      - listitem [ref=f42e3051]
+                  - generic [ref=f42e3070]:
+                    - list [ref=f42e3072]:
+                      - listitem [ref=f42e3073]
+                      - listitem [ref=f42e3075]
+                      - listitem [ref=f42e3077]
+                      - listitem [ref=f42e3079]
+                    - tabpanel [ref=f42e3081]:
+                      - list [ref=f42e3086]:
+                        - listitem [ref=f42e3087]
+                        - listitem [ref=f42e3104]
+                        - listitem [ref=f42e3121]
+                        - listitem [ref=f42e3138]
+                - generic [ref=f42e3157]:
+                  - list [ref=f42e3158]:
+                    - listitem [ref=f42e3159]:
+                      - button "구매 추가정보" [ref=f42e3160] [cursor=pointer]
+                    - listitem [ref=f42e3163]:
+                      - button "상품정보 제공고시" [ref=f42e3164] [cursor=pointer]
+                    - listitem [ref=f42e3167]:
+                      - button "반품/교환안내" [ref=f42e3168] [cursor=pointer]
+                    - listitem [ref=f42e3171]:
+                      - button "판매자정보" [ref=f42e3172] [cursor=pointer]
+                    - listitem [ref=f42e3175]:
+                      - button "주의사항" [ref=f42e3176] [cursor=pointer]
+                    - listitem [ref=f42e3179]:
+                      - link "쇼핑 안전거래 TIP" [ref=f42e3180] [cursor=pointer]:
+                        - /url: https://safety.smartstore.naver.com/main/rules/safety/tip
+                    - listitem [ref=f42e3183]:
+                      - button "상품정보 신고" [ref=f42e3184] [cursor=pointer]
+                  - generic [ref=f42e3187]:
+                    - generic [ref=f42e3188]: 네이버파이낸셜
+                    - generic [ref=f42e3189]: "결제대금예치업 등록번호 : 02-006-00056"
+                    - paragraph [ref=f42e3190]: 네이버파이낸셜㈜은 전자금융거래법에 따라 결제대금예치업을 운영할 수 있는 전자금융업자로 금융위원회로 등록되었으며, 본 판매자는 구매금액, 결제수단에 관계없이 모든 거래에 대해 자동적으로 네이버파이낸셜㈜이 제공하는 구매안전서비스를 적용하고 있습니다.
+                    - button "서비스 가입사실 확인" [ref=f42e3191] [cursor=pointer]
+                    - button "도움말" [ref=f42e3193] [cursor=pointer]
+                  - generic [ref=f42e3198]:
+                    - generic [ref=f42e3199]:
+                      - term [ref=f42e3200]: 상호명
+                      - definition [ref=f42e3201]: 박스베이 (간이 사업자)
+                    - generic [ref=f42e3202]:
+                      - term [ref=f42e3203]: 대표자
+                      - definition [ref=f42e3204]:
+                        - text: 김례진
+                        - button "판매자 상세정보 확인" [ref=f42e3205] [cursor=pointer]
+            - generic [ref=f42e3209]:
+              - generic [ref=f42e3210]:
+                - button "공유하기" [ref=f42e3217] [cursor=pointer]
+                - button [ref=f42e3220] [cursor=pointer]:
+                  - img "맨위로" [ref=f42e3221]
+              - generic [ref=f42e3223]:
+                - generic [ref=f42e3224]: 상품 구매 옵션
+                - generic [ref=f42e3225]:
+                  - generic [ref=f42e3227]:
+                    - generic [ref=f42e3229]:
+                      - strong [ref=f42e3230]: 수량 선택
+                      - generic [ref=f42e3232]:
+                        - button "수량감소" [disabled] [ref=f42e3233] [cursor=pointer]
+                        - spinbutton "수량" [ref=f42e3234]: "1"
+                        - button "수량증가" [ref=f42e3235] [cursor=pointer]
+                    - generic [ref=f42e3236]:
+                      - generic [ref=f42e3237]:
+                        - text: 총
+                        - generic [ref=f42e3238]:
+                          - emphasis [ref=f42e3239]: "1"
+                          - text: 개
+                      - generic [ref=f42e3240]:
+                        - generic [ref=f42e3241]:
+                          - button "총 금액 15,000원" [ref=f42e3242] [cursor=pointer]:
+                            - text: 총 금액
+                            - generic [ref=f42e3243]: 15,000원
+                          - button "도움말" [ref=f42e3245] [cursor=pointer]
+                        - generic [aria-hidden] [ref=f42e3250]:
+                          - emphasis [ref=f42e3251]: 15,000
+                          - text: 원
+                  - generic [ref=f42e3252]:
+                    - generic [ref=f42e3253]:
+                      - strong [ref=f42e3254]: 구매정보
+                      - generic [ref=f42e3255]: 최대구매 99개(1회)
+                    - generic [ref=f42e3257]:
+                      - strong [ref=f42e3258]: 배송정보
+                      - generic [ref=f42e3259]:
+                        - generic [ref=f42e3260]: 택배
+                        - generic [ref=f42e3261]: 3,500원 주문 시 결제
+                        - generic [ref=f42e3262]: 50,000원 이상 구매 시 무료 / 제주 추가 3,500원, 제주 외 도서지역 추가 4,000원
+              - generic [ref=f42e3263]:
+                - button "구매하기" [ref=f42e3265] [cursor=pointer]
+                - generic [ref=f42e3268]:
+                  - button "찜 하기" [ref=f42e3269] [cursor=pointer]:
+                    - text: 찜
+                    - generic [ref=f42e3272]: 하기
+                  - button "톡톡문의" [ref=f42e3273] [cursor=pointer]
+                  - button "장바구니" [ref=f42e3277] [cursor=pointer]
+      - generic [ref=f42e3285]:
+        - heading "하위영역" [level=2] [ref=f42e3286]
+        - generic [ref=f42e3287]:
+          - link "네이버 이용약관" [ref=f42e3288] [cursor=pointer]:
+            - /url: http://www.naver.com/rules/service.html
+          - link "네이버페이 이용약관" [ref=f42e3289] [cursor=pointer]:
+            - /url: https://new-m.pay.naver.com/member/terms-policy/npay-usage
+          - link [ref=f42e3290] [cursor=pointer]:
+            - /url: http://www.naver.com/rules/privacy.html
+            - strong [ref=f42e3291]: 개인정보처리방침
+          - link "법적고지 및 주의사항" [ref=f42e3292] [cursor=pointer]:
+            - /url: https://shopping.naver.com/help/legal-basis
+          - link "입점안내" [ref=f42e3293] [cursor=pointer]:
+            - /url: http://join.shopping.naver.com/index.nhn
+          - link "쇼핑윈도 노출안내" [ref=f42e3294] [cursor=pointer]:
+            - /url: https://sell.smartstore.naver.com/#/home/about?tipModal=WINDOW_EXPOSURE&tap=smartstore
+          - link "쇼핑파트너센터" [ref=f42e3295] [cursor=pointer]:
+            - /url: https://center.shopping.naver.com/
+          - link "스마트스토어센터" [ref=f42e3296] [cursor=pointer]:
+            - /url: https://sell.storefarm.naver.com/#/home/about
+          - link "안전거래센터" [ref=f42e3297] [cursor=pointer]:
+            - /url: https://safety.shopping.naver.com
+          - link "전자금융거래약관" [ref=f42e3298] [cursor=pointer]:
+            - /url: https://new-m.pay.naver.com/member/terms-policy/finance
+          - link "쇼핑&페이 고객센터" [ref=f42e3299] [cursor=pointer]:
+            - /url: https://help.pay.naver.com/
+        - paragraph [ref=f42e3300]: 네이버㈜는 통신판매중개자이며, 통신판매의 당사자가 아닙니다. 상품, 상품정보, 거래에 관한 의무와 책임은 판매자에게 있습니다.
+        - generic [ref=f42e3301]:
+          - generic [ref=f42e3302]:
+            - generic [ref=f42e3303]: "사업자등록번호 : 220-81-62517"
+            - generic [ref=f42e3304]: "통신판매업신고번호 : 제2006-경기성남-0692호"
+            - generic [ref=f42e3305]: "대표이사 : 최수연"
+            - link "사업자등록정보확인" [ref=f42e3306] [cursor=pointer]:
+              - /url: http://www.ftc.go.kr/bizCommPop.do?wrkr_no=2208162517
+            - generic [ref=f42e3307]:
+              - text: "이메일 :"
+              - link "helpcustomer@naver.com" [ref=f42e3308] [cursor=pointer]:
+                - /url: mailto:helpcustomer@naver.com
+          - generic [ref=f42e3309]:
+            - generic [ref=f42e3310]: "주소 : 경기도 성남시 분당구 정자일로 95, NAVER 1784, 13561"
+            - link [ref=f42e3312] [cursor=pointer]:
+              - /url: https://help.pay.naver.com/mail/form.help
+              - strong [ref=f42e3313]: 1:1 문의 바로가기
+            - generic [ref=f42e3314]: "호스팅 서비스 제공 : NAVER Cloud"
+          - generic [ref=f42e3315]:
+            - generic [ref=f42e3316]: 쇼핑&페이 구매자 고객센터 1588-3819
+            - generic [ref=f42e3317]: 네이버 대표전화 1588-3820
+            - generic [ref=f42e3318]: 네이버플러스 멤버십 전용 고객센터 1599-1399
+        - paragraph [ref=f42e3319]:
+          - link "NAVER" [ref=f42e3320] [cursor=pointer]:
+            - /url: http://www.naver.com
+          - text: Copyright ©
+          - strong [ref=f42e3322]:
+            - link "NAVER Corp." [ref=f42e3323] [cursor=pointer]:
+              - /url: http://www.navercorp.com/ko/index.nhn
+          - text: All Rights Reserved.

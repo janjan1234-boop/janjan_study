@@ -1,0 +1,42 @@
+- generic [ref=f120e3]:
+  - link "본문으로 바로가기" [ref=f120e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f120e6]:
+    - generic [ref=f120e7]:
+      - generic [ref=f120e9]:
+        - generic [ref=f120e11]:
+          - link "네이버" [ref=f120e12] [cursor=pointer]:
+            - /url: https://www.naver.com
+          - link "네이버플러스 스토어 홈" [ref=f120e16] [cursor=pointer]:
+            - /url: https://shopping.naver.com/ns/home?
+        - generic [ref=f120e22]:
+          - link [ref=f120e23] [cursor=pointer]:
+            - /url: /thesmallroom1984/profile
+            - paragraph [ref=f120e26]: 日日是好日
+          - generic [ref=f120e27]:
+            - button "관심고객수 0" [ref=f120e28] [cursor=pointer]
+            - button "도움말" [ref=f120e30] [cursor=pointer]
+          - button "검색어를 입력해주세요" [ref=f120e35] [cursor=pointer]
+      - generic [ref=f120e38]:
+        - generic [ref=f120e39]:
+          - button "알림받기" [ref=f120e44] [cursor=pointer]
+          - heading [level=1] [ref=f120e50]:
+            - link [ref=f120e54] [cursor=pointer]:
+              - /url: /thesmallroom1984
+              - img "더스몰룸1984" [ref=f120e55]
+        - generic [ref=f120e60]:
+          - list
+          - list [ref=f120e61]:
+            - listitem [ref=f120e62]:
+              - link "판매자 정보" [ref=f120e63] [cursor=pointer]:
+                - /url: /thesmallroom1984/profile?cp=1
+    - generic [ref=f120e68]:
+      - generic "상품 이미지" [ref=f120e72]: 대표이미지
+      - generic [ref=f120e79]:
+        - heading "도자기 버드 차총 다우 찻자리 친구 티타임 벗" [level=3] [ref=f120e80]
+        - generic [ref=f120e82]:
+          - generic [ref=f120e83]:
+            - generic [ref=f120e86]: 평점
+            - generic [ref=f120e87]: "4.91"
+          - link "34건 리뷰" [ref=f120e89] [cursor=pointer]:
+            - /url: "#"

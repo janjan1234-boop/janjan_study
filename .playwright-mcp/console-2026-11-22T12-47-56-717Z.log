@@ -1,0 +1,2 @@
+[     527ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsmartstore.naver.com%2Fdadodadok%2Fproducts%2F11061822347:1
+[     541ms] [WARNING] setPolicyInfo {versionInfo: Object, sdkInfo: Object, sentryInfo: Object} @ https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js:1

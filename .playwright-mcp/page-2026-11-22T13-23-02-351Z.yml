@@ -1,0 +1,66 @@
+- generic [ref=f39e2]:
+  - link "본문 바로가기" [ref=f39e3] [cursor=pointer]:
+    - /url: "#content"
+  - main [ref=f39e5]:
+    - banner [ref=f39e6]:
+      - link [ref=f39e9] [cursor=pointer]:
+        - /url: https://www.naver.com
+        - heading "네이버" [level=1] [ref=f39e10]
+    - generic [ref=f39e12]:
+      - generic [ref=f39e13]:
+        - list [ref=f39e14]:
+          - listitem [ref=f39e15]:
+            - generic [ref=f39e16]:
+              - generic: 아이디 또는 전화번호
+              - textbox "아이디 또는 전화번호" [active] [ref=f39e18]:
+                - /placeholder: ""
+          - listitem [ref=f39e20]:
+            - generic [ref=f39e21]:
+              - generic: 비밀번호
+              - textbox "비밀번호" [ref=f39e23]
+        - generic [ref=f39e26]:
+          - generic [ref=f39e27]:
+            - checkbox "로그인 상태 유지" [ref=f39e28] [cursor=pointer]
+            - generic [ref=f39e29] [cursor=pointer]: 로그인 상태 유지
+          - generic [ref=f39e30]:
+            - generic [ref=f39e31]: IP 보안
+            - generic [ref=f39e32]:
+              - switch "IP 보안" [checked]
+              - generic [ref=f39e33] [cursor=pointer]: "ON"
+        - list [ref=f39e36]:
+          - listitem [ref=f39e37]:
+            - button "패스키 로그인" [ref=f39e38] [cursor=pointer]
+          - listitem [ref=f39e40]:
+            - button "로그인" [ref=f39e41] [cursor=pointer]
+        - list [ref=f39e44]:
+          - listitem [ref=f39e45]:
+            - link "QR 코드 로그인" [ref=f39e46] [cursor=pointer]:
+              - /url: "#none"
+          - listitem [ref=f39e48]:
+            - link "일회용 번호 로그인" [ref=f39e49] [cursor=pointer]:
+              - /url: "#none"
+      - list [ref=f39e52]:
+        - listitem [ref=f39e53]:
+          - link "아이디 찾기" [ref=f39e54] [cursor=pointer]:
+            - /url: https://nid.naver.com/user2/api/route?m=routeIdInquiry&lang=ko_KR
+        - listitem [ref=f39e56]:
+          - link "비밀번호 찾기" [ref=f39e57] [cursor=pointer]:
+            - /url: https://nid.naver.com/user2/api/route?m=routePwInquiry&lang=ko_KR
+        - listitem [ref=f39e59]:
+          - link "회원가입" [ref=f39e60] [cursor=pointer]:
+            - /url: https://nid.naver.com/account/signup?lang=ko_KR&realname=N&rurl=https%3A%2F%2Fsmartstore.naver.com%2Fdadodadok%2Fproducts%2F11061565463%3Fn_ad%3Dnad-a001-02-000000352082106%26n_ad_group%3Dgrp-a001-02-000000047719073%26n_ad_group_type%3D2%26n_campaign_type%3D2%26n_mall_id%3Dncp_1opmgb_01%26n_mall_pid%3D11061565463%26n_match%3D3%26n_media%3D684926%26n_query%3D%25EC%25B0%25A8%25EC%25B4%259D%26n_rank%3D3
+      - generic:
+        - generic:
+          - generic:
+            - iframe
+    - generic [ref=f39e62]:
+      - contentinfo [ref=f39e63]:
+        - listitem [ref=f39e64]:
+          - link "스마트봇 상담" [ref=f39e65] [cursor=pointer]:
+            - /url: https://nca.naver.com/chat/account/view
+        - listitem [ref=f39e66]:
+          - link "고객센터" [ref=f39e67] [cursor=pointer]:
+            - /url: https://help.naver.com/service/5640/category/bookmark?lang=ko
+        - listitem [ref=f39e68]:
+          - listbox "언어선택" [ref=f39e69] [cursor=pointer]: 한국어
+      - generic [ref=f39e70]: © NAVER Corp.

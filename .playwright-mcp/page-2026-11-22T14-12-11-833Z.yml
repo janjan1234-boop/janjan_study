@@ -1,0 +1,66 @@
+- generic [ref=f129e2]:
+  - link "본문 바로가기" [ref=f129e3] [cursor=pointer]:
+    - /url: "#content"
+  - main [ref=f129e5]:
+    - banner [ref=f129e6]:
+      - link [ref=f129e9] [cursor=pointer]:
+        - /url: https://www.naver.com
+        - heading "네이버" [level=1] [ref=f129e10]
+    - generic [ref=f129e12]:
+      - generic [ref=f129e13]:
+        - list [ref=f129e14]:
+          - listitem [ref=f129e15]:
+            - generic [ref=f129e16]:
+              - generic: 아이디 또는 전화번호
+              - textbox "아이디 또는 전화번호" [active] [ref=f129e18]:
+                - /placeholder: ""
+          - listitem [ref=f129e20]:
+            - generic [ref=f129e21]:
+              - generic: 비밀번호
+              - textbox "비밀번호" [ref=f129e23]
+        - generic [ref=f129e26]:
+          - generic [ref=f129e27]:
+            - checkbox "로그인 상태 유지" [ref=f129e28] [cursor=pointer]
+            - generic [ref=f129e29] [cursor=pointer]: 로그인 상태 유지
+          - generic [ref=f129e30]:
+            - generic [ref=f129e31]: IP 보안
+            - generic [ref=f129e32]:
+              - switch "IP 보안" [checked]
+              - generic [ref=f129e33] [cursor=pointer]: "ON"
+        - list [ref=f129e36]:
+          - listitem [ref=f129e37]:
+            - button "패스키 로그인" [ref=f129e38] [cursor=pointer]
+          - listitem [ref=f129e40]:
+            - button "로그인" [ref=f129e41] [cursor=pointer]
+        - list [ref=f129e44]:
+          - listitem [ref=f129e45]:
+            - link "QR 코드 로그인" [ref=f129e46] [cursor=pointer]:
+              - /url: "#none"
+          - listitem [ref=f129e48]:
+            - link "일회용 번호 로그인" [ref=f129e49] [cursor=pointer]:
+              - /url: "#none"
+      - list [ref=f129e52]:
+        - listitem [ref=f129e53]:
+          - link "아이디 찾기" [ref=f129e54] [cursor=pointer]:
+            - /url: https://nid.naver.com/user2/api/route?m=routeIdInquiry&lang=ko_KR
+        - listitem [ref=f129e56]:
+          - link "비밀번호 찾기" [ref=f129e57] [cursor=pointer]:
+            - /url: https://nid.naver.com/user2/api/route?m=routePwInquiry&lang=ko_KR
+        - listitem [ref=f129e59]:
+          - link "회원가입" [ref=f129e60] [cursor=pointer]:
+            - /url: https://nid.naver.com/account/signup?lang=ko_KR&realname=N&rurl=https%3A%2F%2Fsmartstore.naver.com%2Fdadokorea%2Fproducts%2F6060461534%3Fnl-query%3D%25EC%25B0%25A8%25EC%25B4%259D%26nl-au%3Ded23f66737644472a7c85f44af92b506
+      - iframe [ref=f129e65]:
+        - link [ref=f131e4] [cursor=pointer]:
+          - /url: https://tivan.naver.com/gc/101/PHMHvilyQ5vcxfjKGSlUw7O7XmFzB6Ybl4c0T4dA2qNTvn6nxtDUyDQgLTZLRT8HUbFrJP1pu7cRwGK2Tj9ISkf6RG8l1SoZ-hebljWqo4HGDKEqfIV_6g6GOVC_lETJvzzSnIBX_mOV_KJOBrOH4hJIDK_fMORyvtcgio5-H4pIKi4a4L8OXFgk90qTPLGlejZFNHLX8yuLSIaGFJHriqiHN1GaPkYbZICTBDPZI7bv4fRhVnJCj1GTJmgpQGgBCH7OLjp2umHbYq4vI_SVyqxH9_nUp4rWrDALKvF0BvwrF5dk3EaevZ3aX_1f1Ot4Sko6nKay-PnQAeeydFeh3aLBtPQW3aVZ-j4gGqKaWwZvR265HodXbMw85HJ14fgDNVCyTc1kaL_ZzN6K_sO4isNwO-0OtkCzYVC1mA5wY8FfjXaXFn10yycLfAD43lL9JhD2pQVijX8MddeE4L8T5p3Od_e6n-T9_sJJnNeE27ggNdLQvsHfqNlz02oQ6JORyMymaXQW4Nol4-dHvZ7BVcY3N7nNjLdmgOSqCA6cAnjZ0FNnGTTybCWFltPn-JviiNWuw9EiBWcxNWOMUCixFrgONTNJPRxEmnMCHxeq0ayHaTN7rMXeqtbk-y37q-r3U_OaNwoKliuLfPhnoxn009wQKlvUaggCNH-ZiB7Vc1z8YE4pDgEZ92gi7Blh43gWXNs1JgZb_3HsS9txXP9gppw-q2ihvAOppcAqOK2seO6-4VnBAd-jR4J6o8HSaBnw_-JMhFnaYL5BxukPFVuvFFdjUgXe2HoOAgrkkqyLnckxA9LyUanjDX-uMNCTjFPCP8Zp4-G524nNs_c8P6kJdgtniME_kngpyBw_p2vi6umHJtraff_lhlYbRzmz9eBOlavW0nVfr3M7Jaj14_qWV3AusgWDMo96l2COaHFPsgaL4svGc6sSIJqrnfuJmFH1L3Q-FkW8eQoiZvAxK4ragJBSCyR5kZOtAGckRLP_CyBOFQAn-n-u2JY1MG8dZgggensK3xvTxWng8ExPEZsTJ9E_N-cCP8xhQf5TuBZgjvcacpSY6Q1SN2xzFx4Y6tDSt3eGZ-u2IpIFhj9hbRsrqA/NE
+          - img "N+멤버십 멤버십데이 11.23 특별한 하루를 기대해요! 할인도 적립도 더 알차게 준비 완료" [ref=f131e5]
+    - generic [ref=f129e66]:
+      - contentinfo [ref=f129e67]:
+        - listitem [ref=f129e68]:
+          - link "스마트봇 상담" [ref=f129e69] [cursor=pointer]:
+            - /url: https://nca.naver.com/chat/account/view
+        - listitem [ref=f129e70]:
+          - link "고객센터" [ref=f129e71] [cursor=pointer]:
+            - /url: https://help.naver.com/service/5640/category/bookmark?lang=ko
+        - listitem [ref=f129e72]:
+          - listbox "언어선택" [ref=f129e73] [cursor=pointer]: 한국어
+      - generic [ref=f129e74]: © NAVER Corp.
